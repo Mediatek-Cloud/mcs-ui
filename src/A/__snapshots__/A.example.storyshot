@@ -18,25 +18,67 @@ exports[`Storyshots A API 1`] = `
   color: rgb(0,144,198);
 }
 
-<a
-  className="c0"
+<A
   color="primary"
 >
-  Link
-</a>
+  <StyledComponent
+    color="primary"
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bdVaJa",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  color: ",
+            [Function],
+            ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+            [Function],
+            ";
+  }
+  &:active {
+    color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "defaultProps": Object {
+          "color": "primary",
+        },
+        "displayName": "A",
+        "propTypes": Object {
+          "color": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "sc-bdVaJa",
+        "target": "a",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <a
+      className="c0"
+      color="primary"
+    >
+      Link
+    </a>
+  </StyledComponent>
+</A>
 `;
 
 exports[`Storyshots A Nested children with Heading 1`] = `
-.c0 {
-  margin: 0;
-  font-weight: normal;
-  font-size: 2.46rem;
-}
-
-.c1 {
-  font-weight: bold;
-}
-
 .c2 {
   color: #00A1DE;
   -webkit-transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
@@ -54,21 +96,162 @@ exports[`Storyshots A Nested children with Heading 1`] = `
   color: rgb(0,144,198);
 }
 
-<h1
-  className="c0"
+.c1 {
+  font-weight: bold;
+}
+
+.c0 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 2.46rem;
+}
+
+<Heading
+  level={1}
 >
-  Heading Level 1 
-  <b
-    className="c1"
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-htpNat",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+            [Function],
+            ";
+  ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "defaultProps": Object {
+          "level": 1,
+        },
+        "displayName": "Heading",
+        "propTypes": Object {
+          "color": [Function],
+          "level": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "sc-htpNat",
+        "target": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+        Symbol(Symbol.hasInstance): [Function],
+      }
+    }
+    forwardedRef={null}
+    level={1}
   >
-    <a
-      className="c2"
-      color="primary"
+    <BaseComponent
+      className="c0"
+      level={1}
     >
-      Link
-    </a>
-  </b>
-</h1>
+      <h1
+        className="c0"
+      >
+        Heading Level 1 
+        <B>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bwzfXH",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  font-weight: bold;
+",
+                  ],
+                },
+                "displayName": "B",
+                "render": [Function],
+                "styledComponentId": "sc-bwzfXH",
+                "target": "b",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <b
+              className="c1"
+            >
+              <A
+                color="primary"
+              >
+                <StyledComponent
+                  color="primary"
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-bdVaJa",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  color: ",
+                          [Function],
+                          ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+                          [Function],
+                          ";
+  }
+  &:active {
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "color": "primary",
+                      },
+                      "displayName": "A",
+                      "propTypes": Object {
+                        "color": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "sc-bdVaJa",
+                      "target": "a",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <a
+                    className="c2"
+                    color="primary"
+                  >
+                    Link
+                  </a>
+                </StyledComponent>
+              </A>
+            </b>
+          </StyledComponent>
+        </B>
+      </h1>
+    </BaseComponent>
+  </StyledComponent>
+</Heading>
 `;
 
 exports[`Storyshots A With color props 1`] = `
@@ -226,75 +409,605 @@ exports[`Storyshots A With color props 1`] = `
 }
 
 <div>
-  <a
-    className="c0"
+  <A
     color="black"
+    key="black"
   >
-    A link 
-    black
-  </a>
-  <a
-    className="c1"
+    <StyledComponent
+      color="black"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c0"
+        color="black"
+      >
+        A link 
+        black
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="grayDark"
+    key="grayDark"
   >
-    A link 
-    grayDark
-  </a>
-  <a
-    className="c2"
+    <StyledComponent
+      color="grayDark"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c1"
+        color="grayDark"
+      >
+        A link 
+        grayDark
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="grayBase"
+    key="grayBase"
   >
-    A link 
-    grayBase
-  </a>
-  <a
-    className="c3"
+    <StyledComponent
+      color="grayBase"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c2"
+        color="grayBase"
+      >
+        A link 
+        grayBase
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="grayLight"
+    key="grayLight"
   >
-    A link 
-    grayLight
-  </a>
-  <a
-    className="c4"
+    <StyledComponent
+      color="grayLight"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c3"
+        color="grayLight"
+      >
+        A link 
+        grayLight
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="white"
+    key="white"
   >
-    A link 
-    white
-  </a>
-  <a
-    className="c3"
+    <StyledComponent
+      color="white"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c4"
+        color="white"
+      >
+        A link 
+        white
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="default"
+    key="default"
   >
-    A link 
-    default
-  </a>
-  <a
-    className="c5"
+    <StyledComponent
+      color="default"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c3"
+        color="default"
+      >
+        A link 
+        default
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="primary"
+    key="primary"
   >
-    A link 
-    primary
-  </a>
-  <a
-    className="c6"
+    <StyledComponent
+      color="primary"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c5"
+        color="primary"
+      >
+        A link 
+        primary
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="success"
+    key="success"
   >
-    A link 
-    success
-  </a>
-  <a
-    className="c7"
+    <StyledComponent
+      color="success"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c6"
+        color="success"
+      >
+        A link 
+        success
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="error"
+    key="error"
   >
-    A link 
-    error
-  </a>
-  <a
-    className="c8"
+    <StyledComponent
+      color="error"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c7"
+        color="error"
+      >
+        A link 
+        error
+      </a>
+    </StyledComponent>
+  </A>
+  <A
     color="warning"
+    key="warning"
   >
-    A link 
-    warning
-  </a>
+    <StyledComponent
+      color="warning"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "a",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c8"
+        color="warning"
+      >
+        A link 
+        warning
+      </a>
+    </StyledComponent>
+  </A>
 </div>
 `;

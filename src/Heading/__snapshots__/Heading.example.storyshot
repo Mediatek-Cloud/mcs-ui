@@ -7,11 +7,62 @@ exports[`Storyshots Heading API 1`] = `
   font-size: 2.46rem;
 }
 
-<h1
-  className="c0"
+<Heading
+  level={1}
 >
-  Level 1
-</h1>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-htpNat",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+            [Function],
+            ";
+  ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "defaultProps": Object {
+          "level": 1,
+        },
+        "displayName": "Heading",
+        "propTypes": Object {
+          "color": [Function],
+          "level": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "sc-htpNat",
+        "target": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+        Symbol(Symbol.hasInstance): [Function],
+      }
+    }
+    forwardedRef={null}
+    level={1}
+  >
+    <BaseComponent
+      className="c0"
+      level={1}
+    >
+      <h1
+        className="c0"
+      >
+        Level 1
+      </h1>
+    </BaseComponent>
+  </StyledComponent>
+</Heading>
 `;
 
 exports[`Storyshots Heading With color props 1`] = `
@@ -79,76 +130,626 @@ exports[`Storyshots Heading With color props 1`] = `
 }
 
 <div>
-  <h2
-    className="c0"
+  <Heading
     color="black"
+    key="black"
+    level={2}
   >
-    Level 2 
-    black
-  </h2>
-  <h2
-    className="c1"
+    <StyledComponent
+      color="black"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c0"
+        color="black"
+        level={2}
+      >
+        <h2
+          className="c0"
+          color="black"
+        >
+          Level 2 
+          black
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="grayDark"
+    key="grayDark"
+    level={2}
   >
-    Level 2 
-    grayDark
-  </h2>
-  <h2
-    className="c2"
+    <StyledComponent
+      color="grayDark"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c1"
+        color="grayDark"
+        level={2}
+      >
+        <h2
+          className="c1"
+          color="grayDark"
+        >
+          Level 2 
+          grayDark
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="grayBase"
+    key="grayBase"
+    level={2}
   >
-    Level 2 
-    grayBase
-  </h2>
-  <h2
-    className="c3"
+    <StyledComponent
+      color="grayBase"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c2"
+        color="grayBase"
+        level={2}
+      >
+        <h2
+          className="c2"
+          color="grayBase"
+        >
+          Level 2 
+          grayBase
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="grayLight"
+    key="grayLight"
+    level={2}
   >
-    Level 2 
-    grayLight
-  </h2>
-  <h2
-    className="c4"
+    <StyledComponent
+      color="grayLight"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c3"
+        color="grayLight"
+        level={2}
+      >
+        <h2
+          className="c3"
+          color="grayLight"
+        >
+          Level 2 
+          grayLight
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="white"
+    key="white"
+    level={2}
   >
-    Level 2 
-    white
-  </h2>
-  <h2
-    className="c3"
+    <StyledComponent
+      color="white"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c4"
+        color="white"
+        level={2}
+      >
+        <h2
+          className="c4"
+          color="white"
+        >
+          Level 2 
+          white
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="default"
+    key="default"
+    level={2}
   >
-    Level 2 
-    default
-  </h2>
-  <h2
-    className="c5"
+    <StyledComponent
+      color="default"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c3"
+        color="default"
+        level={2}
+      >
+        <h2
+          className="c3"
+          color="default"
+        >
+          Level 2 
+          default
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="primary"
+    key="primary"
+    level={2}
   >
-    Level 2 
-    primary
-  </h2>
-  <h2
-    className="c6"
+    <StyledComponent
+      color="primary"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c5"
+        color="primary"
+        level={2}
+      >
+        <h2
+          className="c5"
+          color="primary"
+        >
+          Level 2 
+          primary
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="success"
+    key="success"
+    level={2}
   >
-    Level 2 
-    success
-  </h2>
-  <h2
-    className="c7"
+    <StyledComponent
+      color="success"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c6"
+        color="success"
+        level={2}
+      >
+        <h2
+          className="c6"
+          color="success"
+        >
+          Level 2 
+          success
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="error"
+    key="error"
+    level={2}
   >
-    Level 2 
-    error
-  </h2>
-  <h2
-    className="c8"
+    <StyledComponent
+      color="error"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c7"
+        color="error"
+        level={2}
+      >
+        <h2
+          className="c7"
+          color="error"
+        >
+          Level 2 
+          error
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
     color="warning"
+    key="warning"
+    level={2}
   >
-    Level 2 
-    warning
-  </h2>
+    <StyledComponent
+      color="warning"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c8",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c8"
+        color="warning"
+        level={2}
+      >
+        <h2
+          className="c8"
+          color="warning"
+        >
+          Level 2 
+          warning
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
 </div>
 `;
 
@@ -184,89 +785,401 @@ exports[`Storyshots Heading With level props 1`] = `
 }
 
 <div>
-  <h1
-    className="c0"
+  <Heading
+    key="1"
+    level={1}
   >
-    h
-    1
-     - Level 
-    1
-       (
-    2.46rem
-     =
-     
-    31.98px
-    )
-  </h1>
-  <h2
-    className="c1"
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={1}
+    >
+      <BaseComponent
+        className="c0"
+        level={1}
+      >
+        <h1
+          className="c0"
+        >
+          h
+          1
+           - Level 
+          1
+             (
+          2.46rem
+           =
+           
+          31.98px
+          )
+        </h1>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
+    key="2"
+    level={2}
   >
-    h
-    2
-     - Level 
-    2
-       (
-    1.69rem
-     =
-     
-    21.97px
-    )
-  </h2>
-  <h3
-    className="c2"
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={2}
+    >
+      <BaseComponent
+        className="c1"
+        level={2}
+      >
+        <h2
+          className="c1"
+        >
+          h
+          2
+           - Level 
+          2
+             (
+          1.69rem
+           =
+           
+          21.97px
+          )
+        </h2>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
+    key="3"
+    level={3}
   >
-    h
-    3
-     - Level 
-    3
-       (
-    1.38rem
-     =
-     
-    17.939999999999998px
-    )
-  </h3>
-  <h4
-    className="c3"
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={3}
+    >
+      <BaseComponent
+        className="c2"
+        level={3}
+      >
+        <h3
+          className="c2"
+        >
+          h
+          3
+           - Level 
+          3
+             (
+          1.38rem
+           =
+           
+          17.939999999999998px
+          )
+        </h3>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
+    key="4"
+    level={4}
   >
-    h
-    4
-     - Level 
-    4
-       (
-    1.15rem
-     =
-     
-    14.95px
-    )
-  </h4>
-  <h5
-    className="c4"
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={4}
+    >
+      <BaseComponent
+        className="c3"
+        level={4}
+      >
+        <h4
+          className="c3"
+        >
+          h
+          4
+           - Level 
+          4
+             (
+          1.15rem
+           =
+           
+          14.95px
+          )
+        </h4>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
+    key="5"
+    level={5}
   >
-    h
-    5
-     - Level 
-    5
-       (
-    1rem
-     =
-     
-    13px
-    )
-  </h5>
-  <h6
-    className="c4"
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={5}
+    >
+      <BaseComponent
+        className="c4"
+        level={5}
+      >
+        <h5
+          className="c4"
+        >
+          h
+          5
+           - Level 
+          5
+             (
+          1rem
+           =
+           
+          13px
+          )
+        </h5>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
+  <Heading
+    key="6"
+    level={6}
   >
-    h
-    6
-     - Level 
-    6
-       (
-    1rem
-     =
-     
-    13px
-    )
-  </h6>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  margin: 0;
+  font-weight: normal;
+  font-size: ",
+              [Function],
+              ";
+  ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "defaultProps": Object {
+            "level": 1,
+          },
+          "displayName": "Heading",
+          "propTypes": Object {
+            "color": [Function],
+            "level": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+          Symbol(Symbol.hasInstance): [Function],
+        }
+      }
+      forwardedRef={null}
+      level={6}
+    >
+      <BaseComponent
+        className="c4"
+        level={6}
+      >
+        <h6
+          className="c4"
+        >
+          h
+          6
+           - Level 
+          6
+             (
+          1rem
+           =
+           
+          13px
+          )
+        </h6>
+      </BaseComponent>
+    </StyledComponent>
+  </Heading>
 </div>
 `;

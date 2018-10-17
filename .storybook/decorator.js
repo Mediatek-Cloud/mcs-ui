@@ -30,7 +30,7 @@ export default function(
     <ThemeProvider theme={defaultTheme}>
       <React.Fragment>
         <GlobalStyles />
-        {renderStory()}
+        <div id="snapshot">{renderStory()}</div>
       </React.Fragment>
     </ThemeProvider>
   );

@@ -10,12 +10,12 @@
   ],
   "scripts": {
     "build": "nwb build-react-component",
+    "build-storybook": "build-storybook",
     "clean": "nwb clean-module && nwb clean-demo",
-    "prepublishOnly": "npm run build",
+    "prepublishOnly": "npm run clean && npm run build",
     "start": "start-storybook -p 6006",
-    "test": "nwb test-react",
-    "test:coverage": "nwb test-react --coverage",
-    "test:watch": "nwb test-react --server",
+    "test": "NODE_ENV='test' TZ='UTC' jest --coverage --runInBand",
+    "test:watch": "npm run test -- --watch",
     "flow": "flow",
     "flow-coverage": "flow-coverage-report",
     "eslint": "eslint ./",
@@ -31,12 +31,24 @@
     "styled-components": "^4.0.0"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^3.4.11",
-    "@storybook/addon-info": "^3.4.11",
-    "@storybook/addon-links": "^3.4.11",
-    "@storybook/addon-options": "^3.4.11",
-    "@storybook/react": "^3.4.11",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "@storybook/addon-actions": "^4.0.0-rc.0",
+    "@storybook/addon-info": "^4.0.0-rc.0",
+    "@storybook/addon-links": "^4.0.0-rc.0",
+    "@storybook/addon-options": "^4.0.0-rc.0",
+    "@storybook/addon-storyshots": "^4.0.0-rc.0",
+    "@storybook/react": "^4.0.0-rc.0",
+    "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-require-context-hook": "^1.0.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "enzyme-to-json": "^3.3.4",
     "eslint": "^5.7.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.1.0",
@@ -49,8 +61,11 @@
     "flow-bin": "^0.83.0",
     "flow-coverage-report": "^0.6.0",
     "husky": "^1.1.2",
+    "jest": "^23.6.0",
+    "jest-specific-snapshot": "^1.0.0",
+    "jest-styled-components": "^6.2.1",
     "lint-staged": "^7.3.0",
-    "nwb": "0.23.x",
+    "nwb": "^0.23.0",
     "polished": "^2.2.0",
     "prettier": "^1.14.3",
     "react": "^16.5.2",
@@ -64,6 +79,45 @@
   "keywords": [
     "react-component"
   ],
+  "babel": {
+    "env": {
+      "test": {
+        "plugins": [
+          "require-context-hook"
+        ],
+        "presets": [
+          [
+            "@babel/preset-env"
+          ],
+          "@babel/preset-react",
+          "@babel/preset-flow"
+        ]
+      }
+    }
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>/setupTests.js",
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/**/*.test.{js,jsx}",
+      "!src/**/*.example.{js,jsx}"
+    ],
+    "testPathIgnorePatterns": [
+      "<rootDir>/node_modules/",
+      "<rootDir>/es/",
+      "<rootDir>/lib/"
+    ],
+    "resetMocks": true,
+    "resetModules": true,
+    "coverageThreshold": {
+      "global": {
+        "branches": 73,
+        "functions": 75,
+        "lines": 79,
+        "statements": 77
+      }
+    }
+  },
   "prettier": {
     "trailingComma": "all",
     "singleQuote": true
@@ -85,7 +139,7 @@
     "reportTypes": [
       "text"
     ],
-    "threshold": 88
+    "threshold": 80
   },
   "eslintConfig": {
     "parser": "babel-eslint",

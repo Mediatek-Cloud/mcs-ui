@@ -5,81 +5,237 @@ exports[`Storyshots Small API 1`] = `
   font-size: 0.923rem;
 }
 
-<small
-  className="c0"
->
-  Small content
-</small>
+<Small>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-ifAKCX",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  font-size: ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "displayName": "Small",
+        "render": [Function],
+        "styledComponentId": "sc-ifAKCX",
+        "target": "small",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <small
+      className="c0"
+    >
+      Small content
+    </small>
+  </StyledComponent>
+</Small>
 `;
 
 exports[`Storyshots Small With color 1`] = `
-.c1 {
+.c0 {
   margin: 0;
   font-size: 1rem;
   color: #00A1DE;
 }
 
-.c2 {
+.c1 {
   font-size: 0.923rem;
 }
 
-.dUUMVe > *:nth-child(2) .c0 {
-  margin-top: 5px;
-}
-
-.pYtWd > .c0 {
-  margin-top: 5px;
-}
-
-.sQyKx > .c0 {
-  margin-top: 5px;
-}
-
-<div
-  className="c0 c1"
+<P
   color="primary"
 >
-  Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-  <small
-    className="c2"
+  <StyledComponent
+    color="primary"
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bxivhb",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  margin: 0;
+  font-size: ",
+            [Function],
+            ";
+
+  ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "displayName": "P",
+        "propTypes": Object {
+          "color": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "sc-bxivhb",
+        "target": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+        Symbol(Symbol.hasInstance): [Function],
+      }
+    }
+    forwardedRef={null}
   >
-     Small content 
-  </small>
-  incididunt incididunt aliquip pariatur est minim officia sit.
-</div>
+    <BaseComponent
+      className="c0"
+      color="primary"
+    >
+      <div
+        className="c0"
+        color="primary"
+      >
+        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+        <Small>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-ifAKCX",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  font-size: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "Small",
+                "render": [Function],
+                "styledComponentId": "sc-ifAKCX",
+                "target": "small",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <small
+              className="c1"
+            >
+               Small content 
+            </small>
+          </StyledComponent>
+        </Small>
+        incididunt incididunt aliquip pariatur est minim officia sit.
+      </div>
+    </BaseComponent>
+  </StyledComponent>
+</P>
 `;
 
 exports[`Storyshots Small Within <P> 1`] = `
-.c1 {
+.c0 {
   margin: 0;
   font-size: 1rem;
 }
 
-.c2 {
+.c1 {
   font-size: 0.923rem;
 }
 
-.dUUMVe > *:nth-child(2) .c0 {
-  margin-top: 5px;
-}
+<P>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bxivhb",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  margin: 0;
+  font-size: ",
+            [Function],
+            ";
 
-.pYtWd > .c0 {
-  margin-top: 5px;
-}
-
-.sQyKx > .c0 {
-  margin-top: 5px;
-}
-
-<div
-  className="c0 c1"
->
-  Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-  <small
-    className="c2"
+  ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "displayName": "P",
+        "propTypes": Object {
+          "color": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "sc-bxivhb",
+        "target": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+        Symbol(Symbol.hasInstance): [Function],
+      }
+    }
+    forwardedRef={null}
   >
-     Small content 
-  </small>
-  incididunt incididunt aliquip pariatur est minim officia sit.
-</div>
+    <BaseComponent
+      className="c0"
+    >
+      <div
+        className="c0"
+      >
+        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+        <Small>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-ifAKCX",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  font-size: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "Small",
+                "render": [Function],
+                "styledComponentId": "sc-ifAKCX",
+                "target": "small",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <small
+              className="c1"
+            >
+               Small content 
+            </small>
+          </StyledComponent>
+        </Small>
+        incididunt incididunt aliquip pariatur est minim officia sit.
+      </div>
+    </BaseComponent>
+  </StyledComponent>
+</P>
 `;
