@@ -139,7 +139,7 @@
     "reportTypes": [
       "text"
     ],
-    "threshold": 80
+    "threshold": 76
   },
   "eslintConfig": {
     "parser": "babel-eslint",

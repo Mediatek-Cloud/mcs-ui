@@ -1,13 +1,13 @@
 // @flow
 import { configure, addDecorator, setAddon } from '@storybook/react';
 import infoAddon, { setDefaults } from '@storybook/addon-info';
-import { setOptions } from '@storybook/addon-options';
+import { withOptions } from '@storybook/addon-options';
 import decorator from './decorator';
 
 setAddon(infoAddon);
 addDecorator(decorator);
 setDefaults({ inline: true });
-setOptions({
+withOptions({
   name: 'mcs-ui',
   url: 'https://github.com/Mediatek-Cloud/mcs-ui',
   sortStoriesByKind: true,
