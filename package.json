@@ -1,38 +1,151 @@
 {
   "name": "mcs-ui",
-  "version": "1.0.0",
-  "description": "mcs-ui React component",
+  "version": "0.0.0",
+  "description": "mcs-ui",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
-    "css",
     "es",
-    "lib",
-    "umd"
+    "lib"
   ],
   "scripts": {
     "build": "nwb build-react-component",
     "clean": "nwb clean-module && nwb clean-demo",
     "prepublishOnly": "npm run build",
-    "start": "nwb serve-react-demo",
+    "start": "start-storybook -p 6006",
     "test": "nwb test-react",
     "test:coverage": "nwb test-react --coverage",
-    "test:watch": "nwb test-react --server"
+    "test:watch": "nwb test-react --server",
+    "flow": "flow",
+    "flow-coverage": "flow-coverage-report",
+    "eslint": "eslint ./",
+    "format": "prettier --write '**/*.{js,json,md}' '*.{json,md,js}'"
   },
-  "dependencies": {},
+  "dependencies": {
+    "d3-color": "^1.2.3",
+    "prop-types": "^15.6.2",
+    "ramda": "^0.25.0"
+  },
   "peerDependencies": {
-    "react": "16.x"
+    "react": "^16.0.0",
+    "styled-components": "^4.0.0"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^3.4.11",
+    "@storybook/addon-info": "^3.4.11",
+    "@storybook/addon-links": "^3.4.11",
+    "@storybook/addon-options": "^3.4.11",
+    "@storybook/react": "^3.4.11",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.25.1",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "flow-bin": "^0.83.0",
+    "flow-coverage-report": "^0.6.0",
+    "husky": "^1.1.2",
+    "lint-staged": "^7.3.0",
     "nwb": "0.23.x",
+    "polished": "^2.2.0",
+    "prettier": "^1.14.3",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Michael Hsu <evenchange4@gmail.com>",
+  "homepage": "https://github.com/Mediatek-Cloud/mcs-ui#readme",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/Mediatek-Cloud/mcs-ui",
   "keywords": [
     "react-component"
-  ]
+  ],
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "flow-coverage-report": {
+    "concurrentFiles": 5,
+    "globIncludePatterns": [
+      "**/*.js"
+    ],
+    "globExcludePatterns": [
+      "node_modules/**",
+      "public/**",
+      "lib/**",
+      "es/**",
+      "coverage/**",
+      "storybook-static/**",
+      "flow-typed/**"
+    ],
+    "reportTypes": [
+      "text"
+    ],
+    "threshold": 88
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": [
+      "airbnb",
+      "plugin:flowtype/recommended",
+      "plugin:jest/recommended",
+      "prettier",
+      "prettier/react",
+      "prettier/flowtype"
+    ],
+    "plugins": [
+      "prettier",
+      "jest",
+      "flowtype"
+    ],
+    "env": {
+      "jest/globals": true
+    },
+    "rules": {
+      "prettier/prettier": "error",
+      "import/no-named-as-default": 0,
+      "import/no-extraneous-dependencies": 0,
+      "react/require-default-props": 0,
+      "react/jsx-filename-extension": [
+        1,
+        {
+          "extensions": [
+            ".js"
+          ]
+        }
+      ],
+      "jsx-a11y/anchor-is-valid": [
+        "error",
+        {
+          "components": [
+            "Link"
+          ],
+          "specialLink": [
+            "route"
+          ],
+          "aspects": [
+            "noHref",
+            "invalidHref",
+            "preferButton"
+          ]
+        }
+      ]
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "npm run danger"
+    }
+  }
 }

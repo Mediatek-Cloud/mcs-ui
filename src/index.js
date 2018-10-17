@@ -1,9 +1,6 @@
-import React, {Component} from 'react'
-
-export default class extends Component {
-  render() {
-    return <div>
-      <h2>Welcome to React components</h2>
-    </div>
-  }
-}
+// @flow
+export { default as A } from './A/A';
+export { default as B } from './B/B';
+export { default as Heading } from './Heading/Heading';
+export { default as P } from './P/P';
+export { default as Small } from './Small/Small';
