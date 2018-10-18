@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Breadcrumb API 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 > * + *::before {
+  content: '>';
+  margin: 0 5px;
+  color: #353630;
+}
+
+<Breadcrumb>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Breadcrumb-sqawcc-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: flex;
+
+  > * + * {
+    &::before {
+      content: '>';
+      margin: 0 5px;
+      color: ",
+            [Function],
+            ";
+    }
+  }
+",
+          ],
+        },
+        "displayName": "Breadcrumb",
+        "render": [Function],
+        "styledComponentId": "Breadcrumb-sqawcc-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <div>
+        item 1
+      </div>
+      <div>
+        item 2
+      </div>
+    </div>
+  </StyledComponent>
+</Breadcrumb>
+`;

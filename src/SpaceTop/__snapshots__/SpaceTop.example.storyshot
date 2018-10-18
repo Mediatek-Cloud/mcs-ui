@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SpaceTop API 1`] = `
+.c0 {
+  margin-top: 20px;
+}
+
+<SpaceTop
+  height={20}
+>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "SpaceTop-esc364-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  margin-top: ",
+            [Function],
+            "px;
+",
+          ],
+        },
+        "displayName": "SpaceTop",
+        "propTypes": Object {
+          "height": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "SpaceTop-esc364-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    height={20}
+  >
+    <div
+      className="c0"
+      height={20}
+    >
+      SpaceTop content
+    </div>
+  </StyledComponent>
+</SpaceTop>
+`;
