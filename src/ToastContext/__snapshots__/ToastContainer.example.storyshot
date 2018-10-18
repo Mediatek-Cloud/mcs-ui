@@ -1,0 +1,816 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ToastContainer API 1`] = `
+.c0 {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1;
+}
+
+.c1 {
+  padding: 0 100px;
+}
+
+.c1 > * {
+  margin-top: 8px;
+}
+
+<ToastContainer
+  toasts={Array []}
+>
+  <styled-components__Fixed>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Fixed-h3sw4-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1; /* Note: fix for dialog portal */
+",
+            ],
+          },
+          "displayName": "styled-components__Fixed",
+          "render": [Function],
+          "styledComponentId": "styled-components__Fixed-h3sw4-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__Container>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-h3sw4-1",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  padding: 0 100px;
+
+  > * {
+    margin-top: 8px;
+  }
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-h3sw4-1",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Transition
+                enter={
+                  Object {
+                    "height": "auto",
+                    "opacity": 1,
+                  }
+                }
+                from={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+                keys={Array []}
+                leave={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+              >
+                <div />
+              </Transition>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </div>
+    </StyledComponent>
+  </styled-components__Fixed>
+</ToastContainer>
+`;
+
+exports[`Storyshots ToastContainer With toasts props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  border: 1px solid #F5364E;
+  background-color: rgba(255,255,255,0.9);
+}
+
+.c3 {
+  margin: 0;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 10px 20px;
+  color: #F5364E;
+  background-color: rgba(245,54,78,0.1);
+}
+
+.c0 {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1;
+}
+
+.c1 {
+  padding: 0 100px;
+}
+
+.c1 > * {
+  margin-top: 8px;
+}
+
+<ToastContainer
+  toasts={
+    Array [
+      Object {
+        "children": "error children",
+        "id": "id",
+        "kind": "error",
+      },
+    ]
+  }
+>
+  <styled-components__Fixed>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Fixed-h3sw4-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1; /* Note: fix for dialog portal */
+",
+            ],
+          },
+          "displayName": "styled-components__Fixed",
+          "render": [Function],
+          "styledComponentId": "styled-components__Fixed-h3sw4-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__Container>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-h3sw4-1",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  padding: 0 100px;
+
+  > * {
+    margin-top: 8px;
+  }
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-h3sw4-1",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Transition
+                enter={
+                  Object {
+                    "height": "auto",
+                    "opacity": 1,
+                  }
+                }
+                from={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+                keys={
+                  Array [
+                    "id",
+                  ]
+                }
+                leave={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+              >
+                <div>
+                  <Component
+                    key="0"
+                  >
+                    <div
+                      key="id"
+                      style={Object {}}
+                    >
+                      <Toast
+                        kind="error"
+                      >
+                        <styled-components__StyledCard
+                          kind="error"
+                        >
+                          <StyledComponent
+                            forwardedClass={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": undefined,
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                  "isStatic": false,
+                                  "lastClassName": "c2",
+                                  "rules": Array [
+                                    "
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: ",
+                                    [Function],
+                                    ";
+  overflow: hidden;
+",
+                                    "
+  border: 1px solid ",
+                                    [Function],
+                                    ";
+  background-color: rgba(255, 255, 255, 0.9);
+",
+                                  ],
+                                },
+                                "displayName": "styled-components__StyledCard",
+                                "render": [Function],
+                                "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                "target": "div",
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            kind="error"
+                          >
+                            <div
+                              className="c2"
+                              kind="error"
+                            >
+                              <styled-components__StyledP
+                                kind="error"
+                              >
+                                <StyledComponent
+                                  forwardedClass={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": undefined,
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "
+  margin: 0;
+  font-size: ",
+                                          [Function],
+                                          ";
+
+  ",
+                                          [Function],
+                                          ";
+",
+                                          "
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  color: ",
+                                          [Function],
+                                          ";
+  background-color: ",
+                                          [Function],
+                                          ";
+",
+                                        ],
+                                      },
+                                      "displayName": "styled-components__StyledP",
+                                      "propTypes": Object {
+                                        "color": [Function],
+                                      },
+                                      "render": [Function],
+                                      "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                      "target": "p",
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  kind="error"
+                                >
+                                  <p
+                                    className="c3"
+                                    kind="error"
+                                  >
+                                    error children
+                                  </p>
+                                </StyledComponent>
+                              </styled-components__StyledP>
+                            </div>
+                          </StyledComponent>
+                        </styled-components__StyledCard>
+                      </Toast>
+                    </div>
+                  </Component>
+                </div>
+              </Transition>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </div>
+    </StyledComponent>
+  </styled-components__Fixed>
+</ToastContainer>
+`;
+
+exports[`Storyshots ToastContainer With two toasts 1`] = `
+.c4 {
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  border: 1px solid #69BE28;
+  background-color: rgba(255,255,255,0.9);
+}
+
+.c2 {
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  border: 1px solid #F5364E;
+  background-color: rgba(255,255,255,0.9);
+}
+
+.c5 {
+  margin: 0;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 10px 20px;
+  color: #69BE28;
+  background-color: rgba(105,190,40,0.1);
+}
+
+.c3 {
+  margin: 0;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 10px 20px;
+  color: #F5364E;
+  background-color: rgba(245,54,78,0.1);
+}
+
+.c0 {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1;
+}
+
+.c1 {
+  padding: 0 100px;
+}
+
+.c1 > * {
+  margin-top: 8px;
+}
+
+<ToastContainer
+  toasts={
+    Array [
+      Object {
+        "children": "error children",
+        "id": "id 1",
+        "kind": "error",
+      },
+      Object {
+        "children": "success children",
+        "id": "id 2",
+        "kind": "success",
+      },
+    ]
+  }
+>
+  <styled-components__Fixed>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Fixed-h3sw4-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 1; /* Note: fix for dialog portal */
+",
+            ],
+          },
+          "displayName": "styled-components__Fixed",
+          "render": [Function],
+          "styledComponentId": "styled-components__Fixed-h3sw4-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__Container>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-h3sw4-1",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  padding: 0 100px;
+
+  > * {
+    margin-top: 8px;
+  }
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-h3sw4-1",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Transition
+                enter={
+                  Object {
+                    "height": "auto",
+                    "opacity": 1,
+                  }
+                }
+                from={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+                keys={
+                  Array [
+                    "id 1",
+                    "id 2",
+                  ]
+                }
+                leave={
+                  Object {
+                    "height": 0,
+                    "opacity": 0,
+                  }
+                }
+              >
+                <div>
+                  <Component
+                    key="0"
+                  >
+                    <div
+                      key="id 1"
+                      style={Object {}}
+                    >
+                      <Toast
+                        kind="error"
+                      >
+                        <styled-components__StyledCard
+                          kind="error"
+                        >
+                          <StyledComponent
+                            forwardedClass={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": undefined,
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: ",
+                                    [Function],
+                                    ";
+  overflow: hidden;
+",
+                                    "
+  border: 1px solid ",
+                                    [Function],
+                                    ";
+  background-color: rgba(255, 255, 255, 0.9);
+",
+                                  ],
+                                },
+                                "displayName": "styled-components__StyledCard",
+                                "render": [Function],
+                                "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                "target": "div",
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            kind="error"
+                          >
+                            <div
+                              className="c2"
+                              kind="error"
+                            >
+                              <styled-components__StyledP
+                                kind="error"
+                              >
+                                <StyledComponent
+                                  forwardedClass={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": undefined,
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "
+  margin: 0;
+  font-size: ",
+                                          [Function],
+                                          ";
+
+  ",
+                                          [Function],
+                                          ";
+",
+                                          "
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  color: ",
+                                          [Function],
+                                          ";
+  background-color: ",
+                                          [Function],
+                                          ";
+",
+                                        ],
+                                      },
+                                      "displayName": "styled-components__StyledP",
+                                      "propTypes": Object {
+                                        "color": [Function],
+                                      },
+                                      "render": [Function],
+                                      "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                      "target": "p",
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  kind="error"
+                                >
+                                  <p
+                                    className="c3"
+                                    kind="error"
+                                  >
+                                    error children
+                                  </p>
+                                </StyledComponent>
+                              </styled-components__StyledP>
+                            </div>
+                          </StyledComponent>
+                        </styled-components__StyledCard>
+                      </Toast>
+                    </div>
+                  </Component>
+                  <Component
+                    key="1"
+                  >
+                    <div
+                      key="id 2"
+                      style={Object {}}
+                    >
+                      <Toast
+                        kind="success"
+                      >
+                        <styled-components__StyledCard
+                          kind="success"
+                        >
+                          <StyledComponent
+                            forwardedClass={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": undefined,
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: ",
+                                    [Function],
+                                    ";
+  overflow: hidden;
+",
+                                    "
+  border: 1px solid ",
+                                    [Function],
+                                    ";
+  background-color: rgba(255, 255, 255, 0.9);
+",
+                                  ],
+                                },
+                                "displayName": "styled-components__StyledCard",
+                                "render": [Function],
+                                "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
+                                "target": "div",
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            kind="success"
+                          >
+                            <div
+                              className="c4"
+                              kind="success"
+                            >
+                              <styled-components__StyledP
+                                kind="success"
+                              >
+                                <StyledComponent
+                                  forwardedClass={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": undefined,
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "
+  margin: 0;
+  font-size: ",
+                                          [Function],
+                                          ";
+
+  ",
+                                          [Function],
+                                          ";
+",
+                                          "
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  color: ",
+                                          [Function],
+                                          ";
+  background-color: ",
+                                          [Function],
+                                          ";
+",
+                                        ],
+                                      },
+                                      "displayName": "styled-components__StyledP",
+                                      "propTypes": Object {
+                                        "color": [Function],
+                                      },
+                                      "render": [Function],
+                                      "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
+                                      "target": "p",
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  kind="success"
+                                >
+                                  <p
+                                    className="c5"
+                                    kind="success"
+                                  >
+                                    success children
+                                  </p>
+                                </StyledComponent>
+                              </styled-components__StyledP>
+                            </div>
+                          </StyledComponent>
+                        </styled-components__StyledCard>
+                      </Toast>
+                    </div>
+                  </Component>
+                </div>
+              </Transition>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </div>
+    </StyledComponent>
+  </styled-components__Fixed>
+</ToastContainer>
+`;

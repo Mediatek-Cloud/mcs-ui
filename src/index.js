@@ -1,6 +1,7 @@
 // @flow
 export * from './Icons';
 export * from './Form';
+export * from './ToastContext';
 export { default as theme } from './utils/theme';
 
 export { default as A } from './A';
@@ -31,3 +32,4 @@ export { default as Spin } from './Spin';
 export { default as TabItem } from './TabItem';
 export { default as Table } from './Table';
 export { default as Textarea } from './Textarea';
+export { default as Toast } from './Toast';

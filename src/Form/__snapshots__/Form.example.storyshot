@@ -805,7 +805,7 @@ exports[`Storyshots Form Form 1`] = `
                 </StyledComponent>
               </Input>
               <ErrorMessage>
-                <mock-transition
+                <mock-TweenOne
                   animation={
                     Object {
                       "ease": "easeOutQuart",
@@ -866,7 +866,7 @@ exports[`Storyshots Form Form 1`] = `
                       </p>
                     </StyledComponent>
                   </P>
-                </mock-transition>
+                </mock-TweenOne>
               </ErrorMessage>
             </div>
           </div>
@@ -1665,7 +1665,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                         </StyledComponent>
                       </Input>
                       <ErrorMessage>
-                        <mock-transition
+                        <mock-TweenOne
                           animation={
                             Object {
                               "ease": "easeOutQuart",
@@ -1726,7 +1726,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                               </p>
                             </StyledComponent>
                           </P>
-                        </mock-transition>
+                        </mock-TweenOne>
                       </ErrorMessage>
                     </div>
                   </div>

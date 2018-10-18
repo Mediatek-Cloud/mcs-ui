@@ -23,10 +23,12 @@
   "dependencies": {
     "d3-color": "^1.2.3",
     "date-fns": "^2.0.0-alpha.22",
+    "debug": "^4.1.0",
     "prop-types": "^15.6.2",
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
     "react-overlay-pack": "^3.0.0",
+    "react-spring": "^5.9.2",
     "react-virtualized": "^9.20.1"
   },
   "peerDependencies": {

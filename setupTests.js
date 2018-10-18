@@ -1,4 +1,6 @@
+/* eslint react/no-array-index-key: 0 */
 // @flow
+import * as React from 'react';
 import 'jest-styled-components';
 import Enzyme from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
@@ -12,5 +14,14 @@ registerRequireContextHook();
 
 Enzyme.configure({ adapter: new Adapter() });
 
-// For rc-tween-one
-jest.mock('react-overlay-pack/lib/Transition/index', () => 'mock-transition');
+jest.mock('react-spring', () => ({
+  Transition: ({ children }: any) => (
+    <div>
+      {children.map((Child, index) => (
+        <Child key={index} />
+      ))}
+    </div>
+  ),
+}));
+
+jest.mock('rc-tween-one/lib/TweenOne', () => 'mock-TweenOne');

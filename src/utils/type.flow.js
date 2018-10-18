@@ -1,4 +1,21 @@
 // @flow
+import * as React from 'react';
+
+// HOC
+export type HOC<Base, InjectedProps> = (
+  Component: React.ComponentType<Base>,
+) => React.ComponentType<$Diff<Base, InjectedProps>>;
+
+// Toast
+export type ToastKind = 'error' | 'success';
+export type Toast = {
+  id: string,
+  kind: ToastKind,
+  children: React.Node,
+};
+export type AddToast = ({ kind: ToastKind, children: React.Node }) => void;
+
+// Theme
 export type Color =
   | 'black'
   | 'grayDark'
