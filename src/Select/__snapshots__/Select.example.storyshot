@@ -1,0 +1,3083 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Select API - ReadOnly 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c2:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  line-height: 0;
+}
+
+.c4 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+}
+
+.c1 > button {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c1 > *:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:not(:first-child):not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c5 {
+  width: 100%;
+  border: 0;
+  height: 32px;
+  background-color: #FFFFFF;
+  outline: 0;
+  font-size: 1rem;
+  color: #353630;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.c3 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: 32px;
+  min-width: initial;
+  height: 32px;
+  padding: 0;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.c3:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c3:active {
+  background-color: rgb(0,144,198);
+}
+
+<Select
+  items={
+    Array [
+      Object {
+        "children": "value 1",
+        "value": 1,
+      },
+      Object {
+        "children": "value 2",
+        "value": 2,
+      },
+    ]
+  }
+  kind="primary"
+  readOnly={true}
+  value={2}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__StyledInputGroup>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+",
+                    "
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledInputGroup",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Input
+                focus={false}
+                kind="primary"
+                readOnly={true}
+                value="value 2"
+              >
+                <StyledComponent
+                  focus={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  readOnly={true}
+                  value="value 2"
+                >
+                  <input
+                    className="c2"
+                    kind="primary"
+                    readOnly={true}
+                    value="value 2"
+                  />
+                </StyledComponent>
+              </Input>
+              <styled-components__StyledButton
+                active={false}
+                block={false}
+                disabled={false}
+                kind="primary"
+                round={false}
+                size="normal"
+                square={true}
+              >
+                <StyledComponent
+                  active={false}
+                  block={false}
+                  disabled={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                          [Function],
+                          ";
+
+  &:hover {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  &:active {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  background-color: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  border-radius: ",
+                          [Function],
+                          ";
+  width: ",
+                          [Function],
+                          ";
+  min-width: ",
+                          [Function],
+                          ";
+  height: ",
+                          [Function],
+                          ";
+  padding: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+",
+                          "
+  font-size: 18px;
+  color: ",
+                          [Function],
+                          ";
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "active": false,
+                        "block": false,
+                        "disabled": false,
+                        "kind": "primary",
+                        "round": false,
+                        "size": "normal",
+                        "square": false,
+                      },
+                      "displayName": "styled-components__StyledButton",
+                      "propTypes": Object {
+                        "active": [Function],
+                        "block": [Function],
+                        "disabled": [Function],
+                        "kind": [Function],
+                        "round": [Function],
+                        "size": [Function],
+                        "square": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                      "target": "button",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  round={false}
+                  size="normal"
+                  square={true}
+                >
+                  <button
+                    className="c3"
+                    disabled={false}
+                    kind="primary"
+                    size="normal"
+                  >
+                    <Rotate
+                      active={false}
+                    >
+                      <StyledComponent
+                        active={false}
+                        forwardedClass={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": undefined,
+                            "componentStyle": ComponentStyle {
+                              "componentId": "Rotate-sc-7d7mt1-0",
+                              "isStatic": false,
+                              "lastClassName": "c4",
+                              "rules": Array [
+                                "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                                [Function],
+                                ";
+  }
+",
+                              ],
+                            },
+                            "defaultProps": Object {
+                              "active": false,
+                            },
+                            "displayName": "Rotate",
+                            "propTypes": Object {
+                              "active": [Function],
+                            },
+                            "render": [Function],
+                            "styledComponentId": "Rotate-sc-7d7mt1-0",
+                            "target": "div",
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c4"
+                        >
+                          <IconFold>
+                            <svg
+                              fill="currentColor"
+                              height="1em"
+                              viewBox="0 0 24 24"
+                              width="1em"
+                            >
+                              <path
+                                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                              />
+                            </svg>
+                          </IconFold>
+                        </div>
+                      </StyledComponent>
+                    </Rotate>
+                  </button>
+                </StyledComponent>
+              </styled-components__StyledButton>
+            </div>
+          </StyledComponent>
+        </styled-components__StyledInputGroup>
+        <styled-components__StyledSelect
+          onBlur={[Function]}
+          onFocus={[Function]}
+          readOnly={true}
+          value={2}
+        >
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                  "isStatic": false,
+                  "lastClassName": "c5",
+                  "rules": Array [
+                    "
+  width: 100%;
+  border: 0;
+  height: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  outline: 0;
+  font-size: ",
+                    [Function],
+                    ";
+  color: ",
+                    [Function],
+                    ";
+  appearance: none;
+  cursor: pointer;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledSelect",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                "target": "select",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            readOnly={true}
+            value={2}
+          >
+            <select
+              className="c5"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              readOnly={true}
+              value={2}
+            >
+              <option
+                key="1"
+                value={1}
+              >
+                value 1
+              </option>
+              <option
+                key="2"
+                value={2}
+              >
+                value 2
+              </option>
+            </select>
+          </StyledComponent>
+        </styled-components__StyledSelect>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Select>
+`;
+
+exports[`Storyshots Select With disabled props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c2:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  line-height: 0;
+}
+
+.c4 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+}
+
+.c1 > button {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c1 > *:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:not(:first-child):not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c5 {
+  width: 100%;
+  border: 0;
+  height: 32px;
+  background-color: #FFFFFF;
+  outline: 0;
+  font-size: 1rem;
+  color: #353630;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.c3 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: 32px;
+  min-width: initial;
+  height: 32px;
+  padding: 0;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.c3:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c3:active {
+  background-color: rgb(0,144,198);
+}
+
+<StatefulSelect>
+  <Select
+    items={
+      Array [
+        Object {
+          "children": "value 1",
+          "value": 1,
+        },
+        Object {
+          "children": "value 2",
+          "value": 2,
+        },
+        Object {
+          "children": "value 3",
+          "disabled": true,
+          "value": 3,
+        },
+      ]
+    }
+    kind="primary"
+    onChange={[Function]}
+    placeholder="選擇資料通道"
+    value={0}
+  >
+    <styled-components__Wrapper>
+      <StyledComponent
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
+              "isStatic": true,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  position: relative;
+",
+              ],
+            },
+            "displayName": "styled-components__Wrapper",
+            "render": [Function],
+            "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <div
+          className="c0"
+        >
+          <styled-components__StyledInputGroup>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+",
+                      "
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+",
+                    ],
+                  },
+                  "displayName": "styled-components__StyledInputGroup",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                className="c1"
+              >
+                <Input
+                  focus={false}
+                  kind="primary"
+                  placeholder="選擇資料通道"
+                  readOnly={true}
+                  value=""
+                >
+                  <StyledComponent
+                    focus={false}
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": undefined,
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Input-a7ignf-0",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                            [Function],
+                            ";
+  color: ",
+                            [Function],
+                            ";
+  font-size: ",
+                            [Function],
+                            ";
+  border-color: ",
+                            [Function],
+                            ";
+  box-shadow: ",
+                            [Function],
+                            ";
+
+  &:focus {
+    border-color: ",
+                            [Function],
+                            ";
+    box-shadow: 0 0 3px 0
+      ",
+                            [Function],
+                            ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                            [Function],
+                            ";
+  }
+",
+                          ],
+                        },
+                        "defaultProps": Object {
+                          "focus": false,
+                          "kind": "primary",
+                        },
+                        "displayName": "Input",
+                        "propTypes": Object {
+                          "focus": [Function],
+                          "kind": [Function],
+                        },
+                        "render": [Function],
+                        "styledComponentId": "Input-a7ignf-0",
+                        "target": "input",
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    kind="primary"
+                    placeholder="選擇資料通道"
+                    readOnly={true}
+                    value=""
+                  >
+                    <input
+                      className="c2"
+                      kind="primary"
+                      placeholder="選擇資料通道"
+                      readOnly={true}
+                      value=""
+                    />
+                  </StyledComponent>
+                </Input>
+                <styled-components__StyledButton
+                  active={false}
+                  block={false}
+                  disabled={false}
+                  kind="primary"
+                  round={false}
+                  size="normal"
+                  square={true}
+                >
+                  <StyledComponent
+                    active={false}
+                    block={false}
+                    disabled={false}
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": undefined,
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                          "isStatic": false,
+                          "lastClassName": "c3",
+                          "rules": Array [
+                            "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                            [Function],
+                            ";
+
+  &:hover {
+    background-color: ",
+                            [Function],
+                            ";
+  }
+
+  &:active {
+    background-color: ",
+                            [Function],
+                            ";
+  }
+
+  background-color: ",
+                            [Function],
+                            ";
+  color: ",
+                            [Function],
+                            ";
+  border-radius: ",
+                            [Function],
+                            ";
+  width: ",
+                            [Function],
+                            ";
+  min-width: ",
+                            [Function],
+                            ";
+  height: ",
+                            [Function],
+                            ";
+  padding: ",
+                            [Function],
+                            ";
+  font-size: ",
+                            [Function],
+                            ";
+  border-color: ",
+                            [Function],
+                            ";
+",
+                            "
+  font-size: 18px;
+  color: ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "defaultProps": Object {
+                          "active": false,
+                          "block": false,
+                          "disabled": false,
+                          "kind": "primary",
+                          "round": false,
+                          "size": "normal",
+                          "square": false,
+                        },
+                        "displayName": "styled-components__StyledButton",
+                        "propTypes": Object {
+                          "active": [Function],
+                          "block": [Function],
+                          "disabled": [Function],
+                          "kind": [Function],
+                          "round": [Function],
+                          "size": [Function],
+                          "square": [Function],
+                        },
+                        "render": [Function],
+                        "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                        "target": "button",
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    kind="primary"
+                    round={false}
+                    size="normal"
+                    square={true}
+                  >
+                    <button
+                      className="c3"
+                      disabled={false}
+                      kind="primary"
+                      size="normal"
+                    >
+                      <Rotate
+                        active={false}
+                      >
+                        <StyledComponent
+                          active={false}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Rotate-sc-7d7mt1-0",
+                                "isStatic": false,
+                                "lastClassName": "c4",
+                                "rules": Array [
+                                  "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "defaultProps": Object {
+                                "active": false,
+                              },
+                              "displayName": "Rotate",
+                              "propTypes": Object {
+                                "active": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Rotate-sc-7d7mt1-0",
+                              "target": "div",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c4"
+                          >
+                            <IconFold>
+                              <svg
+                                fill="currentColor"
+                                height="1em"
+                                viewBox="0 0 24 24"
+                                width="1em"
+                              >
+                                <path
+                                  d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                                />
+                              </svg>
+                            </IconFold>
+                          </div>
+                        </StyledComponent>
+                      </Rotate>
+                    </button>
+                  </StyledComponent>
+                </styled-components__StyledButton>
+              </div>
+            </StyledComponent>
+          </styled-components__StyledInputGroup>
+          <styled-components__StyledSelect
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            value="SELECT/PLACEHOLDER_VALUE"
+          >
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                    "isStatic": false,
+                    "lastClassName": "c5",
+                    "rules": Array [
+                      "
+  width: 100%;
+  border: 0;
+  height: ",
+                      [Function],
+                      ";
+  background-color: ",
+                      [Function],
+                      ";
+  outline: 0;
+  font-size: ",
+                      [Function],
+                      ";
+  color: ",
+                      [Function],
+                      ";
+  appearance: none;
+  cursor: pointer;
+",
+                    ],
+                  },
+                  "displayName": "styled-components__StyledSelect",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                  "target": "select",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              value="SELECT/PLACEHOLDER_VALUE"
+            >
+              <select
+                className="c5"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                value="SELECT/PLACEHOLDER_VALUE"
+              >
+                <option
+                  disabled={true}
+                  value="SELECT/PLACEHOLDER_VALUE"
+                >
+                  選擇資料通道
+                </option>
+                <option
+                  key="1"
+                  value={1}
+                >
+                  value 1
+                </option>
+                <option
+                  key="2"
+                  value={2}
+                >
+                  value 2
+                </option>
+                <option
+                  disabled={true}
+                  key="3"
+                  value={3}
+                >
+                  value 3
+                </option>
+              </select>
+            </StyledComponent>
+          </styled-components__StyledSelect>
+        </div>
+      </StyledComponent>
+    </styled-components__Wrapper>
+  </Select>
+</StatefulSelect>
+`;
+
+exports[`Storyshots Select With focus props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  line-height: 0;
+}
+
+.c4 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+}
+
+.c1 > button {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c1 > *:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:not(:first-child):not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c5 {
+  width: 100%;
+  border: 0;
+  height: 32px;
+  background-color: #FFFFFF;
+  outline: 0;
+  font-size: 1rem;
+  color: #353630;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.c3 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: rgb(0,144,198);
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: 32px;
+  min-width: initial;
+  height: 32px;
+  padding: 0;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.c3:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c3:active {
+  background-color: rgb(0,144,198);
+}
+
+<Select
+  focus={true}
+  items={
+    Array [
+      Object {
+        "children": "value 1",
+        "value": 1,
+      },
+      Object {
+        "children": "value 2",
+        "value": 2,
+      },
+    ]
+  }
+  kind="primary"
+  readOnly={true}
+  value={2}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__StyledInputGroup>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+",
+                    "
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledInputGroup",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Input
+                focus={true}
+                kind="primary"
+                readOnly={true}
+                value="value 2"
+              >
+                <StyledComponent
+                  focus={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  readOnly={true}
+                  value="value 2"
+                >
+                  <input
+                    className="c2"
+                    kind="primary"
+                    readOnly={true}
+                    value="value 2"
+                  />
+                </StyledComponent>
+              </Input>
+              <styled-components__StyledButton
+                active={true}
+                block={false}
+                disabled={false}
+                kind="primary"
+                round={false}
+                size="normal"
+                square={true}
+              >
+                <StyledComponent
+                  active={true}
+                  block={false}
+                  disabled={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                          [Function],
+                          ";
+
+  &:hover {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  &:active {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  background-color: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  border-radius: ",
+                          [Function],
+                          ";
+  width: ",
+                          [Function],
+                          ";
+  min-width: ",
+                          [Function],
+                          ";
+  height: ",
+                          [Function],
+                          ";
+  padding: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+",
+                          "
+  font-size: 18px;
+  color: ",
+                          [Function],
+                          ";
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "active": false,
+                        "block": false,
+                        "disabled": false,
+                        "kind": "primary",
+                        "round": false,
+                        "size": "normal",
+                        "square": false,
+                      },
+                      "displayName": "styled-components__StyledButton",
+                      "propTypes": Object {
+                        "active": [Function],
+                        "block": [Function],
+                        "disabled": [Function],
+                        "kind": [Function],
+                        "round": [Function],
+                        "size": [Function],
+                        "square": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                      "target": "button",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  round={false}
+                  size="normal"
+                  square={true}
+                >
+                  <button
+                    className="c3"
+                    disabled={false}
+                    kind="primary"
+                    size="normal"
+                  >
+                    <Rotate
+                      active={true}
+                    >
+                      <StyledComponent
+                        active={true}
+                        forwardedClass={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": undefined,
+                            "componentStyle": ComponentStyle {
+                              "componentId": "Rotate-sc-7d7mt1-0",
+                              "isStatic": false,
+                              "lastClassName": "c4",
+                              "rules": Array [
+                                "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                                [Function],
+                                ";
+  }
+",
+                              ],
+                            },
+                            "defaultProps": Object {
+                              "active": false,
+                            },
+                            "displayName": "Rotate",
+                            "propTypes": Object {
+                              "active": [Function],
+                            },
+                            "render": [Function],
+                            "styledComponentId": "Rotate-sc-7d7mt1-0",
+                            "target": "div",
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c4"
+                        >
+                          <IconFold>
+                            <svg
+                              fill="currentColor"
+                              height="1em"
+                              viewBox="0 0 24 24"
+                              width="1em"
+                            >
+                              <path
+                                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                              />
+                            </svg>
+                          </IconFold>
+                        </div>
+                      </StyledComponent>
+                    </Rotate>
+                  </button>
+                </StyledComponent>
+              </styled-components__StyledButton>
+            </div>
+          </StyledComponent>
+        </styled-components__StyledInputGroup>
+        <styled-components__StyledSelect
+          onBlur={[Function]}
+          onFocus={[Function]}
+          readOnly={true}
+          value={2}
+        >
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                  "isStatic": false,
+                  "lastClassName": "c5",
+                  "rules": Array [
+                    "
+  width: 100%;
+  border: 0;
+  height: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  outline: 0;
+  font-size: ",
+                    [Function],
+                    ";
+  color: ",
+                    [Function],
+                    ";
+  appearance: none;
+  cursor: pointer;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledSelect",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                "target": "select",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            readOnly={true}
+            value={2}
+          >
+            <select
+              className="c5"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              readOnly={true}
+              value={2}
+            >
+              <option
+                key="1"
+                value={1}
+              >
+                value 1
+              </option>
+              <option
+                key="2"
+                value={2}
+              >
+                value 2
+              </option>
+            </select>
+          </StyledComponent>
+        </styled-components__StyledSelect>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Select>
+`;
+
+exports[`Storyshots Select With kind props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c2:focus {
+  border-color: #F39A1E;
+  box-shadow: 0 0 3px 0 rgba(243,154,30,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  line-height: 0;
+}
+
+.c4 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+}
+
+.c1 > button {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c1 > *:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:not(:first-child):not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c5 {
+  width: 100%;
+  border: 0;
+  height: 32px;
+  background-color: #FFFFFF;
+  outline: 0;
+  font-size: 1rem;
+  color: #353630;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.c3 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #F39A1E;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: 32px;
+  min-width: initial;
+  height: 32px;
+  padding: 0;
+  font-size: 1rem;
+  border-color: rgb(196,124,24);
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.c3:hover {
+  background-color: rgb(228,144,28);
+}
+
+.c3:active {
+  background-color: rgb(217,137,27);
+}
+
+<Select
+  items={
+    Array [
+      Object {
+        "children": "value 1",
+        "value": 1,
+      },
+      Object {
+        "children": "value 2",
+        "value": 2,
+      },
+    ]
+  }
+  kind="warning"
+  readOnly={true}
+  value={2}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__StyledInputGroup>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+",
+                    "
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledInputGroup",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Input
+                focus={false}
+                kind="warning"
+                readOnly={true}
+                value="value 2"
+              >
+                <StyledComponent
+                  focus={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="warning"
+                  readOnly={true}
+                  value="value 2"
+                >
+                  <input
+                    className="c2"
+                    kind="warning"
+                    readOnly={true}
+                    value="value 2"
+                  />
+                </StyledComponent>
+              </Input>
+              <styled-components__StyledButton
+                active={false}
+                block={false}
+                disabled={false}
+                kind="warning"
+                round={false}
+                size="normal"
+                square={true}
+              >
+                <StyledComponent
+                  active={false}
+                  block={false}
+                  disabled={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                          [Function],
+                          ";
+
+  &:hover {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  &:active {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  background-color: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  border-radius: ",
+                          [Function],
+                          ";
+  width: ",
+                          [Function],
+                          ";
+  min-width: ",
+                          [Function],
+                          ";
+  height: ",
+                          [Function],
+                          ";
+  padding: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+",
+                          "
+  font-size: 18px;
+  color: ",
+                          [Function],
+                          ";
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "active": false,
+                        "block": false,
+                        "disabled": false,
+                        "kind": "primary",
+                        "round": false,
+                        "size": "normal",
+                        "square": false,
+                      },
+                      "displayName": "styled-components__StyledButton",
+                      "propTypes": Object {
+                        "active": [Function],
+                        "block": [Function],
+                        "disabled": [Function],
+                        "kind": [Function],
+                        "round": [Function],
+                        "size": [Function],
+                        "square": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                      "target": "button",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="warning"
+                  round={false}
+                  size="normal"
+                  square={true}
+                >
+                  <button
+                    className="c3"
+                    disabled={false}
+                    kind="warning"
+                    size="normal"
+                  >
+                    <Rotate
+                      active={false}
+                    >
+                      <StyledComponent
+                        active={false}
+                        forwardedClass={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": undefined,
+                            "componentStyle": ComponentStyle {
+                              "componentId": "Rotate-sc-7d7mt1-0",
+                              "isStatic": false,
+                              "lastClassName": "c4",
+                              "rules": Array [
+                                "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                                [Function],
+                                ";
+  }
+",
+                              ],
+                            },
+                            "defaultProps": Object {
+                              "active": false,
+                            },
+                            "displayName": "Rotate",
+                            "propTypes": Object {
+                              "active": [Function],
+                            },
+                            "render": [Function],
+                            "styledComponentId": "Rotate-sc-7d7mt1-0",
+                            "target": "div",
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c4"
+                        >
+                          <IconFold>
+                            <svg
+                              fill="currentColor"
+                              height="1em"
+                              viewBox="0 0 24 24"
+                              width="1em"
+                            >
+                              <path
+                                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                              />
+                            </svg>
+                          </IconFold>
+                        </div>
+                      </StyledComponent>
+                    </Rotate>
+                  </button>
+                </StyledComponent>
+              </styled-components__StyledButton>
+            </div>
+          </StyledComponent>
+        </styled-components__StyledInputGroup>
+        <styled-components__StyledSelect
+          onBlur={[Function]}
+          onFocus={[Function]}
+          readOnly={true}
+          value={2}
+        >
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                  "isStatic": false,
+                  "lastClassName": "c5",
+                  "rules": Array [
+                    "
+  width: 100%;
+  border: 0;
+  height: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  outline: 0;
+  font-size: ",
+                    [Function],
+                    ";
+  color: ",
+                    [Function],
+                    ";
+  appearance: none;
+  cursor: pointer;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledSelect",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                "target": "select",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            readOnly={true}
+            value={2}
+          >
+            <select
+              className="c5"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              readOnly={true}
+              value={2}
+            >
+              <option
+                key="1"
+                value={1}
+              >
+                value 1
+              </option>
+              <option
+                key="2"
+                value={2}
+              >
+                value 2
+              </option>
+            </select>
+          </StyledComponent>
+        </styled-components__StyledSelect>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Select>
+`;
+
+exports[`Storyshots Select With required props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c2:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  line-height: 0;
+}
+
+.c4 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+}
+
+.c1 > button {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c1 > *:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:not(:first-child):not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.c1 > *:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c5 {
+  width: 100%;
+  border: 0;
+  height: 32px;
+  background-color: #FFFFFF;
+  outline: 0;
+  font-size: 1rem;
+  color: #353630;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.c3 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: 32px;
+  min-width: initial;
+  height: 32px;
+  padding: 0;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.c3:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c3:active {
+  background-color: rgb(0,144,198);
+}
+
+<Select
+  items={
+    Array [
+      Object {
+        "children": "value 1",
+        "value": 1,
+      },
+      Object {
+        "children": "value 2",
+        "value": 2,
+      },
+    ]
+  }
+  kind="primary"
+  readOnly={true}
+  required={true}
+  value={2}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <styled-components__StyledInputGroup>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+",
+                    "
+  position: absolute;
+  width: 100%;
+  pointer-events: none;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledInputGroup",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c1"
+            >
+              <Input
+                focus={false}
+                kind="primary"
+                readOnly={true}
+                required={true}
+                value="value 2"
+              >
+                <StyledComponent
+                  focus={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  readOnly={true}
+                  required={true}
+                  value="value 2"
+                >
+                  <input
+                    className="c2"
+                    kind="primary"
+                    readOnly={true}
+                    required={true}
+                    value="value 2"
+                  />
+                </StyledComponent>
+              </Input>
+              <styled-components__StyledButton
+                active={false}
+                block={false}
+                disabled={false}
+                kind="primary"
+                round={false}
+                size="normal"
+                square={true}
+              >
+                <StyledComponent
+                  active={false}
+                  block={false}
+                  disabled={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                          [Function],
+                          ";
+
+  &:hover {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  &:active {
+    background-color: ",
+                          [Function],
+                          ";
+  }
+
+  background-color: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  border-radius: ",
+                          [Function],
+                          ";
+  width: ",
+                          [Function],
+                          ";
+  min-width: ",
+                          [Function],
+                          ";
+  height: ",
+                          [Function],
+                          ";
+  padding: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+",
+                          "
+  font-size: 18px;
+  color: ",
+                          [Function],
+                          ";
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "active": false,
+                        "block": false,
+                        "disabled": false,
+                        "kind": "primary",
+                        "round": false,
+                        "size": "normal",
+                        "square": false,
+                      },
+                      "displayName": "styled-components__StyledButton",
+                      "propTypes": Object {
+                        "active": [Function],
+                        "block": [Function],
+                        "disabled": [Function],
+                        "kind": [Function],
+                        "round": [Function],
+                        "size": [Function],
+                        "square": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
+                      "target": "button",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  round={false}
+                  size="normal"
+                  square={true}
+                >
+                  <button
+                    className="c3"
+                    disabled={false}
+                    kind="primary"
+                    size="normal"
+                  >
+                    <Rotate
+                      active={false}
+                    >
+                      <StyledComponent
+                        active={false}
+                        forwardedClass={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": undefined,
+                            "componentStyle": ComponentStyle {
+                              "componentId": "Rotate-sc-7d7mt1-0",
+                              "isStatic": false,
+                              "lastClassName": "c4",
+                              "rules": Array [
+                                "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                                [Function],
+                                ";
+  }
+",
+                              ],
+                            },
+                            "defaultProps": Object {
+                              "active": false,
+                            },
+                            "displayName": "Rotate",
+                            "propTypes": Object {
+                              "active": [Function],
+                            },
+                            "render": [Function],
+                            "styledComponentId": "Rotate-sc-7d7mt1-0",
+                            "target": "div",
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c4"
+                        >
+                          <IconFold>
+                            <svg
+                              fill="currentColor"
+                              height="1em"
+                              viewBox="0 0 24 24"
+                              width="1em"
+                            >
+                              <path
+                                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                              />
+                            </svg>
+                          </IconFold>
+                        </div>
+                      </StyledComponent>
+                    </Rotate>
+                  </button>
+                </StyledComponent>
+              </styled-components__StyledButton>
+            </div>
+          </StyledComponent>
+        </styled-components__StyledInputGroup>
+        <styled-components__StyledSelect
+          onBlur={[Function]}
+          onFocus={[Function]}
+          readOnly={true}
+          required={true}
+          value={2}
+        >
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                  "isStatic": false,
+                  "lastClassName": "c5",
+                  "rules": Array [
+                    "
+  width: 100%;
+  border: 0;
+  height: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  outline: 0;
+  font-size: ",
+                    [Function],
+                    ";
+  color: ",
+                    [Function],
+                    ";
+  appearance: none;
+  cursor: pointer;
+",
+                  ],
+                },
+                "displayName": "styled-components__StyledSelect",
+                "render": [Function],
+                "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
+                "target": "select",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onBlur={[Function]}
+            onFocus={[Function]}
+            readOnly={true}
+            required={true}
+            value={2}
+          >
+            <select
+              className="c5"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              readOnly={true}
+              required={true}
+              value={2}
+            >
+              <option
+                key="1"
+                value={1}
+              >
+                value 1
+              </option>
+              <option
+                key="2"
+                value={2}
+              >
+                value 2
+              </option>
+            </select>
+          </StyledComponent>
+        </styled-components__StyledSelect>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Select>
+`;

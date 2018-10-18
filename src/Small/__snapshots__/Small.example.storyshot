@@ -12,7 +12,7 @@ exports[`Storyshots Small API 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-ifAKCX",
+          "componentId": "Small-sc-275w8q-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -25,7 +25,7 @@ exports[`Storyshots Small API 1`] = `
         },
         "displayName": "Small",
         "render": [Function],
-        "styledComponentId": "sc-ifAKCX",
+        "styledComponentId": "Small-sc-275w8q-0",
         "target": "small",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -43,13 +43,17 @@ exports[`Storyshots Small API 1`] = `
 `;
 
 exports[`Storyshots Small With color 1`] = `
-.c0 {
+.c1 {
   margin: 0;
   font-size: 1rem;
   color: #00A1DE;
 }
 
-.c1 {
+.c3 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+.c2 {
   font-size: 0.923rem;
 }
 
@@ -63,9 +67,9 @@ exports[`Storyshots Small With color 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "c0",
           "isStatic": false,
-          "lastClassName": "c0",
+          "lastClassName": "c1",
           "rules": Array [
             "
   margin: 0;
@@ -84,73 +88,71 @@ exports[`Storyshots Small With color 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "c0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
-      className="c0"
+    <p
+      className="c0 c1"
       color="primary"
     >
-      <div
-        className="c0"
-        color="primary"
-      >
-        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-        <Small>
-          <StyledComponent
-            forwardedClass={
-              Object {
-                "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
-                "componentStyle": ComponentStyle {
-                  "componentId": "sc-ifAKCX",
-                  "isStatic": false,
-                  "lastClassName": "c1",
-                  "rules": Array [
-                    "
+      Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+      <Small>
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Small-sc-275w8q-0",
+                "isStatic": false,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "
   font-size: ",
-                    [Function],
-                    ";
+                  [Function],
+                  ";
 ",
-                  ],
-                },
-                "displayName": "Small",
-                "render": [Function],
-                "styledComponentId": "sc-ifAKCX",
-                "target": "small",
-                "warnTooManyClasses": [Function],
-                "withComponent": [Function],
-              }
+                ],
+              },
+              "displayName": "Small",
+              "render": [Function],
+              "styledComponentId": "Small-sc-275w8q-0",
+              "target": "small",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
             }
-            forwardedRef={null}
+          }
+          forwardedRef={null}
+        >
+          <small
+            className="c2"
           >
-            <small
-              className="c1"
-            >
-               Small content 
-            </small>
-          </StyledComponent>
-        </Small>
-        incididunt incididunt aliquip pariatur est minim officia sit.
-      </div>
-    </BaseComponent>
+             Small content 
+          </small>
+        </StyledComponent>
+      </Small>
+      incididunt incididunt aliquip pariatur est minim officia sit.
+    </p>
   </StyledComponent>
 </P>
 `;
 
 exports[`Storyshots Small Within <P> 1`] = `
-.c0 {
+.c1 {
   margin: 0;
   font-size: 1rem;
 }
 
-.c1 {
+.c3 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+.c2 {
   font-size: 0.923rem;
 }
 
@@ -161,9 +163,9 @@ exports[`Storyshots Small Within <P> 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "c0",
           "isStatic": false,
-          "lastClassName": "c0",
+          "lastClassName": "c1",
           "rules": Array [
             "
   margin: 0;
@@ -182,60 +184,55 @@ exports[`Storyshots Small Within <P> 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "c0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
-      className="c0"
+    <p
+      className="c0 c1"
     >
-      <div
-        className="c0"
-      >
-        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-        <Small>
-          <StyledComponent
-            forwardedClass={
-              Object {
-                "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
-                "componentStyle": ComponentStyle {
-                  "componentId": "sc-ifAKCX",
-                  "isStatic": false,
-                  "lastClassName": "c1",
-                  "rules": Array [
-                    "
+      Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+      <Small>
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Small-sc-275w8q-0",
+                "isStatic": false,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "
   font-size: ",
-                    [Function],
-                    ";
+                  [Function],
+                  ";
 ",
-                  ],
-                },
-                "displayName": "Small",
-                "render": [Function],
-                "styledComponentId": "sc-ifAKCX",
-                "target": "small",
-                "warnTooManyClasses": [Function],
-                "withComponent": [Function],
-              }
+                ],
+              },
+              "displayName": "Small",
+              "render": [Function],
+              "styledComponentId": "Small-sc-275w8q-0",
+              "target": "small",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
             }
-            forwardedRef={null}
+          }
+          forwardedRef={null}
+        >
+          <small
+            className="c2"
           >
-            <small
-              className="c1"
-            >
-               Small content 
-            </small>
-          </StyledComponent>
-        </Small>
-        incididunt incididunt aliquip pariatur est minim officia sit.
-      </div>
-    </BaseComponent>
+             Small content 
+          </small>
+        </StyledComponent>
+      </Small>
+      incididunt incididunt aliquip pariatur est minim officia sit.
+    </p>
   </StyledComponent>
 </P>
 `;

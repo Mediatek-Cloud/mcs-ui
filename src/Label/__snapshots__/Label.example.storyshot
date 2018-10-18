@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Label API 1`] = `
+.c0::after {
+  content: "*";
+  margin-left: 0.25em;
+  color: #F5364E;
+}
+
+<Label
+  required={true}
+>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Label-pwgi1j-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  &::after {
+    content: \\"",
+            [Function],
+            "\\";
+    margin-left: ",
+            [Function],
+            ";
+    color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "displayName": "Label",
+        "propTypes": Object {
+          "required": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "Label-pwgi1j-0",
+        "target": "label",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    required={true}
+  >
+    <label
+      className="c0"
+      required={true}
+    >
+      Email
+    </label>
+  </StyledComponent>
+</Label>
+`;

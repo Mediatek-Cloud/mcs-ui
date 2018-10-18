@@ -1,0 +1,49 @@
+// @flow
+import * as React from 'react';
+import styled from 'styled-components';
+
+export type Props = {};
+
+const InputGroup: React.ComponentType<Props> = styled.div`
+  display: flex;
+
+  > button {
+    flex-shrink: 0;
+  }
+
+  /* ============================
+   * First Child
+   * ============================
+   */
+
+  > *:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Middle Child
+   * ============================
+   */
+
+  > *:not(:first-child):not(:last-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* ============================
+   * Last Child
+   * ============================
+   */
+
+  > *:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+`;
+
+InputGroup.displayName = 'InputGroup';
+
+export default InputGroup;

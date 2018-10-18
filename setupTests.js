@@ -12,7 +12,5 @@ registerRequireContextHook();
 
 Enzyme.configure({ adapter: new Adapter() });
 
-jest.mock('@storybook/addon-info', () => ({
-  withInfo: () => storyFn => storyFn,
-  setDefaults: () => {},
-}));
+// For rc-tween-one
+jest.mock('react-overlay-pack/lib/Transition/index', () => 'mock-transition');

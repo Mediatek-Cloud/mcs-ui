@@ -1,0 +1,1449 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Popover With position 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-left: 300px;
+}
+
+.c0 > * {
+  margin-bottom: 30px;
+}
+
+<Popoverexample__Wrapper>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Popoverexample__Wrapper-sc-5lgfkf-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 300px;
+
+  > * {
+    margin-bottom: 30px;
+  }
+",
+          ],
+        },
+        "displayName": "Popoverexample__Wrapper",
+        "render": [Function],
+        "styledComponentId": "Popoverexample__Wrapper-sc-5lgfkf-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  -6,
+                  4,
+                ],
+                "points": Array [
+                  "cl",
+                  "cr",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateX": 0,
+                },
+                "style": Object {
+                  "transform": "translateX(-6px)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  12,
+                  0,
+                ],
+                "points": Array [
+                  "cl",
+                  "cr",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateX": 0,
+                },
+                "style": Object {
+                  "transform": "translateX(-6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            RIGHT_CENTER
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                12,
+                0,
+              ],
+              "points": Array [
+                "cl",
+                "cr",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  RIGHT_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateX": 0,
+              },
+              "style": Object {
+                "transform": "translateX(-6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                -6,
+                4,
+              ],
+              "points": Array [
+                "cl",
+                "cr",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  RIGHT_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateX": 0,
+              },
+              "style": Object {
+                "transform": "translateX(-6px)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  6,
+                  2,
+                ],
+                "points": Array [
+                  "cr",
+                  "cl",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateX": 0,
+                },
+                "style": Object {
+                  "transform": "translateX(6px)  rotate(180deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  -12,
+                  0,
+                ],
+                "points": Array [
+                  "cr",
+                  "cl",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateX": 0,
+                },
+                "style": Object {
+                  "transform": "translateX(6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            LEFT_CENTER
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                -12,
+                0,
+              ],
+              "points": Array [
+                "cr",
+                "cl",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  LEFT_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateX": 0,
+              },
+              "style": Object {
+                "transform": "translateX(6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                6,
+                2,
+              ],
+              "points": Array [
+                "cr",
+                "cl",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  LEFT_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateX": 0,
+              },
+              "style": Object {
+                "transform": "translateX(6px)  rotate(180deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  12,
+                ],
+                "points": Array [
+                  "bc",
+                  "tc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px) rotate(-90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  -12,
+                ],
+                "points": Array [
+                  "bc",
+                  "tc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            TOP_CENTER
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                -12,
+              ],
+              "points": Array [
+                "bc",
+                "tc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                12,
+              ],
+              "points": Array [
+                "bc",
+                "tc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px) rotate(-90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  12,
+                ],
+                "points": Array [
+                  "bc",
+                  "tc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px) rotate(-90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  -5,
+                  -12,
+                ],
+                "points": Array [
+                  "br",
+                  "tr",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            TOP_RIGHT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                -5,
+                -12,
+              ],
+              "points": Array [
+                "br",
+                "tr",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_RIGHT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                12,
+              ],
+              "points": Array [
+                "bc",
+                "tc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_RIGHT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px) rotate(-90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  12,
+                ],
+                "points": Array [
+                  "bc",
+                  "tc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px) rotate(-90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  5,
+                  -12,
+                ],
+                "points": Array [
+                  "bl",
+                  "tl",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            TOP_LEFT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                5,
+                -12,
+              ],
+              "points": Array [
+                "bl",
+                "tl",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_LEFT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                12,
+              ],
+              "points": Array [
+                "bc",
+                "tc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  TOP_LEFT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(6px) rotate(-90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  -7,
+                ],
+                "points": Array [
+                  "tc",
+                  "bc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px) rotate(90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  12,
+                ],
+                "points": Array [
+                  "tc",
+                  "bc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            BOTTOM_CENTER
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                12,
+              ],
+              "points": Array [
+                "tc",
+                "bc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                -7,
+              ],
+              "points": Array [
+                "tc",
+                "bc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_CENTER
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px) rotate(90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  -7,
+                ],
+                "points": Array [
+                  "tc",
+                  "bc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px) rotate(90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  -5,
+                  12,
+                ],
+                "points": Array [
+                  "tr",
+                  "br",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            BOTTOM_RIGHT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                -5,
+                12,
+              ],
+              "points": Array [
+                "tr",
+                "br",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_RIGHT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                -7,
+              ],
+              "points": Array [
+                "tc",
+                "bc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_RIGHT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px) rotate(90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+      <Popover
+        content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+        position={
+          Object {
+            "arrow": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  0,
+                  -7,
+                ],
+                "points": Array [
+                  "tc",
+                  "bc",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "duration": 350,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px) rotate(90deg)",
+                },
+              },
+            },
+            "card": Object {
+              "alignConfig": Object {
+                "offset": Array [
+                  5,
+                  12,
+                ],
+                "points": Array [
+                  "tl",
+                  "bl",
+                ],
+              },
+              "transitionConfig": Object {
+                "animation": Object {
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
+                },
+                "style": Object {
+                  "transform": "translateY(-6px)",
+                },
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            BOTTOM_LEFT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                5,
+                12,
+              ],
+              "points": Array [
+                "tl",
+                "bl",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_LEFT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px)",
+              },
+            }
+          }
+        />
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                -7,
+              ],
+              "points": Array [
+                "tc",
+                "bc",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_LEFT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "duration": 350,
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-6px) rotate(90deg)",
+              },
+            }
+          }
+        />
+      </Popover>
+    </div>
+  </StyledComponent>
+</Popoverexample__Wrapper>
+`;
+
+exports[`Storyshots Popover default 1`] = `
+<Popover
+  content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+  position={
+    Object {
+      "arrow": Object {
+        "alignConfig": Object {
+          "offset": Array [
+            -6,
+            4,
+          ],
+          "points": Array [
+            "cl",
+            "cr",
+          ],
+        },
+        "transitionConfig": Object {
+          "animation": Object {
+            "duration": 350,
+            "ease": "easeOutQuart",
+            "translateX": 0,
+          },
+          "style": Object {
+            "transform": "translateX(-6px)",
+          },
+        },
+      },
+      "card": Object {
+        "alignConfig": Object {
+          "offset": Array [
+            12,
+            0,
+          ],
+          "points": Array [
+            "cl",
+            "cr",
+          ],
+        },
+        "transitionConfig": Object {
+          "animation": Object {
+            "ease": "easeOutQuart",
+            "translateX": 0,
+          },
+          "style": Object {
+            "transform": "translateX(-6px)",
+          },
+        },
+      },
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    role="button"
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+    tabIndex="0"
+  >
+    <div>
+      Click me
+    </div>
+  </div>
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          12,
+          0,
+        ],
+        "points": Array [
+          "cl",
+          "cr",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": <div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <div>
+            Click me
+          </div>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateX": 0,
+        },
+        "style": Object {
+          "transform": "translateX(-6px)",
+        },
+      }
+    }
+  />
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          -6,
+          4,
+        ],
+        "points": Array [
+          "cl",
+          "cr",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": <div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <div>
+            Click me
+          </div>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "duration": 350,
+          "ease": "easeOutQuart",
+          "translateX": 0,
+        },
+        "style": Object {
+          "transform": "translateX(-6px)",
+        },
+      }
+    }
+  />
+</Popover>
+`;

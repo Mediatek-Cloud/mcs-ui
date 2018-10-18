@@ -1,0 +1,3050 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Checkbox API 1`] = `
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c2 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: transparent;
+  background-color: #FFFFFF;
+  border: 1px solid #D1D2D3;
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+.c3 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c3 svg {
+  fill: currentColor;
+}
+
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
+  <Checkbox
+    kind="primary"
+    render={[Function]}
+    size={14}
+    value={true}
+  >
+    <styled-components__Container
+      checked={true}
+      kind="primary"
+      size={14}
+    >
+      <StyledComponent
+        checked={true}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Container-sc-1jb6672-0",
+              "isStatic": false,
+              "lastClassName": "c2",
+              "rules": Array [
+                "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                [Function],
+                "px;
+  height: ",
+                [Function],
+                "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                [Function],
+                ";
+  background-color: ",
+                [Function],
+                ";
+  border: 1px solid
+    ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled-components__Container",
+            "render": [Function],
+            "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        size={14}
+      >
+        <div
+          checked={true}
+          className="c0"
+          kind="primary"
+          size={14}
+        >
+          <styled-components__Content
+            checked={true}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Content-sc-1jb6672-1",
+                    "isStatic": false,
+                    "lastClassName": "c3",
+                    "rules": Array [
+                      "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                      [Function],
+                      ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Content",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                checked={true}
+                className="c1"
+              >
+                <IconCheck
+                  height={8}
+                  width={8}
+                >
+                  <svg
+                    height={8}
+                    width={8}
+                  >
+                    <path
+                      d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </IconCheck>
+              </div>
+            </StyledComponent>
+          </styled-components__Content>
+        </div>
+      </StyledComponent>
+    </styled-components__Container>
+  </Checkbox>
+  <Checkbox
+    kind="primary"
+    render={[Function]}
+    size={14}
+    value={false}
+  >
+    <styled-components__Container
+      checked={false}
+      kind="primary"
+      size={14}
+    >
+      <StyledComponent
+        checked={false}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Container-sc-1jb6672-0",
+              "isStatic": false,
+              "lastClassName": "c2",
+              "rules": Array [
+                "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                [Function],
+                "px;
+  height: ",
+                [Function],
+                "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                [Function],
+                ";
+  background-color: ",
+                [Function],
+                ";
+  border: 1px solid
+    ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled-components__Container",
+            "render": [Function],
+            "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        size={14}
+      >
+        <div
+          checked={false}
+          className="c2"
+          kind="primary"
+          size={14}
+        >
+          <styled-components__Content
+            checked={false}
+          >
+            <StyledComponent
+              checked={false}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Content-sc-1jb6672-1",
+                    "isStatic": false,
+                    "lastClassName": "c3",
+                    "rules": Array [
+                      "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                      [Function],
+                      ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Content",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                checked={false}
+                className="c3"
+              />
+            </StyledComponent>
+          </styled-components__Content>
+        </div>
+      </StyledComponent>
+    </styled-components__Container>
+  </Checkbox>
+</div>
+`;
+
+exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
+.c2 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #999A94;
+  background-color: #FAFAFA;
+  border: 1px solid rgb(202,202,202);
+}
+
+.c3 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #69BE28;
+  border: 1px solid rgb(85,153,32);
+}
+
+.c4 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #F5364E;
+  border: 1px solid rgb(198,44,63);
+}
+
+.c5 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #9056ff;
+  border: 1px solid rgb(116,69,206);
+}
+
+.c6 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #1576af;
+  border: 1px solid rgb(17,95,141);
+}
+
+.c7 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #ab6a32;
+  border: 1px solid rgb(138,86,40);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+<ThemeProvider
+  theme={
+    Object {
+      "base": Object {
+        "bodyBackgroundColor": "#F1F2F7",
+        "bodyColor": "#353630",
+        "fontSize": "13px",
+        "lineHeight": 1.5,
+      },
+      "color": Object {
+        "#1576af": "#1576af",
+        "#9056ff": "#9056ff",
+        "#ab6a32": "#ab6a32",
+        "black": "#353630",
+        "default": "#FAFAFA",
+        "error": "#F5364E",
+        "grayBase": "#D1D2D3",
+        "grayDark": "#999A94",
+        "grayLight": "#FAFAFA",
+        "primary": "#00A1DE",
+        "success": "#69BE28",
+        "warning": "#F39A1E",
+        "white": "#FFFFFF",
+      },
+      "fontSize": Object {
+        "h1": "2.46rem",
+        "h2": "1.69rem",
+        "h3": "1.38rem",
+        "h4": "1.15rem",
+        "h5": "1rem",
+        "h6": "1rem",
+        "p": "1rem",
+        "small": "0.923rem",
+      },
+      "height": Object {
+        "header": "50px",
+        "normal": "32px",
+        "small": "20px",
+      },
+      "mobile": Object {
+        "headerHeight": "56px",
+        "maxWidth": "800px",
+      },
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column",
+      }
+    }
+  >
+    <StatefulCheckbox
+      kind="default"
+    >
+      <Checkbox
+        kind="default"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="default"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="default"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c0"
+              kind="default"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     default
+    <StatefulCheckbox
+      kind="primary"
+    >
+      <Checkbox
+        kind="primary"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="primary"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="primary"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c2"
+              kind="primary"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     primary
+    <StatefulCheckbox
+      kind="success"
+    >
+      <Checkbox
+        kind="success"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="success"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="success"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c3"
+              kind="success"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     success
+    <StatefulCheckbox
+      kind="error"
+    >
+      <Checkbox
+        kind="error"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="error"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="error"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c4"
+              kind="error"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     error
+    <StatefulCheckbox
+      kind="#9056ff"
+    >
+      <Checkbox
+        kind="#9056ff"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="#9056ff"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="#9056ff"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c5"
+              kind="#9056ff"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     #9056ff
+    <StatefulCheckbox
+      kind="#1576af"
+    >
+      <Checkbox
+        kind="#1576af"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="#1576af"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="#1576af"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c6"
+              kind="#1576af"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     #1576af
+    <StatefulCheckbox
+      kind="#ab6a32"
+    >
+      <Checkbox
+        kind="#ab6a32"
+        onClick={[Function]}
+        render={[Function]}
+        size={14}
+        value={true}
+      >
+        <styled-components__Container
+          checked={true}
+          kind="#ab6a32"
+          onClick={[Function]}
+          size={14}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="#ab6a32"
+            onClick={[Function]}
+            size={14}
+          >
+            <div
+              checked={true}
+              className="c7"
+              kind="#ab6a32"
+              onClick={[Function]}
+              size={14}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    <IconCheck
+                      height={8}
+                      width={8}
+                    >
+                      <svg
+                        height={8}
+                        width={8}
+                      >
+                        <path
+                          d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                    </IconCheck>
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </StatefulCheckbox>
+     #ab6a32
+  </div>
+</ThemeProvider>
+`;
+
+exports[`Storyshots Checkbox With kind props 1`] = `
+.c2 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #999A94;
+  background-color: #FAFAFA;
+  border: 1px solid rgb(202,202,202);
+}
+
+.c3 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #69BE28;
+  border: 1px solid rgb(85,153,32);
+}
+
+.c4 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #F5364E;
+  border: 1px solid rgb(198,44,63);
+}
+
+.c5 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #F39A1E;
+  border: 1px solid rgb(196,124,24);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
+  <StatefulCheckbox
+    kind="default"
+  >
+    <Checkbox
+      kind="default"
+      onClick={[Function]}
+      render={[Function]}
+      size={14}
+      value={true}
+    >
+      <styled-components__Container
+        checked={true}
+        kind="default"
+        onClick={[Function]}
+        size={14}
+      >
+        <StyledComponent
+          checked={true}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="default"
+          onClick={[Function]}
+          size={14}
+        >
+          <div
+            checked={true}
+            className="c0"
+            kind="default"
+            onClick={[Function]}
+            size={14}
+          >
+            <styled-components__Content
+              checked={true}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                >
+                  <IconCheck
+                    height={8}
+                    width={8}
+                  >
+                    <svg
+                      height={8}
+                      width={8}
+                    >
+                      <path
+                        d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </IconCheck>
+                </div>
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </StatefulCheckbox>
+   default
+  <StatefulCheckbox
+    kind="primary"
+  >
+    <Checkbox
+      kind="primary"
+      onClick={[Function]}
+      render={[Function]}
+      size={14}
+      value={true}
+    >
+      <styled-components__Container
+        checked={true}
+        kind="primary"
+        onClick={[Function]}
+        size={14}
+      >
+        <StyledComponent
+          checked={true}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          onClick={[Function]}
+          size={14}
+        >
+          <div
+            checked={true}
+            className="c2"
+            kind="primary"
+            onClick={[Function]}
+            size={14}
+          >
+            <styled-components__Content
+              checked={true}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                >
+                  <IconCheck
+                    height={8}
+                    width={8}
+                  >
+                    <svg
+                      height={8}
+                      width={8}
+                    >
+                      <path
+                        d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </IconCheck>
+                </div>
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </StatefulCheckbox>
+   primary
+  <StatefulCheckbox
+    kind="success"
+  >
+    <Checkbox
+      kind="success"
+      onClick={[Function]}
+      render={[Function]}
+      size={14}
+      value={true}
+    >
+      <styled-components__Container
+        checked={true}
+        kind="success"
+        onClick={[Function]}
+        size={14}
+      >
+        <StyledComponent
+          checked={true}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="success"
+          onClick={[Function]}
+          size={14}
+        >
+          <div
+            checked={true}
+            className="c3"
+            kind="success"
+            onClick={[Function]}
+            size={14}
+          >
+            <styled-components__Content
+              checked={true}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                >
+                  <IconCheck
+                    height={8}
+                    width={8}
+                  >
+                    <svg
+                      height={8}
+                      width={8}
+                    >
+                      <path
+                        d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </IconCheck>
+                </div>
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </StatefulCheckbox>
+   success
+  <StatefulCheckbox
+    kind="error"
+  >
+    <Checkbox
+      kind="error"
+      onClick={[Function]}
+      render={[Function]}
+      size={14}
+      value={true}
+    >
+      <styled-components__Container
+        checked={true}
+        kind="error"
+        onClick={[Function]}
+        size={14}
+      >
+        <StyledComponent
+          checked={true}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="error"
+          onClick={[Function]}
+          size={14}
+        >
+          <div
+            checked={true}
+            className="c4"
+            kind="error"
+            onClick={[Function]}
+            size={14}
+          >
+            <styled-components__Content
+              checked={true}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                >
+                  <IconCheck
+                    height={8}
+                    width={8}
+                  >
+                    <svg
+                      height={8}
+                      width={8}
+                    >
+                      <path
+                        d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </IconCheck>
+                </div>
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </StatefulCheckbox>
+   error
+  <StatefulCheckbox
+    kind="warning"
+  >
+    <Checkbox
+      kind="warning"
+      onClick={[Function]}
+      render={[Function]}
+      size={14}
+      value={true}
+    >
+      <styled-components__Container
+        checked={true}
+        kind="warning"
+        onClick={[Function]}
+        size={14}
+      >
+        <StyledComponent
+          checked={true}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="warning"
+          onClick={[Function]}
+          size={14}
+        >
+          <div
+            checked={true}
+            className="c5"
+            kind="warning"
+            onClick={[Function]}
+            size={14}
+          >
+            <styled-components__Content
+              checked={true}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                >
+                  <IconCheck
+                    height={8}
+                    width={8}
+                  >
+                    <svg
+                      height={8}
+                      width={8}
+                    >
+                      <path
+                        d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </IconCheck>
+                </div>
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </StatefulCheckbox>
+   warning
+</div>
+`;
+
+exports[`Storyshots Checkbox With render props 1`] = `
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+<StatefulCheckbox
+  render={[Function]}
+>
+  <Checkbox
+    kind="primary"
+    onClick={[Function]}
+    render={[Function]}
+    size={14}
+    value={true}
+  >
+    <styled-components__Container
+      checked={true}
+      kind="primary"
+      onClick={[Function]}
+      size={14}
+    >
+      <StyledComponent
+        checked={true}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Container-sc-1jb6672-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                [Function],
+                "px;
+  height: ",
+                [Function],
+                "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                [Function],
+                ";
+  background-color: ",
+                [Function],
+                ";
+  border: 1px solid
+    ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled-components__Container",
+            "render": [Function],
+            "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        onClick={[Function]}
+        size={14}
+      >
+        <div
+          checked={true}
+          className="c0"
+          kind="primary"
+          onClick={[Function]}
+          size={14}
+        >
+          <styled-components__Content
+            checked={true}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Content-sc-1jb6672-1",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                      [Function],
+                      ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Content",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                checked={true}
+                className="c1"
+              >
+                <IconPlay>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M7 5v14l11-7L7 5z"
+                    />
+                  </svg>
+                </IconPlay>
+              </div>
+            </StyledComponent>
+          </styled-components__Content>
+        </div>
+      </StyledComponent>
+    </styled-components__Container>
+  </Checkbox>
+</StatefulCheckbox>
+`;
+
+exports[`Storyshots Checkbox With size props 1`] = `
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+<StatefulCheckbox
+  render={[Function]}
+  size={24}
+>
+  <Checkbox
+    kind="primary"
+    onClick={[Function]}
+    render={[Function]}
+    size={24}
+    value={true}
+  >
+    <styled-components__Container
+      checked={true}
+      kind="primary"
+      onClick={[Function]}
+      size={24}
+    >
+      <StyledComponent
+        checked={true}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Container-sc-1jb6672-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                [Function],
+                "px;
+  height: ",
+                [Function],
+                "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                [Function],
+                ";
+  background-color: ",
+                [Function],
+                ";
+  border: 1px solid
+    ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled-components__Container",
+            "render": [Function],
+            "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        onClick={[Function]}
+        size={24}
+      >
+        <div
+          checked={true}
+          className="c0"
+          kind="primary"
+          onClick={[Function]}
+          size={24}
+        >
+          <styled-components__Content
+            checked={true}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Content-sc-1jb6672-1",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                      [Function],
+                      ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Content",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                checked={true}
+                className="c1"
+              >
+                <IconCheck
+                  height={14}
+                  width={14}
+                >
+                  <svg
+                    height={14}
+                    width={14}
+                  >
+                    <path
+                      d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </IconCheck>
+              </div>
+            </StyledComponent>
+          </styled-components__Content>
+        </div>
+      </StyledComponent>
+    </styled-components__Container>
+  </Checkbox>
+</StatefulCheckbox>
+`;
+
+exports[`Storyshots Checkbox With state 1`] = `
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
+}
+
+<StatefulCheckbox>
+  <Checkbox
+    kind="primary"
+    onClick={[Function]}
+    render={[Function]}
+    size={14}
+    value={true}
+  >
+    <styled-components__Container
+      checked={true}
+      kind="primary"
+      onClick={[Function]}
+      size={14}
+    >
+      <StyledComponent
+        checked={true}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__Container-sc-1jb6672-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                [Function],
+                "px;
+  height: ",
+                [Function],
+                "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                [Function],
+                ";
+  background-color: ",
+                [Function],
+                ";
+  border: 1px solid
+    ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled-components__Container",
+            "render": [Function],
+            "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+            "target": "div",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        onClick={[Function]}
+        size={14}
+      >
+        <div
+          checked={true}
+          className="c0"
+          kind="primary"
+          onClick={[Function]}
+          size={14}
+        >
+          <styled-components__Content
+            checked={true}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Content-sc-1jb6672-1",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                      [Function],
+                      ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Content",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                checked={true}
+                className="c1"
+              >
+                <IconCheck
+                  height={8}
+                  width={8}
+                >
+                  <svg
+                    height={8}
+                    width={8}
+                  >
+                    <path
+                      d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </IconCheck>
+              </div>
+            </StyledComponent>
+          </styled-components__Content>
+        </div>
+      </StyledComponent>
+    </styled-components__Container>
+  </Checkbox>
+</StatefulCheckbox>
+`;

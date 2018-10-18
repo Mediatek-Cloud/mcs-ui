@@ -3,12 +3,11 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css, type ReactComponentFunctional } from 'styled-components';
 import { type ThemeProps, type Color } from '../utils/type.flow';
-import BaseComponent from './BaseComponent';
 
-type Props = { color?: Color, children: React.Node };
+export type Props = { color?: Color, children: React.Node };
 type InnerProps = { color: Color } & ThemeProps;
 
-const P: ReactComponentFunctional<Props> = styled(BaseComponent)`
+const P: ReactComponentFunctional<Props> = styled.p`
   margin: 0;
   font-size: ${({ theme }: InnerProps) => theme.fontSize.p};
 

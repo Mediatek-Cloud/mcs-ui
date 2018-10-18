@@ -4,7 +4,7 @@ import styled, { type ReactComponentFunctional } from 'styled-components';
 import { darken1, darken2 } from '../utils/darken';
 import { type ThemeProps, type Color } from '../utils/type.flow';
 
-type Props = { color?: Color };
+export type Props = { color?: Color };
 type InnerProps = { color: Color } & ThemeProps;
 
 const A: ReactComponentFunctional<Props> = styled.a`

@@ -1,0 +1,2400 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Input API 1`] = `
+.c0 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c0:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c0::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+<Input
+  focus={false}
+  kind="primary"
+  placeholder="placeholder"
+>
+  <StyledComponent
+    focus={false}
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Input-a7ignf-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  font-size: ",
+            [Function],
+            ";
+  border-color: ",
+            [Function],
+            ";
+  box-shadow: ",
+            [Function],
+            ";
+
+  &:focus {
+    border-color: ",
+            [Function],
+            ";
+    box-shadow: 0 0 3px 0
+      ",
+            [Function],
+            ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "defaultProps": Object {
+          "focus": false,
+          "kind": "primary",
+        },
+        "displayName": "Input",
+        "propTypes": Object {
+          "focus": [Function],
+          "kind": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "Input-a7ignf-0",
+        "target": "input",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    kind="primary"
+    placeholder="placeholder"
+  >
+    <input
+      className="c0"
+      kind="primary"
+      placeholder="placeholder"
+    />
+  </StyledComponent>
+</Input>
+`;
+
+exports[`Storyshots Input With focus props 1`] = `
+.c0 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c0:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c0::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+<Input
+  focus={true}
+  kind="primary"
+  placeholder="placeholder"
+>
+  <StyledComponent
+    focus={true}
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Input-a7ignf-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  font-size: ",
+            [Function],
+            ";
+  border-color: ",
+            [Function],
+            ";
+  box-shadow: ",
+            [Function],
+            ";
+
+  &:focus {
+    border-color: ",
+            [Function],
+            ";
+    box-shadow: 0 0 3px 0
+      ",
+            [Function],
+            ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "defaultProps": Object {
+          "focus": false,
+          "kind": "primary",
+        },
+        "displayName": "Input",
+        "propTypes": Object {
+          "focus": [Function],
+          "kind": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "Input-a7ignf-0",
+        "target": "input",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    kind="primary"
+    placeholder="placeholder"
+  >
+    <input
+      className="c0"
+      kind="primary"
+      placeholder="placeholder"
+    />
+  </StyledComponent>
+</Input>
+`;
+
+exports[`Storyshots Input With kind props 1`] = `
+.c2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c2:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c2::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c2::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c1:focus {
+  border-color: #FAFAFA;
+  box-shadow: 0 0 3px 0 rgba(250,250,250,0.5);
+}
+
+.c1::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c3 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c3:focus {
+  border-color: #69BE28;
+  box-shadow: 0 0 3px 0 rgba(105,190,40,0.5);
+}
+
+.c3::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c3::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c3:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c3::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c4:focus {
+  border-color: #F5364E;
+  box-shadow: 0 0 3px 0 rgba(245,54,78,0.5);
+}
+
+.c4::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c5:focus {
+  border-color: #F39A1E;
+  box-shadow: 0 0 3px 0 rgba(243,154,30,0.5);
+}
+
+.c5::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0 > * {
+  margin: 15px;
+  width: 300px;
+}
+
+<Inputexample__Wrapper>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Inputexample__Wrapper-sc-2u4o5p-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  > * {
+    margin: 15px;
+    width: 300px;
+  }
+",
+          ],
+        },
+        "displayName": "Inputexample__Wrapper",
+        "render": [Function],
+        "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <Input
+        focus={false}
+        key="default"
+        kind="default"
+        placeholder="default"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="default"
+          placeholder="default"
+        >
+          <input
+            className="c1"
+            kind="default"
+            placeholder="default"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="primary"
+        kind="primary"
+        placeholder="primary"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="primary"
+        >
+          <input
+            className="c2"
+            kind="primary"
+            placeholder="primary"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="success"
+        kind="success"
+        placeholder="success"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="success"
+          placeholder="success"
+        >
+          <input
+            className="c3"
+            kind="success"
+            placeholder="success"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="error"
+        kind="error"
+        placeholder="error"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="error"
+          placeholder="error"
+        >
+          <input
+            className="c4"
+            kind="error"
+            placeholder="error"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="warning"
+        kind="warning"
+        placeholder="warning"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c5",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="warning"
+          placeholder="warning"
+        >
+          <input
+            className="c5"
+            kind="warning"
+            placeholder="warning"
+          />
+        </StyledComponent>
+      </Input>
+    </div>
+  </StyledComponent>
+</Inputexample__Wrapper>
+`;
+
+exports[`Storyshots Input With type props 1`] = `
+.c1 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c1:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c1::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c0 > * {
+  margin: 15px;
+  width: 300px;
+}
+
+<Inputexample__Wrapper>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Inputexample__Wrapper-sc-2u4o5p-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  > * {
+    margin: 15px;
+    width: 300px;
+  }
+",
+          ],
+        },
+        "displayName": "Inputexample__Wrapper",
+        "render": [Function],
+        "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <Input
+        focus={false}
+        key="text"
+        kind="primary"
+        placeholder="text"
+        type="text"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="text"
+          type="text"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="text"
+            type="text"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="email"
+        kind="primary"
+        placeholder="email"
+        type="email"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="email"
+          type="email"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="email"
+            type="email"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="number"
+        kind="primary"
+        placeholder="number"
+        type="number"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="number"
+          type="number"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="number"
+            type="number"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="password"
+        kind="primary"
+        placeholder="password"
+        type="password"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="password"
+          type="password"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="password"
+            type="password"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="tel"
+        kind="primary"
+        placeholder="tel"
+        type="tel"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="tel"
+          type="tel"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="tel"
+            type="tel"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="search"
+        kind="primary"
+        placeholder="search"
+        type="search"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="search"
+          type="search"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="search"
+            type="search"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="month"
+        kind="primary"
+        placeholder="month"
+        type="month"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="month"
+          type="month"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="month"
+            type="month"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="week"
+        kind="primary"
+        placeholder="week"
+        type="week"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="week"
+          type="week"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="week"
+            type="week"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="date"
+        kind="primary"
+        placeholder="date"
+        type="date"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="date"
+          type="date"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="date"
+            type="date"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="color"
+        kind="primary"
+        placeholder="color"
+        type="color"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="color"
+          type="color"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="color"
+            type="color"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="file"
+        kind="primary"
+        placeholder="file"
+        type="file"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="file"
+          type="file"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="file"
+            type="file"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="radio"
+        kind="primary"
+        placeholder="radio"
+        type="radio"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="radio"
+          type="radio"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="radio"
+            type="radio"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="time"
+        kind="primary"
+        placeholder="time"
+        type="time"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="time"
+          type="time"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="time"
+            type="time"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="url"
+        kind="primary"
+        placeholder="url"
+        type="url"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="url"
+          type="url"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="url"
+            type="url"
+          />
+        </StyledComponent>
+      </Input>
+      <Input
+        focus={false}
+        key="range"
+        kind="primary"
+        placeholder="range"
+        type="range"
+      >
+        <StyledComponent
+          focus={false}
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Input-a7ignf-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                  [Function],
+                  ";
+  color: ",
+                  [Function],
+                  ";
+  font-size: ",
+                  [Function],
+                  ";
+  border-color: ",
+                  [Function],
+                  ";
+  box-shadow: ",
+                  [Function],
+                  ";
+
+  &:focus {
+    border-color: ",
+                  [Function],
+                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                  [Function],
+                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                  [Function],
+                  ";
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "focus": false,
+                "kind": "primary",
+              },
+              "displayName": "Input",
+              "propTypes": Object {
+                "focus": [Function],
+                "kind": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "Input-a7ignf-0",
+              "target": "input",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          placeholder="range"
+          type="range"
+        >
+          <input
+            className="c1"
+            kind="primary"
+            placeholder="range"
+            type="range"
+          />
+        </StyledComponent>
+      </Input>
+    </div>
+  </StyledComponent>
+</Inputexample__Wrapper>
+`;

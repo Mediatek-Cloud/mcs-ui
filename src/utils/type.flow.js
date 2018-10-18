@@ -10,6 +10,8 @@ export type Color =
   | 'success'
   | 'error'
   | 'warning';
+export type Kind = 'default' | 'primary' | 'success' | 'error' | 'warning';
+export type Size = 'small' | 'normal';
 export type Theme = {
   color: {
     black: string,

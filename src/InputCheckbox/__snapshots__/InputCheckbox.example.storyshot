@@ -1,0 +1,1266 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots InputCheckbox API 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  fill: currentColor;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<InputCheckbox
+  onChange={[Function]}
+  value={true}
+>
+  <styled-components__StyledLabel
+    onClick={[Function]}
+  >
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__StyledLabel",
+          "render": [Function],
+          "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+          "target": "label",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      onClick={[Function]}
+    >
+      <label
+        className="c0"
+        onClick={[Function]}
+      >
+        <Checkbox
+          kind="primary"
+          render={[Function]}
+          size={14}
+          value={true}
+        >
+          <styled-components__Container
+            checked={true}
+            kind="primary"
+            size={14}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Container-sc-1jb6672-0",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                      [Function],
+                      "px;
+  height: ",
+                      [Function],
+                      "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                      [Function],
+                      ";
+  background-color: ",
+                      [Function],
+                      ";
+  border: 1px solid
+    ",
+                      [Function],
+                      ";
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Container",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              kind="primary"
+              size={14}
+            >
+              <div
+                checked={true}
+                className="c1"
+                kind="primary"
+                size={14}
+              >
+                <styled-components__Content
+                  checked={true}
+                >
+                  <StyledComponent
+                    checked={true}
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": undefined,
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styled-components__Content-sc-1jb6672-1",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                            [Function],
+                            ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled-components__Content",
+                        "render": [Function],
+                        "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                        "target": "div",
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      checked={true}
+                      className="c2"
+                    >
+                      <IconCheck
+                        height={8}
+                        width={8}
+                      >
+                        <svg
+                          height={8}
+                          width={8}
+                        >
+                          <path
+                            d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                            fill="currentColor"
+                            fillRule="evenodd"
+                          />
+                        </svg>
+                      </IconCheck>
+                    </div>
+                  </StyledComponent>
+                </styled-components__Content>
+              </div>
+            </StyledComponent>
+          </styled-components__Container>
+        </Checkbox>
+        Check it
+      </label>
+    </StyledComponent>
+  </styled-components__StyledLabel>
+</InputCheckbox>
+`;
+
+exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  fill: currentColor;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<StatefulInputCheckbox
+  render={[Function]}
+>
+  <InputCheckbox
+    onChange={[Function]}
+    render={[Function]}
+    value={true}
+  >
+    <styled-components__StyledLabel
+      onClick={[Function]}
+    >
+      <StyledComponent
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+              "isStatic": true,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+              ],
+            },
+            "displayName": "styled-components__StyledLabel",
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "target": "label",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        onClick={[Function]}
+      >
+        <label
+          className="c0"
+          onClick={[Function]}
+        >
+          <Checkbox
+            kind="primary"
+            render={[Function]}
+            size={14}
+            value={true}
+          >
+            <styled-components__Container
+              checked={true}
+              kind="primary"
+              size={14}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Container-sc-1jb6672-0",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                        [Function],
+                        "px;
+  height: ",
+                        [Function],
+                        "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                        [Function],
+                        ";
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px solid
+    ",
+                        [Function],
+                        ";
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Container",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                kind="primary"
+                size={14}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                  kind="primary"
+                  size={14}
+                >
+                  <styled-components__Content
+                    checked={true}
+                  >
+                    <StyledComponent
+                      checked={true}
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "styled-components__Content-sc-1jb6672-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                              [Function],
+                              ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                            ],
+                          },
+                          "displayName": "styled-components__Content",
+                          "render": [Function],
+                          "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                          "target": "div",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        checked={true}
+                        className="c2"
+                      >
+                        5
+                      </div>
+                    </StyledComponent>
+                  </styled-components__Content>
+                </div>
+              </StyledComponent>
+            </styled-components__Container>
+          </Checkbox>
+          Display the device image on scene
+        </label>
+      </StyledComponent>
+    </styled-components__StyledLabel>
+  </InputCheckbox>
+</StatefulInputCheckbox>
+`;
+
+exports[`Storyshots InputCheckbox With kind props 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #F5364E;
+  border: 1px solid rgb(198,44,63);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  fill: currentColor;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<InputCheckbox
+  kind="error"
+  onChange={[Function]}
+  value={true}
+>
+  <styled-components__StyledLabel
+    onClick={[Function]}
+  >
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__StyledLabel",
+          "render": [Function],
+          "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+          "target": "label",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      onClick={[Function]}
+    >
+      <label
+        className="c0"
+        onClick={[Function]}
+      >
+        <Checkbox
+          kind="error"
+          render={[Function]}
+          size={14}
+          value={true}
+        >
+          <styled-components__Container
+            checked={true}
+            kind="error"
+            size={14}
+          >
+            <StyledComponent
+              checked={true}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Container-sc-1jb6672-0",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                      [Function],
+                      "px;
+  height: ",
+                      [Function],
+                      "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                      [Function],
+                      ";
+  background-color: ",
+                      [Function],
+                      ";
+  border: 1px solid
+    ",
+                      [Function],
+                      ";
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Container",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              kind="error"
+              size={14}
+            >
+              <div
+                checked={true}
+                className="c1"
+                kind="error"
+                size={14}
+              >
+                <styled-components__Content
+                  checked={true}
+                >
+                  <StyledComponent
+                    checked={true}
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": undefined,
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styled-components__Content-sc-1jb6672-1",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                            [Function],
+                            ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled-components__Content",
+                        "render": [Function],
+                        "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                        "target": "div",
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      checked={true}
+                      className="c2"
+                    >
+                      <IconCheck
+                        height={8}
+                        width={8}
+                      >
+                        <svg
+                          height={8}
+                          width={8}
+                        >
+                          <path
+                            d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                            fill="currentColor"
+                            fillRule="evenodd"
+                          />
+                        </svg>
+                      </IconCheck>
+                    </div>
+                  </StyledComponent>
+                </styled-components__Content>
+              </div>
+            </StyledComponent>
+          </styled-components__Container>
+        </Checkbox>
+        Check it
+      </label>
+    </StyledComponent>
+  </styled-components__StyledLabel>
+</InputCheckbox>
+`;
+
+exports[`Storyshots InputCheckbox With state 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  fill: currentColor;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<StatefulInputCheckbox>
+  <InputCheckbox
+    onChange={[Function]}
+    value={true}
+  >
+    <styled-components__StyledLabel
+      onClick={[Function]}
+    >
+      <StyledComponent
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+              "isStatic": true,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+              ],
+            },
+            "displayName": "styled-components__StyledLabel",
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "target": "label",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        onClick={[Function]}
+      >
+        <label
+          className="c0"
+          onClick={[Function]}
+        >
+          <Checkbox
+            kind="primary"
+            render={[Function]}
+            size={14}
+            value={true}
+          >
+            <styled-components__Container
+              checked={true}
+              kind="primary"
+              size={14}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Container-sc-1jb6672-0",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                        [Function],
+                        "px;
+  height: ",
+                        [Function],
+                        "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                        [Function],
+                        ";
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px solid
+    ",
+                        [Function],
+                        ";
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Container",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                kind="primary"
+                size={14}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                  kind="primary"
+                  size={14}
+                >
+                  <styled-components__Content
+                    checked={true}
+                  >
+                    <StyledComponent
+                      checked={true}
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "styled-components__Content-sc-1jb6672-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                              [Function],
+                              ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                            ],
+                          },
+                          "displayName": "styled-components__Content",
+                          "render": [Function],
+                          "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                          "target": "div",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        checked={true}
+                        className="c2"
+                      >
+                        <IconCheck
+                          height={8}
+                          width={8}
+                        >
+                          <svg
+                            height={8}
+                            width={8}
+                          >
+                            <path
+                              d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                              fill="currentColor"
+                              fillRule="evenodd"
+                            />
+                          </svg>
+                        </IconCheck>
+                      </div>
+                    </StyledComponent>
+                  </styled-components__Content>
+                </div>
+              </StyledComponent>
+            </styled-components__Container>
+          </Checkbox>
+          Display the device image on scene
+        </label>
+      </StyledComponent>
+    </styled-components__StyledLabel>
+  </InputCheckbox>
+</StatefulInputCheckbox>
+`;
+
+exports[`Storyshots InputCheckbox Without children 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #00A1DE;
+  border: 1px solid rgb(0,130,179);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  fill: currentColor;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<StatefulInputCheckbox>
+  <InputCheckbox
+    onChange={[Function]}
+    value={true}
+  >
+    <styled-components__StyledLabel
+      onClick={[Function]}
+    >
+      <StyledComponent
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+              "isStatic": true,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+              ],
+            },
+            "displayName": "styled-components__StyledLabel",
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "target": "label",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        onClick={[Function]}
+      >
+        <label
+          className="c0"
+          onClick={[Function]}
+        >
+          <Checkbox
+            kind="primary"
+            render={[Function]}
+            size={14}
+            value={true}
+          >
+            <styled-components__Container
+              checked={true}
+              kind="primary"
+              size={14}
+            >
+              <StyledComponent
+                checked={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Container-sc-1jb6672-0",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                        [Function],
+                        "px;
+  height: ",
+                        [Function],
+                        "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                        [Function],
+                        ";
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px solid
+    ",
+                        [Function],
+                        ";
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Container",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                kind="primary"
+                size={14}
+              >
+                <div
+                  checked={true}
+                  className="c1"
+                  kind="primary"
+                  size={14}
+                >
+                  <styled-components__Content
+                    checked={true}
+                  >
+                    <StyledComponent
+                      checked={true}
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "styled-components__Content-sc-1jb6672-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                              [Function],
+                              ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
+",
+                            ],
+                          },
+                          "displayName": "styled-components__Content",
+                          "render": [Function],
+                          "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                          "target": "div",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        checked={true}
+                        className="c2"
+                      >
+                        <IconCheck
+                          height={8}
+                          width={8}
+                        >
+                          <svg
+                            height={8}
+                            width={8}
+                          >
+                            <path
+                              d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                              fill="currentColor"
+                              fillRule="evenodd"
+                            />
+                          </svg>
+                        </IconCheck>
+                      </div>
+                    </StyledComponent>
+                  </styled-components__Content>
+                </div>
+              </StyledComponent>
+            </styled-components__Container>
+          </Checkbox>
+        </label>
+      </StyledComponent>
+    </styled-components__StyledLabel>
+  </InputCheckbox>
+</StatefulInputCheckbox>
+`;

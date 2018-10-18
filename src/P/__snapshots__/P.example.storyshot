@@ -1,9 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots P API 1`] = `
-.c0 {
+.c1 {
   margin: 0;
   font-size: 1rem;
+}
+
+.c2 > *:nth-child(2) .c0 {
+  margin-top: 5px;
 }
 
 <P>
@@ -13,9 +17,9 @@ exports[`Storyshots P API 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "c0",
           "isStatic": false,
-          "lastClassName": "c0",
+          "lastClassName": "c1",
           "rules": Array [
             "
   margin: 0;
@@ -34,44 +38,46 @@ exports[`Storyshots P API 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "c0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
-      className="c0"
+    <p
+      className="c0 c1"
     >
-      <p
-        className="c0"
-      >
-        Nisi eu eiusmod cupidatat aute laboris commodo excepteur esse dolore incididunt incididunt aliquip pariatur est minim officia sit. Nulla pariatur duis duis quis commodo cupidatat voluptate enim culpa elit adipisicing do cupidatat sint anim. Cillum elit magna occaecat proident sit cupidatat ad quis sunt id culpa culpa. Ad duis nulla in incididunt amet consequat officia ad voluptate voluptate. Pariatur eiusmod ullamco cupidatat non magna officia aute magna deserunt qui aute dolor eu. Qui amet non ex cillum sunt ad velit consequat ipsum velit.
-      </p>
-    </BaseComponent>
+      Nisi eu eiusmod cupidatat aute laboris commodo excepteur esse dolore incididunt incididunt aliquip pariatur est minim officia sit. Nulla pariatur duis duis quis commodo cupidatat voluptate enim culpa elit adipisicing do cupidatat sint anim. Cillum elit magna occaecat proident sit cupidatat ad quis sunt id culpa culpa. Ad duis nulla in incididunt amet consequat officia ad voluptate voluptate. Pariatur eiusmod ullamco cupidatat non magna officia aute magna deserunt qui aute dolor eu. Qui amet non ex cillum sunt ad velit consequat ipsum velit.
+    </p>
   </StyledComponent>
 </P>
 `;
 
 exports[`Storyshots P Nested children with div 1`] = `
-.c0 {
+.c1 {
   margin: 0;
   font-size: 1rem;
 }
 
-<P>
+.c2 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+<P
+  as="div"
+>
   <StyledComponent
+    as="div"
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "c0",
           "isStatic": false,
-          "lastClassName": "c0",
+          "lastClassName": "c1",
           "rules": Array [
             "
   margin: 0;
@@ -90,85 +96,84 @@ exports[`Storyshots P Nested children with div 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "c0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
-      className="c0"
+    <div
+      className="c0 c1"
     >
-      <div
-        className="c0"
-      >
-        <div>
-          <span>
-            Qui amet non ex cillum sunt ad velit consequat ipsum velit.
-          </span>
-        </div>
+      <div>
+        <span>
+          Qui amet non ex cillum sunt ad velit consequat ipsum velit.
+        </span>
       </div>
-    </BaseComponent>
+    </div>
   </StyledComponent>
 </P>
 `;
 
 exports[`Storyshots P With color props 1`] = `
-.c5 {
+.c6 {
   margin: 0;
   font-size: 1rem;
   color: #00A1DE;
 }
 
-.c0 {
-  margin: 0;
-  font-size: 1rem;
-  color: #353630;
-}
-
-.c1 {
-  margin: 0;
-  font-size: 1rem;
-  color: #999A94;
-}
-
-.c2 {
-  margin: 0;
-  font-size: 1rem;
-  color: #D1D2D3;
-}
-
-.c3 {
-  margin: 0;
-  font-size: 1rem;
-  color: #FAFAFA;
-}
-
-.c4 {
-  margin: 0;
-  font-size: 1rem;
-  color: #FFFFFF;
-}
-
-.c6 {
-  margin: 0;
-  font-size: 1rem;
-  color: #69BE28;
-}
-
-.c7 {
+.c8 {
   margin: 0;
   font-size: 1rem;
   color: #F5364E;
 }
 
-.c8 {
+.c1 {
+  margin: 0;
+  font-size: 1rem;
+  color: #353630;
+}
+
+.c2 {
+  margin: 0;
+  font-size: 1rem;
+  color: #999A94;
+}
+
+.c3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #D1D2D3;
+}
+
+.c4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #FAFAFA;
+}
+
+.c5 {
+  margin: 0;
+  font-size: 1rem;
+  color: #FFFFFF;
+}
+
+.c7 {
+  margin: 0;
+  font-size: 1rem;
+  color: #69BE28;
+}
+
+.c9 {
   margin: 0;
   font-size: 1rem;
   color: #F39A1E;
+}
+
+.c10 > *:nth-child(2) .c0 {
+  margin-top: 5px;
 }
 
 <div>
@@ -183,9 +188,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -204,27 +209,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c0"
+      <p
+        className="c0 c1"
         color="black"
       >
-        <div
-          className="c0"
-          color="black"
-        >
-          Paragraph 
-          black
-        </div>
-      </BaseComponent>
+        Paragraph 
+        black
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -238,9 +237,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -259,27 +258,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c1"
+      <p
+        className="c0 c2"
         color="grayDark"
       >
-        <div
-          className="c1"
-          color="grayDark"
-        >
-          Paragraph 
-          grayDark
-        </div>
-      </BaseComponent>
+        Paragraph 
+        grayDark
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -293,9 +286,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -314,27 +307,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c2"
+      <p
+        className="c0 c3"
         color="grayBase"
       >
-        <div
-          className="c2"
-          color="grayBase"
-        >
-          Paragraph 
-          grayBase
-        </div>
-      </BaseComponent>
+        Paragraph 
+        grayBase
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -348,9 +335,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -369,27 +356,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c3"
+      <p
+        className="c0 c4"
         color="grayLight"
       >
-        <div
-          className="c3"
-          color="grayLight"
-        >
-          Paragraph 
-          grayLight
-        </div>
-      </BaseComponent>
+        Paragraph 
+        grayLight
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -403,9 +384,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -424,27 +405,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c4"
+      <p
+        className="c0 c5"
         color="white"
       >
-        <div
-          className="c4"
-          color="white"
-        >
-          Paragraph 
-          white
-        </div>
-      </BaseComponent>
+        Paragraph 
+        white
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -458,9 +433,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -479,27 +454,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c3"
+      <p
+        className="c0 c4"
         color="default"
       >
-        <div
-          className="c3"
-          color="default"
-        >
-          Paragraph 
-          default
-        </div>
-      </BaseComponent>
+        Paragraph 
+        default
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -513,9 +482,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -534,27 +503,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c5"
+      <p
+        className="c0 c6"
         color="primary"
       >
-        <div
-          className="c5"
-          color="primary"
-        >
-          Paragraph 
-          primary
-        </div>
-      </BaseComponent>
+        Paragraph 
+        primary
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -568,9 +531,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -589,27 +552,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c6"
+      <p
+        className="c0 c7"
         color="success"
       >
-        <div
-          className="c6"
-          color="success"
-        >
-          Paragraph 
-          success
-        </div>
-      </BaseComponent>
+        Paragraph 
+        success
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -623,9 +580,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -644,27 +601,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c7"
+      <p
+        className="c0 c8"
         color="error"
       >
-        <div
-          className="c7"
-          color="error"
-        >
-          Paragraph 
-          error
-        </div>
-      </BaseComponent>
+        Paragraph 
+        error
+      </p>
     </StyledComponent>
   </P>
   <P
@@ -678,9 +629,9 @@ exports[`Storyshots P With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bxivhb",
+            "componentId": "c0",
             "isStatic": false,
-            "lastClassName": "c8",
+            "lastClassName": "c9",
             "rules": Array [
               "
   margin: 0;
@@ -699,27 +650,21 @@ exports[`Storyshots P With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bxivhb",
-          "target": [Function],
+          "styledComponentId": "c0",
+          "target": "p",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
     >
-      <BaseComponent
-        className="c8"
+      <p
+        className="c0 c9"
         color="warning"
       >
-        <div
-          className="c8"
-          color="warning"
-        >
-          Paragraph 
-          warning
-        </div>
-      </BaseComponent>
+        Paragraph 
+        warning
+      </p>
     </StyledComponent>
   </P>
 </div>

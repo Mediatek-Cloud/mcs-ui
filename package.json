@@ -12,7 +12,6 @@
     "build": "nwb build-react-component",
     "build-storybook": "build-storybook",
     "clean": "nwb clean-module && nwb clean-demo",
-    "prepublishOnly": "npm run clean && npm run build",
     "start": "start-storybook -p 6006",
     "test": "NODE_ENV='test' TZ='UTC' jest --coverage --runInBand",
     "test:watch": "npm run test -- --watch",
@@ -23,29 +22,35 @@
   },
   "dependencies": {
     "d3-color": "^1.2.3",
+    "date-fns": "^2.0.0-alpha.22",
     "prop-types": "^15.6.2",
-    "ramda": "^0.25.0"
+    "raf-throttle": "^2.0.3",
+    "ramda": "^0.25.0",
+    "react-overlay-pack": "^3.0.0",
+    "react-virtualized": "^9.20.1"
   },
   "peerDependencies": {
     "react": "^16.0.0",
-    "styled-components": "^4.0.0"
+    "styled-components": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@storybook/addon-actions": "^4.0.0-rc.0",
-    "@storybook/addon-info": "^4.0.0-rc.0",
-    "@storybook/addon-links": "^4.0.0-rc.0",
-    "@storybook/addon-options": "^4.0.0-rc.0",
-    "@storybook/addon-storyshots": "^4.0.0-rc.0",
-    "@storybook/react": "^4.0.0-rc.0",
+    "@storybook/addon-actions": "^4.0.0-rc.1",
+    "@storybook/addon-info": "^4.0.0-rc.1",
+    "@storybook/addon-links": "^4.0.0-rc.1",
+    "@storybook/addon-options": "^4.0.0-rc.1",
+    "@storybook/addon-storyshots": "^4.0.0-rc.1",
+    "@storybook/react": "^4.0.0-rc.1",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
     "babel-plugin-require-context-hook": "^1.0.0",
+    "babel-plugin-styled-components": "^1.8.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "enzyme-to-json": "^3.3.4",
@@ -70,7 +75,7 @@
     "prettier": "^1.14.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "styled-components": "^4.0.0"
+    "styled-components": "^4.0.2"
   },
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "homepage": "https://github.com/Mediatek-Cloud/mcs-ui#readme",
@@ -83,7 +88,17 @@
     "env": {
       "test": {
         "plugins": [
-          "require-context-hook"
+          "require-context-hook",
+          "@babel/plugin-proposal-class-properties",
+          [
+            "styled-components",
+            {
+              "ssr": true,
+              "displayName": true,
+              "preprocess": false,
+              "minify": false
+            }
+          ]
         ],
         "presets": [
           [
@@ -139,7 +154,7 @@
     "reportTypes": [
       "text"
     ],
-    "threshold": 76
+    "threshold": 91
   },
   "eslintConfig": {
     "parser": "babel-eslint",

@@ -16,7 +16,7 @@ exports[`Storyshots Heading API 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-htpNat",
+          "componentId": "Heading-sc-1ol6ekh-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -41,7 +41,7 @@ exports[`Storyshots Heading API 1`] = `
           "level": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-htpNat",
+        "styledComponentId": "Heading-sc-1ol6ekh-0",
         "target": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -142,7 +142,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -167,7 +167,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -204,7 +204,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -229,7 +229,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -266,7 +266,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -291,7 +291,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -328,7 +328,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -353,7 +353,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -390,7 +390,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -415,7 +415,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -452,7 +452,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -477,7 +477,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -514,7 +514,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -539,7 +539,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -576,7 +576,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -601,7 +601,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -638,7 +638,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -663,7 +663,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -700,7 +700,7 @@ exports[`Storyshots Heading With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -725,7 +725,7 @@ exports[`Storyshots Heading With color props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -795,7 +795,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -820,7 +820,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -861,7 +861,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -886,7 +886,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -927,7 +927,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -952,7 +952,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -993,7 +993,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -1018,7 +1018,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -1059,7 +1059,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -1084,7 +1084,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -1125,7 +1125,7 @@ exports[`Storyshots Heading With level props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-htpNat",
+            "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
             "lastClassName": "c4",
             "rules": Array [
@@ -1150,7 +1150,7 @@ exports[`Storyshots Heading With level props 1`] = `
             "level": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-htpNat",
+          "styledComponentId": "Heading-sc-1ol6ekh-0",
           "target": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],

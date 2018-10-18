@@ -28,7 +28,7 @@ exports[`Storyshots A API 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bdVaJa",
+          "componentId": "A-sc-1bkdbcq-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -60,7 +60,7 @@ exports[`Storyshots A API 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bdVaJa",
+        "styledComponentId": "A-sc-1bkdbcq-0",
         "target": "a",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -115,7 +115,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-htpNat",
+          "componentId": "Heading-sc-1ol6ekh-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -140,7 +140,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
           "level": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-htpNat",
+        "styledComponentId": "Heading-sc-1ol6ekh-0",
         "target": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -165,7 +165,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "sc-bwzfXH",
+                  "componentId": "B-sc-1ocntpk-0",
                   "isStatic": true,
                   "lastClassName": "c1",
                   "rules": Array [
@@ -176,7 +176,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                 },
                 "displayName": "B",
                 "render": [Function],
-                "styledComponentId": "sc-bwzfXH",
+                "styledComponentId": "B-sc-1ocntpk-0",
                 "target": "b",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -197,7 +197,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": undefined,
                       "componentStyle": ComponentStyle {
-                        "componentId": "sc-bdVaJa",
+                        "componentId": "A-sc-1bkdbcq-0",
                         "isStatic": false,
                         "lastClassName": "c2",
                         "rules": Array [
@@ -229,7 +229,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                         "color": [Function],
                       },
                       "render": [Function],
-                      "styledComponentId": "sc-bdVaJa",
+                      "styledComponentId": "A-sc-1bkdbcq-0",
                       "target": "a",
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
@@ -420,7 +420,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -452,7 +452,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -480,7 +480,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -512,7 +512,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -540,7 +540,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -572,7 +572,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -600,7 +600,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -632,7 +632,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -660,7 +660,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -692,7 +692,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -720,7 +720,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -752,7 +752,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -780,7 +780,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -812,7 +812,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -840,7 +840,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -872,7 +872,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -900,7 +900,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -932,7 +932,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -960,7 +960,7 @@ exports[`Storyshots A With color props 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-bdVaJa",
+            "componentId": "A-sc-1bkdbcq-0",
             "isStatic": false,
             "lastClassName": "c8",
             "rules": Array [
@@ -992,7 +992,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": [Function],
           },
           "render": [Function],
-          "styledComponentId": "sc-bdVaJa",
+          "styledComponentId": "A-sc-1bkdbcq-0",
           "target": "a",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],

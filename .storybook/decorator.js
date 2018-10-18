@@ -4,7 +4,7 @@ import * as React from 'react';
 import { ThemeProvider, createGlobalStyle } from 'styled-components';
 // $FlowFixMe
 import normalize from 'polished/lib/mixins/normalize';
-import defaultTheme from '../src/utils/theme';
+import { theme as defaultTheme } from '../src/index';
 import { type ThemeProps } from '../src/utils/type.flow';
 
 const GlobalStyles = createGlobalStyle`

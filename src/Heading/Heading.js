@@ -5,7 +5,7 @@ import styled, { css, type ReactComponentFunctional } from 'styled-components';
 import BaseComponent from './BaseComponent';
 import { type ThemeProps, type Color } from '../utils/type.flow';
 
-type Props = { color?: Color, level?: number, children: React.Node };
+export type Props = { color?: Color, level?: number, children: React.Node };
 type InnerProps = {
   color: Color,
   level: number,

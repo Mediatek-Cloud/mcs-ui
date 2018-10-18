@@ -1,0 +1,1742 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Form Fieldset 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.c0 > *:nth-child(1) {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  padding-top: 0.5em;
+  margin-right: 10px;
+  padding-bottom: 5px;
+  -webkit-flex-basis: 10em;
+  -ms-flex-preferred-size: 10em;
+  flex-basis: 10em;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c0 > *:nth-child(2) {
+  -webkit-box-flex: 9999;
+  -webkit-flex-grow: 9999;
+  -ms-flex-positive: 9999;
+  flex-grow: 9999;
+  min-width: 200px;
+}
+
+.c0 > *:nth-child(2) .c1 {
+  margin-top: 5px;
+}
+
+<Fieldset
+  width={200}
+>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Fieldset-c881qj-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  /* Note: there is a problem with native fieldset using with flex. */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+
+  /* Note: Label */
+  > *:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0.5em;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    flex-basis: 10em;
+    flex-shrink: 0;
+    flex-grow: 1; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+  }
+
+  /* Note: Input wrapper */
+  > *:nth-child(2) {
+    flex-grow: 9999; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+    min-width: ",
+            [Function],
+            "px; /* Note: for flex-wrap */
+
+    /* Note: Error message */
+    ",
+            ".c1",
+            " {
+      margin-top: 5px;
+    }
+  }
+",
+          ],
+        },
+        "defaultProps": Object {
+          "width": 200,
+        },
+        "displayName": "Fieldset",
+        "propTypes": Object {
+          "width": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "Fieldset-c881qj-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    width={200}
+  >
+    <div
+      className="c0"
+      width={200}
+    >
+      <div
+        style={
+          Object {
+            "backgroundColor": "antiquewhite",
+          }
+        }
+      >
+        Label Component
+      </div>
+      <div
+        style={
+          Object {
+            "backgroundColor": "aliceblue",
+          }
+        }
+      >
+        Input Component
+      </div>
+    </div>
+  </StyledComponent>
+</Fieldset>
+`;
+
+exports[`Storyshots Form Form 1`] = `
+.c8 {
+  margin: 0;
+  font-size: 1rem;
+  color: #F5364E;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.c2 > *:nth-child(1) {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  padding-top: 0.5em;
+  margin-right: 10px;
+  padding-bottom: 5px;
+  -webkit-flex-basis: 10em;
+  -ms-flex-preferred-size: 10em;
+  flex-basis: 10em;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c2 > *:nth-child(2) {
+  -webkit-box-flex: 9999;
+  -webkit-flex-grow: 9999;
+  -ms-flex-positive: 9999;
+  flex-grow: 9999;
+  min-width: 200px;
+}
+
+.c2 > *:nth-child(2) .c7 {
+  margin-top: 5px;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 > .c1 {
+  max-width: 478px;
+}
+
+.c0 > .c1:not(:first-child) {
+  margin-top: 10px;
+}
+
+.c4 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c4:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c4::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c6 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #F5364E;
+  box-shadow: 0 0 3px 0 rgba(245,54,78,0.5);
+}
+
+.c6:focus {
+  border-color: #F5364E;
+  box-shadow: 0 0 3px 0 rgba(245,54,78,0.5);
+}
+
+.c6::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c6::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c6:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c6::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c3::after {
+  content: "";
+  margin-left: 0;
+  color: #F5364E;
+}
+
+.c5::after {
+  content: "*";
+  margin-left: 0.25em;
+  color: #F5364E;
+}
+
+<Form
+  style={
+    Object {
+      "backgroundColor": "aliceblue",
+    }
+  }
+>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Form-sc-3bbe89-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  > ",
+            ".c1",
+            " {
+    max-width: ",
+            "478",
+            "px;
+  }
+
+  > ",
+            ".c1",
+            ":not(:first-child) {
+    margin-top: 10px;
+  }
+",
+          ],
+        },
+        "displayName": "Form",
+        "render": [Function],
+        "styledComponentId": "Form-sc-3bbe89-0",
+        "target": "form",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    style={
+      Object {
+        "backgroundColor": "aliceblue",
+      }
+    }
+  >
+    <form
+      className="c0"
+      style={
+        Object {
+          "backgroundColor": "aliceblue",
+        }
+      }
+    >
+      <Fieldset
+        width={200}
+      >
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "c1",
+                "isStatic": false,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "
+  /* Note: there is a problem with native fieldset using with flex. */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+
+  /* Note: Label */
+  > *:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0.5em;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    flex-basis: 10em;
+    flex-shrink: 0;
+    flex-grow: 1; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+  }
+
+  /* Note: Input wrapper */
+  > *:nth-child(2) {
+    flex-grow: 9999; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+    min-width: ",
+                  [Function],
+                  "px; /* Note: for flex-wrap */
+
+    /* Note: Error message */
+    ",
+                  ".c7",
+                  " {
+      margin-top: 5px;
+    }
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "width": 200,
+              },
+              "displayName": "Fieldset",
+              "propTypes": Object {
+                "width": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "c1",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          width={200}
+        >
+          <div
+            className="c1 c2"
+            width={200}
+          >
+            <div>
+              <Label>
+                <StyledComponent
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Label-pwgi1j-0",
+                        "isStatic": false,
+                        "lastClassName": "c5",
+                        "rules": Array [
+                          "
+  &::after {
+    content: \\"",
+                          [Function],
+                          "\\";
+    margin-left: ",
+                          [Function],
+                          ";
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "displayName": "Label",
+                      "propTypes": Object {
+                        "required": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Label-pwgi1j-0",
+                      "target": "label",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <label
+                    className="c3"
+                  >
+                    Device name
+                  </label>
+                </StyledComponent>
+              </Label>
+            </div>
+            <div>
+              <Input
+                focus={false}
+                kind="primary"
+                placeholder="input the display name"
+              >
+                <StyledComponent
+                  focus={false}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c6",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  kind="primary"
+                  placeholder="input the display name"
+                >
+                  <input
+                    className="c4"
+                    kind="primary"
+                    placeholder="input the display name"
+                  />
+                </StyledComponent>
+              </Input>
+            </div>
+          </div>
+        </StyledComponent>
+      </Fieldset>
+      <Fieldset
+        width={200}
+      >
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "c1",
+                "isStatic": false,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "
+  /* Note: there is a problem with native fieldset using with flex. */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+
+  /* Note: Label */
+  > *:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0.5em;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    flex-basis: 10em;
+    flex-shrink: 0;
+    flex-grow: 1; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+  }
+
+  /* Note: Input wrapper */
+  > *:nth-child(2) {
+    flex-grow: 9999; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+    min-width: ",
+                  [Function],
+                  "px; /* Note: for flex-wrap */
+
+    /* Note: Error message */
+    ",
+                  ".c7",
+                  " {
+      margin-top: 5px;
+    }
+  }
+",
+                ],
+              },
+              "defaultProps": Object {
+                "width": 200,
+              },
+              "displayName": "Fieldset",
+              "propTypes": Object {
+                "width": [Function],
+              },
+              "render": [Function],
+              "styledComponentId": "c1",
+              "target": "div",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          width={200}
+        >
+          <div
+            className="c1 c2"
+            width={200}
+          >
+            <Label
+              htmlFor="scene"
+              required={true}
+            >
+              <StyledComponent
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Label-pwgi1j-0",
+                      "isStatic": false,
+                      "lastClassName": "c5",
+                      "rules": Array [
+                        "
+  &::after {
+    content: \\"",
+                        [Function],
+                        "\\";
+    margin-left: ",
+                        [Function],
+                        ";
+    color: ",
+                        [Function],
+                        ";
+  }
+",
+                      ],
+                    },
+                    "displayName": "Label",
+                    "propTypes": Object {
+                      "required": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "Label-pwgi1j-0",
+                    "target": "label",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                htmlFor="scene"
+                required={true}
+              >
+                <label
+                  className="c5"
+                  htmlFor="scene"
+                  required={true}
+                >
+                  Scene name
+                </label>
+              </StyledComponent>
+            </Label>
+            <div>
+              <Input
+                focus={true}
+                id="scene"
+                kind="error"
+                placeholder="input the scene name"
+              >
+                <StyledComponent
+                  focus={true}
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Input-a7ignf-0",
+                        "isStatic": false,
+                        "lastClassName": "c6",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                          [Function],
+                          ";
+  color: ",
+                          [Function],
+                          ";
+  font-size: ",
+                          [Function],
+                          ";
+  border-color: ",
+                          [Function],
+                          ";
+  box-shadow: ",
+                          [Function],
+                          ";
+
+  &:focus {
+    border-color: ",
+                          [Function],
+                          ";
+    box-shadow: 0 0 3px 0
+      ",
+                          [Function],
+                          ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "focus": false,
+                        "kind": "primary",
+                      },
+                      "displayName": "Input",
+                      "propTypes": Object {
+                        "focus": [Function],
+                        "kind": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "Input-a7ignf-0",
+                      "target": "input",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  id="scene"
+                  kind="error"
+                  placeholder="input the scene name"
+                >
+                  <input
+                    className="c6"
+                    id="scene"
+                    kind="error"
+                    placeholder="input the scene name"
+                  />
+                </StyledComponent>
+              </Input>
+              <ErrorMessage>
+                <mock-transition
+                  animation={
+                    Object {
+                      "ease": "easeOutQuart",
+                      "translateX": 0,
+                    }
+                  }
+                  component={false}
+                  style={
+                    Object {
+                      "transform": "translateX(6px)",
+                    }
+                  }
+                >
+                  <P
+                    color="error"
+                  >
+                    <StyledComponent
+                      color="error"
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c7",
+                            "isStatic": false,
+                            "lastClassName": "c8",
+                            "rules": Array [
+                              "
+  margin: 0;
+  font-size: ",
+                              [Function],
+                              ";
+
+  ",
+                              [Function],
+                              ";
+",
+                            ],
+                          },
+                          "displayName": "P",
+                          "propTypes": Object {
+                            "color": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "c7",
+                          "target": "p",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <p
+                        className="c7 c8"
+                        color="error"
+                      >
+                        Please input the scene name
+                      </p>
+                    </StyledComponent>
+                  </P>
+                </mock-transition>
+              </ErrorMessage>
+            </div>
+          </div>
+        </StyledComponent>
+      </Fieldset>
+    </form>
+  </StyledComponent>
+</Form>
+`;
+
+exports[`Storyshots Form ResponsivePanel 1`] = `
+.c9 {
+  margin: 0;
+  font-size: 1rem;
+  color: #F5364E;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.c3 > *:nth-child(1) {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  padding-top: 0.5em;
+  margin-right: 10px;
+  padding-bottom: 5px;
+  -webkit-flex-basis: 10em;
+  -ms-flex-preferred-size: 10em;
+  flex-basis: 10em;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c3 > *:nth-child(2) {
+  -webkit-box-flex: 9999;
+  -webkit-flex-grow: 9999;
+  -ms-flex-positive: 9999;
+  flex-grow: 9999;
+  min-width: 200px;
+}
+
+.c3 > *:nth-child(2) .c8 {
+  margin-top: 5px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 > .c2 {
+  max-width: 478px;
+}
+
+.c1 > .c2:not(:first-child) {
+  margin-top: 10px;
+}
+
+.c0 {
+  width: 100%;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  max-width: 618px;
+  margin: auto;
+}
+
+.c0 > header {
+  background-color: #FAFAFA;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,0.05);
+  border-radius: 3px;
+  height: 50px;
+}
+
+.c0 > main,
+.c0 > footer {
+  padding: 20px;
+}
+
+.c0 > header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.c0 > footer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c0 > footer > * + * {
+  margin-left: 10px;
+}
+
+.c5 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #D1D2D3;
+  box-shadow: none;
+}
+
+.c5:focus {
+  border-color: #00A1DE;
+  box-shadow: 0 0 3px 0 rgba(0,161,222,0.5);
+}
+
+.c5::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c5::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c7 {
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: 32px;
+  color: #353630;
+  font-size: 1rem;
+  border-color: #F5364E;
+  box-shadow: 0 0 3px 0 rgba(245,54,78,0.5);
+}
+
+.c7:focus {
+  border-color: #F5364E;
+  box-shadow: 0 0 3px 0 rgba(245,54,78,0.5);
+}
+
+.c7::-webkit-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c7::-moz-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c7:-ms-input-placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c7::placeholder {
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c4::after {
+  content: "";
+  margin-left: 0;
+  color: #F5364E;
+}
+
+.c6::after {
+  content: "*";
+  margin-left: 0.25em;
+  color: #F5364E;
+}
+
+<ResponsivePanel
+  style={
+    Object {
+      "backgroundColor": "aliceblue",
+    }
+  }
+  width={618}
+>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "ResponsivePanel-xz3mbp-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  width: 100%;
+  border-radius: 3px;
+  background-color: ",
+            [Function],
+            ";
+
+  > header {
+    background-color: ",
+            [Function],
+            ";
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
+    border-radius: 3px;
+    height: 50px;
+  }
+
+  > main,
+  > footer {
+    padding: 20px;
+  }
+",
+            "
+  max-width: ",
+            [Function],
+            "px;
+  margin: auto; /* Note: center by default and top for overflow, ref: https://goo.gl/3i1sSD */
+
+  > header {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+  }
+
+  > footer {
+    display: flex;
+    justify-content: center;
+
+    > * + * {
+      margin-left: 10px;
+    }
+  }
+",
+          ],
+        },
+        "defaultProps": Object {
+          "width": 618,
+        },
+        "displayName": "ResponsivePanel",
+        "propTypes": Object {
+          "width": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "ResponsivePanel-xz3mbp-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    style={
+      Object {
+        "backgroundColor": "aliceblue",
+      }
+    }
+    width={618}
+  >
+    <div
+      className="c0"
+      style={
+        Object {
+          "backgroundColor": "aliceblue",
+        }
+      }
+      width={618}
+    >
+      <header>
+        Add scene
+      </header>
+      <main>
+        <Form>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "Form-sc-3bbe89-0",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  > ",
+                    ".c2",
+                    " {
+    max-width: ",
+                    "478",
+                    "px;
+  }
+
+  > ",
+                    ".c2",
+                    ":not(:first-child) {
+    margin-top: 10px;
+  }
+",
+                  ],
+                },
+                "displayName": "Form",
+                "render": [Function],
+                "styledComponentId": "Form-sc-3bbe89-0",
+                "target": "form",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <form
+              className="c1"
+            >
+              <Fieldset
+                width={200}
+              >
+                <StyledComponent
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "c2",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  /* Note: there is a problem with native fieldset using with flex. */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+
+  /* Note: Label */
+  > *:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0.5em;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    flex-basis: 10em;
+    flex-shrink: 0;
+    flex-grow: 1; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+  }
+
+  /* Note: Input wrapper */
+  > *:nth-child(2) {
+    flex-grow: 9999; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+    min-width: ",
+                          [Function],
+                          "px; /* Note: for flex-wrap */
+
+    /* Note: Error message */
+    ",
+                          ".c8",
+                          " {
+      margin-top: 5px;
+    }
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "width": 200,
+                      },
+                      "displayName": "Fieldset",
+                      "propTypes": Object {
+                        "width": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "c2",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  width={200}
+                >
+                  <div
+                    className="c2 c3"
+                    width={200}
+                  >
+                    <div>
+                      <Label>
+                        <StyledComponent
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Label-pwgi1j-0",
+                                "isStatic": false,
+                                "lastClassName": "c6",
+                                "rules": Array [
+                                  "
+  &::after {
+    content: \\"",
+                                  [Function],
+                                  "\\";
+    margin-left: ",
+                                  [Function],
+                                  ";
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "displayName": "Label",
+                              "propTypes": Object {
+                                "required": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Label-pwgi1j-0",
+                              "target": "label",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <label
+                            className="c4"
+                          >
+                            Device name
+                          </label>
+                        </StyledComponent>
+                      </Label>
+                    </div>
+                    <div>
+                      <Input
+                        focus={false}
+                        kind="primary"
+                        placeholder="input the display name"
+                      >
+                        <StyledComponent
+                          focus={false}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Input-a7ignf-0",
+                                "isStatic": false,
+                                "lastClassName": "c7",
+                                "rules": Array [
+                                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                                  [Function],
+                                  ";
+  color: ",
+                                  [Function],
+                                  ";
+  font-size: ",
+                                  [Function],
+                                  ";
+  border-color: ",
+                                  [Function],
+                                  ";
+  box-shadow: ",
+                                  [Function],
+                                  ";
+
+  &:focus {
+    border-color: ",
+                                  [Function],
+                                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                                  [Function],
+                                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "defaultProps": Object {
+                                "focus": false,
+                                "kind": "primary",
+                              },
+                              "displayName": "Input",
+                              "propTypes": Object {
+                                "focus": [Function],
+                                "kind": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Input-a7ignf-0",
+                              "target": "input",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          kind="primary"
+                          placeholder="input the display name"
+                        >
+                          <input
+                            className="c5"
+                            kind="primary"
+                            placeholder="input the display name"
+                          />
+                        </StyledComponent>
+                      </Input>
+                    </div>
+                  </div>
+                </StyledComponent>
+              </Fieldset>
+              <Fieldset
+                width={200}
+              >
+                <StyledComponent
+                  forwardedClass={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": undefined,
+                      "componentStyle": ComponentStyle {
+                        "componentId": "c2",
+                        "isStatic": false,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  /* Note: there is a problem with native fieldset using with flex. */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+
+  /* Note: Label */
+  > *:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0.5em;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    flex-basis: 10em;
+    flex-shrink: 0;
+    flex-grow: 1; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+  }
+
+  /* Note: Input wrapper */
+  > *:nth-child(2) {
+    flex-grow: 9999; /* Note: for flex-wrap. ref: https://goo.gl/7fdFLp */
+    min-width: ",
+                          [Function],
+                          "px; /* Note: for flex-wrap */
+
+    /* Note: Error message */
+    ",
+                          ".c8",
+                          " {
+      margin-top: 5px;
+    }
+  }
+",
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "width": 200,
+                      },
+                      "displayName": "Fieldset",
+                      "propTypes": Object {
+                        "width": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "c2",
+                      "target": "div",
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  width={200}
+                >
+                  <div
+                    className="c2 c3"
+                    width={200}
+                  >
+                    <Label
+                      htmlFor="scene"
+                      required={true}
+                    >
+                      <StyledComponent
+                        forwardedClass={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": undefined,
+                            "componentStyle": ComponentStyle {
+                              "componentId": "Label-pwgi1j-0",
+                              "isStatic": false,
+                              "lastClassName": "c6",
+                              "rules": Array [
+                                "
+  &::after {
+    content: \\"",
+                                [Function],
+                                "\\";
+    margin-left: ",
+                                [Function],
+                                ";
+    color: ",
+                                [Function],
+                                ";
+  }
+",
+                              ],
+                            },
+                            "displayName": "Label",
+                            "propTypes": Object {
+                              "required": [Function],
+                            },
+                            "render": [Function],
+                            "styledComponentId": "Label-pwgi1j-0",
+                            "target": "label",
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        htmlFor="scene"
+                        required={true}
+                      >
+                        <label
+                          className="c6"
+                          htmlFor="scene"
+                          required={true}
+                        >
+                          Scene name
+                        </label>
+                      </StyledComponent>
+                    </Label>
+                    <div>
+                      <Input
+                        focus={true}
+                        id="scene"
+                        kind="error"
+                        placeholder="input the scene name"
+                      >
+                        <StyledComponent
+                          focus={true}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Input-a7ignf-0",
+                                "isStatic": false,
+                                "lastClassName": "c7",
+                                "rules": Array [
+                                  "
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  padding: 0 10px;
+  line-height: 1;
+  min-height: ",
+                                  [Function],
+                                  ";
+  color: ",
+                                  [Function],
+                                  ";
+  font-size: ",
+                                  [Function],
+                                  ";
+  border-color: ",
+                                  [Function],
+                                  ";
+  box-shadow: ",
+                                  [Function],
+                                  ";
+
+  &:focus {
+    border-color: ",
+                                  [Function],
+                                  ";
+    box-shadow: 0 0 3px 0
+      ",
+                                  [Function],
+                                  ";
+  }
+
+  &::placeholder {
+    opacity: 1;
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "defaultProps": Object {
+                                "focus": false,
+                                "kind": "primary",
+                              },
+                              "displayName": "Input",
+                              "propTypes": Object {
+                                "focus": [Function],
+                                "kind": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Input-a7ignf-0",
+                              "target": "input",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          id="scene"
+                          kind="error"
+                          placeholder="input the scene name"
+                        >
+                          <input
+                            className="c7"
+                            id="scene"
+                            kind="error"
+                            placeholder="input the scene name"
+                          />
+                        </StyledComponent>
+                      </Input>
+                      <ErrorMessage>
+                        <mock-transition
+                          animation={
+                            Object {
+                              "ease": "easeOutQuart",
+                              "translateX": 0,
+                            }
+                          }
+                          component={false}
+                          style={
+                            Object {
+                              "transform": "translateX(6px)",
+                            }
+                          }
+                        >
+                          <P
+                            color="error"
+                          >
+                            <StyledComponent
+                              color="error"
+                              forwardedClass={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": undefined,
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c8",
+                                    "isStatic": false,
+                                    "lastClassName": "c9",
+                                    "rules": Array [
+                                      "
+  margin: 0;
+  font-size: ",
+                                      [Function],
+                                      ";
+
+  ",
+                                      [Function],
+                                      ";
+",
+                                    ],
+                                  },
+                                  "displayName": "P",
+                                  "propTypes": Object {
+                                    "color": [Function],
+                                  },
+                                  "render": [Function],
+                                  "styledComponentId": "c8",
+                                  "target": "p",
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <p
+                                className="c8 c9"
+                                color="error"
+                              >
+                                Please input the scene name
+                              </p>
+                            </StyledComponent>
+                          </P>
+                        </mock-transition>
+                      </ErrorMessage>
+                    </div>
+                  </div>
+                </StyledComponent>
+              </Fieldset>
+            </form>
+          </StyledComponent>
+        </Form>
+      </main>
+    </div>
+  </StyledComponent>
+</ResponsivePanel>
+`;

@@ -1,24 +1,21 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
-import { withInfo } from '@storybook/addon-info';
 import theme from '../utils/theme';
-import { A, B, Heading } from '../index';
+import A from '.';
+import B from '../B';
+import Heading from '../Heading';
 
 storiesOf('A', module)
-  .add(
-    'API',
-    withInfo({
+  .add('API', () => <A>Link</A>, {
+    info: {
       text: 'anchor A',
       inline: true,
-    })(() => <A>Link</A>),
-  )
+    },
+  })
   .add(
     'With color props',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <div>
         {Object.keys(theme.color).map(key => (
           <A key={key} color={key}>
@@ -26,19 +23,28 @@ storiesOf('A', module)
           </A>
         ))}
       </div>
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'Nested children with Heading',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <Heading>
         Heading Level 1&nbsp;
         <B>
           <A>Link</A>
         </B>
       </Heading>
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   );

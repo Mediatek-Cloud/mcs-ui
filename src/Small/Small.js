@@ -2,7 +2,7 @@
 import styled, { type ReactComponentFunctional } from 'styled-components';
 import { type ThemeProps } from '../utils/type.flow';
 
-type Props = {};
+export type Props = {};
 type InnerProps = Props & ThemeProps;
 
 const Small: ReactComponentFunctional<Props> = styled.small`

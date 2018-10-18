@@ -12,7 +12,7 @@ exports[`Storyshots B API 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bwzfXH",
+          "componentId": "B-sc-1ocntpk-0",
           "isStatic": true,
           "lastClassName": "c0",
           "rules": Array [
@@ -23,7 +23,7 @@ exports[`Storyshots B API 1`] = `
         },
         "displayName": "B",
         "render": [Function],
-        "styledComponentId": "sc-bwzfXH",
+        "styledComponentId": "B-sc-1ocntpk-0",
         "target": "b",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -60,7 +60,7 @@ exports[`Storyshots B CJK 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-htpNat",
+          "componentId": "Heading-sc-1ol6ekh-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -85,7 +85,7 @@ exports[`Storyshots B CJK 1`] = `
           "level": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-htpNat",
+        "styledComponentId": "Heading-sc-1ol6ekh-0",
         "target": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
@@ -109,7 +109,7 @@ exports[`Storyshots B CJK 1`] = `
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "sc-bwzfXH",
+                  "componentId": "B-sc-1ocntpk-0",
                   "isStatic": true,
                   "lastClassName": "c1",
                   "rules": Array [
@@ -120,7 +120,7 @@ exports[`Storyshots B CJK 1`] = `
                 },
                 "displayName": "B",
                 "render": [Function],
-                "styledComponentId": "sc-bwzfXH",
+                "styledComponentId": "B-sc-1ocntpk-0",
                 "target": "b",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -142,14 +142,14 @@ exports[`Storyshots B CJK 1`] = `
 `;
 
 exports[`Storyshots B With color 1`] = `
-.c1 {
-  font-weight: bold;
-}
-
 .c0 {
   margin: 0;
   font-size: 1rem;
   color: #00A1DE;
+}
+
+.c1 {
+  font-weight: bold;
 }
 
 <P
@@ -162,7 +162,7 @@ exports[`Storyshots B With color 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "P-sc-1ujgctf-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -183,72 +183,66 @@ exports[`Storyshots B With color 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "P-sc-1ujgctf-0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
+    <p
       className="c0"
       color="primary"
     >
-      <div
-        className="c0"
-        color="primary"
-      >
-        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-        <B>
-          <StyledComponent
-            forwardedClass={
-              Object {
-                "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
-                "componentStyle": ComponentStyle {
-                  "componentId": "sc-bwzfXH",
-                  "isStatic": true,
-                  "lastClassName": "c1",
-                  "rules": Array [
-                    "
+      Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+      <B>
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "B-sc-1ocntpk-0",
+                "isStatic": true,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
   font-weight: bold;
 ",
-                  ],
-                },
-                "displayName": "B",
-                "render": [Function],
-                "styledComponentId": "sc-bwzfXH",
-                "target": "b",
-                "warnTooManyClasses": [Function],
-                "withComponent": [Function],
-              }
+                ],
+              },
+              "displayName": "B",
+              "render": [Function],
+              "styledComponentId": "B-sc-1ocntpk-0",
+              "target": "b",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
             }
-            forwardedRef={null}
+          }
+          forwardedRef={null}
+        >
+          <b
+            className="c1"
           >
-            <b
-              className="c1"
-            >
-               Bold content 
-            </b>
-          </StyledComponent>
-        </B>
-        incididunt incididunt aliquip pariatur est minim officia sit.
-      </div>
-    </BaseComponent>
+             Bold content 
+          </b>
+        </StyledComponent>
+      </B>
+      incididunt incididunt aliquip pariatur est minim officia sit.
+    </p>
   </StyledComponent>
 </P>
 `;
 
 exports[`Storyshots B Within <P> 1`] = `
-.c2 {
-  font-weight: bold;
-}
-
 .c0 {
   margin: 0;
   font-size: 1rem;
+}
+
+.c2 {
+  font-weight: bold;
 }
 
 .c1 {
@@ -262,7 +256,7 @@ exports[`Storyshots B Within <P> 1`] = `
         "$$typeof": Symbol(react.forward_ref),
         "attrs": undefined,
         "componentStyle": ComponentStyle {
-          "componentId": "sc-bxivhb",
+          "componentId": "P-sc-1ujgctf-0",
           "isStatic": false,
           "lastClassName": "c0",
           "rules": Array [
@@ -283,92 +277,87 @@ exports[`Storyshots B Within <P> 1`] = `
           "color": [Function],
         },
         "render": [Function],
-        "styledComponentId": "sc-bxivhb",
-        "target": [Function],
+        "styledComponentId": "P-sc-1ujgctf-0",
+        "target": "p",
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
   >
-    <BaseComponent
+    <p
       className="c0"
     >
-      <div
-        className="c0"
-      >
-        Nisi eu eiusmod cupidatat aute laboris commodo excepteur
-        <Small>
-          <StyledComponent
-            forwardedClass={
-              Object {
-                "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
-                "componentStyle": ComponentStyle {
-                  "componentId": "sc-ifAKCX",
-                  "isStatic": false,
-                  "lastClassName": "c1",
-                  "rules": Array [
-                    "
+      Nisi eu eiusmod cupidatat aute laboris commodo excepteur
+      <Small>
+        <StyledComponent
+          forwardedClass={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": undefined,
+              "componentStyle": ComponentStyle {
+                "componentId": "Small-sc-275w8q-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
   font-size: ",
-                    [Function],
-                    ";
+                  [Function],
+                  ";
 ",
-                  ],
-                },
-                "displayName": "Small",
-                "render": [Function],
-                "styledComponentId": "sc-ifAKCX",
-                "target": "small",
-                "warnTooManyClasses": [Function],
-                "withComponent": [Function],
-              }
+                ],
+              },
+              "displayName": "Small",
+              "render": [Function],
+              "styledComponentId": "Small-sc-275w8q-0",
+              "target": "small",
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
             }
-            forwardedRef={null}
+          }
+          forwardedRef={null}
+        >
+          <small
+            className="c1"
           >
-            <small
-              className="c1"
-            >
-              <B>
-                <StyledComponent
-                  forwardedClass={
-                    Object {
-                      "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
-                      "componentStyle": ComponentStyle {
-                        "componentId": "sc-bwzfXH",
-                        "isStatic": true,
-                        "lastClassName": "c2",
-                        "rules": Array [
-                          "
+            <B>
+              <StyledComponent
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "B-sc-1ocntpk-0",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "
   font-weight: bold;
 ",
-                        ],
-                      },
-                      "displayName": "B",
-                      "render": [Function],
-                      "styledComponentId": "sc-bwzfXH",
-                      "target": "b",
-                      "warnTooManyClasses": [Function],
-                      "withComponent": [Function],
-                    }
+                      ],
+                    },
+                    "displayName": "B",
+                    "render": [Function],
+                    "styledComponentId": "B-sc-1ocntpk-0",
+                    "target": "b",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
                   }
-                  forwardedRef={null}
+                }
+                forwardedRef={null}
+              >
+                <b
+                  className="c2"
                 >
-                  <b
-                    className="c2"
-                  >
-                     Bold content 
-                  </b>
-                </StyledComponent>
-              </B>
-            </small>
-          </StyledComponent>
-        </Small>
-        incididunt incididunt aliquip pariatur est minim officia sit.
-      </div>
-    </BaseComponent>
+                   Bold content 
+                </b>
+              </StyledComponent>
+            </B>
+          </small>
+        </StyledComponent>
+      </Small>
+      incididunt incididunt aliquip pariatur est minim officia sit.
+    </p>
   </StyledComponent>
 </P>
 `;

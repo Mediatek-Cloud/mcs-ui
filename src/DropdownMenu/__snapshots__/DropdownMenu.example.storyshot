@@ -1,0 +1,1165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots DropdownMenu [children] With isOpen 1`] = `
+.c0 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 80px;
+  height: 32px;
+  padding: 6px 15px;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c0:active {
+  background-color: rgb(0,144,198);
+}
+
+.c0 svg {
+  margin-left: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+.c1 {
+  line-height: 0;
+}
+
+.c1 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+<DropdownMenu
+  itemRenderer={[Function]}
+  position={
+    Object {
+      "alignConfig": Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      },
+      "transitionConfig": Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      },
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    role="button"
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+    tabIndex="0"
+  >
+    <styled-components__StyledButton
+      active={false}
+      block={false}
+      disabled={false}
+      kind="primary"
+      round={false}
+      size="normal"
+      square={false}
+      style={
+        Object {
+          "marginLeft": 100,
+        }
+      }
+    >
+      <StyledComponent
+        active={false}
+        block={false}
+        disabled={false}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledButton-km7d5z-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                [Function],
+                ";
+
+  &:hover {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  &:active {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  background-color: ",
+                [Function],
+                ";
+  color: ",
+                [Function],
+                ";
+  border-radius: ",
+                [Function],
+                ";
+  width: ",
+                [Function],
+                ";
+  min-width: ",
+                [Function],
+                ";
+  height: ",
+                [Function],
+                ";
+  padding: ",
+                [Function],
+                ";
+  font-size: ",
+                [Function],
+                ";
+  border-color: ",
+                [Function],
+                ";
+",
+                "
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-left: 5px;
+    width: 18px;
+    height: 18px;
+  }
+",
+              ],
+            },
+            "defaultProps": Object {
+              "active": false,
+              "block": false,
+              "disabled": false,
+              "kind": "primary",
+              "round": false,
+              "size": "normal",
+              "square": false,
+            },
+            "displayName": "styled-components__StyledButton",
+            "propTypes": Object {
+              "active": [Function],
+              "block": [Function],
+              "disabled": [Function],
+              "kind": [Function],
+              "round": [Function],
+              "size": [Function],
+              "square": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledButton-km7d5z-0",
+            "target": "button",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        round={false}
+        size="normal"
+        square={false}
+        style={
+          Object {
+            "marginLeft": 100,
+          }
+        }
+      >
+        <button
+          className="c0"
+          disabled={false}
+          kind="primary"
+          size="normal"
+          style={
+            Object {
+              "marginLeft": 100,
+            }
+          }
+        >
+          Edit
+          <Rotate
+            active={false}
+          >
+            <StyledComponent
+              active={false}
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Rotate-sc-7d7mt1-0",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  line-height: 0;
+
+  > * {
+    transform-origin: center;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transform: ",
+                      [Function],
+                      ";
+  }
+",
+                    ],
+                  },
+                  "defaultProps": Object {
+                    "active": false,
+                  },
+                  "displayName": "Rotate",
+                  "propTypes": Object {
+                    "active": [Function],
+                  },
+                  "render": [Function],
+                  "styledComponentId": "Rotate-sc-7d7mt1-0",
+                  "target": "div",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                className="c1"
+              >
+                <IconFold>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                    />
+                  </svg>
+                </IconFold>
+              </div>
+            </StyledComponent>
+          </Rotate>
+        </button>
+      </StyledComponent>
+    </styled-components__StyledButton>
+  </div>
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": .c0 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 80px;
+  height: 32px;
+  padding: 6px 15px;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c0:active {
+  background-color: rgb(0,144,198);
+}
+
+.c0 svg {
+  margin-left: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+.c1 {
+  line-height: 0;
+}
+
+.c1 > * {
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: transform 0.4s cubic-bezier(0.68,-0.55,0.27,1.55);
+  -webkit-transform: initial;
+  -ms-transform: initial;
+  transform: initial;
+}
+
+<div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <button
+            class="c0"
+            kind="primary"
+            style="margin-left: 100px;"
+          >
+            Edit
+            <div
+              class="c1"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 24 24"
+                width="1em"
+              >
+                <path
+                  d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+                />
+              </svg>
+            </div>
+          </button>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      }
+    }
+  />
+</DropdownMenu>
+`;
+
+exports[`Storyshots DropdownMenu [children] With open 1`] = `
+.c0 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 80px;
+  height: 32px;
+  padding: 6px 15px;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c0:active {
+  background-color: rgb(0,144,198);
+}
+
+.c0 svg {
+  margin-left: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+<DropdownMenu
+  itemRenderer={[Function]}
+  position={
+    Object {
+      "alignConfig": Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      },
+      "transitionConfig": Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      },
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    role="button"
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+    tabIndex="0"
+  >
+    <styled-components__StyledButton
+      active={false}
+      block={false}
+      disabled={false}
+      kind="primary"
+      onMouseEnter={[Function]}
+      round={false}
+      size="normal"
+      square={false}
+      style={
+        Object {
+          "marginLeft": 100,
+        }
+      }
+    >
+      <StyledComponent
+        active={false}
+        block={false}
+        disabled={false}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledButton-km7d5z-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                [Function],
+                ";
+
+  &:hover {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  &:active {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  background-color: ",
+                [Function],
+                ";
+  color: ",
+                [Function],
+                ";
+  border-radius: ",
+                [Function],
+                ";
+  width: ",
+                [Function],
+                ";
+  min-width: ",
+                [Function],
+                ";
+  height: ",
+                [Function],
+                ";
+  padding: ",
+                [Function],
+                ";
+  font-size: ",
+                [Function],
+                ";
+  border-color: ",
+                [Function],
+                ";
+",
+                "
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-left: 5px;
+    width: 18px;
+    height: 18px;
+  }
+",
+              ],
+            },
+            "defaultProps": Object {
+              "active": false,
+              "block": false,
+              "disabled": false,
+              "kind": "primary",
+              "round": false,
+              "size": "normal",
+              "square": false,
+            },
+            "displayName": "styled-components__StyledButton",
+            "propTypes": Object {
+              "active": [Function],
+              "block": [Function],
+              "disabled": [Function],
+              "kind": [Function],
+              "round": [Function],
+              "size": [Function],
+              "square": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledButton-km7d5z-0",
+            "target": "button",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        onMouseEnter={[Function]}
+        round={false}
+        size="normal"
+        square={false}
+        style={
+          Object {
+            "marginLeft": 100,
+          }
+        }
+      >
+        <button
+          className="c0"
+          disabled={false}
+          kind="primary"
+          onMouseEnter={[Function]}
+          size="normal"
+          style={
+            Object {
+              "marginLeft": 100,
+            }
+          }
+        >
+          Edit 
+          <IconFold>
+            <svg
+              fill="currentColor"
+              height="1em"
+              viewBox="0 0 24 24"
+              width="1em"
+            >
+              <path
+                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+              />
+            </svg>
+          </IconFold>
+        </button>
+      </StyledComponent>
+    </styled-components__StyledButton>
+  </div>
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": .c0 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 80px;
+  height: 32px;
+  padding: 6px 15px;
+  font-size: 1rem;
+  border-color: rgb(0,130,179);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c0:active {
+  background-color: rgb(0,144,198);
+}
+
+.c0 svg {
+  margin-left: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+<div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <button
+            class="c0"
+            kind="primary"
+            style="margin-left: 100px;"
+          >
+            Edit 
+            <svg
+              fill="currentColor"
+              height="1em"
+              viewBox="0 0 24 24"
+              width="1em"
+            >
+              <path
+                d="M7.4 9.8l4.6 4.6 4.6-4.6 1.4 1.4-6 6-6-6 1.4-1.4z"
+              />
+            </svg>
+          </button>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      }
+    }
+  />
+</DropdownMenu>
+`;
+
+exports[`Storyshots DropdownMenu [itemRenderer] With close 1`] = `
+<DropdownMenu
+  itemRenderer={[Function]}
+  position={
+    Object {
+      "alignConfig": Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tl",
+          "bl",
+        ],
+      },
+      "transitionConfig": Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      },
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    role="button"
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+    tabIndex="0"
+  >
+    <div>
+      Click me
+    </div>
+  </div>
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tl",
+          "bl",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": <div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <div>
+            Click me
+          </div>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      }
+    }
+  />
+</DropdownMenu>
+`;
+
+exports[`Storyshots DropdownMenu With position 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-left: 300px;
+}
+
+.c0 > * {
+  margin-bottom: 30px;
+}
+
+<DropdownMenuexample__Wrapper>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "DropdownMenuexample__Wrapper-sc-19gsw0o-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 300px;
+
+  > * {
+    margin-bottom: 30px;
+  }
+",
+          ],
+        },
+        "displayName": "DropdownMenuexample__Wrapper",
+        "render": [Function],
+        "styledComponentId": "DropdownMenuexample__Wrapper-sc-19gsw0o-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <DropdownMenu
+        itemRenderer={[Function]}
+        position={
+          Object {
+            "alignConfig": Object {
+              "offset": Array [
+                0,
+                5,
+              ],
+              "points": Array [
+                "tr",
+                "br",
+              ],
+            },
+            "transitionConfig": Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-5px)",
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            BOTTOM_RIGHT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                5,
+              ],
+              "points": Array [
+                "tr",
+                "br",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_RIGHT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-5px)",
+              },
+            }
+          }
+        />
+      </DropdownMenu>
+      <DropdownMenu
+        itemRenderer={[Function]}
+        position={
+          Object {
+            "alignConfig": Object {
+              "offset": Array [
+                0,
+                5,
+              ],
+              "points": Array [
+                "tl",
+                "bl",
+              ],
+            },
+            "transitionConfig": Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-5px)",
+              },
+            },
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          tabIndex="0"
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "skyblue",
+              }
+            }
+          >
+            BOTTOM_LEFT
+          </div>
+        </div>
+        <Overlay
+          alignConfig={
+            Object {
+              "offset": Array [
+                0,
+                5,
+              ],
+              "points": Array [
+                "tl",
+                "bl",
+              ],
+            }
+          }
+          onOutsideClick={[Function]}
+          resize={true}
+          show={false}
+          target={
+            Object {
+              "current": <div
+                role="button"
+                style="display: inline-block;"
+                tabindex="0"
+              >
+                <div>
+                  BOTTOM_LEFT
+                </div>
+              </div>,
+            }
+          }
+          transitionConfig={
+            Object {
+              "animation": Object {
+                "ease": "easeOutQuart",
+                "translateY": 0,
+              },
+              "style": Object {
+                "transform": "translateY(-5px)",
+              },
+            }
+          }
+        />
+      </DropdownMenu>
+    </div>
+  </StyledComponent>
+</DropdownMenuexample__Wrapper>
+`;
+
+exports[`Storyshots DropdownMenu default 1`] = `
+<DropdownMenu
+  itemRenderer={[Function]}
+  position={
+    Object {
+      "alignConfig": Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      },
+      "transitionConfig": Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      },
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    role="button"
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+    tabIndex="0"
+  >
+    <div>
+      Click me
+    </div>
+  </div>
+  <Overlay
+    alignConfig={
+      Object {
+        "offset": Array [
+          0,
+          5,
+        ],
+        "points": Array [
+          "tr",
+          "br",
+        ],
+      }
+    }
+    onOutsideClick={[Function]}
+    resize={true}
+    show={false}
+    target={
+      Object {
+        "current": <div
+          role="button"
+          style="display: inline-block;"
+          tabindex="0"
+        >
+          <div>
+            Click me
+          </div>
+        </div>,
+      }
+    }
+    transitionConfig={
+      Object {
+        "animation": Object {
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-5px)",
+        },
+      }
+    }
+  />
+</DropdownMenu>
+`;

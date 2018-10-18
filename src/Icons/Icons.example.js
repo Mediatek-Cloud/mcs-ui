@@ -2,13 +2,8 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
-import { withInfo } from '@storybook/addon-info';
 import { type Theme } from '../utils/type.flow';
-// import * as Icons from './index';
 import * as Components from '../index';
-
-// const Icons = Components.filter(name => name.startWith('Icon'));
-// console.log(Icons);
 
 const IconWrapper = styled.div`
   display: inline-flex;
@@ -37,10 +32,7 @@ const IconWrapper = styled.div`
 
 storiesOf('Icons', module).add(
   'List',
-  withInfo({
-    text: 'default',
-    inline: true,
-  })(() => (
+  () => (
     <div>
       {Object.keys(Components)
         .filter(name => name.startsWith('Icon'))
@@ -55,5 +47,11 @@ storiesOf('Icons', module).add(
           );
         })}
     </div>
-  )),
+  ),
+  {
+    info: {
+      text: 'default',
+      inline: true,
+    },
+  },
 );

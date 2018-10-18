@@ -1,3 +1,4 @@
+// @flow
 export { default as IconAccount } from './svgr/IconAccount';
 export { default as IconAdd } from './svgr/IconAdd';
 export { default as IconArrowDropDown } from './svgr/IconArrowDropDown';
