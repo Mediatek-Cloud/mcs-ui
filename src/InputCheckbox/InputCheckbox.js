@@ -12,6 +12,12 @@ export type Props = {
 };
 
 class InputCheckbox extends React.Component<Props> {
+  static propTypes = {
+    value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
+    onChange: PropTypes.func,
+    children: PropTypes.node,
+  };
+
   onChange = () => {
     const { onChange, value } = this.props;
     onChange(!value);
@@ -29,11 +35,5 @@ class InputCheckbox extends React.Component<Props> {
     );
   }
 }
-
-InputCheckbox.propTypes = {
-  value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
-  onChange: PropTypes.func,
-  children: PropTypes.node,
-};
 
 export default InputCheckbox;

@@ -10,14 +10,20 @@ import { type Value } from './type.flow';
 class StatefulInputSelect extends React.Component<{}, { value: Value }> {
   state = { value: '' };
 
-  onChange = (value: Value) => this.setState(() => ({ value }));
+  menu = React.createRef();
+
+  onChange = (value: Value) => {
+    this.setState(() => ({ value }));
+    action('WithRef')(this.menu);
+  };
 
   render() {
     const { value } = this.state;
-    const { onChange } = this;
+    const { onChange, menu } = this;
 
     return (
       <InputSelect
+        menuRef={menu}
         value={value}
         items={[
           { value: 1, children: 'children 1' },

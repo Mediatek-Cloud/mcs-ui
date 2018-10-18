@@ -13,7 +13,7 @@ export type Props = {
     arrow: Object,
   },
   // Note: innerRef for the problem of outside click in dialog
-  innerRef?: (ref: ?React.ElementRef<typeof StyledCard>) => void,
+  innerRef?: React.ElementRef<any>,
 };
 type State = { isOpen: boolean };
 

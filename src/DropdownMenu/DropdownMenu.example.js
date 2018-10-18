@@ -20,6 +20,31 @@ const Wrapper: React.ComponentType<*> = styled.div`
   }
 `;
 
+class DropdownMenuWithRef extends React.Component<*> {
+  menu = React.createRef();
+
+  onClick = () => {
+    action('WithRef')(this.menu);
+  };
+
+  render() {
+    const { menu, onClick } = this;
+    return (
+      <DropdownMenu
+        innerRef={menu}
+        itemRenderer={() => (
+          <React.Fragment>
+            <MenuItem onClick={onClick}>Edit</MenuItem>
+            <MenuItem onClick={onClick}>Delete</MenuItem>
+          </React.Fragment>
+        )}
+      >
+        <div>Click me</div>
+      </DropdownMenu>
+    );
+  }
+}
+
 storiesOf('DropdownMenu', module)
   .add(
     'default',
@@ -211,4 +236,11 @@ import {
         source: false,
       },
     },
-  );
+  )
+  .add('With innerRef', () => <DropdownMenuWithRef />, {
+    info: {
+      text: 'innerRef',
+      inline: true,
+      source: false,
+    },
+  });

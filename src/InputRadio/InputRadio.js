@@ -11,6 +11,12 @@ export type Props = {
 };
 
 class InputRadio extends React.Component<Props> {
+  static propTypes = {
+    value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
+    onChange: PropTypes.func,
+    children: PropTypes.node,
+  };
+
   onChange = () => {
     const { onChange, value } = this.props;
     onChange(!value);
@@ -36,11 +42,5 @@ class InputRadio extends React.Component<Props> {
     );
   }
 }
-
-InputRadio.propTypes = {
-  value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
-  onChange: PropTypes.func,
-  children: PropTypes.node,
-};
 
 export default InputRadio;

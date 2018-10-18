@@ -3659,6 +3659,11 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
       ]
     }
     kind="primary"
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     onChange={[Function]}
     placeholder="or filter by device name"
     value=""
@@ -3724,6 +3729,11 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
         ]
       }
       kind="primary"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"
@@ -5324,6 +5334,11 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
         },
       ]
     }
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     onChange={[Function]}
     placeholder="or filter by device name"
     value=""
@@ -5388,6 +5403,11 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
         ]
       }
       kind="primary"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"
@@ -6162,6 +6182,11 @@ exports[`Storyshots InputSelect With focus props 1`] = `
       ]
     }
     kind="error"
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     onChange={[Function]}
     placeholder="or filter by device name"
     value=""
@@ -6227,6 +6252,11 @@ exports[`Storyshots InputSelect With focus props 1`] = `
         ]
       }
       kind="error"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"
@@ -6993,6 +7023,11 @@ exports[`Storyshots InputSelect With kind props 1`] = `
       ]
     }
     kind="warning"
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     onChange={[Function]}
     placeholder="or filter by device name"
     value=""
@@ -7057,6 +7092,11 @@ exports[`Storyshots InputSelect With kind props 1`] = `
         ]
       }
       kind="warning"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"
@@ -7824,6 +7864,11 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
       ]
     }
     kind="primary"
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     noRowsRenderer={[Function]}
     onChange={[Function]}
     placeholder="or filter by device name"
@@ -7889,6 +7934,11 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
         ]
       }
       kind="primary"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"
@@ -8653,6 +8703,11 @@ exports[`Storyshots InputSelect With state 1`] = `
         },
       ]
     }
+    menuRef={
+      Object {
+        "current": null,
+      }
+    }
     onChange={[Function]}
     placeholder="or filter by device name"
     value=""
@@ -8717,6 +8772,11 @@ exports[`Storyshots InputSelect With state 1`] = `
         ]
       }
       kind="primary"
+      menuRef={
+        Object {
+          "current": null,
+        }
+      }
       noRowsRenderer={[Function]}
       onChange={[Function]}
       placeholder="or filter by device name"

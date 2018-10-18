@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import PropTypes from 'prop-types';
 import { Overlay } from 'react-overlay-pack';
 import { StyledMenu } from './styled-components';
 import { BOTTOM_RIGHT } from './position.config';
@@ -20,6 +21,13 @@ export type Props = {
 type State = { isOpen: boolean };
 
 class DropdownMenu extends React.Component<Props, State> {
+  static propTypes = {
+    children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
+    itemRenderer: PropTypes.func,
+    position: PropTypes.object, // eslint-disable-line
+    innerRef: PropTypes.shape({ current: PropTypes.object }),
+  };
+
   static defaultProps = {
     position: BOTTOM_RIGHT,
   };

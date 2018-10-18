@@ -844,6 +844,99 @@ exports[`Storyshots DropdownMenu [itemRenderer] With close 1`] = `
 </DropdownMenu>
 `;
 
+exports[`Storyshots DropdownMenu With innerRef 1`] = `
+<DropdownMenuWithRef>
+  <DropdownMenu
+    innerRef={
+      Object {
+        "current": null,
+      }
+    }
+    itemRenderer={[Function]}
+    position={
+      Object {
+        "alignConfig": Object {
+          "offset": Array [
+            0,
+            5,
+          ],
+          "points": Array [
+            "tr",
+            "br",
+          ],
+        },
+        "transitionConfig": Object {
+          "animation": Object {
+            "ease": "easeOutQuart",
+            "translateY": 0,
+          },
+          "style": Object {
+            "transform": "translateY(-5px)",
+          },
+        },
+      }
+    }
+  >
+    <div
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      style={
+        Object {
+          "display": "inline-block",
+        }
+      }
+      tabIndex="0"
+    >
+      <div>
+        Click me
+      </div>
+    </div>
+    <Overlay
+      alignConfig={
+        Object {
+          "offset": Array [
+            0,
+            5,
+          ],
+          "points": Array [
+            "tr",
+            "br",
+          ],
+        }
+      }
+      onOutsideClick={[Function]}
+      resize={true}
+      show={false}
+      target={
+        Object {
+          "current": <div
+            role="button"
+            style="display: inline-block;"
+            tabindex="0"
+          >
+            <div>
+              Click me
+            </div>
+          </div>,
+        }
+      }
+      transitionConfig={
+        Object {
+          "animation": Object {
+            "ease": "easeOutQuart",
+            "translateY": 0,
+          },
+          "style": Object {
+            "transform": "translateY(-5px)",
+          },
+        }
+      }
+    />
+  </DropdownMenu>
+</DropdownMenuWithRef>
+`;
+
 exports[`Storyshots DropdownMenu With position 1`] = `
 .c0 {
   display: -webkit-inline-box;

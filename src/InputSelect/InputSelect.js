@@ -41,7 +41,7 @@ export type Props = {
   disableFilter?: boolean,
   itemValueMapper?: ItemValueMapper,
   // Note: innerRef for the problem of outside click in dialog
-  menuRef?: React.Ref<any>,
+  menuRef?: React.ElementRef<any>,
 };
 type InnerProps = {
   value: Value,
@@ -65,6 +65,25 @@ type State = {
 const defaultItemValueMapper = (item: ItemProps) => item.children;
 
 class PureInputSelect extends React.Component<InnerProps, State> {
+  static propTypes = {
+    value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
+    onChange: PropTypes.func.isRequired, // (value: Value) => Promise<void> | void,
+    items: PropTypes.arrayOf(
+      PropTypes.shape({
+        value: PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+          .isRequired,
+        children: PropTypes.node.isRequired,
+      }),
+    ).isRequired,
+    kind: PropTypes.string,
+    placeholder: PropTypes.string,
+    noRowsRenderer: PropTypes.func,
+    focus: PropTypes.bool,
+    disableFilter: PropTypes.bool,
+    itemValueMapper: PropTypes.func,
+    menuRef: PropTypes.shape({ current: PropTypes.object }),
+  };
+
   static defaultProps = {
     kind: 'primary',
     noRowsRenderer: () => <NoRowWrapper>No results found</NoRowWrapper>,
@@ -258,23 +277,5 @@ class PureInputSelect extends React.Component<InnerProps, State> {
 // $FlowFixMe
 const InputSelect: React.ComponentType<Props> = withTheme(PureInputSelect);
 InputSelect.displayName = 'InputSelect';
-InputSelect.propTypes = {
-  value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
-  onChange: PropTypes.func.isRequired, // (value: Value) => Promise<void> | void,
-  items: PropTypes.arrayOf(
-    PropTypes.shape({
-      value: PropTypes.oneOfType([PropTypes.number, PropTypes.string])
-        .isRequired,
-      children: PropTypes.node.isRequired,
-    }),
-  ).isRequired,
-  kind: PropTypes.string,
-  placeholder: PropTypes.string,
-  noRowsRenderer: PropTypes.func,
-  focus: PropTypes.bool,
-  disableFilter: PropTypes.bool,
-  itemValueMapper: PropTypes.func,
-  menuRef: PropTypes.func,
-};
 
 export default InputSelect;
