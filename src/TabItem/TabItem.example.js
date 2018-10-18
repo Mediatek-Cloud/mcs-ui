@@ -46,6 +46,7 @@ storiesOf('TabItem', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -65,6 +66,7 @@ storiesOf('TabItem', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -72,6 +74,7 @@ storiesOf('TabItem', module)
     info: {
       text: 'This is a react controlled component.',
       inline: true,
+      source: false,
       propTables: [TabItem],
     },
   });

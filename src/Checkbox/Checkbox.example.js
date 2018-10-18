@@ -35,6 +35,7 @@ storiesOf('Checkbox', module)
       info: {
         text: 'Controlled API',
         inline: true,
+        source: false,
       },
     },
   )
@@ -42,6 +43,7 @@ storiesOf('Checkbox', module)
     info: {
       text: '',
       inline: true,
+      source: false,
       propTables: [Checkbox],
     },
   })
@@ -59,6 +61,7 @@ storiesOf('Checkbox', module)
       info: {
         text: 'custom size',
         inline: true,
+        source: false,
         propTables: [Checkbox],
       },
     },
@@ -78,6 +81,7 @@ storiesOf('Checkbox', module)
       info: {
         text: 'custom color',
         inline: true,
+        source: false,
         propTables: [Checkbox],
       },
     },
@@ -111,6 +115,7 @@ storiesOf('Checkbox', module)
       info: {
         text: 'custom color',
         inline: true,
+        source: false,
         propTables: [Checkbox],
       },
     },
@@ -137,6 +142,7 @@ storiesOf('Checkbox', module)
       info: {
         text: 'custom icon',
         inline: true,
+        source: false,
         propTables: [Checkbox],
       },
     },

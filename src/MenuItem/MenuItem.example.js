@@ -16,6 +16,7 @@ storiesOf('MenuItem', module).add(
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   },
 );

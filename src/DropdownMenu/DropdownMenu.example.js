@@ -39,6 +39,7 @@ storiesOf('DropdownMenu', module)
       info: {
         text: 'BOTTOM_RIGHT',
         inline: true,
+        source: false,
       },
     },
   )
@@ -82,6 +83,7 @@ import {
 ~~~
 `,
         inline: true,
+        source: false,
       },
     },
   )
@@ -117,6 +119,7 @@ import {
 ~~~
       `,
         inline: true,
+        source: false,
       },
     },
   )
@@ -159,6 +162,7 @@ import {
 ~~~
       `,
         inline: true,
+        source: false,
       },
     },
   )
@@ -204,6 +208,7 @@ import {
 ~~~
       `,
         inline: true,
+        source: false,
       },
     },
   );

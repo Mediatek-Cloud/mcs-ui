@@ -17,6 +17,7 @@ storiesOf('Textarea', module)
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -32,6 +33,7 @@ storiesOf('Textarea', module)
       info: {
         text: '使用內建 kind props 樣式。',
         inline: true,
+        source: false,
       },
     },
   );

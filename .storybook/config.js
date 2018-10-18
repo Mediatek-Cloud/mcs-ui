@@ -5,7 +5,7 @@ import { withOptions } from '@storybook/addon-options';
 import decorator from './decorator';
 
 addDecorator(decorator);
-addDecorator(withInfo({ inline: true }));
+addDecorator(withInfo({ inline: true, source: false }));
 addDecorator(
   withOptions({
     name: 'mcs-ui',

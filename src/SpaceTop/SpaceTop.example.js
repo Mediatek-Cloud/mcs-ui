@@ -10,6 +10,7 @@ storiesOf('SpaceTop', module).add(
     info: {
       text: 'margin-top',
       inline: true,
+      source: false,
     },
   },
 );

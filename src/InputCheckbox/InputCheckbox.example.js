@@ -30,6 +30,7 @@ storiesOf('InputCheckbox', module)
       info: {
         text: 'Controlled API',
         inline: true,
+        source: false,
       },
     },
   )
@@ -44,6 +45,7 @@ storiesOf('InputCheckbox', module)
       info: {
         text: '',
         inline: true,
+        source: false,
         propTables: [InputCheckbox],
       },
     },
@@ -52,6 +54,7 @@ storiesOf('InputCheckbox', module)
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -65,6 +68,7 @@ storiesOf('InputCheckbox', module)
       info: {
         text: '',
         inline: true,
+        source: false,
         propTables: [InputCheckbox, Checkbox],
       },
     },
@@ -80,6 +84,7 @@ storiesOf('InputCheckbox', module)
       info: {
         text: '',
         inline: true,
+        source: false,
         propTables: [InputCheckbox, Checkbox],
       },
     },

@@ -13,6 +13,7 @@ storiesOf('Heading', module)
     info: {
       text: 'Default h1 & color: currentColor',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -31,6 +32,7 @@ storiesOf('Heading', module)
       info: {
         text: '使用不同等級的 Level。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },
@@ -50,6 +52,7 @@ storiesOf('Heading', module)
       info: {
         text: '使用不同等級的 Color。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },

@@ -52,6 +52,7 @@ storiesOf('Icons', module).add(
     info: {
       text: 'default',
       inline: true,
+      source: false,
     },
   },
 );

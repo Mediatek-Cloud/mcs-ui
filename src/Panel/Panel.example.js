@@ -16,6 +16,7 @@ storiesOf('Panel', module).add(
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   },
 );

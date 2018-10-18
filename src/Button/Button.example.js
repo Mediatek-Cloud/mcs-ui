@@ -79,6 +79,7 @@ storiesOf('Button', module)
     info: {
       text: 'Default min-width',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -94,6 +95,7 @@ storiesOf('Button', module)
       info: {
         text: 'Different size in order: min-width: 80px / auto / 100%.',
         inline: true,
+        source: false,
       },
     },
   )
@@ -101,6 +103,7 @@ storiesOf('Button', module)
     info: {
       text: '使用內建 kind props 樣式。',
       inline: true,
+      source: false,
       propTables: [],
     },
   })
@@ -118,6 +121,7 @@ storiesOf('Button', module)
       info: {
         text: '方',
         inline: true,
+        source: false,
       },
     },
   )
@@ -135,6 +139,7 @@ storiesOf('Button', module)
       info: {
         text: '圓',
         inline: true,
+        source: false,
       },
     },
   )
@@ -152,6 +157,7 @@ storiesOf('Button', module)
       info: {
         text: '小 (min-width: 40px)',
         inline: true,
+        source: false,
       },
     },
   )
@@ -159,12 +165,14 @@ storiesOf('Button', module)
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   })
   .add('With disabled props', () => <Button disabled>Disabled</Button>, {
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -183,6 +191,7 @@ storiesOf('Button', module)
       info: {
         text: 'loading',
         inline: true,
+        source: false,
       },
     },
   )
@@ -197,6 +206,7 @@ storiesOf('Button', module)
       info: {
         text: '使用全局的 theme 來調整色調。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },
@@ -210,6 +220,7 @@ storiesOf('Button', module)
       info: {
         text: '使用 styled-components 來覆蓋 css。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },
@@ -225,6 +236,7 @@ storiesOf('Button', module)
       info: {
         text: '使用 a tag。',
         inline: true,
+        source: false,
       },
     },
   )
@@ -242,7 +254,7 @@ storiesOf('Button', module)
     {
       info: {
         text: '',
-        // inline: true,
+        // inline: true, source: false,
       },
     },
   );

@@ -29,6 +29,7 @@ storiesOf('InputRadio', module)
       info: {
         text: 'Controlled API',
         inline: true,
+        source: false,
       },
     },
   )
@@ -48,6 +49,7 @@ storiesOf('InputRadio', module)
       info: {
         text: 'Controlled API',
         inline: true,
+        source: false,
       },
     },
   )
@@ -58,6 +60,7 @@ storiesOf('InputRadio', module)
       info: {
         text: '',
         inline: true,
+        source: false,
         propTables: [InputRadio],
       },
     },
@@ -66,6 +69,7 @@ storiesOf('InputRadio', module)
     info: {
       text: '',
       inline: true,
+      source: false,
       propTables: [InputRadio],
     },
   })
@@ -76,6 +80,7 @@ storiesOf('InputRadio', module)
       info: {
         text: '',
         inline: true,
+        source: false,
         propTables: [InputRadio],
       },
     },

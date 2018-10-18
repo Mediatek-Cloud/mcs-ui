@@ -23,6 +23,7 @@ storiesOf('P', module)
       info: {
         text: `段落使用。 (${theme.fontSize.p}) & color: currentColor`,
         inline: true,
+        source: false,
       },
     },
   )
@@ -41,6 +42,7 @@ storiesOf('P', module)
       info: {
         text: '使用不同等級的 Color',
         inline: true,
+        source: false,
       },
     },
   )
@@ -59,6 +61,7 @@ storiesOf('P', module)
       info: {
         text: 'p 裡面不能有 div',
         inline: true,
+        source: false,
       },
     },
   );

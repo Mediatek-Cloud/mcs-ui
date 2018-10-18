@@ -36,6 +36,7 @@ storiesOf('Popover', module)
       info: {
         text: 'RIGHT_CENTER',
         inline: true,
+        source: false,
       },
     },
   )
@@ -117,6 +118,7 @@ import {
 ~~~
 `,
         inline: true,
+        source: false,
       },
     },
   );

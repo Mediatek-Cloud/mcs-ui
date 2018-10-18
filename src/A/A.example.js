@@ -11,6 +11,7 @@ storiesOf('A', module)
     info: {
       text: 'anchor A',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -28,6 +29,7 @@ storiesOf('A', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -45,6 +47,7 @@ storiesOf('A', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   );

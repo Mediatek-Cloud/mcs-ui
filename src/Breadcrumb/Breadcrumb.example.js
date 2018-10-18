@@ -15,6 +15,7 @@ storiesOf('Breadcrumb', module).add(
     info: {
       text: 'default',
       inline: true,
+      source: false,
     },
   },
 );

@@ -15,6 +15,7 @@ storiesOf('IconWarning', module).add(
     info: {
       text: '50 X 45',
       inline: true,
+      source: false,
     },
   },
 );

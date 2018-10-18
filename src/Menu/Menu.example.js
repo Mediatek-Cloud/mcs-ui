@@ -20,6 +20,7 @@ storiesOf('Menu', module)
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -34,6 +35,7 @@ storiesOf('Menu', module)
       info: {
         text: 'min-width: 80px',
         inline: true,
+        source: false,
       },
     },
   )
@@ -68,6 +70,7 @@ storiesOf('Menu', module)
       info: {
         text: 'With fixed width',
         inline: true,
+        source: false,
       },
     },
   );

@@ -21,6 +21,7 @@ storiesOf('Spin', module).add(
   SVG Icon 請使用偶數（Safari）
 `,
       inline: true,
+      source: false,
     },
   },
 );

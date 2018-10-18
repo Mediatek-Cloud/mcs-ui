@@ -58,6 +58,7 @@ storiesOf('InputSelect', module)
       info: {
         text: 'With placeholder props',
         inline: true,
+        source: false,
       },
     },
   )
@@ -90,6 +91,7 @@ storiesOf('InputSelect', module)
       info: {
         text: 'With value',
         inline: true,
+        source: false,
       },
     },
   )
@@ -100,6 +102,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -115,6 +118,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -131,6 +135,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -147,6 +152,7 @@ storiesOf('InputSelect', module)
       info: {
         text: 'onFocus',
         inline: true,
+        source: false,
       },
     },
   )
@@ -171,6 +177,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -190,6 +197,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -244,6 +252,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -259,6 +268,7 @@ storiesOf('InputSelect', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   );

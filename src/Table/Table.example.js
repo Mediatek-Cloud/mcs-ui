@@ -30,6 +30,7 @@ storiesOf('Table', module).add(
     info: {
       text: '',
       inline: true,
+      source: false,
     },
   },
 );

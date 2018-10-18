@@ -11,6 +11,7 @@ storiesOf('B', module)
     info: {
       text: '粗體。',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -24,6 +25,7 @@ storiesOf('B', module)
       info: {
         text: '粗體中文字。',
         inline: true,
+        source: false,
       },
     },
   )
@@ -42,6 +44,7 @@ storiesOf('B', module)
       info: {
         text: '段落中出現。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },
@@ -59,6 +62,7 @@ storiesOf('B', module)
       info: {
         text: '來自上層的顏色。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },

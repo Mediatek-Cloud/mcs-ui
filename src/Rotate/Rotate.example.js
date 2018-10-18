@@ -44,6 +44,7 @@ storiesOf('Rotate', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -60,6 +61,7 @@ storiesOf('Rotate', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -74,6 +76,7 @@ storiesOf('Rotate', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -88,6 +91,7 @@ storiesOf('Rotate', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   );

@@ -42,6 +42,7 @@ storiesOf('Select', module)
       info: {
         text: 'React controlled component',
         inline: true,
+        source: false,
       },
     },
   )
@@ -62,6 +63,7 @@ storiesOf('Select', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -82,6 +84,7 @@ storiesOf('Select', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   )
@@ -89,6 +92,7 @@ storiesOf('Select', module)
     info: {
       text: '',
       inline: true,
+      source: false,
       propTables: [Select],
     },
   })
@@ -109,6 +113,7 @@ storiesOf('Select', module)
       info: {
         text: '',
         inline: true,
+        source: false,
       },
     },
   );

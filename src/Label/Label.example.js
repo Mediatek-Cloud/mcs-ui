@@ -7,5 +7,6 @@ storiesOf('Label', module).add('API', () => <Label required>Email</Label>, {
   info: {
     text: 'default',
     inline: true,
+    source: false,
   },
 });

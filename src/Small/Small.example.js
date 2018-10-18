@@ -9,6 +9,7 @@ storiesOf('Small', module)
     info: {
       text: '縮小字型。',
       inline: true,
+      source: false,
     },
   })
   .add(
@@ -24,6 +25,7 @@ storiesOf('Small', module)
       info: {
         text: '段落中出現。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },
@@ -41,6 +43,7 @@ storiesOf('Small', module)
       info: {
         text: '來自上層的顏色。',
         inline: true,
+        source: false,
         propTables: [],
       },
     },

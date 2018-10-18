@@ -67,6 +67,7 @@ storiesOf('Form', module)
       info: {
         text: 'default',
         inline: true,
+        source: false,
       },
     },
   )
@@ -103,6 +104,7 @@ storiesOf('Form', module)
       info: {
         text: 'default',
         inline: true,
+        source: false,
       },
     },
   )
@@ -144,6 +146,7 @@ storiesOf('Form', module)
       info: {
         text: 'default',
         inline: true,
+        source: false,
       },
     },
   );
