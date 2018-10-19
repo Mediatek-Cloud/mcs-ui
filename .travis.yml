@@ -14,14 +14,18 @@ before_install:
       curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version $YARN_VERSION
     fi
 
+install:
+  - yarn install --pure-lockfile
+
 script:
   - yarn run eslint
   - yarn run test
   - ./tasks/flow-coverage.sh
+  - mv coverage coverage-upload # Note: it will be removed when nwb build
   - yarn run build
 
 after_success:
-  - ./node_modules/.bin/codecov -f ./coverage/clover.xml
+  - ./node_modules/.bin/codecov -f ./coverage-upload/clover.xml
 
 deploy:
   - provider: npm
