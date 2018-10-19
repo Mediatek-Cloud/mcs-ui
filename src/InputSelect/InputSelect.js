@@ -81,7 +81,10 @@ class PureInputSelect extends React.Component<InnerProps, State> {
     focus: PropTypes.bool,
     disableFilter: PropTypes.bool,
     itemValueMapper: PropTypes.func,
-    menuRef: PropTypes.shape({ current: PropTypes.object }),
+    menuRef: PropTypes.oneOfType([
+      PropTypes.func,
+      PropTypes.shape({ current: PropTypes.object }),
+    ]),
   };
 
   static defaultProps = {
