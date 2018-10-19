@@ -24,6 +24,16 @@ script:
 after_success:
   - ./node_modules/.bin/codecov
 
+deploy:
+  - provider: npm
+    email: evenchange4@gmail.com
+    api_key:
+      secure: qN8AxJLWI5drhEuLWwsBE+yNl8JuJy4unQcI/DcTMNv/tN1xaFl87JDPSKiVytI6y37GI3FvMIae9w7LpEIW7tT/SJZMSrw0SXoVhwg2JxyAjZ8b6qh6288O7hQtOxWE/Tn2j4lMfKRdcdrtOi4PaWV+ybMY83sex2SeVLDmAklRccFC4kpEIW5yQLSeJWBjBzFi3yW6hjjXEoULUJHH4JrzSFHQF95k/UTImrbRflvSCVVOItZQcb+Uyhh1cS/Y1YRPDZIVBBEC+5cMFhfAg9MbinBoIUTeMBIEFGyLW+r6bJueXOEZjdEBcG/HgDXoQoO7ytQVgdg/CkY3OsfpO3XOShvE2eJNlZY7zNmn6ibqh0zyWuHavkcfViUxLqKSG07lk25skGccurtW40rkwtv8j2HMy4NN64U3+CLrzU0GdGZp2dLOHElB1SQUFh85VZudnIba4YOw46jtzXKdUSafTpSEMIDEKBEYDpuU2ixsLkeEOzswNHnl1wigkmdJwSomqe9/aoMjcDiYuIKgb7bKfaqwmYZssM0uu43WPny1XlxTveOMyVHsBVURWJTMsMlmR5rn2y0m+bJkMKuI+vpIWrXVUOUgeKuhOzloUe4+z0a0rk4XjG+aNH/N/3CDqMaR/RvKSQi+hMzeRqo6eXDVsWc9K/osFQ0waSxS0Ms=    
+    skip_cleanup: true
+    on:
+      tags: true
+      repo: Mediatek-Cloud/mcs-ui
+
 cache:
   yarn: true
   directories:
