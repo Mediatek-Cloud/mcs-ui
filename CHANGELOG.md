@@ -1,7 +1,14 @@
 ## Change Log
 
-### upcoming (2018/10/19 05:58 +00:00)
+### v0.1.5 (2018/10/19 13:07 +00:00)
 
+- [d877e68](https://github.com/Mediatek-Cloud/mcs-ui/commit/d877e686e69f73f24a04012a821a6b348cfe4e33) 0.1.5 (@evenchange4)
+- [#3](https://github.com/Mediatek-Cloud/mcs-ui/pull/3) feat(InputSelect): fix menuRef proptypes (#3) (@evenchange4)
+- [#2](https://github.com/Mediatek-Cloud/mcs-ui/pull/2) fix: add coverage flag of jest for codecov (#2) (@evenchange4)
+- [2acc0f4](https://github.com/Mediatek-Cloud/mcs-ui/commit/2acc0f4fff6dbaf857a4b5d403845a71b8cc885b) chore(travis): fix jest coverage (@evenchange4)
+- [#1](https://github.com/Mediatek-Cloud/mcs-ui/pull/1) chore(deps): pin dependencies (#1) (@renovate[bot])
+- [5757eec](https://github.com/Mediatek-Cloud/mcs-ui/commit/5757eec40fa50d841c55e256f185a9b99a1b8892) chore: add README.md & setup travis release (@evenchange4)
+- [81a98c7](https://github.com/Mediatek-Cloud/mcs-ui/commit/81a98c756b43dfda2a143b14efe57751565df7b8) chore(travis): setup changelog & deploy key (@evenchange4)
 - [937c6a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/937c6a846d18011a30262f00c5dee0e5e69f59f1) chore: pre-release (@evenchange4)
 
 ### v0.1.4 (2018/10/18 14:00 +00:00)
