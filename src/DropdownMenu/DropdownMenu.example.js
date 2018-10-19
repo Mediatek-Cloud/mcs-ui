@@ -104,7 +104,7 @@ storiesOf('DropdownMenu', module)
 import {
   BOTTOM_RIGHT,
   BOTTOM_LEFT,
-} from 'mcs-lite-ui/lib/DropdownMenu/position.config';
+} from 'mcs-ui/lib/DropdownMenu/position.config';
 ~~~
 `,
         inline: true,

@@ -114,7 +114,7 @@ import {
   BOTTOM_CENTER,
   BOTTOM_RIGHT,
   BOTTOM_LEFT,
-} from 'mcs-lite-ui/lib/Popover/position.config';
+} from 'mcs-ui/lib/Popover/position.config';
 ~~~
 `,
         inline: true,

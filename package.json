@@ -85,7 +85,10 @@
   "license": "MIT",
   "repository": "https://github.com/Mediatek-Cloud/mcs-ui",
   "keywords": [
-    "react-component"
+    "mcs",
+    "mcs-ui",
+    "mcs-lite-ui",
+    "react"
   ],
   "babel": {
     "env": {
@@ -216,8 +219,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "npm run danger"
+      "pre-commit": "lint-staged"
     }
   }
 }
