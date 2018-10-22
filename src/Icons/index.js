@@ -4,6 +4,7 @@ export { default as IconAdd } from './svgr/IconAdd';
 export { default as IconArrowDropDown } from './svgr/IconArrowDropDown';
 export { default as IconArrowLeft } from './svgr/IconArrowLeft';
 export { default as IconArrowNarrow } from './svgr/IconArrowNarrow';
+export { default as IconAvatar } from './svgr/IconAvatar';
 export { default as IconCalendar } from './svgr/IconCalendar';
 export { default as IconChevronRight } from './svgr/IconChevronRight';
 export { default as IconClose } from './svgr/IconClose';
