@@ -6,6 +6,9 @@ export type HOC<Base, InjectedProps> = (
   Component: React.ComponentType<Base>,
 ) => React.ComponentType<$Diff<Base, InjectedProps>>;
 
+// Formik api
+export type SetSubmitting = (isSubmitting: boolean) => void;
+
 // Toast
 export type ToastKind = 'error' | 'success';
 export type Toast = {

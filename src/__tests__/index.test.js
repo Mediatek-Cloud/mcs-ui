@@ -9,6 +9,7 @@ const IGNORES = [
   'utils',
   '.DS_Store',
   'Icons',
+  'HoCs',
   '__snapshots__',
 ];
 
@@ -42,6 +43,15 @@ it('should export es module of KeyHandler folder', () => {
 it('should export es module of Icons folder', () => {
   const dirnames = R.without(IGNORES)(fs.readdirSync('./src/Icons/svgr')).map(
     name => name.replace('.js', ''),
+  );
+  dirnames.forEach(name => {
+    expect(Modules).toHaveProperty(name);
+  });
+});
+
+it('should export es module of HoCs folder', () => {
+  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/HoCs')).map(name =>
+    name.replace('.js', ''),
   );
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);

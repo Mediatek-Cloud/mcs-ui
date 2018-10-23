@@ -3,6 +3,7 @@ export * from './Icons';
 export * from './Form';
 export * from './ToastContext';
 export * from './KeyHandler';
+export * from './HoCs';
 export { default as theme } from './utils/theme';
 
 export { default as A } from './A';
@@ -12,6 +13,7 @@ export { default as Button } from './Button';
 export { default as ButtonText } from './ButtonText';
 export { default as Card } from './Card';
 export { default as Checkbox } from './Checkbox';
+export { default as ConfirmDialog } from './ConfirmDialog';
 export { default as DropdownMenu } from './DropdownMenu';
 export { default as Heading } from './Heading';
 export { default as IconWarning } from './IconWarning';

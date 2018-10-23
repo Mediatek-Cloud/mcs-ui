@@ -30,7 +30,8 @@
     "ramda": "^0.25.0",
     "react-overlay-pack": "^3.0.0",
     "react-spring": "^5.9.2",
-    "react-virtualized": "^9.20.1"
+    "react-virtualized": "^9.20.1",
+    "recompose": "^0.30.0"
   },
   "peerDependencies": {
     "react": "^16.0.0",
