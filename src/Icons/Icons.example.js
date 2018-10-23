@@ -3,7 +3,7 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
 import { type Theme } from '../utils/type.flow';
-import * as Components from '../index';
+import * as Components from '.';
 
 const IconWrapper = styled.div`
   display: inline-flex;
@@ -34,18 +34,16 @@ storiesOf('Icons', module).add(
   'List',
   () => (
     <div>
-      {Object.keys(Components)
-        .filter(name => name.startsWith('Icon'))
-        .map(name => {
-          const Component = Components[name];
-          return (
-            <IconWrapper key={name}>
-              <pre>{name}</pre>
-              {/* $FlowFixMe */}
-              <Component />
-            </IconWrapper>
-          );
-        })}
+      {Object.keys(Components).map(name => {
+        const Component = Components[name];
+        return (
+          <IconWrapper key={name}>
+            <pre>{name}</pre>
+            {/* $FlowFixMe */}
+            <Component />
+          </IconWrapper>
+        );
+      })}
     </div>
   ),
   {

@@ -10,6 +10,10 @@ import { type ThemeProps } from '../src/utils/type.flow';
 const GlobalStyles = createGlobalStyle`
   ${normalize()}
 
+  * {
+    box-sizing: border-box;
+  }
+
   html {
     font-size: ${({ theme }: ThemeProps) => theme.base.fontSize};
     line-height: ${({ theme }: ThemeProps) => theme.base.lineHeight};

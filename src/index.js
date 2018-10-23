@@ -34,6 +34,7 @@ export { default as P } from './P';
 export { default as Panel } from './Panel';
 export { default as Popover } from './Popover';
 export { default as Rotate } from './Rotate';
+export { default as SearchInput } from './SearchInput';
 export { default as Select } from './Select';
 export { default as Small } from './Small';
 export { default as SortableTh } from './SortableTh';

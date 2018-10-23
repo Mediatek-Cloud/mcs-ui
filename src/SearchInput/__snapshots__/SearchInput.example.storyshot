@@ -1,0 +1,211 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SearchInput API 1`] = `
+.c0 {
+  position: relative;
+  height: 32px;
+  width: 180px;
+  -webkit-transition: width 250ms cubic-bezier(0.4,0,0.2,1) 0s;
+  transition: width 250ms cubic-bezier(0.4,0,0.2,1) 0s;
+  display: block;
+  color: #999A94;
+}
+
+.c0 svg {
+  position: absolute;
+  height: 100%;
+}
+
+.c0 svg:first-child {
+  left: 5px;
+}
+
+.c0 input + svg {
+  right: 5px;
+  color: #999A94;
+}
+
+.c1 {
+  -webkit-transition: width 250ms cubic-bezier(0.4,0,0.2,1) 0s;
+  transition: width 250ms cubic-bezier(0.4,0,0.2,1) 0s;
+  background-color: #FFFFFF;
+  height: 100%;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding-left: 28px;
+  padding-right: 22px;
+}
+
+.c1:focus {
+  outline: 0;
+}
+
+.c1::-webkit-input-placeholder {
+  color: #999A94;
+}
+
+.c1::-moz-placeholder {
+  color: #999A94;
+}
+
+.c1:-ms-input-placeholder {
+  color: #999A94;
+}
+
+.c1::placeholder {
+  color: #999A94;
+}
+
+<StatefulSearchInput>
+  <SearchInput
+    onChange={[Function]}
+    onClear={[Function]}
+    value=""
+  >
+    <styled-components__StyledLabel
+      isFocus={false}
+    >
+      <StyledComponent
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": undefined,
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledLabel-hla0ih-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  position: relative;
+  height: ",
+                [Function],
+                ";
+  width: 180px;
+  transition: width 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  display: block;
+  color: ",
+                [Function],
+                ";
+
+  svg {
+    position: absolute;
+    height: 100%;
+  }
+
+  /* Note: Search Icon */
+  svg:first-child {
+    left: 5px;
+  }
+
+  /* Note: Close Icon */
+  input + svg {
+    right: 5px;
+    color: ",
+                [Function],
+                ";
+  }
+",
+              ],
+            },
+            "displayName": "styled-components__StyledLabel",
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledLabel-hla0ih-0",
+            "target": "label",
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        isFocus={false}
+      >
+        <label
+          className="c0"
+        >
+          <IconSearch
+            height={18}
+            width={18}
+          >
+            <svg
+              fill="currentColor"
+              height={18}
+              viewBox="0 0 24 24"
+              width={18}
+            >
+              <path
+                d="M15.5 14h-.8l-.3-.3c1-1.1 1.6-2.6 1.6-4.2C16 5.9 13.1 3 9.5 3S3 5.9 3 9.5 5.9 16 9.5 16c1.6 0 3.1-.6 4.2-1.6l.3.3v.8l5 5 1.5-1.5-5-5zm-6 0C7 14 5 12 5 9.5S7 5 9.5 5 14 7 14 9.5 12 14 9.5 14z"
+              />
+            </svg>
+          </IconSearch>
+          <styled-components__StyledInput
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            type="text"
+            value=""
+          >
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__StyledInput-hla0ih-1",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  transition: width 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  background-color: ",
+                      [Function],
+                      ";
+  height: 100%;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding-left: 28px;
+  padding-right: 22px;
+
+  &:focus {
+    outline: 0;
+  }
+
+  &::placeholder {
+    color: ",
+                      [Function],
+                      ";
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__StyledInput",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__StyledInput-hla0ih-1",
+                  "target": "input",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              type="text"
+              value=""
+            >
+              <input
+                className="c1"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                type="text"
+                value=""
+              />
+            </StyledComponent>
+          </styled-components__StyledInput>
+        </label>
+      </StyledComponent>
+    </styled-components__StyledLabel>
+  </SearchInput>
+</StatefulSearchInput>
+`;

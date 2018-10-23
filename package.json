@@ -136,10 +136,10 @@
     "resetModules": true,
     "coverageThreshold": {
       "global": {
-        "branches": 73,
-        "functions": 75,
-        "lines": 79,
-        "statements": 77
+        "branches": 72,
+        "functions": 81,
+        "lines": 89,
+        "statements": 86
       }
     }
   },

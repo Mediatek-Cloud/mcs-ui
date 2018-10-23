@@ -1,26 +1,50 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots SortableTh API 1`] = `
-.c1 {
+.c2 {
   color: #999A94;
 }
 
-.c1 path:nth-child(1) {
+.c2 path:nth-child(1) {
   color: unset;
 }
 
-.c1 path:nth-child(2) {
+.c2 path:nth-child(2) {
   color: unset;
 }
 
-.c0 {
+.c4 {
+  color: #999A94;
+}
+
+.c4 path:nth-child(1) {
+  color: unset;
+}
+
+.c4 path:nth-child(2) {
+  color: #353630;
+}
+
+.c5 {
+  color: #999A94;
+}
+
+.c5 path:nth-child(1) {
+  color: #353630;
+}
+
+.c5 path:nth-child(2) {
+  color: unset;
+}
+
+.c1 {
   cursor: pointer;
   -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
   transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
   background-color: unset;
 }
 
-.c0 div {
+.c1 div {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -31,40 +55,155 @@ exports[`Storyshots SortableTh API 1`] = `
   align-items: center;
 }
 
-.c0 svg {
+.c1 svg {
   margin-left: 5px;
   margin-right: 16px;
 }
 
-.c0:hover {
+.c1:hover {
   background-color: #f5f5f5;
 }
 
-<SortableTh
-  active={false}
-  isAsc={false}
->
-  <styled-components__StyledTh
-    active={false}
-    isAsc={false}
+.c3 {
+  cursor: pointer;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  background-color: #f5f5f5;
+}
+
+.c3 div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 svg {
+  margin-left: 5px;
+  margin-right: 16px;
+}
+
+.c3:hover {
+  background-color: #f5f5f5;
+}
+
+.c0 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.c0 thead tr {
+  background-color: #FAFAFA;
+  color: #999A94;
+}
+
+.c0 thead tr > * {
+  padding: 8px 0 8px 16px;
+}
+
+.c0 tr {
+  border-bottom: 1px solid #F1F2F7;
+}
+
+.c0 tr > * {
+  padding: 16px 0 16px 16px;
+}
+
+.c0 th {
+  text-align: left;
+  font-weight: normal;
+}
+
+<Table>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "Table-e6uimp-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  width: 100%;
+  border-collapse: collapse;
+
+  thead tr {
+    background-color: ",
+            [Function],
+            ";
+    color: ",
+            [Function],
+            ";
+
+    > * {
+      padding: 8px 0 8px 16px;
+    }
+  }
+
+  tr {
+    border-bottom: 1px solid
+      ",
+            [Function],
+            ";
+
+    > * {
+      padding: 16px 0 16px 16px;
+    }
+  }
+
+  th {
+    text-align: left;
+    font-weight: normal;
+  }
+",
+          ],
+        },
+        "displayName": "Table",
+        "render": [Function],
+        "styledComponentId": "Table-e6uimp-0",
+        "target": "table",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
   >
-    <StyledComponent
-      active={false}
-      forwardedClass={
-        Object {
-          "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
-          "componentStyle": ComponentStyle {
-            "componentId": "styled-components__StyledTh-sc-1fg0tp4-0",
-            "isStatic": false,
-            "lastClassName": "hMegtE",
-            "rules": Array [
-              "
+    <table
+      className="c0"
+    >
+      <thead>
+        <tr>
+          <SortableTh
+            active={false}
+            isAsc={false}
+          >
+            <styled-components__StyledTh
+              active={false}
+              isAsc={false}
+            >
+              <StyledComponent
+                active={false}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                      "isStatic": false,
+                      "lastClassName": "c3",
+                      "rules": Array [
+                        "
   cursor: pointer;
   transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
   background-color: ",
-              [Function],
-              ";
+                        [Function],
+                        ";
 
   div {
     display: flex;
@@ -80,104 +219,389 @@ exports[`Storyshots SortableTh API 1`] = `
     background-color: #f5f5f5;
   }
 ",
-            ],
-          },
-          "displayName": "styled-components__StyledTh",
-          "render": [Function],
-          "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
-          "target": "th",
-          "warnTooManyClasses": [Function],
-          "withComponent": [Function],
-        }
-      }
-      forwardedRef={null}
-      isAsc={false}
-    >
-      <th
-        className="c0"
-      >
-        <div>
-          children
-          <IconSort
-            active={false}
-            height={14}
-            isAsc={false}
-            width={14}
-          >
-            <styled-components__StyledSVG
-              active={false}
-              height={14}
-              isAsc={false}
-              viewBox="0 0 24 24"
-              width={14}
-            >
-              <StyledComponent
-                active={false}
-                forwardedClass={
-                  Object {
-                    "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
-                    "componentStyle": ComponentStyle {
-                      "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
-                      "isStatic": false,
-                      "lastClassName": "eZJCnK",
-                      "rules": Array [
-                        "
-  color: ",
-                        [Function],
-                        ";
-
-  path:nth-child(1) {
-    color: ",
-                        [Function],
-                        ";
-  }
-
-  path:nth-child(2) {
-    color: ",
-                        [Function],
-                        ";
-  }
-",
                       ],
                     },
-                    "displayName": "styled-components__StyledSVG",
+                    "displayName": "styled-components__StyledTh",
                     "render": [Function],
-                    "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
-                    "target": "svg",
+                    "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                    "target": "th",
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
                 }
                 forwardedRef={null}
-                height={14}
                 isAsc={false}
-                viewBox="0 0 24 24"
-                width={14}
               >
-                <svg
+                <th
                   className="c1"
-                  height={14}
-                  viewBox="0 0 24 24"
-                  width={14}
                 >
-                  <path
-                    d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
-                    fill="currentColor"
-                    id="up"
-                  />
-                  <path
-                    d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
-                    fill="currentColor"
-                    id="down"
-                  />
-                </svg>
+                  <div>
+                    children
+                    <IconSort
+                      active={false}
+                      height={14}
+                      isAsc={false}
+                      width={14}
+                    >
+                      <styled-components__StyledSVG
+                        active={false}
+                        height={14}
+                        isAsc={false}
+                        viewBox="0 0 24 24"
+                        width={14}
+                      >
+                        <StyledComponent
+                          active={false}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                                "isStatic": false,
+                                "lastClassName": "c5",
+                                "rules": Array [
+                                  "
+  color: ",
+                                  [Function],
+                                  ";
+
+  path:nth-child(1) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+
+  path:nth-child(2) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled-components__StyledSVG",
+                              "render": [Function],
+                              "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                              "target": "svg",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          height={14}
+                          isAsc={false}
+                          viewBox="0 0 24 24"
+                          width={14}
+                        >
+                          <svg
+                            className="c2"
+                            height={14}
+                            viewBox="0 0 24 24"
+                            width={14}
+                          >
+                            <path
+                              d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
+                              fill="currentColor"
+                              id="up"
+                            />
+                            <path
+                              d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
+                              fill="currentColor"
+                              id="down"
+                            />
+                          </svg>
+                        </StyledComponent>
+                      </styled-components__StyledSVG>
+                    </IconSort>
+                  </div>
+                </th>
               </StyledComponent>
-            </styled-components__StyledSVG>
-          </IconSort>
-        </div>
-      </th>
-    </StyledComponent>
-  </styled-components__StyledTh>
-</SortableTh>
+            </styled-components__StyledTh>
+          </SortableTh>
+          <SortableTh
+            active={true}
+            isAsc={false}
+          >
+            <styled-components__StyledTh
+              active={true}
+              isAsc={false}
+            >
+              <StyledComponent
+                active={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                      "isStatic": false,
+                      "lastClassName": "c3",
+                      "rules": Array [
+                        "
+  cursor: pointer;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  background-color: ",
+                        [Function],
+                        ";
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+
+  svg {
+    margin-left: 5px;
+    margin-right: 16px; /* Note: th padding right */
+  }
+
+  &:hover {
+    background-color: #f5f5f5;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__StyledTh",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                    "target": "th",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                isAsc={false}
+              >
+                <th
+                  className="c3"
+                >
+                  <div>
+                    children
+                    <IconSort
+                      active={true}
+                      height={14}
+                      isAsc={false}
+                      width={14}
+                    >
+                      <styled-components__StyledSVG
+                        active={true}
+                        height={14}
+                        isAsc={false}
+                        viewBox="0 0 24 24"
+                        width={14}
+                      >
+                        <StyledComponent
+                          active={true}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                                "isStatic": false,
+                                "lastClassName": "c5",
+                                "rules": Array [
+                                  "
+  color: ",
+                                  [Function],
+                                  ";
+
+  path:nth-child(1) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+
+  path:nth-child(2) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled-components__StyledSVG",
+                              "render": [Function],
+                              "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                              "target": "svg",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          height={14}
+                          isAsc={false}
+                          viewBox="0 0 24 24"
+                          width={14}
+                        >
+                          <svg
+                            className="c4"
+                            height={14}
+                            viewBox="0 0 24 24"
+                            width={14}
+                          >
+                            <path
+                              d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
+                              fill="currentColor"
+                              id="up"
+                            />
+                            <path
+                              d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
+                              fill="currentColor"
+                              id="down"
+                            />
+                          </svg>
+                        </StyledComponent>
+                      </styled-components__StyledSVG>
+                    </IconSort>
+                  </div>
+                </th>
+              </StyledComponent>
+            </styled-components__StyledTh>
+          </SortableTh>
+          <SortableTh
+            active={true}
+            isAsc={true}
+          >
+            <styled-components__StyledTh
+              active={true}
+              isAsc={true}
+            >
+              <StyledComponent
+                active={true}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                      "isStatic": false,
+                      "lastClassName": "c3",
+                      "rules": Array [
+                        "
+  cursor: pointer;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  background-color: ",
+                        [Function],
+                        ";
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+
+  svg {
+    margin-left: 5px;
+    margin-right: 16px; /* Note: th padding right */
+  }
+
+  &:hover {
+    background-color: #f5f5f5;
+  }
+",
+                      ],
+                    },
+                    "displayName": "styled-components__StyledTh",
+                    "render": [Function],
+                    "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
+                    "target": "th",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                isAsc={true}
+              >
+                <th
+                  className="c3"
+                >
+                  <div>
+                    children
+                    <IconSort
+                      active={true}
+                      height={14}
+                      isAsc={true}
+                      width={14}
+                    >
+                      <styled-components__StyledSVG
+                        active={true}
+                        height={14}
+                        isAsc={true}
+                        viewBox="0 0 24 24"
+                        width={14}
+                      >
+                        <StyledComponent
+                          active={true}
+                          forwardedClass={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": undefined,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                                "isStatic": false,
+                                "lastClassName": "c5",
+                                "rules": Array [
+                                  "
+  color: ",
+                                  [Function],
+                                  ";
+
+  path:nth-child(1) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+
+  path:nth-child(2) {
+    color: ",
+                                  [Function],
+                                  ";
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled-components__StyledSVG",
+                              "render": [Function],
+                              "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                              "target": "svg",
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          height={14}
+                          isAsc={true}
+                          viewBox="0 0 24 24"
+                          width={14}
+                        >
+                          <svg
+                            className="c5"
+                            height={14}
+                            viewBox="0 0 24 24"
+                            width={14}
+                          >
+                            <path
+                              d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
+                              fill="currentColor"
+                              id="up"
+                            />
+                            <path
+                              d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
+                              fill="currentColor"
+                              id="down"
+                            />
+                          </svg>
+                        </StyledComponent>
+                      </styled-components__StyledSVG>
+                    </IconSort>
+                  </div>
+                </th>
+              </StyledComponent>
+            </styled-components__StyledTh>
+          </SortableTh>
+        </tr>
+      </thead>
+    </table>
+  </StyledComponent>
+</Table>
 `;
