@@ -46,3 +46,4 @@ export { default as TabItem } from './TabItem';
 export { default as Table } from './Table';
 export { default as Textarea } from './Textarea';
 export { default as Toast } from './Toast';
+export { default as TopBarProgress } from './TopBarProgress';
