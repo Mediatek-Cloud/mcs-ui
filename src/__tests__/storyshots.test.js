@@ -14,7 +14,7 @@ import { addSerializer } from 'jest-specific-snapshot';
 addSerializer(styleSheetSerializer);
 
 initStoryshots({
-  test: ({ story, context }) => {
+  test: ({ story, context }): void => {
     /**
      * ref: https://github.com/storybooks/storybook/blob/master/addons/storyshots/storyshots-core/src/Stories2SnapsConverter.test.js#L3
      */

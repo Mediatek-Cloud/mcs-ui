@@ -136,7 +136,7 @@ class PureInputSelect extends React.Component<InnerProps, State> {
   };
 
   onFilterChange = (e: any) => {
-    const { value } = e.target;
+    const { value }: { value: string } = e.target;
     this.setState(() => ({ filter: value }));
   };
 

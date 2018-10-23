@@ -15,7 +15,7 @@ registerRequireContextHook();
 Enzyme.configure({ adapter: new Adapter() });
 
 jest.mock('react-spring', () => ({
-  Transition: ({ children }: any) => (
+  Transition: ({ children }: { children: Array<React.ComponentType<*>> }) => (
     <div>
       {children.map((Child, index) => (
         <Child key={index} />
@@ -25,3 +25,4 @@ jest.mock('react-spring', () => ({
 }));
 
 jest.mock('rc-tween-one/lib/TweenOne', () => 'mock-TweenOne');
+jest.mock('react-topbar-progress-indicator');

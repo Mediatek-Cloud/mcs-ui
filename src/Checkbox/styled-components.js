@@ -2,7 +2,13 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { darken3 } from '../utils/darken';
-import { type Kind } from '../utils/type.flow';
+import { type Kind, type ThemeProps } from '../utils/type.flow';
+
+type InnerProps = {
+  size: number,
+  kind: Kind,
+  checked: boolean,
+} & ThemeProps;
 
 export const Container: React.ComponentType<{
   size?: number,
@@ -12,28 +18,24 @@ export const Container: React.ComponentType<{
   line-height: 1em;
   font-size: 12px;
   border-radius: 2px;
-  width: ${props => props.size}px;
-  height: ${props => props.size}px;
+  width: ${({ size }: InnerProps) => size}px;
+  height: ${({ size }: InnerProps) => size}px;
   box-sizing: border-box;
   user-select: none;
   cursor: pointer;
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
-  color: ${props => {
-    if (props.checked) {
-      return props.kind === 'default'
-        ? props.theme.color.grayDark
-        : props.theme.color.white;
+  color: ${({ checked, theme, kind }: InnerProps) => {
+    if (checked) {
+      return kind === 'default' ? theme.color.grayDark : theme.color.white;
     }
     return 'transparent';
   }};
-  background-color: ${props =>
-    props.checked ? props.theme.color[props.kind] : props.theme.color.white};
+  background-color: ${({ checked, theme, kind }: InnerProps) =>
+    checked ? theme.color[kind] : theme.color.white};
   border: 1px solid
-    ${props =>
-      props.checked
-        ? darken3(props.theme.color[props.kind])
-        : props.theme.color.grayBase};
+    ${({ checked, theme, kind }: InnerProps) =>
+      checked ? darken3(theme.color[kind]) : theme.color.grayBase};
 `;
 
 export const Content: React.ComponentType<{ checked: boolean }> = styled.div`
@@ -42,7 +44,7 @@ export const Content: React.ComponentType<{ checked: boolean }> = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  transform: scale(${props => (props.checked ? 1 : 0)});
+  transform: scale(${({ checked }: InnerProps) => (checked ? 1 : 0)});
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
 
