@@ -1,6 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots Icons List 1`] = `
+.c1 {
+  color: #999A94;
+}
+
+.c1 path:nth-child(1) {
+  color: unset;
+}
+
+.c1 path:nth-child(2) {
+  color: unset;
+}
+
 .c0 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -38,6 +50,140 @@ exports[`Storyshots Icons List 1`] = `
 }
 
 <div>
+  <Iconsexample__IconWrapper
+    key="IconSort"
+  >
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Iconsexample__IconWrapper-f2ede-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 8px;
+  padding: 16px;
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: ",
+              [Function],
+              ";
+  overflow: hidden;
+
+  > pre {
+    background-color: ",
+              [Function],
+              ";
+    color: ",
+              [Function],
+              ";
+    padding: 2px 5px;
+  }
+
+  > svg {
+    width: 24px;
+    height: 24px;
+    fill: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "displayName": "Iconsexample__IconWrapper",
+          "render": [Function],
+          "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <pre>
+          IconSort
+        </pre>
+        <IconSort>
+          <styled-components__StyledSVG
+            height="1em"
+            viewBox="0 0 24 24"
+            width="1em"
+          >
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": undefined,
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  color: ",
+                      [Function],
+                      ";
+
+  path:nth-child(1) {
+    color: ",
+                      [Function],
+                      ";
+  }
+
+  path:nth-child(2) {
+    color: ",
+                      [Function],
+                      ";
+  }
+",
+                    ],
+                  },
+                  "displayName": "styled-components__StyledSVG",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
+                  "target": "svg",
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              height="1em"
+              viewBox="0 0 24 24"
+              width="1em"
+            >
+              <svg
+                className="c1"
+                height="1em"
+                viewBox="0 0 24 24"
+                width="1em"
+              >
+                <path
+                  d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
+                  fill="currentColor"
+                  id="up"
+                />
+                <path
+                  d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
+                  fill="currentColor"
+                  id="down"
+                />
+              </svg>
+            </StyledComponent>
+          </styled-components__StyledSVG>
+        </IconSort>
+      </div>
+    </StyledComponent>
+  </Iconsexample__IconWrapper>
   <Iconsexample__IconWrapper
     key="IconWarning"
   >

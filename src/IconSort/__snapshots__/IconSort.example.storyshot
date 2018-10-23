@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots IconSort API 1`] = `
+.c0 {
+  color: #999A94;
+}
+
+.c0 path:nth-child(1) {
+  color: unset;
+}
+
+.c0 path:nth-child(2) {
+  color: unset;
+}
+
+<IconSort
+  active={false}
+  isAsc={false}
+>
+  <styled-components__StyledSVG
+    active={false}
+    height="1em"
+    isAsc={false}
+    viewBox="0 0 24 24"
+    width="1em"
+  >
+    <StyledComponent
+      active={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
+            "isStatic": false,
+            "lastClassName": "eZJCnK",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+
+  path:nth-child(1) {
+    color: ",
+              [Function],
+              ";
+  }
+
+  path:nth-child(2) {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__StyledSVG",
+          "render": [Function],
+          "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
+          "target": "svg",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      height="1em"
+      isAsc={false}
+      viewBox="0 0 24 24"
+      width="1em"
+    >
+      <svg
+        className="c0"
+        height="1em"
+        viewBox="0 0 24 24"
+        width="1em"
+      >
+        <path
+          d="M12,5.8L15.2,9l1.4-1.4L12,3L7.4,7.6L8.8,9L12,5.8z"
+          fill="currentColor"
+          id="up"
+        />
+        <path
+          d="M12,18.2L8.8,15l-1.4,1.4L12,21l4.6-4.6L15.2,15"
+          fill="currentColor"
+          id="down"
+        />
+      </svg>
+    </StyledComponent>
+  </styled-components__StyledSVG>
+</IconSort>
+`;

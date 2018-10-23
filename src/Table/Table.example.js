@@ -2,6 +2,7 @@
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import Table from '.';
+import SortableTh from '../SortableTh';
 
 storiesOf('Table', module).add(
   'API',
@@ -10,7 +11,9 @@ storiesOf('Table', module).add(
       <thead>
         <tr>
           <th>#</th>
-          <th>First Name</th>
+          <SortableTh active isAsc>
+            First Name
+          </SortableTh>
           <th>Last Name</th>
           <th>Username</th>
         </tr>
