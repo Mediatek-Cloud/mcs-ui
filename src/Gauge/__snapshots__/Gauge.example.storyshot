@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Gauge API 1`] = `
+<Gauge
+  height={180}
+  max={16}
+  value={15}
+  width={208}
+>
+  <svg
+    height={180}
+    viewBox="0 0 188 162"
+    width={208}
+  >
+    <defs>
+      <linearGradient
+        id="a"
+        x1="50%"
+        x2="50%"
+        y1="0%"
+        y2="100%"
+      >
+        <stop
+          offset="0%"
+          stopColor="#00CFF1"
+        />
+        <stop
+          offset="100%"
+          stopColor="#00A1DE"
+        />
+      </linearGradient>
+      <linearGradient
+        id="b"
+        x1="0%"
+        x2="0%"
+        y1="50%"
+        y2="0%"
+      >
+        <stop
+          offset="0%"
+          stopColor="#00A1DE"
+        />
+        <stop
+          offset="100%"
+          stopColor="#00CFF1"
+        />
+      </linearGradient>
+    </defs>
+    <g
+      fill="none"
+      fillRule="evenodd"
+      strokeLinecap="round"
+      strokeWidth={8}
+    >
+      <path
+        d="M26.3603897,153.63961 C10.0735931,137.352814 0,114.852814 0,90 C0,40.2943725 40.2943725,0 90,0 C139.705627,0 180,40.2943725 180,90 C180,114.852814 169.926407,137.352814 153.63961,153.63961"
+        opacity={0.1}
+        stroke="url(#a)"
+        transform="translate(4 4)"
+      />
+      <path
+        d="M26.3603897,153.63961 C10.0735931,137.352814 0,114.852814 0,90 C0,40.2943725 40.2943725,0 90,0 C139.705627,0 180,40.2943725 180,90 C180,114.852814 169.926407,137.352814 153.63961,153.63961"
+        stroke="url(#b)"
+        style={
+          Object {
+            "strokeDasharray": 424,
+            "strokeDashoffset": 26.4375,
+          }
+        }
+        transform="translate(4 4)"
+      />
+    </g>
+  </svg>
+</Gauge>
+`;
+
+exports[`Storyshots Gauge With width props 1`] = `
+<Gauge
+  height={90}
+  max={16}
+  value={8}
+  width={104}
+>
+  <svg
+    height={90}
+    viewBox="0 0 188 162"
+    width={104}
+  >
+    <defs>
+      <linearGradient
+        id="a"
+        x1="50%"
+        x2="50%"
+        y1="0%"
+        y2="100%"
+      >
+        <stop
+          offset="0%"
+          stopColor="#00CFF1"
+        />
+        <stop
+          offset="100%"
+          stopColor="#00A1DE"
+        />
+      </linearGradient>
+      <linearGradient
+        id="b"
+        x1="0%"
+        x2="0%"
+        y1="50%"
+        y2="0%"
+      >
+        <stop
+          offset="0%"
+          stopColor="#00A1DE"
+        />
+        <stop
+          offset="100%"
+          stopColor="#00CFF1"
+        />
+      </linearGradient>
+    </defs>
+    <g
+      fill="none"
+      fillRule="evenodd"
+      strokeLinecap="round"
+      strokeWidth={8}
+    >
+      <path
+        d="M26.3603897,153.63961 C10.0735931,137.352814 0,114.852814 0,90 C0,40.2943725 40.2943725,0 90,0 C139.705627,0 180,40.2943725 180,90 C180,114.852814 169.926407,137.352814 153.63961,153.63961"
+        opacity={0.1}
+        stroke="url(#a)"
+        transform="translate(4 4)"
+      />
+      <path
+        d="M26.3603897,153.63961 C10.0735931,137.352814 0,114.852814 0,90 C0,40.2943725 40.2943725,0 90,0 C139.705627,0 180,40.2943725 180,90 C180,114.852814 169.926407,137.352814 153.63961,153.63961"
+        stroke="url(#b)"
+        style={
+          Object {
+            "strokeDasharray": 424,
+            "strokeDashoffset": 211.5,
+          }
+        }
+        transform="translate(4 4)"
+      />
+    </g>
+  </svg>
+</Gauge>
+`;

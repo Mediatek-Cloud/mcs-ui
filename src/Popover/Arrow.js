@@ -1,7 +1,9 @@
 // @flow
 import * as React from 'react';
 
-const Arrow = (props: any) => (
+export type Props = {};
+
+const Arrow = (props: Props) => (
   <svg
     width={19}
     height={22}

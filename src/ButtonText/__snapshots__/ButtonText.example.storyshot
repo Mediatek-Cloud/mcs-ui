@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ButtonText API 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 5px;
+  height: 20px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  -webkit-transition: border-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: border-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  background-color: unset;
+  color: #00A1DE;
+  cursor: pointer;
+}
+
+.c0:hover {
+  border-color: #D1D2D3;
+}
+
+<ButtonText>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "ButtonText-sc-1ke5fj7-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: inline-flex;
+  align-items: center;
+  padding: 0 5px;
+  height: ",
+            [Function],
+            ";
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  transition: border-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  background-color: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  cursor: pointer;
+
+  &:hover {
+    border-color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "displayName": "ButtonText",
+        "propTypes": Object {
+          "active": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "ButtonText-sc-1ke5fj7-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      button
+    </div>
+  </StyledComponent>
+</ButtonText>
+`;
+
+exports[`Storyshots ButtonText With active props 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 5px;
+  height: 20px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  -webkit-transition: border-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: border-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.c0:hover {
+  border-color: transparent;
+}
+
+<ButtonText
+  active={true}
+>
+  <StyledComponent
+    active={true}
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "ButtonText-sc-1ke5fj7-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  display: inline-flex;
+  align-items: center;
+  padding: 0 5px;
+  height: ",
+            [Function],
+            ";
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  transition: border-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  background-color: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  cursor: pointer;
+
+  &:hover {
+    border-color: ",
+            [Function],
+            ";
+  }
+",
+          ],
+        },
+        "displayName": "ButtonText",
+        "propTypes": Object {
+          "active": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "ButtonText-sc-1ke5fj7-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      button
+    </div>
+  </StyledComponent>
+</ButtonText>
+`;

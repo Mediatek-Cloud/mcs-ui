@@ -30,7 +30,9 @@
     "ramda": "^0.25.0",
     "react-overlay-pack": "^3.0.0",
     "react-spring": "^5.9.2",
-    "react-virtualized": "^9.20.1"
+    "react-topbar-progress-indicator": "^2.0.0",
+    "react-virtualized": "^9.20.1",
+    "recompose": "^0.30.0"
   },
   "peerDependencies": {
     "react": "^16.0.0",
@@ -79,6 +81,7 @@
     "nwb": "0.23.0",
     "polished": "2.3.0",
     "prettier": "1.14.3",
+    "prismjs": "1.15.0",
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "styled-components": "4.0.2"
@@ -135,10 +138,10 @@
     "resetModules": true,
     "coverageThreshold": {
       "global": {
-        "branches": 73,
-        "functions": 75,
-        "lines": 79,
-        "statements": 77
+        "branches": 72,
+        "functions": 81,
+        "lines": 89,
+        "statements": 86
       }
     }
   },

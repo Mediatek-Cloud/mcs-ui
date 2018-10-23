@@ -1,0 +1,787 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots MarkdownTheme API 1`] = `
+.c0 {
+  font-family: 'Roboto';
+  font-size: 1.15rem;
+}
+
+.c0 code,
+.c0 pre,
+.c0 code *,
+.c0 pre * {
+  font-family: source-code-pro,Menlo,Monaco,Consolas,Courier New, monospace;
+  font-size: 1rem;
+}
+
+.c0 h1,
+.c0 h2,
+.c0 h3,
+.c0 h4,
+.c0 h5,
+.c0 h6,
+.c0 p {
+  margin: 0;
+}
+
+.c0 h1,
+.c0 h2,
+.c0 h3,
+.c0 h4,
+.c0 h5,
+.c0 h6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.c0 h1 .anchor,
+.c0 h2 .anchor,
+.c0 h3 .anchor,
+.c0 h4 .anchor,
+.c0 h5 .anchor,
+.c0 h6 .anchor {
+  line-height: 0;
+  padding-left: 5px;
+}
+
+.c0 h1 .anchor svg,
+.c0 h2 .anchor svg,
+.c0 h3 .anchor svg,
+.c0 h4 .anchor svg,
+.c0 h5 .anchor svg,
+.c0 h6 .anchor svg {
+  visibility: hidden;
+  -webkit-transition: fill cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: fill cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  height: 18px;
+  width: 18px;
+}
+
+.c0 h1 .anchor svg:hover,
+.c0 h2 .anchor svg:hover,
+.c0 h3 .anchor svg:hover,
+.c0 h4 .anchor svg:hover,
+.c0 h5 .anchor svg:hover,
+.c0 h6 .anchor svg:hover {
+  fill: rgb(0,151,208);
+}
+
+.c0 h1 .anchor svg:active,
+.c0 h2 .anchor svg:active,
+.c0 h3 .anchor svg:active,
+.c0 h4 .anchor svg:active,
+.c0 h5 .anchor svg:active,
+.c0 h6 .anchor svg:active {
+  fill: rgb(0,144,198);
+}
+
+.c0 h1:hover .anchor svg,
+.c0 h2:hover .anchor svg,
+.c0 h3:hover .anchor svg,
+.c0 h4:hover .anchor svg,
+.c0 h5:hover .anchor svg,
+.c0 h6:hover .anchor svg,
+.c0 h1 .anchor:focus svg,
+.c0 h2 .anchor:focus svg,
+.c0 h3 .anchor:focus svg,
+.c0 h4 .anchor:focus svg,
+.c0 h5 .anchor:focus svg,
+.c0 h6 .anchor:focus svg {
+  visibility: visible;
+}
+
+.c0 h1 {
+  font-size: 2.46rem;
+  border-bottom: 1px solid #D1D2D3;
+  padding-bottom: 5px;
+  padding-top: 50px;
+}
+
+.c0 h2 {
+  font-size: 1.69rem;
+  border-bottom: 1px solid #D1D2D3;
+  padding-bottom: 5px;
+  padding-top: 50px;
+}
+
+.c0 h3 {
+  font-size: 1.38rem;
+  padding-top: 50px;
+  margin-top: -30px;
+}
+
+.c0 h4 {
+  font-size: 1.15rem;
+  padding-top: 50px;
+  margin-top: -40px;
+}
+
+.c0 h5 {
+  font-size: 1.15rem;
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.c0 h6 {
+  font-size: 1.15rem;
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.c0 p {
+  font-size: 1.15rem;
+}
+
+.c0 *:not(li) > p {
+  margin-top: 10px;
+}
+
+.c0 small {
+  font-size: 0.923rem;
+}
+
+.c0 b,
+.c0 strong {
+  font-weight: bold;
+}
+
+.c0 hr {
+  margin-top: 50px;
+  margin-bottom: -1px;
+  height: 1px;
+  border: none;
+  border-top: 1px solid #D1D2D3;
+}
+
+.c0 hr + h2 {
+  border-top: 0;
+  margin-top: 0;
+}
+
+.c0 hr + h3,
+.c0 hr + h4,
+.c0 hr + h5,
+.c0 hr + h6 {
+  margin-top: 0;
+}
+
+.c0 a {
+  color: #00A1DE;
+  -webkit-transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a:hover {
+  color: rgb(0,151,208);
+}
+
+.c0 a:active {
+  color: rgb(0,144,198);
+}
+
+.c0 img {
+  max-width: 100%;
+}
+
+.c0 ol,
+.c0 ul {
+  padding-left: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.c0 ol li,
+.c0 ul li {
+  margin-top: 5px;
+}
+
+.c0 table {
+  margin-top: 20px;
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.c0 table th,
+.c0 table thead {
+  font-weight: bold;
+  color: #fff;
+  background-color: #abcbdd;
+}
+
+.c0 table th,
+.c0 table td {
+  padding: 8px;
+}
+
+.c0 table th p,
+.c0 table td p {
+  margin-top: 0;
+}
+
+.c0 table thead tr + tr th {
+  border-top: 1px solid #FFFFFF;
+}
+
+.c0 table thead,
+.c0 table tbody th,
+.c0 table tbody td {
+  border: 1px solid #abcbdd;
+}
+
+.c0 table tr:nth-child(odd) {
+  background-color: #FAFAFA;
+}
+
+.c0 table tr:nth-child(2n) {
+  background-color: #f5f5f5;
+}
+
+.c0 blockquote {
+  border-radius: 3px;
+  background-color: rgba(171,203,221,0.2);
+  border-left-color: #abcbdd;
+  border-left-width: 6px;
+  border-left-style: solid;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.c0 blockquote > p:first-of-type {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.c0 blockquote > p:nth-of-type(2) {
+  margin-top: 0;
+}
+
+.c0 pre {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.c0 pre .operator {
+  background-color: transparent;
+}
+
+.c0 pre::selection {
+  text-shadow: none;
+  background-color: default;
+}
+
+.c0 pre *::selection {
+  text-shadow: none;
+  background-color: default;
+}
+
+.c0 code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.c0 code::selection {
+  text-shadow: none;
+  background-color: default;
+}
+
+.c0 code *::selection {
+  text-shadow: none;
+  background-color: default;
+}
+
+.c0 h1 code,
+.c0 h2 code,
+.c0 h3 code,
+.c0 h4 code,
+.c0 h5 code,
+.c0 h6 code {
+  background-color: inherit;
+  color: inherit;
+  padding: unset;
+}
+
+.c0 h1 code > *,
+.c0 h2 code > *,
+.c0 h3 code > *,
+.c0 h4 code > *,
+.c0 h5 code > *,
+.c0 h6 code > * {
+  background-color: inherit;
+  color: inherit;
+}
+
+.c0 li:not(pre) > code,
+.c0 p:not(pre) > code,
+.c0 strong:not(pre) > code,
+.c0 b:not(pre) > code {
+  padding: 0 3px;
+  word-break: break-word;
+  background-color: rgba(254,209,0,0.4);
+  color: inherit;
+}
+
+.c0 li:not(pre) > code *,
+.c0 p:not(pre) > code *,
+.c0 strong:not(pre) > code *,
+.c0 b:not(pre) > code * {
+  color: inherit;
+}
+
+.c0 a code,
+.c0 a strong code {
+  padding: 0 3px;
+  color: inherit;
+  background-color: inherit;
+}
+
+.c0 a code > *,
+.c0 a strong code > * {
+  color: inherit;
+}
+
+<MarkdownTheme>
+  <StyledComponent
+    forwardedClass={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": undefined,
+        "componentStyle": ComponentStyle {
+          "componentId": "MarkdownTheme-sc-1bmwnnu-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  /* Note: font */
+  font-family: 'Roboto';
+  font-size: ",
+            [Function],
+            ";
+
+  /* Note: code */
+  code,
+  pre,
+  code *,
+  pre * {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New,
+      monospace;
+    font-size: ",
+            [Function],
+            ";
+  }
+
+  /* Note: normalize */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+
+  /* Note: Anchor */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-end;
+
+    .anchor {
+      line-height: 0;
+      padding-left: 5px;
+
+      svg {
+        visibility: hidden;
+        transition: fill cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+        height: 18px;
+        width: 18px;
+
+        &:hover {
+          fill: ",
+            [Function],
+            ";
+        }
+
+        &:active {
+          fill: ",
+            [Function],
+            ";
+        }
+      }
+    }
+  }
+  h1:hover .anchor,
+  h2:hover .anchor,
+  h3:hover .anchor,
+  h4:hover .anchor,
+  h5:hover .anchor,
+  h6:hover .anchor,
+  h1 .anchor:focus,
+  h2 .anchor:focus,
+  h3 .anchor:focus,
+  h4 .anchor:focus,
+  h5 .anchor:focus,
+  h6 .anchor:focus {
+    svg {
+      visibility: visible;
+    }
+  }
+
+  h1 {
+    font-size: ",
+            [Function],
+            ";
+    border-bottom: 1px solid ",
+            [Function],
+            ";
+    padding-bottom: 5px;
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+  }
+  h2 {
+    font-size: ",
+            [Function],
+            ";
+    border-bottom: 1px solid ",
+            [Function],
+            ";
+    padding-bottom: 5px;
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+  }
+  h3 {
+    font-size: ",
+            [Function],
+            ";
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+    margin-top: -30px;
+  }
+  h4 {
+    font-size: ",
+            [Function],
+            ";
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+    margin-top: -40px;
+  }
+  h5 {
+    font-size: ",
+            [Function],
+            ";
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+    margin-top: ",
+            [Function],
+            ";
+  }
+  h6 {
+    font-size: ",
+            [Function],
+            ";
+    /* Note: for anchor offset */
+    padding-top: ",
+            [Function],
+            ";
+    margin-top: ",
+            [Function],
+            ";
+  }
+  p {
+    font-size: ",
+            [Function],
+            ";
+  }
+  *:not(li) > p {
+    margin-top: 10px;
+  }
+
+  small {
+    font-size: ",
+            [Function],
+            ";
+  }
+  b,
+  strong {
+    font-weight: bold;
+  }
+
+  hr {
+    margin-top: 50px;
+    margin-bottom: -1px;
+    height: 1px;
+    border: none;
+    border-top: 1px solid ",
+            [Function],
+            ";
+  }
+  hr + h2 {
+    border-top: 0;
+    margin-top: 0;
+  }
+  hr + h3,
+  hr + h4,
+  hr + h5,
+  hr + h6 {
+    margin-top: 0;
+  }
+
+  a {
+    color: ",
+            [Function],
+            ";
+    transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover {
+      color: ",
+            [Function],
+            ";
+    }
+
+    &:active {
+      color: ",
+            [Function],
+            ";
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  ol,
+  ul {
+    padding-left: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    li {
+      margin-top: 5px;
+    }
+  }
+
+  table {
+    margin-top: 20px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 3px;
+    overflow: hidden;
+
+    th,
+    thead {
+      font-weight: bold;
+      color: #fff;
+      background-color: #abcbdd;
+    }
+
+    th,
+    td {
+      padding: 8px;
+
+      p {
+        margin-top: 0;
+      }
+    }
+
+    thead tr + tr th {
+      border-top: 1px solid ",
+            [Function],
+            ";
+    }
+
+    thead,
+    tbody th,
+    tbody td {
+      border: 1px solid #abcbdd;
+    }
+
+    tr:nth-child(odd) {
+      background-color: ",
+            [Function],
+            ";
+    }
+
+    tr:nth-child(2n) {
+      background-color: #f5f5f5;
+    }
+  }
+
+  blockquote {
+    border-radius: 3px;
+    background-color: rgba(171, 203, 221, 0.2);
+    border-left-color: #abcbdd;
+    border-left-width: 6px;
+    border-left-style: solid;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+
+    > p:first-of-type {
+      font-weight: bold;
+      margin-top: 0;
+    }
+
+    > p:nth-of-type(2) {
+      margin-top: 0;
+    }
+  }
+
+  /* Note: code block */
+  pre {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.04);
+    border-radius: 3px;
+
+    .operator {
+      background-color: transparent;
+    }
+
+    &::selection {
+      text-shadow: none;
+      background-color: default;
+    }
+
+    *::selection {
+      text-shadow: none;
+      background-color: default;
+    }
+  }
+  code {
+    white-space: pre-wrap;
+    word-break: break-word;
+    &::selection {
+      text-shadow: none;
+      background-color: default;
+    }
+
+    *::selection {
+      text-shadow: none;
+      background-color: default;
+    }
+  }
+
+  /* Note: disable inline code block in title */
+  h1 code,
+  h2 code,
+  h3 code,
+  h4 code,
+  h5 code,
+  h6 code {
+    background-color: inherit;
+    color: inherit;
+    padding: unset;
+    > * {
+      background-color: inherit;
+      color: inherit;
+    }
+  }
+
+  /* Note: override inline code block */
+  li:not(pre) > code,
+  p:not(pre) > code,
+  strong:not(pre) > code,
+  b:not(pre) > code {
+    padding: 0 3px;
+    word-break: break-word;
+    background-color: rgba(254, 209, 0, 0.4);
+
+    color: inherit;
+    * {
+      color: inherit;
+    }
+  }
+  a code,
+  a strong code {
+    padding: 0 3px;
+    color: inherit;
+    background-color: inherit;
+
+    > * {
+      color: inherit;
+    }
+  }
+",
+          ],
+        },
+        "displayName": "MarkdownTheme",
+        "render": [Function],
+        "styledComponentId": "MarkdownTheme-sc-1bmwnnu-0",
+        "target": "div",
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <HTML
+        html="<h1 id=\\"getting-started\\"><a href=\\"#getting-started\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Getting Started</h1> <h2 id=\\"header\\"><a href=\\"#header\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Header</h2> <h1 id=\\"header-1-標頭\\"><a href=\\"#header-1-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 1 標頭</h1> <h2 id=\\"header-2-標頭\\"><a href=\\"#header-2-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 2 標頭</h2> <h3 id=\\"header-3-標頭\\"><a href=\\"#header-3-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 3 標頭</h3> <h4 id=\\"header-4-標頭\\"><a href=\\"#header-4-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 4 標頭</h4> <h5 id=\\"header-5-標頭\\"><a href=\\"#header-5-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 5 標頭</h5> <h6 id=\\"header-6-標頭\\"><a href=\\"#header-6-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 6 標頭</h6> <h2 id=\\"link\\"><a href=\\"#link\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Link</h2> <p><a href=\\"./react-component\\">react-component</a></p> <p><a href=\\"http://dev.nodeca.com\\">連結文字</a></p> <p><a href=\\"http://nodeca.github.io/pica/demo/\\" title=\\"標題文字！\\">加上標題的連結文字</a></p> <p>自動轉換連結 <a href=\\"https://github.com/nodeca/pica\\">https://github.com/nodeca/pica</a></p> <h2 id=\\"list\\"><a href=\\"#list\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>List</h2> <ul> <li><a href=\\"../blog/2018-09-10-introducing-the-react-profiler\\">2018-09-10-introducing-the-react-profiler</a></li> <li><a href=\\"../../file/predict_net.pb\\">download file</a></li> <li>List</li> </ul> <h3 id=\\"項目\\"><a href=\\"#%E9%A0%85%E7%9B%AE\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>項目</h3> <ul> <li>在行開頭使用 <code class=\\"language-text\\">+</code> <code class=\\"language-text\\">-</code> 或是 <code class=\\"language-text\\">*</code> 來建立清單</li> <li> <p>空兩個空白就可以產生子清單</p> <ul> <li> <p>當清單標記使用的字元不同，會強制建立新的清單</p> <ul> <li>Ac tristique libero volutpat at</li> </ul> <ul> <li>Facilisis in pretium nisl aliquet</li> </ul> <ul> <li>Nulla volutpat aliquam velit</li> </ul> </li> </ul> </li> <li>非常簡單！</li> </ul> <h3 id=\\"編號\\"><a href=\\"#%E7%B7%A8%E8%99%9F\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>編號</h3> <ol> <li>Lorem ipsum dolor sit amet</li> <li>Consectetur adipiscing elit</li> <li>Integer molestie lorem at massa</li> </ol> <p>從其他範圍開始編號清單</p> <ol start=\\"57\\"> <li>foo</li> <li>bar</li> </ol> <h2 id=\\"image\\"><a href=\\"#image\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Image</h2> <h3 id=\\"註腳語法\\"><a href=\\"#%E8%A8%BB%E8%85%B3%E8%AA%9E%E6%B3%95\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>註腳語法</h3> <p><img src=\\"https://octodex.github.com/images/dojocat.jpg\\" alt=\\"Alt text\\" title=\\"The Dojocat\\"></p> <h2 id=\\"code-block\\"><a href=\\"#code-block\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Code block</h2> <p>行內 <code class=\\"language-text\\">程式碼</code></p> <div class=\\"gatsby-highlight\\" data-language=\\"javascript\\"><pre class=\\"language-javascript\\"><code class=\\"language-javascript\\"><span class=\\"token keyword\\">var</span> s <span class=\\"token operator\\">=</span> <span class=\\"token string\\">'JavaScript syntax highlighting'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token function\\">alert</span><span class=\\"token punctuation\\">(</span>s<span class=\\"token punctuation\\">)</span><span class=\\"token punctuation\\">;</span> <span class=\\"token keyword\\">function</span> <span class=\\"token function\\">$initHighlight</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> cls<span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">try</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span>cls<span class=\\"token punctuation\\">.</span><span class=\\"token function\\">search</span><span class=\\"token punctuation\\">(</span><span class=\\"token regex\\">/no-highlight/</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">!=</span> <span class=\\"token operator\\">-</span><span class=\\"token number\\">1</span><span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token function\\">process</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> <span class=\\"token boolean\\">true</span><span class=\\"token punctuation\\">,</span> <span class=\\"token number\\">0x0f</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">+</span> <span class=\\"token string\\">' class=\\"\\"'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">catch</span> <span class=\\"token punctuation\\">(</span><span class=\\"token class-name\\">e</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token comment\\">/* handle exception */</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">for</span> <span class=\\"token punctuation\\">(</span><span class=\\"token keyword\\">var</span> i <span class=\\"token operator\\">=</span> <span class=\\"token number\\">0</span> <span class=\\"token operator\\">/</span> <span class=\\"token number\\">2</span><span class=\\"token punctuation\\">;</span> i <span class=\\"token operator\\">&lt;</span> classes<span class=\\"token punctuation\\">.</span>length<span class=\\"token punctuation\\">;</span> i<span class=\\"token operator\\">++</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span><span class=\\"token function\\">checkCondition</span><span class=\\"token punctuation\\">(</span>classes<span class=\\"token punctuation\\">[</span>i<span class=\\"token punctuation\\">]</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">===</span> undefined<span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token operator\\">/</span>d<span class=\\"token operator\\">+</span><span class=\\"token punctuation\\">[</span>s<span class=\\"token operator\\">/</span><span class=\\"token punctuation\\">]</span><span class=\\"token operator\\">/</span>g<span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token punctuation\\">}</span></code></pre></div> <h2 id=\\"引用區塊標籤\\"><a href=\\"#%E5%BC%95%E7%94%A8%E5%8D%80%E5%A1%8A%E6%A8%99%E7%B1%A4\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>引用區塊標籤</h2> <blockquote> <p>Tip</p> <p>Whenever you get confused by something in JavaScript, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">MDN</a> and <a href=\\"http://javascript.info/\\">javascript.info</a> are great websites to check. There are also <a href=\\"/community/support.html\\">community support forums</a> where you can ask for help.</p> <p>引用區塊也可以是巢狀的喔...</p> <blockquote> <p>...可以多層次的使用...</p> <blockquote> <p>...或是用空白隔開</p> </blockquote> </blockquote> </blockquote> <h2 id=\\"原生表格\\"><a href=\\"#%E5%8E%9F%E7%94%9F%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>原生表格</h2> <h3 id=\\"預設\\"><a href=\\"#%E9%A0%90%E8%A8%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>預設</h3> <table> <thead> <tr> <th>選項</th> <th>描述</th> </tr> </thead> <tbody> <tr> <td>data</td> <td>path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td>engine</td> <td>engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td>ext</td> <td>extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向右對齊\\"><a href=\\"#%E5%90%91%E5%8F%B3%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向右對齊</h3> <table> <thead> <tr> <th align=\\"right\\">選項</th> <th align=\\"right\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"right\\">data</td> <td align=\\"right\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"right\\">engine</td> <td align=\\"right\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"right\\">ext</td> <td align=\\"right\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向左對齊\\"><a href=\\"#%E5%90%91%E5%B7%A6%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向左對齊</h3> <table> <thead> <tr> <th align=\\"left\\">選項</th> <th align=\\"left\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"left\\">data</td> <td align=\\"left\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"left\\">engine</td> <td align=\\"left\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"left\\">ext</td> <td align=\\"left\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"置中對齊\\"><a href=\\"#%E7%BD%AE%E4%B8%AD%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>置中對齊</h3> <table> <thead> <tr> <th align=\\"center\\">選項</th> <th align=\\"center\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"center\\">data</td> <td align=\\"center\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"center\\">engine</td> <td align=\\"center\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"center\\">ext</td> <td align=\\"center\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"擴充表格\\"><a href=\\"#%E6%93%B4%E5%85%85%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>擴充表格</h3> <!-- prettier-ignore-start --> <table><thead><tr><th colspan=\\"2\\" rowspan=\\"1\\"><p>Table Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Here</p></th></tr><tr><th colspan=\\"1\\" rowspan=\\"1\\"><p>Sub</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Too</p></th></tr></thead><tbody><tr><td colspan=\\"1\\" rowspan=\\"2\\"><p>cell spans rows</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>column spanning</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>normal</p></td><td colspan=\\"1\\" rowspan=\\"1\\"><p>cell</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>multi line</p><p>cells too</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>cells can be <em>formatted</em> <strong>paragraphs</strong></p></td></tr></tbody></table> <!-- prettier-ignore-end --> <h3 id=\\"水平分隔線\\"><a href=\\"#%E6%B0%B4%E5%B9%B3%E5%88%86%E9%9A%94%E7%B7%9A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>水平分隔線</h3> <hr> <div class=\\"gatsby-highlight\\" data-language=\\"markdown\\"><pre class=\\"language-markdown\\"><code class=\\"language-markdown\\"><span class=\\"token hr punctuation\\">---</span></code></pre></div> <h2 id=\\"強調\\"><a href=\\"#%E5%BC%B7%E8%AA%BF\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>強調</h2> <p><strong>這是粗體文字</strong></p> <p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>"
+      >
+        <PureHTML
+          html="<h1 id=\\"getting-started\\"><a href=\\"#getting-started\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Getting Started</h1> <h2 id=\\"header\\"><a href=\\"#header\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Header</h2> <h1 id=\\"header-1-標頭\\"><a href=\\"#header-1-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 1 標頭</h1> <h2 id=\\"header-2-標頭\\"><a href=\\"#header-2-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 2 標頭</h2> <h3 id=\\"header-3-標頭\\"><a href=\\"#header-3-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 3 標頭</h3> <h4 id=\\"header-4-標頭\\"><a href=\\"#header-4-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 4 標頭</h4> <h5 id=\\"header-5-標頭\\"><a href=\\"#header-5-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 5 標頭</h5> <h6 id=\\"header-6-標頭\\"><a href=\\"#header-6-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 6 標頭</h6> <h2 id=\\"link\\"><a href=\\"#link\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Link</h2> <p><a href=\\"./react-component\\">react-component</a></p> <p><a href=\\"http://dev.nodeca.com\\">連結文字</a></p> <p><a href=\\"http://nodeca.github.io/pica/demo/\\" title=\\"標題文字！\\">加上標題的連結文字</a></p> <p>自動轉換連結 <a href=\\"https://github.com/nodeca/pica\\">https://github.com/nodeca/pica</a></p> <h2 id=\\"list\\"><a href=\\"#list\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>List</h2> <ul> <li><a href=\\"../blog/2018-09-10-introducing-the-react-profiler\\">2018-09-10-introducing-the-react-profiler</a></li> <li><a href=\\"../../file/predict_net.pb\\">download file</a></li> <li>List</li> </ul> <h3 id=\\"項目\\"><a href=\\"#%E9%A0%85%E7%9B%AE\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>項目</h3> <ul> <li>在行開頭使用 <code class=\\"language-text\\">+</code> <code class=\\"language-text\\">-</code> 或是 <code class=\\"language-text\\">*</code> 來建立清單</li> <li> <p>空兩個空白就可以產生子清單</p> <ul> <li> <p>當清單標記使用的字元不同，會強制建立新的清單</p> <ul> <li>Ac tristique libero volutpat at</li> </ul> <ul> <li>Facilisis in pretium nisl aliquet</li> </ul> <ul> <li>Nulla volutpat aliquam velit</li> </ul> </li> </ul> </li> <li>非常簡單！</li> </ul> <h3 id=\\"編號\\"><a href=\\"#%E7%B7%A8%E8%99%9F\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>編號</h3> <ol> <li>Lorem ipsum dolor sit amet</li> <li>Consectetur adipiscing elit</li> <li>Integer molestie lorem at massa</li> </ol> <p>從其他範圍開始編號清單</p> <ol start=\\"57\\"> <li>foo</li> <li>bar</li> </ol> <h2 id=\\"image\\"><a href=\\"#image\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Image</h2> <h3 id=\\"註腳語法\\"><a href=\\"#%E8%A8%BB%E8%85%B3%E8%AA%9E%E6%B3%95\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>註腳語法</h3> <p><img src=\\"https://octodex.github.com/images/dojocat.jpg\\" alt=\\"Alt text\\" title=\\"The Dojocat\\"></p> <h2 id=\\"code-block\\"><a href=\\"#code-block\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Code block</h2> <p>行內 <code class=\\"language-text\\">程式碼</code></p> <div class=\\"gatsby-highlight\\" data-language=\\"javascript\\"><pre class=\\"language-javascript\\"><code class=\\"language-javascript\\"><span class=\\"token keyword\\">var</span> s <span class=\\"token operator\\">=</span> <span class=\\"token string\\">'JavaScript syntax highlighting'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token function\\">alert</span><span class=\\"token punctuation\\">(</span>s<span class=\\"token punctuation\\">)</span><span class=\\"token punctuation\\">;</span> <span class=\\"token keyword\\">function</span> <span class=\\"token function\\">$initHighlight</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> cls<span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">try</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span>cls<span class=\\"token punctuation\\">.</span><span class=\\"token function\\">search</span><span class=\\"token punctuation\\">(</span><span class=\\"token regex\\">/no-highlight/</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">!=</span> <span class=\\"token operator\\">-</span><span class=\\"token number\\">1</span><span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token function\\">process</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> <span class=\\"token boolean\\">true</span><span class=\\"token punctuation\\">,</span> <span class=\\"token number\\">0x0f</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">+</span> <span class=\\"token string\\">' class=\\"\\"'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">catch</span> <span class=\\"token punctuation\\">(</span><span class=\\"token class-name\\">e</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token comment\\">/* handle exception */</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">for</span> <span class=\\"token punctuation\\">(</span><span class=\\"token keyword\\">var</span> i <span class=\\"token operator\\">=</span> <span class=\\"token number\\">0</span> <span class=\\"token operator\\">/</span> <span class=\\"token number\\">2</span><span class=\\"token punctuation\\">;</span> i <span class=\\"token operator\\">&lt;</span> classes<span class=\\"token punctuation\\">.</span>length<span class=\\"token punctuation\\">;</span> i<span class=\\"token operator\\">++</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span><span class=\\"token function\\">checkCondition</span><span class=\\"token punctuation\\">(</span>classes<span class=\\"token punctuation\\">[</span>i<span class=\\"token punctuation\\">]</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">===</span> undefined<span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token operator\\">/</span>d<span class=\\"token operator\\">+</span><span class=\\"token punctuation\\">[</span>s<span class=\\"token operator\\">/</span><span class=\\"token punctuation\\">]</span><span class=\\"token operator\\">/</span>g<span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token punctuation\\">}</span></code></pre></div> <h2 id=\\"引用區塊標籤\\"><a href=\\"#%E5%BC%95%E7%94%A8%E5%8D%80%E5%A1%8A%E6%A8%99%E7%B1%A4\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>引用區塊標籤</h2> <blockquote> <p>Tip</p> <p>Whenever you get confused by something in JavaScript, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">MDN</a> and <a href=\\"http://javascript.info/\\">javascript.info</a> are great websites to check. There are also <a href=\\"/community/support.html\\">community support forums</a> where you can ask for help.</p> <p>引用區塊也可以是巢狀的喔...</p> <blockquote> <p>...可以多層次的使用...</p> <blockquote> <p>...或是用空白隔開</p> </blockquote> </blockquote> </blockquote> <h2 id=\\"原生表格\\"><a href=\\"#%E5%8E%9F%E7%94%9F%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>原生表格</h2> <h3 id=\\"預設\\"><a href=\\"#%E9%A0%90%E8%A8%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>預設</h3> <table> <thead> <tr> <th>選項</th> <th>描述</th> </tr> </thead> <tbody> <tr> <td>data</td> <td>path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td>engine</td> <td>engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td>ext</td> <td>extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向右對齊\\"><a href=\\"#%E5%90%91%E5%8F%B3%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向右對齊</h3> <table> <thead> <tr> <th align=\\"right\\">選項</th> <th align=\\"right\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"right\\">data</td> <td align=\\"right\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"right\\">engine</td> <td align=\\"right\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"right\\">ext</td> <td align=\\"right\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向左對齊\\"><a href=\\"#%E5%90%91%E5%B7%A6%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向左對齊</h3> <table> <thead> <tr> <th align=\\"left\\">選項</th> <th align=\\"left\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"left\\">data</td> <td align=\\"left\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"left\\">engine</td> <td align=\\"left\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"left\\">ext</td> <td align=\\"left\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"置中對齊\\"><a href=\\"#%E7%BD%AE%E4%B8%AD%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>置中對齊</h3> <table> <thead> <tr> <th align=\\"center\\">選項</th> <th align=\\"center\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"center\\">data</td> <td align=\\"center\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"center\\">engine</td> <td align=\\"center\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"center\\">ext</td> <td align=\\"center\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"擴充表格\\"><a href=\\"#%E6%93%B4%E5%85%85%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>擴充表格</h3> <!-- prettier-ignore-start --> <table><thead><tr><th colspan=\\"2\\" rowspan=\\"1\\"><p>Table Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Here</p></th></tr><tr><th colspan=\\"1\\" rowspan=\\"1\\"><p>Sub</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Too</p></th></tr></thead><tbody><tr><td colspan=\\"1\\" rowspan=\\"2\\"><p>cell spans rows</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>column spanning</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>normal</p></td><td colspan=\\"1\\" rowspan=\\"1\\"><p>cell</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>multi line</p><p>cells too</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>cells can be <em>formatted</em> <strong>paragraphs</strong></p></td></tr></tbody></table> <!-- prettier-ignore-end --> <h3 id=\\"水平分隔線\\"><a href=\\"#%E6%B0%B4%E5%B9%B3%E5%88%86%E9%9A%94%E7%B7%9A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>水平分隔線</h3> <hr> <div class=\\"gatsby-highlight\\" data-language=\\"markdown\\"><pre class=\\"language-markdown\\"><code class=\\"language-markdown\\"><span class=\\"token hr punctuation\\">---</span></code></pre></div> <h2 id=\\"強調\\"><a href=\\"#%E5%BC%B7%E8%AA%BF\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>強調</h2> <p><strong>這是粗體文字</strong></p> <p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>"
+        >
+          <div
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "<h1 id=\\"getting-started\\"><a href=\\"#getting-started\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Getting Started</h1> <h2 id=\\"header\\"><a href=\\"#header\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Header</h2> <h1 id=\\"header-1-標頭\\"><a href=\\"#header-1-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 1 標頭</h1> <h2 id=\\"header-2-標頭\\"><a href=\\"#header-2-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 2 標頭</h2> <h3 id=\\"header-3-標頭\\"><a href=\\"#header-3-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 3 標頭</h3> <h4 id=\\"header-4-標頭\\"><a href=\\"#header-4-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 4 標頭</h4> <h5 id=\\"header-5-標頭\\"><a href=\\"#header-5-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 5 標頭</h5> <h6 id=\\"header-6-標頭\\"><a href=\\"#header-6-%E6%A8%99%E9%A0%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>header 6 標頭</h6> <h2 id=\\"link\\"><a href=\\"#link\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Link</h2> <p><a href=\\"./react-component\\">react-component</a></p> <p><a href=\\"http://dev.nodeca.com\\">連結文字</a></p> <p><a href=\\"http://nodeca.github.io/pica/demo/\\" title=\\"標題文字！\\">加上標題的連結文字</a></p> <p>自動轉換連結 <a href=\\"https://github.com/nodeca/pica\\">https://github.com/nodeca/pica</a></p> <h2 id=\\"list\\"><a href=\\"#list\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>List</h2> <ul> <li><a href=\\"../blog/2018-09-10-introducing-the-react-profiler\\">2018-09-10-introducing-the-react-profiler</a></li> <li><a href=\\"../../file/predict_net.pb\\">download file</a></li> <li>List</li> </ul> <h3 id=\\"項目\\"><a href=\\"#%E9%A0%85%E7%9B%AE\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>項目</h3> <ul> <li>在行開頭使用 <code class=\\"language-text\\">+</code> <code class=\\"language-text\\">-</code> 或是 <code class=\\"language-text\\">*</code> 來建立清單</li> <li> <p>空兩個空白就可以產生子清單</p> <ul> <li> <p>當清單標記使用的字元不同，會強制建立新的清單</p> <ul> <li>Ac tristique libero volutpat at</li> </ul> <ul> <li>Facilisis in pretium nisl aliquet</li> </ul> <ul> <li>Nulla volutpat aliquam velit</li> </ul> </li> </ul> </li> <li>非常簡單！</li> </ul> <h3 id=\\"編號\\"><a href=\\"#%E7%B7%A8%E8%99%9F\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>編號</h3> <ol> <li>Lorem ipsum dolor sit amet</li> <li>Consectetur adipiscing elit</li> <li>Integer molestie lorem at massa</li> </ol> <p>從其他範圍開始編號清單</p> <ol start=\\"57\\"> <li>foo</li> <li>bar</li> </ol> <h2 id=\\"image\\"><a href=\\"#image\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Image</h2> <h3 id=\\"註腳語法\\"><a href=\\"#%E8%A8%BB%E8%85%B3%E8%AA%9E%E6%B3%95\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>註腳語法</h3> <p><img src=\\"https://octodex.github.com/images/dojocat.jpg\\" alt=\\"Alt text\\" title=\\"The Dojocat\\"></p> <h2 id=\\"code-block\\"><a href=\\"#code-block\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>Code block</h2> <p>行內 <code class=\\"language-text\\">程式碼</code></p> <div class=\\"gatsby-highlight\\" data-language=\\"javascript\\"><pre class=\\"language-javascript\\"><code class=\\"language-javascript\\"><span class=\\"token keyword\\">var</span> s <span class=\\"token operator\\">=</span> <span class=\\"token string\\">'JavaScript syntax highlighting'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token function\\">alert</span><span class=\\"token punctuation\\">(</span>s<span class=\\"token punctuation\\">)</span><span class=\\"token punctuation\\">;</span> <span class=\\"token keyword\\">function</span> <span class=\\"token function\\">$initHighlight</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> cls<span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">try</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span>cls<span class=\\"token punctuation\\">.</span><span class=\\"token function\\">search</span><span class=\\"token punctuation\\">(</span><span class=\\"token regex\\">/no-highlight/</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">!=</span> <span class=\\"token operator\\">-</span><span class=\\"token number\\">1</span><span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token function\\">process</span><span class=\\"token punctuation\\">(</span>block<span class=\\"token punctuation\\">,</span> <span class=\\"token boolean\\">true</span><span class=\\"token punctuation\\">,</span> <span class=\\"token number\\">0x0f</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">+</span> <span class=\\"token string\\">' class=\\"\\"'</span><span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">catch</span> <span class=\\"token punctuation\\">(</span><span class=\\"token class-name\\">e</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token comment\\">/* handle exception */</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token keyword\\">for</span> <span class=\\"token punctuation\\">(</span><span class=\\"token keyword\\">var</span> i <span class=\\"token operator\\">=</span> <span class=\\"token number\\">0</span> <span class=\\"token operator\\">/</span> <span class=\\"token number\\">2</span><span class=\\"token punctuation\\">;</span> i <span class=\\"token operator\\">&lt;</span> classes<span class=\\"token punctuation\\">.</span>length<span class=\\"token punctuation\\">;</span> i<span class=\\"token operator\\">++</span><span class=\\"token punctuation\\">)</span> <span class=\\"token punctuation\\">{</span> <span class=\\"token keyword\\">if</span> <span class=\\"token punctuation\\">(</span><span class=\\"token function\\">checkCondition</span><span class=\\"token punctuation\\">(</span>classes<span class=\\"token punctuation\\">[</span>i<span class=\\"token punctuation\\">]</span><span class=\\"token punctuation\\">)</span> <span class=\\"token operator\\">===</span> undefined<span class=\\"token punctuation\\">)</span> <span class=\\"token keyword\\">return</span> <span class=\\"token operator\\">/</span>d<span class=\\"token operator\\">+</span><span class=\\"token punctuation\\">[</span>s<span class=\\"token operator\\">/</span><span class=\\"token punctuation\\">]</span><span class=\\"token operator\\">/</span>g<span class=\\"token punctuation\\">;</span> <span class=\\"token punctuation\\">}</span> <span class=\\"token punctuation\\">}</span></code></pre></div> <h2 id=\\"引用區塊標籤\\"><a href=\\"#%E5%BC%95%E7%94%A8%E5%8D%80%E5%A1%8A%E6%A8%99%E7%B1%A4\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>引用區塊標籤</h2> <blockquote> <p>Tip</p> <p>Whenever you get confused by something in JavaScript, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">MDN</a> and <a href=\\"http://javascript.info/\\">javascript.info</a> are great websites to check. There are also <a href=\\"/community/support.html\\">community support forums</a> where you can ask for help.</p> <p>引用區塊也可以是巢狀的喔...</p> <blockquote> <p>...可以多層次的使用...</p> <blockquote> <p>...或是用空白隔開</p> </blockquote> </blockquote> </blockquote> <h2 id=\\"原生表格\\"><a href=\\"#%E5%8E%9F%E7%94%9F%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>原生表格</h2> <h3 id=\\"預設\\"><a href=\\"#%E9%A0%90%E8%A8%AD\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>預設</h3> <table> <thead> <tr> <th>選項</th> <th>描述</th> </tr> </thead> <tbody> <tr> <td>data</td> <td>path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td>engine</td> <td>engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td>ext</td> <td>extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向右對齊\\"><a href=\\"#%E5%90%91%E5%8F%B3%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向右對齊</h3> <table> <thead> <tr> <th align=\\"right\\">選項</th> <th align=\\"right\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"right\\">data</td> <td align=\\"right\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"right\\">engine</td> <td align=\\"right\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"right\\">ext</td> <td align=\\"right\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"向左對齊\\"><a href=\\"#%E5%90%91%E5%B7%A6%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>向左對齊</h3> <table> <thead> <tr> <th align=\\"left\\">選項</th> <th align=\\"left\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"left\\">data</td> <td align=\\"left\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"left\\">engine</td> <td align=\\"left\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"left\\">ext</td> <td align=\\"left\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"置中對齊\\"><a href=\\"#%E7%BD%AE%E4%B8%AD%E5%B0%8D%E9%BD%8A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>置中對齊</h3> <table> <thead> <tr> <th align=\\"center\\">選項</th> <th align=\\"center\\">描述</th> </tr> </thead> <tbody> <tr> <td align=\\"center\\">data</td> <td align=\\"center\\">path to data files to supply the data that will be passed into templates.</td> </tr> <tr> <td align=\\"center\\">engine</td> <td align=\\"center\\">engine to be used for processing templates. Handlebars is the default.</td> </tr> <tr> <td align=\\"center\\">ext</td> <td align=\\"center\\">extension to be used for dest files.</td> </tr> </tbody> </table> <h3 id=\\"擴充表格\\"><a href=\\"#%E6%93%B4%E5%85%85%E8%A1%A8%E6%A0%BC\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>擴充表格</h3> <!-- prettier-ignore-start --> <table><thead><tr><th colspan=\\"2\\" rowspan=\\"1\\"><p>Table Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Here</p></th></tr><tr><th colspan=\\"1\\" rowspan=\\"1\\"><p>Sub</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Headings</p></th><th colspan=\\"1\\" rowspan=\\"1\\"><p>Too</p></th></tr></thead><tbody><tr><td colspan=\\"1\\" rowspan=\\"2\\"><p>cell spans rows</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>column spanning</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>normal</p></td><td colspan=\\"1\\" rowspan=\\"1\\"><p>cell</p></td></tr><tr><td colspan=\\"1\\" rowspan=\\"1\\"><p>multi line</p><p>cells too</p></td><td colspan=\\"2\\" rowspan=\\"1\\"><p>cells can be <em>formatted</em> <strong>paragraphs</strong></p></td></tr></tbody></table> <!-- prettier-ignore-end --> <h3 id=\\"水平分隔線\\"><a href=\\"#%E6%B0%B4%E5%B9%B3%E5%88%86%E9%9A%94%E7%B7%9A\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>水平分隔線</h3> <hr> <div class=\\"gatsby-highlight\\" data-language=\\"markdown\\"><pre class=\\"language-markdown\\"><code class=\\"language-markdown\\"><span class=\\"token hr punctuation\\">---</span></code></pre></div> <h2 id=\\"強調\\"><a href=\\"#%E5%BC%B7%E8%AA%BF\\" aria-hidden class=\\"anchor\\"><svg aria-hidden=\\"true\\" height=\\"24\\" version=\\"1.1\\" viewBox=\\"0 0 24 24\\" width=\\"24\\"><path fill-rule=\\"evenodd\\" d=\\"M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z\\"></path></svg></a>強調</h2> <p><strong>這是粗體文字</strong></p> <p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>",
+              }
+            }
+          />
+        </PureHTML>
+      </HTML>
+    </div>
+  </StyledComponent>
+</MarkdownTheme>
+`;
