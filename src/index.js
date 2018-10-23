@@ -4,6 +4,7 @@ export * from './Form';
 export * from './ToastContext';
 export * from './KeyHandler';
 export * from './HoCs';
+export * from './Logo';
 export { default as theme } from './utils/theme';
 
 export { default as A } from './A';
@@ -15,6 +16,7 @@ export { default as Card } from './Card';
 export { default as Checkbox } from './Checkbox';
 export { default as ConfirmDialog } from './ConfirmDialog';
 export { default as DropdownMenu } from './DropdownMenu';
+export { default as Gauge } from './Gauge';
 export { default as Heading } from './Heading';
 export { default as IconWarning } from './IconWarning';
 export { default as Input } from './Input';

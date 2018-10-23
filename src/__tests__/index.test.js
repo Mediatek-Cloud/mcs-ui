@@ -10,6 +10,8 @@ const IGNORES = [
   '.DS_Store',
   'Icons',
   'HoCs',
+  'Logo',
+  'svg',
   '__snapshots__',
 ];
 
@@ -53,6 +55,15 @@ it('should export es module of HoCs folder', () => {
   const dirnames = R.without(IGNORES)(fs.readdirSync('./src/HoCs')).map(name =>
     name.replace('.js', ''),
   );
+  dirnames.forEach(name => {
+    expect(Modules).toHaveProperty(name);
+  });
+});
+
+it('should export es module of Logo folder', () => {
+  const dirnames = R.without([...IGNORES, 'LogoMTK.example.js'])(
+    fs.readdirSync('./src/Logo'),
+  ).map(name => name.replace('.js', ''));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
   });
