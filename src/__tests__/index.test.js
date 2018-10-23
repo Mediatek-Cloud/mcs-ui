@@ -9,7 +9,6 @@ const IGNORES = [
   'utils',
   '.DS_Store',
   'Icons',
-  'Form.example.js',
   '__snapshots__',
 ];
 
@@ -21,9 +20,20 @@ it('should export es module of each folder', () => {
 });
 
 it('should export es module of Form folder', () => {
-  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/Form')).map(name =>
-    name.replace('.js', ''),
-  );
+  const dirnames = R.without([...IGNORES, 'Form.example.js'])(
+    fs.readdirSync('./src/Form'),
+  ).map(name => name.replace('.js', ''));
+  dirnames.forEach(name => {
+    expect(Modules).toHaveProperty(name);
+  });
+});
+
+it('should export es module of KeyHandler folder', () => {
+  const dirnames = R.without([
+    ...IGNORES,
+    'KeyHandler.example.js',
+    'KeyHandler.test.js',
+  ])(fs.readdirSync('./src/KeyHandler')).map(name => name.replace('.js', ''));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
   });

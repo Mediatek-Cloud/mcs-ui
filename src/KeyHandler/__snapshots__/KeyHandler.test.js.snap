@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should add a "keyup" EventListener of document 1`] = `
+Object {
+  "keyup": [Function],
+}
+`;

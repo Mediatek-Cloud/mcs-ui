@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots KeyHandler API 1`] = `
+<KeyHandler
+  eventName="keyup"
+  keyName="a"
+  onClick={[Function]}
+/>
+`;
+
+exports[`Storyshots KeyHandler Enter 1`] = `
+<Enter
+  onClick={[Function]}
+>
+  <KeyHandler
+    eventName="keypress"
+    keyName="Enter"
+    onClick={[Function]}
+  />
+</Enter>
+`;
+
+exports[`Storyshots KeyHandler Esc 1`] = `
+<Esc
+  onClick={[Function]}
+>
+  <KeyHandler
+    eventName="keyup"
+    keyName="Escape"
+    onClick={[Function]}
+  />
+</Esc>
+`;

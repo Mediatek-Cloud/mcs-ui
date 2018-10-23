@@ -2,6 +2,7 @@
 export * from './Icons';
 export * from './Form';
 export * from './ToastContext';
+export * from './KeyHandler';
 export { default as theme } from './utils/theme';
 
 export { default as A } from './A';
