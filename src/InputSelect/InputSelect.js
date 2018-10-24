@@ -20,7 +20,7 @@ import {
   FakeInputValue,
   TextOverflow,
 } from './styled-components';
-import { type Value, type ItemProps, type ItemValueMapper } from './type.flow';
+import { type ItemProps, type ItemValueMapper } from './type.flow';
 import {
   filterBy,
   getInputValue,
@@ -31,8 +31,8 @@ import {
 import { type Kind, type ThemeProps } from '../utils/type.flow';
 
 export type Props = {
-  value: Value,
-  onChange: (value: Value) => Promise<void> | void,
+  value: any,
+  onChange: (value: any) => Promise<void> | void,
   items: Array<ItemProps>,
   kind?: Kind,
   placeholder?: string,
@@ -44,8 +44,8 @@ export type Props = {
   menuRef?: React.ElementRef<any>,
 };
 type InnerProps = {
-  value: Value,
-  onChange: (value: Value) => Promise<void> | void,
+  value: any,
+  onChange: (value: any) => Promise<void> | void,
   items: Array<ItemProps>,
   kind?: Kind,
   placeholder?: string,
@@ -67,7 +67,7 @@ const defaultItemValueMapper = (item: ItemProps) => item.children;
 class PureInputSelect extends React.Component<InnerProps, State> {
   static propTypes = {
     value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
-    onChange: PropTypes.func.isRequired, // (value: Value) => Promise<void> | void,
+    onChange: PropTypes.func.isRequired, // (value: any) => Promise<void> | void,
     items: PropTypes.arrayOf(
       PropTypes.shape({
         value: PropTypes.oneOfType([PropTypes.number, PropTypes.string])

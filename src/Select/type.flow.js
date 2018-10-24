@@ -1,6 +1,5 @@
 // @flow
-export type Value = number | string;
 export type ItemProps = {
-  value: Value,
+  value: any,
   children: string,
 };

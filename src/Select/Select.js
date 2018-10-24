@@ -11,13 +11,13 @@ import {
   StyledSelect,
   StyledButton,
 } from './styled-components';
-import { type Value, type ItemProps } from './type.flow';
+import { type ItemProps } from './type.flow';
 import { type Kind } from '../utils/type.flow';
 
 const PLACEHOLDER_VALUE = 'SELECT/PLACEHOLDER_VALUE';
 
 export type Props = {
-  value: Value,
+  value: any,
   items: Array<ItemProps>,
   focus?: boolean,
   placeholder?: string,
@@ -53,7 +53,7 @@ class Select extends React.Component<Props, State> {
 
   onBlur = () => this.setState({ isOpen: false });
 
-  valueMapper = (value: Value) => {
+  valueMapper = (value: any) => {
     const { items } = this.props;
     const selectedItem = R.find(R.propEq('value', value))(items);
     return (selectedItem && selectedItem.children) || '';

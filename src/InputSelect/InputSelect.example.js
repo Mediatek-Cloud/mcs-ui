@@ -5,14 +5,13 @@ import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import InputSelect from '.';
 import Button from '../Button';
-import { type Value } from './type.flow';
 
-class StatefulInputSelect extends React.Component<{}, { value: Value }> {
+class StatefulInputSelect extends React.Component<{}, { value: string }> {
   state = { value: '' };
 
   menu = React.createRef();
 
-  onChange = (value: Value) => {
+  onChange = (value: string) => {
     this.setState(() => ({ value }));
     action('WithRef')(this.menu);
   };

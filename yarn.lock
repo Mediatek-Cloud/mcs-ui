@@ -6088,7 +6088,7 @@ flow-annotation-check@1.8.1:
     glob "7.1.1"
     load-pkg "^3.0.1"
 
-flow-bin@^0.83.0:
+flow-bin@0.83.0:
   version "0.83.0"
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.83.0.tgz#fd26f5f95758d7701264b3f9a1e1a3d4cbcab1a9"
   integrity sha512-1K83EL/U9Gh0BaXPKkZe6TRizSmNSKx9Wuws1c8gh7DJEwiburtCxYT+4o7in1+GnNEm3CZWnbnVV8n9HMpiDA==
@@ -11093,10 +11093,10 @@ react-modal@^3.6.1:
     react-lifecycles-compat "^3.0.0"
     warning "^3.0.0"
 
-react-overlay-pack@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.0.0.tgz#c2d014c11fcb24256e54320a190d24fdd1f7b9fd"
-  integrity sha512-D9ofAHiR+mXS+tEvI4XEF25VzaDpdvoN/u+wF1yH0qTY/EAwNc/9+au24bFxmNbc3iYvYGDJ9JRHi9D6Me+cLw==
+react-overlay-pack@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.0.1.tgz#0c1f8e43b13ee8072b55d8d6e36bc638a1007138"
+  integrity sha512-1ZOf0KNoauD2hjATUdsNirsMc5n79Ne7K5fFNOjHrg7McjNk3VKm4DiZtAqahbw8dA7/KuXfmI5mmaBXeuX17Q==
   dependencies:
     dom-align "^1.8.0"
     prop-types "^15.6.2"
@@ -11215,10 +11215,10 @@ react-treebeard@^3.1.0:
     shallowequal "^1.1.0"
     velocity-react "^1.4.1"
 
-react-virtualized@^9.20.1:
-  version "9.20.1"
-  resolved "https://registry.yarnpkg.com/react-virtualized/-/react-virtualized-9.20.1.tgz#02dc08fe9070386b8c48e2ac56bce7af0208d22d"
-  integrity sha512-xIWxBsyNAjceqD3hsE0nw5TcDVxKbIepsHhvS2XneHmNz0KlKxdLdGBmGZBM9ZesEmbZ5EO0Sw70TB1MeCmpbQ==
+react-virtualized@^9.21.0:
+  version "9.21.0"
+  resolved "https://registry.yarnpkg.com/react-virtualized/-/react-virtualized-9.21.0.tgz#8267c40ffb48db35b242a36dea85edcf280a6506"
+  integrity sha512-duKD2HvO33mqld4EtQKm9H9H0p+xce1c++2D5xn59Ma7P8VT7CprfAe5hwjd1OGkyhqzOZiTMlTal7LxjH5yBQ==
   dependencies:
     babel-runtime "^6.26.0"
     classnames "^2.2.3"

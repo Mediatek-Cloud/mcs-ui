@@ -6,13 +6,13 @@ import { type Color } from '../utils/type.flow';
 import { Item } from './styled-components';
 
 export type Props = {
-  value: string,
-  onClick?: (e: any, value: string | number) => void,
+  value: any,
+  onClick?: (e: any, value: any) => void,
   color?: Color,
 };
 export type InnerProps = {
-  value: string | number,
-  onClick: (e: any, value: string | number) => void,
+  value: any,
+  onClick: (e: any, value: any) => void,
   color: Color,
 };
 

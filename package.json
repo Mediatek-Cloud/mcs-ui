@@ -11,7 +11,8 @@
   "scripts": {
     "clean": "nwb clean-module && nwb clean-demo",
     "build": "nwb build-react-component",
-    "postbuild": "flow-copy-source src es && flow-copy-source src lib",
+    "postbuild": "npm run build-flow",
+    "build-flow": "flow-copy-source -i '**/*.test.js' -i '**/*.example.js' src es && flow-copy-source -i '**/*.test.js' -i '**/*.example.js' src lib",
     "build-storybook": "build-storybook",
     "start": "start-storybook -p 6006",
     "test": "NODE_ENV='test' TZ='UTC' jest --coverage --runInBand",
@@ -29,10 +30,10 @@
     "prop-types": "^15.6.2",
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
-    "react-overlay-pack": "^3.0.0",
+    "react-overlay-pack": "^3.0.1",
     "react-spring": "^5.9.2",
     "react-topbar-progress-indicator": "^2.0.0",
-    "react-virtualized": "^9.20.1",
+    "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0"
   },
   "peerDependencies": {
