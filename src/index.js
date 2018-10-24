@@ -8,6 +8,7 @@ export * from './Logo';
 export { default as theme } from './utils/theme';
 
 export { default as A } from './A';
+export { default as Avatar } from './Avatar';
 export { default as B } from './B';
 export { default as Breadcrumb } from './Breadcrumb';
 export { default as Button } from './Button';

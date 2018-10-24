@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Avatar Default - Large 1`] = `
+.c0 img,
+.c0 svg {
+  display: inline-block;
+  border-radius: 50%;
+  border: 1px solid #D1D2D3;
+  padding: 1px;
+  background: #FFFFFF;
+  fill: #D1D2D3;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+
+<Avatar
+  size={150}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-znubx6-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  img,
+  svg {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid ",
+              [Function],
+              ";
+    padding: 1px;
+    background: ",
+              [Function],
+              ";
+    fill: ",
+              [Function],
+              ";
+    box-sizing: border-box;
+    object-fit: cover;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-znubx6-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <IconAvatar
+          height={150}
+          width={150}
+        >
+          <svg
+            fill="currentColor"
+            height={150}
+            viewBox="0 0 300 300"
+            width={150}
+          >
+            <path
+              d="M185.9 209.7v-9.5c8-8.7 14.2-20.1 18.1-33.2 5.8-4.8 9.3-12.1 9.3-19.8 0-5.3-1.6-10.3-4.6-14.7v-26.4c0-34.5-21.3-54.2-58.5-54.2-36.6 0-58.5 20.3-58.5 54.2v26.4c-3 4.3-4.6 9.4-4.6 14.6 0 7.7 3.4 15 9.2 19.8 3.9 13.1 10.1 24.6 18.1 33.3v9.5c-1.9 3.9-16.5 15.4-76.7 39.4 27.5 31.2 67.6 51 112.4 51 44.7 0 84.7-19.7 112.2-50.7-60.1-24-74.5-35.8-76.4-39.7z"
+            />
+          </svg>
+        </IconAvatar>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Avatar>
+`;
+
+exports[`Storyshots Avatar Default 1`] = `
+.c0 img,
+.c0 svg {
+  display: inline-block;
+  border-radius: 50%;
+  border: 1px solid #D1D2D3;
+  padding: 1px;
+  background: #FFFFFF;
+  fill: #D1D2D3;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+
+<Avatar
+  size={30}
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-znubx6-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  img,
+  svg {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid ",
+              [Function],
+              ";
+    padding: 1px;
+    background: ",
+              [Function],
+              ";
+    fill: ",
+              [Function],
+              ";
+    box-sizing: border-box;
+    object-fit: cover;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-znubx6-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <IconAvatar
+          height={30}
+          width={30}
+        >
+          <svg
+            fill="currentColor"
+            height={30}
+            viewBox="0 0 300 300"
+            width={30}
+          >
+            <path
+              d="M185.9 209.7v-9.5c8-8.7 14.2-20.1 18.1-33.2 5.8-4.8 9.3-12.1 9.3-19.8 0-5.3-1.6-10.3-4.6-14.7v-26.4c0-34.5-21.3-54.2-58.5-54.2-36.6 0-58.5 20.3-58.5 54.2v26.4c-3 4.3-4.6 9.4-4.6 14.6 0 7.7 3.4 15 9.2 19.8 3.9 13.1 10.1 24.6 18.1 33.3v9.5c-1.9 3.9-16.5 15.4-76.7 39.4 27.5 31.2 67.6 51 112.4 51 44.7 0 84.7-19.7 112.2-50.7-60.1-24-74.5-35.8-76.4-39.7z"
+            />
+          </svg>
+        </IconAvatar>
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Avatar>
+`;
+
+exports[`Storyshots Avatar With Url - Large 1`] = `
+.c0 img,
+.c0 svg {
+  display: inline-block;
+  border-radius: 50%;
+  border: 1px solid #D1D2D3;
+  padding: 1px;
+  background: #FFFFFF;
+  fill: #D1D2D3;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+
+<Avatar
+  size={150}
+  src="//placehold.it/150x150"
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-znubx6-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  img,
+  svg {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid ",
+              [Function],
+              ";
+    padding: 1px;
+    background: ",
+              [Function],
+              ";
+    fill: ",
+              [Function],
+              ";
+    box-sizing: border-box;
+    object-fit: cover;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-znubx6-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <img
+          alt=""
+          height={150}
+          src="//placehold.it/150x150"
+          width={150}
+        />
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Avatar>
+`;
+
+exports[`Storyshots Avatar With Url 1`] = `
+.c0 img,
+.c0 svg {
+  display: inline-block;
+  border-radius: 50%;
+  border: 1px solid #D1D2D3;
+  padding: 1px;
+  background: #FFFFFF;
+  fill: #D1D2D3;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+
+<Avatar
+  size={30}
+  src="//placehold.it/30x30"
+>
+  <styled-components__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__Wrapper-znubx6-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  img,
+  svg {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid ",
+              [Function],
+              ";
+    padding: 1px;
+    background: ",
+              [Function],
+              ";
+    fill: ",
+              [Function],
+              ";
+    box-sizing: border-box;
+    object-fit: cover;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__Wrapper",
+          "render": [Function],
+          "styledComponentId": "styled-components__Wrapper-znubx6-0",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <img
+          alt=""
+          height={30}
+          src="//placehold.it/30x30"
+          width={30}
+        />
+      </div>
+    </StyledComponent>
+  </styled-components__Wrapper>
+</Avatar>
+`;
