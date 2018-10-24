@@ -1,5 +1,18 @@
 ## Change Log
 
+### v0.1.9 (2018/10/24 08:31 +00:00)
+
+- [80d4f78](https://github.com/Mediatek-Cloud/mcs-ui/commit/80d4f782ba6e34a5232e454fdde735b307896f9f) 0.1.9 (@evenchange4)
+- [2fb78d2](https://github.com/Mediatek-Cloud/mcs-ui/commit/2fb78d213eb24ac44ea23a1a5605419d92efa0ae) fix(SortableTh): svg flex-shrink 0 (@evenchange4)
+- [#15](https://github.com/Mediatek-Cloud/mcs-ui/pull/15) refactor(IconCheck): extract IconCheck component (#15) (@evenchange4)
+- [#14](https://github.com/Mediatek-Cloud/mcs-ui/pull/14) feat(Avatar): add IconAvatar, Avatar (#14) (@liuderchi)
+
+### v0.1.8 (2018/10/24 03:56 +00:00)
+
+- [3ed955f](https://github.com/Mediatek-Cloud/mcs-ui/commit/3ed955fa8447209372bb2104bd896c820be82f56) 0.1.8 (@evenchange4)
+- [4dc0a20](https://github.com/Mediatek-Cloud/mcs-ui/commit/4dc0a2069d77a94712ef3ba0276d0c32612eec0a) fix(flow): update copy-flow-source script & update some flow type (@evenchange4)
+- [54a7737](https://github.com/Mediatek-Cloud/mcs-ui/commit/54a7737576fd0c398e2ab14bf41f71eede6beb2d) docs(CHANGELOG): release 0.1.7 (@evenchange4)
+
 ### v0.1.7 (2018/10/24 02:32 +00:00)
 
 - [b092620](https://github.com/Mediatek-Cloud/mcs-ui/commit/b0926204e412b5aac92e57a7e874bfb09d3a4aad) 0.1.7 (@evenchange4)
