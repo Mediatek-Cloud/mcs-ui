@@ -1,5 +1,24 @@
 ## Change Log
 
+### v0.1.7 (2018/10/24 02:32 +00:00)
+
+- [b092620](https://github.com/Mediatek-Cloud/mcs-ui/commit/b0926204e412b5aac92e57a7e874bfb09d3a4aad) 0.1.7 (@evenchange4)
+- [49b356c](https://github.com/Mediatek-Cloud/mcs-ui/commit/49b356ca5dcbd5a6400c061886182ea87fc219cd) chore(flow): introduce flow-copy-source (@evenchange4)
+- [#13](https://github.com/Mediatek-Cloud/mcs-ui/pull/13) chore: use node 11.0.0 (#13) (@evenchange4)
+- [#12](https://github.com/Mediatek-Cloud/mcs-ui/pull/12) fix(InputFancyRange): fix percentage function (#12) (@evenchange4)
+- [#11](https://github.com/Mediatek-Cloud/mcs-ui/pull/11) chore(deps): update react monorepo to v16.6.0 (#11) (@renovate[bot])
+- [#10](https://github.com/Mediatek-Cloud/mcs-ui/pull/10) chore(deps): update storybook monorepo to v4.0.0-rc.3 (#10) (@renovate[bot])
+
+### v0.1.6 (2018/10/23 08:17 +00:00)
+
+- [d3747bb](https://github.com/Mediatek-Cloud/mcs-ui/commit/d3747bb9e8e80f3e9af051bfefcb2fa215ae0953) 0.1.6 (@evenchange4)
+- [7777e09](https://github.com/Mediatek-Cloud/mcs-ui/commit/7777e09b54349d94f5d1d03e167ae9e1d0595cc1) feat: add new components ButtonText, ConfirmDialog, Gauge, HTML, HoCs, IconSort, InputFancyRange, InputRadioGroup, KeyHandler, Logo, MarkdownTheme, TopBarProgress, SortableTh, SearchInput (@evenchange4)
+- [#6](https://github.com/Mediatek-Cloud/mcs-ui/pull/6) chore(deps): update dependency eslint-plugin-jest to v21.26.0 (#6) (@renovate[bot])
+- [#7](https://github.com/Mediatek-Cloud/mcs-ui/pull/7) chore(deps): update storybook monorepo to v4.0.0-rc.2 (#7) (@renovate[bot])
+- [#5](https://github.com/Mediatek-Cloud/mcs-ui/pull/5) chore(deps): update dependency polished to v2.3.0 (#5) (@renovate[bot])
+- [#4](https://github.com/Mediatek-Cloud/mcs-ui/pull/4) chore(deps): update dependency jest-styled-components to v6.2.2 (#4) (@renovate[bot])
+- [f100618](https://github.com/Mediatek-Cloud/mcs-ui/commit/f1006180df2f2cb7e34869dfbbb954f39c9b6f78) docs(CHANGELOG): release 0.1.5 (@evenchange4)
+
 ### v0.1.5 (2018/10/19 13:07 +00:00)
 
 - [d877e68](https://github.com/Mediatek-Cloud/mcs-ui/commit/d877e686e69f73f24a04012a821a6b348cfe4e33) 0.1.5 (@evenchange4)
