@@ -15,7 +15,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
   background-color: transparent;
   height: 8px;
   border-radius: 31px;
-  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 19.19191919191919%, rgba(0,207,241,0.1) 19.19191919191919%, rgba(0,207,241,0.1) 100% );
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 0%, rgba(0,207,241,0.1) 0%, rgba(0,207,241,0.1) 100% );
 }
 
 .c0::-moz-range-track {
@@ -23,7 +23,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
   background-color: transparent;
   height: 8px;
   border-radius: 31px;
-  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 19.19191919191919%, rgba(0,207,241,0.1) 19.19191919191919%, rgba(0,207,241,0.1) 100% );
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 0%, rgba(0,207,241,0.1) 0%, rgba(0,207,241,0.1) 100% );
 }
 
 .c0::-moz-focus-outer {
@@ -35,7 +35,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
   background-color: transparent;
   height: 8px;
   border-radius: 31px;
-  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 19.19191919191919%, rgba(0,207,241,0.1) 19.19191919191919%, rgba(0,207,241,0.1) 100% );
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 0%, rgba(0,207,241,0.1) 0%, rgba(0,207,241,0.1) 100% );
 }
 
 .c0::-webkit-slider-thumb {
@@ -100,10 +100,10 @@ exports[`Storyshots InputFancyRange API 1`] = `
 
 <InputFancyRange
   max={100}
-  min={1}
+  min={0}
   readOnly={true}
   type="range"
-  value={20}
+  value={0}
 >
   <StyledComponent
     forwardedClass={
@@ -113,7 +113,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
         "componentStyle": ComponentStyle {
           "componentId": "InputFancyRange-sc-1x3x53l-0",
           "isStatic": false,
-          "lastClassName": "c0",
+          "lastClassName": "hrLUHb",
           "rules": Array [
             "
   -webkit-appearance: none;
@@ -255,19 +255,296 @@ exports[`Storyshots InputFancyRange API 1`] = `
     }
     forwardedRef={null}
     max={100}
-    min={1}
+    min={0}
     readOnly={true}
     type="range"
-    value={20}
+    value={0}
   >
     <input
       className="c0"
       max={100}
-      min={1}
+      min={0}
       readOnly={true}
       type="range"
-      value={20}
+      value={0}
     />
   </StyledComponent>
 </InputFancyRange>
+`;
+
+exports[`Storyshots InputFancyRange with state 1`] = `
+.c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  outline: none;
+  background-color: rgba(0,0,0,0);
+  cursor: pointer;
+}
+
+.c0::-webkit-slider-runnable-track {
+  -webkit-appearance: none;
+  background-color: transparent;
+  height: 8px;
+  border-radius: 31px;
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 11.11111111111111%, rgba(0,207,241,0.1) 11.11111111111111%, rgba(0,207,241,0.1) 100% );
+}
+
+.c0::-moz-range-track {
+  -moz-appearance: none;
+  background-color: transparent;
+  height: 8px;
+  border-radius: 31px;
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 11.11111111111111%, rgba(0,207,241,0.1) 11.11111111111111%, rgba(0,207,241,0.1) 100% );
+}
+
+.c0::-moz-focus-outer {
+  border: 0;
+}
+
+.c0::-ms-track {
+  -webkit-appearance: none;
+  background-color: transparent;
+  height: 8px;
+  border-radius: 31px;
+  background-image: linear-gradient( to right, #00a1de 0%, #00cff1 11.11111111111111%, rgba(0,207,241,0.1) 11.11111111111111%, rgba(0,207,241,0.1) 100% );
+}
+
+.c0::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  margin-top: -7px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  -webkit-transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  background-image: radial-gradient( 50% 50%, #ffffff 50%, #ffffff 73%, #f8f8f8 81%, #ebebeb 90%, #dddddd 95% );
+  box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.25), inset 0 1px 2px 0 rgba(255,255,255,0.3),inset 0 -1px 1px 0 #00a1de, inset 0 0 0 2px #79d5f8;
+}
+
+.c0::-moz-range-thumb {
+  -moz-appearance: none;
+  border: none;
+  margin-top: -7px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  -webkit-transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  background-image: radial-gradient( 50% 50%, #ffffff 50%, #ffffff 73%, #f8f8f8 81%, #ebebeb 90%, #dddddd 95% );
+  box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.25), inset 0 1px 2px 0 rgba(255,255,255,0.3),inset 0 -1px 1px 0 #00a1de, inset 0 0 0 2px #79d5f8;
+}
+
+.c0::-ms-thumb {
+  -webkit-appearance: none;
+  border: none;
+  margin-top: -7px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  -webkit-transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  transition: transform 0.3s ease,width 0.2s ease,height 0.2s ease;
+  background-image: radial-gradient( 50% 50%, #ffffff 50%, #ffffff 73%, #f8f8f8 81%, #ebebeb 90%, #dddddd 95% );
+  box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.25), inset 0 1px 2px 0 rgba(255,255,255,0.3),inset 0 -1px 1px 0 #00a1de, inset 0 0 0 2px #79d5f8;
+}
+
+.c0::-webkit-slider-thumb:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.c0::-moz-range-thumb:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.c0::-ms-thumb:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+<StatefulInputFancyRange>
+  <InputFancyRange
+    max={10}
+    min={1}
+    onChange={[Function]}
+    step={0.1}
+    type="range"
+    value={2}
+  >
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "InputFancyRange-sc-1x3x53l-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  outline: none;
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+
+  &::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    background-color: transparent; /* fixed for mozilla */
+    height: 8px;
+    border-radius: 31px;
+    /* TODO: dynamic */
+    background-image: ",
+              [Function],
+              ";
+  }
+
+  &::-moz-range-track {
+    -moz-appearance: none;
+    background-color: transparent; /* fixed for mozilla */
+    height: 8px;
+    border-radius: 31px;
+    /* TODO: dynamic */
+    background-image: ",
+              [Function],
+              ";
+  }
+
+  &::-moz-focus-outer {
+    border: 0;
+  }
+
+  &::-ms-track {
+    -webkit-appearance: none;
+    background-color: transparent; /* fixed for mozilla */
+    height: 8px;
+    border-radius: 31px;
+    /* TODO: dynamic */
+    background-image: ",
+              [Function],
+              ";
+  }
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none; /* fix for firefox */
+    margin-top: -7px; /* fix for chrome */
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, width 0.2s ease, height 0.2s ease;
+    background-image: radial-gradient(
+      50% 50%,
+      #ffffff 50%,
+      #ffffff 73%,
+      #f8f8f8 81%,
+      #ebebeb 90%,
+      #dddddd 95%
+    );
+    box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.25),
+      inset 0 1px 2px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 1px 0 #00a1de,
+      inset 0 0 0 2px #79d5f8;
+  }
+
+  &::-moz-range-thumb {
+    -moz-appearance: none;
+    border: none; /* fix for firefox */
+    margin-top: -7px; /* fix for chrome */
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, width 0.2s ease, height 0.2s ease;
+    background-image: radial-gradient(
+      50% 50%,
+      #ffffff 50%,
+      #ffffff 73%,
+      #f8f8f8 81%,
+      #ebebeb 90%,
+      #dddddd 95%
+    );
+    box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.25),
+      inset 0 1px 2px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 1px 0 #00a1de,
+      inset 0 0 0 2px #79d5f8;
+  }
+
+  &::-ms-thumb {
+    -webkit-appearance: none;
+    border: none; /* fix for firefox */
+    margin-top: -7px; /* fix for chrome */
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, width 0.2s ease, height 0.2s ease;
+    background-image: radial-gradient(
+      50% 50%,
+      #ffffff 50%,
+      #ffffff 73%,
+      #f8f8f8 81%,
+      #ebebeb 90%,
+      #dddddd 95%
+    );
+    box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.25),
+      inset 0 1px 2px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 1px 0 #00a1de,
+      inset 0 0 0 2px #79d5f8;
+  }
+
+  &::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+  }
+
+  &::-moz-range-thumb:hover {
+    transform: scale(1.2);
+  }
+
+  &::-ms-thumb:hover {
+    transform: scale(1.2);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "type": "range",
+          },
+          "displayName": "InputFancyRange",
+          "propTypes": Object {
+            "max": [Function],
+            "min": [Function],
+            "value": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "InputFancyRange-sc-1x3x53l-0",
+          "target": "input",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      max={10}
+      min={1}
+      onChange={[Function]}
+      step={0.1}
+      type="range"
+      value={2}
+    >
+      <input
+        className="c0"
+        max={10}
+        min={1}
+        onChange={[Function]}
+        step={0.1}
+        type="range"
+        value={2}
+      />
+    </StyledComponent>
+  </InputFancyRange>
+</StatefulInputFancyRange>
 `;

@@ -9,10 +9,9 @@ export type Props = {
   min: number,
 };
 
-// TODO: better ease function
 const getThumbPercentage = R.memoizeWith(
   R.toString,
-  ({ value, max, min }) => (value / (max - min)) * 100 * 0.95,
+  ({ value, max, min }) => ((value - min) / (max - min)) * 100,
 );
 
 const InputFancyRange: ReactComponentFunctional<Props> = styled.input`
