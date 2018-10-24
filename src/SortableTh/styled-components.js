@@ -16,6 +16,7 @@ export const StyledTh: React.ComponentType<Props> = styled.th`
   svg {
     margin-left: 5px;
     margin-right: 16px; /* Note: th padding right */
+    flex-shrink: 0;
   }
 
   &:hover {

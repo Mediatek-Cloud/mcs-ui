@@ -34,6 +34,9 @@ exports[`Storyshots Table API 1`] = `
 .c1 svg {
   margin-left: 5px;
   margin-right: 16px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
 }
 
 .c1:hover {
@@ -181,6 +184,7 @@ exports[`Storyshots Table API 1`] = `
   svg {
     margin-left: 5px;
     margin-right: 16px; /* Note: th padding right */
+    flex-shrink: 0;
   }
 
   &:hover {
