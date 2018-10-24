@@ -9,9 +9,10 @@
     "lib"
   ],
   "scripts": {
-    "build": "nwb build-react-component",
-    "build-storybook": "build-storybook",
     "clean": "nwb clean-module && nwb clean-demo",
+    "build": "nwb build-react-component",
+    "postbuild": "flow-copy-source src es && flow-copy-source src lib",
+    "build-storybook": "build-storybook",
     "start": "start-storybook -p 6006",
     "test": "NODE_ENV='test' TZ='UTC' jest --coverage --runInBand",
     "test:watch": "npm run test -- --watch",
@@ -71,6 +72,7 @@
     "eslint-plugin-prettier": "3.0.0",
     "eslint-plugin-react": "7.11.1",
     "flow-bin": "0.83.0",
+    "flow-copy-source": "2.0.2",
     "flow-coverage-report": "0.6.0",
     "github-changes": "1.1.2",
     "husky": "1.1.2",
