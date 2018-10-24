@@ -33,7 +33,7 @@ import { theme, Button } from 'mcs-ui';
 
 ## Development
 
-- node 10.12.0
+- node 11.0.0
 - yarn 1.10.1
 - react >= 16
 
