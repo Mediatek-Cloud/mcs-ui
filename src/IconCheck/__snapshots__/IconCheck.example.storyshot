@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots IconCheck API 1`] = `
+<IconCheck>
+  <svg
+    fill="currentColor"
+    height={8}
+    viewBox="0 0 9 8"
+    width={9}
+  >
+    <path
+      d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+      fillRule="evenodd"
+    />
+  </svg>
+</IconCheck>
+`;
