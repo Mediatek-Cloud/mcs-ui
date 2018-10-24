@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { IconAvatar } from '../Icons';
 import Wrapper from './styled-components';
 
-type Props = {
+export type Props = {
   src?: string,
   size?: number,
 };
