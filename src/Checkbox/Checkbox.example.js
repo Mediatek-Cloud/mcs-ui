@@ -4,7 +4,7 @@ import { storiesOf } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 import theme from '../utils/theme';
 import { IconPlay } from '../Icons';
-import IconCheck from './IconCheck';
+import IconCheck from '../IconCheck';
 import Checkbox from '.';
 
 class StatefulCheckbox extends React.Component<any, { value: boolean }> {

@@ -65,6 +65,10 @@ exports[`Storyshots Checkbox API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  fill: currentColor;
+}
+
 .c3 {
   height: 100%;
   width: 100%;
@@ -89,6 +93,10 @@ exports[`Storyshots Checkbox API 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c3 svg {
+  fill: currentColor;
 }
 
 <div
@@ -192,6 +200,10 @@ exports[`Storyshots Checkbox API 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                     ],
                   },
@@ -214,13 +226,12 @@ exports[`Storyshots Checkbox API 1`] = `
                   width={8}
                 >
                   <svg
-                    fill="currentColor"
                     height={8}
-                    viewBox="0 0 9 8"
                     width={8}
                   >
                     <path
                       d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
                       fillRule="evenodd"
                     />
                   </svg>
@@ -325,6 +336,10 @@ exports[`Storyshots Checkbox API 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                     ],
                   },
@@ -511,6 +526,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  fill: currentColor;
+}
+
 <ThemeProvider
   theme={
     Object {
@@ -665,6 +684,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -687,13 +710,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -807,6 +829,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -829,13 +855,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -949,6 +974,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -971,13 +1000,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -1091,6 +1119,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -1113,13 +1145,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -1233,6 +1264,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -1255,13 +1290,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -1375,6 +1409,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -1397,13 +1435,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -1517,6 +1554,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                         ],
                       },
@@ -1539,13 +1580,12 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       width={8}
                     >
                       <svg
-                        fill="currentColor"
                         height={8}
-                        viewBox="0 0 9 8"
                         width={8}
                       >
                         <path
                           d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                          fill="currentColor"
                           fillRule="evenodd"
                         />
                       </svg>
@@ -1685,6 +1725,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  fill: currentColor;
+}
+
 <div
   style={
     Object {
@@ -1793,6 +1837,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                       ],
                     },
@@ -1815,13 +1863,12 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     width={8}
                   >
                     <svg
-                      fill="currentColor"
                       height={8}
-                      viewBox="0 0 9 8"
                       width={8}
                     >
                       <path
                         d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
                         fillRule="evenodd"
                       />
                     </svg>
@@ -1935,6 +1982,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                       ],
                     },
@@ -1957,13 +2008,12 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     width={8}
                   >
                     <svg
-                      fill="currentColor"
                       height={8}
-                      viewBox="0 0 9 8"
                       width={8}
                     >
                       <path
                         d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
                         fillRule="evenodd"
                       />
                     </svg>
@@ -2077,6 +2127,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                       ],
                     },
@@ -2099,13 +2153,12 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     width={8}
                   >
                     <svg
-                      fill="currentColor"
                       height={8}
-                      viewBox="0 0 9 8"
                       width={8}
                     >
                       <path
                         d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
                         fillRule="evenodd"
                       />
                     </svg>
@@ -2219,6 +2272,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                       ],
                     },
@@ -2241,13 +2298,12 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     width={8}
                   >
                     <svg
-                      fill="currentColor"
                       height={8}
-                      viewBox="0 0 9 8"
                       width={8}
                     >
                       <path
                         d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
                         fillRule="evenodd"
                       />
                     </svg>
@@ -2361,6 +2417,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                       ],
                     },
@@ -2383,13 +2443,12 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     width={8}
                   >
                     <svg
-                      fill="currentColor"
                       height={8}
-                      viewBox="0 0 9 8"
                       width={8}
                     >
                       <path
                         d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                        fill="currentColor"
                         fillRule="evenodd"
                       />
                     </svg>
@@ -2450,6 +2509,10 @@ exports[`Storyshots Checkbox With render props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
 }
 
 <StatefulCheckbox
@@ -2552,6 +2615,10 @@ exports[`Storyshots Checkbox With render props 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                     ],
                   },
@@ -2635,6 +2702,10 @@ exports[`Storyshots Checkbox With size props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
 }
 
 <StatefulCheckbox
@@ -2738,6 +2809,10 @@ exports[`Storyshots Checkbox With size props 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                     ],
                   },
@@ -2760,13 +2835,12 @@ exports[`Storyshots Checkbox With size props 1`] = `
                   width={14}
                 >
                   <svg
-                    fill="currentColor"
                     height={14}
-                    viewBox="0 0 9 8"
                     width={14}
                   >
                     <path
                       d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
                       fillRule="evenodd"
                     />
                   </svg>
@@ -2825,6 +2899,10 @@ exports[`Storyshots Checkbox With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  fill: currentColor;
 }
 
 <StatefulCheckbox>
@@ -2925,6 +3003,10 @@ exports[`Storyshots Checkbox With state 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+
+  svg {
+    fill: currentColor;
+  }
 ",
                     ],
                   },
@@ -2947,13 +3029,12 @@ exports[`Storyshots Checkbox With state 1`] = `
                   width={8}
                 >
                   <svg
-                    fill="currentColor"
                     height={8}
-                    viewBox="0 0 9 8"
                     width={8}
                   >
                     <path
                       d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                      fill="currentColor"
                       fillRule="evenodd"
                     />
                   </svg>

@@ -1,7 +1,7 @@
 // @flow
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import IconCheck from './IconCheck';
+import IconCheck from '../IconCheck';
 import { Container, Content } from './styled-components';
 import { type Kind } from '../utils/type.flow';
 

@@ -46,10 +46,6 @@ exports[`Storyshots InputCheckbox API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
-.c2 svg {
-  fill: currentColor;
-}
-
 .c0 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -204,10 +200,6 @@ exports[`Storyshots InputCheckbox API 1`] = `
                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-
-  svg {
-    fill: currentColor;
-  }
 ",
                           ],
                         },
@@ -230,12 +222,13 @@ exports[`Storyshots InputCheckbox API 1`] = `
                         width={8}
                       >
                         <svg
+                          fill="currentColor"
                           height={8}
+                          viewBox="0 0 9 8"
                           width={8}
                         >
                           <path
                             d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
-                            fill="currentColor"
                             fillRule="evenodd"
                           />
                         </svg>
@@ -298,10 +291,6 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
-}
-
-.c2 svg {
-  fill: currentColor;
 }
 
 .c0 {
@@ -462,10 +451,6 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-
-  svg {
-    fill: currentColor;
-  }
 ",
                             ],
                           },
@@ -543,10 +528,6 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
-}
-
-.c2 svg {
-  fill: currentColor;
 }
 
 .c0 {
@@ -704,10 +685,6 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-
-  svg {
-    fill: currentColor;
-  }
 ",
                           ],
                         },
@@ -730,12 +707,13 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                         width={8}
                       >
                         <svg
+                          fill="currentColor"
                           height={8}
+                          viewBox="0 0 9 8"
                           width={8}
                         >
                           <path
                             d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
-                            fill="currentColor"
                             fillRule="evenodd"
                           />
                         </svg>
@@ -798,10 +776,6 @@ exports[`Storyshots InputCheckbox With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
-}
-
-.c2 svg {
-  fill: currentColor;
 }
 
 .c0 {
@@ -959,10 +933,6 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-
-  svg {
-    fill: currentColor;
-  }
 ",
                             ],
                           },
@@ -985,12 +955,13 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                           width={8}
                         >
                           <svg
+                            fill="currentColor"
                             height={8}
+                            viewBox="0 0 9 8"
                             width={8}
                           >
                             <path
                               d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
-                              fill="currentColor"
                               fillRule="evenodd"
                             />
                           </svg>
@@ -1056,10 +1027,6 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
-.c2 svg {
-  fill: currentColor;
-}
-
 .c0 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1215,10 +1182,6 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-
-  svg {
-    fill: currentColor;
-  }
 ",
                             ],
                           },
@@ -1241,12 +1204,13 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                           width={8}
                         >
                           <svg
+                            fill="currentColor"
                             height={8}
+                            viewBox="0 0 9 8"
                             width={8}
                           >
                             <path
                               d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
-                              fill="currentColor"
                               fillRule="evenodd"
                             />
                           </svg>
