@@ -15,15 +15,16 @@ const ToastContainer = ({ toasts }: Props) => (
     <Container>
       <Transition
         keys={toasts.map(({ id }: Toast) => id)}
+        items={toasts}
         from={{ opacity: 0, height: 0 }}
         enter={{ opacity: 1, height: 'auto' }}
         leave={{ opacity: 0, height: 0 }}
       >
-        {toasts.map(({ kind, id, children }: Toast) => (styles: Object) => (
+        {({ kind, id, children }: Toast) => (styles: Object) => (
           <div key={id} style={styles}>
             <MLToast kind={kind}>{children}</MLToast>
           </div>
-        ))}
+        )}
       </Transition>
     </Container>
   </Fixed>
