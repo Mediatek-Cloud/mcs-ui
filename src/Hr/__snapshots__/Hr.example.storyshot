@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Hr API 1`] = `
+.c0 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: 0;
+  border-top: 1px solid #D1D2D3;
+}
+
+<Hr>
+  <Hr__StyledHr>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Hr__StyledHr-sc-2hog90-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  flex: 1;
+  border: 0;
+  border-top: 1px solid ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "displayName": "Hr__StyledHr",
+          "render": [Function],
+          "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+          "target": "hr",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <hr
+        className="c0"
+      />
+    </StyledComponent>
+  </Hr__StyledHr>
+</Hr>
+`;
+
+exports[`Storyshots Hr With children 1`] = `
+.c1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: 0;
+  border-top: 1px solid #D1D2D3;
+}
+
+.c2 {
+  font-size: 0.923rem;
+  margin: 0 8px;
+  color: #999A94;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+<Hr>
+  <Hr__Wrapper>
+    <StyledComponent
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Hr__Wrapper-sc-2hog90-2",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  display: flex;
+  align-items: center;
+  width: 100%;
+",
+            ],
+          },
+          "displayName": "Hr__Wrapper",
+          "render": [Function],
+          "styledComponentId": "Hr__Wrapper-sc-2hog90-2",
+          "target": "div",
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <Hr__StyledHr>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "Hr__StyledHr-sc-2hog90-0",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  flex: 1;
+  border: 0;
+  border-top: 1px solid ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "Hr__StyledHr",
+                "render": [Function],
+                "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+                "target": "hr",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <hr
+              className="c1"
+            />
+          </StyledComponent>
+        </Hr__StyledHr>
+        <Hr__Content>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "Hr__Content-sc-2hog90-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "
+  font-size: ",
+                    [Function],
+                    ";
+  margin: 0 8px;
+  color: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "Hr__Content",
+                "render": [Function],
+                "styledComponentId": "Hr__Content-sc-2hog90-1",
+                "target": "div",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c2"
+            >
+              String
+            </div>
+          </StyledComponent>
+        </Hr__Content>
+        <Hr__StyledHr>
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": undefined,
+                "componentStyle": ComponentStyle {
+                  "componentId": "Hr__StyledHr-sc-2hog90-0",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  flex: 1;
+  border: 0;
+  border-top: 1px solid ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "Hr__StyledHr",
+                "render": [Function],
+                "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+                "target": "hr",
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <hr
+              className="c1"
+            />
+          </StyledComponent>
+        </Hr__StyledHr>
+      </div>
+    </StyledComponent>
+  </Hr__Wrapper>
+</Hr>
+`;

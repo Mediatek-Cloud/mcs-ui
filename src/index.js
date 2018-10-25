@@ -19,6 +19,7 @@ export { default as ConfirmDialog } from './ConfirmDialog';
 export { default as DropdownMenu } from './DropdownMenu';
 export { default as Gauge } from './Gauge';
 export { default as Heading } from './Heading';
+export { default as Hr } from './Hr';
 export { default as HTML } from './HTML';
 export { default as IconCheck } from './IconCheck';
 export { default as IconSort } from './IconSort';
