@@ -31,7 +31,7 @@
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
     "react-overlay-pack": "^3.0.1",
-    "react-spring": "^5.9.2",
+    "react-spring": "^6.0.0",
     "react-topbar-progress-indicator": "^2.0.0",
     "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0"
