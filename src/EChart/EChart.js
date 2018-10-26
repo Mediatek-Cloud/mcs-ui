@@ -28,13 +28,13 @@ const EChart = ({ option, ...otherProps }: Props) => (
 );
 EChart.propTypes = {
   option: PropTypes.shape({
-    legend: PropTypes.object,
-    tooltip: PropTypes.object,
-    xAxis: PropTypes.object,
-    yAxis: PropTypes.object,
-    dataZoom: PropTypes.object,
-    series: PropTypes.object,
-    label: PropTypes.object,
+    legend: PropTypes.any,
+    tooltip: PropTypes.any,
+    xAxis: PropTypes.any,
+    yAxis: PropTypes.any,
+    dataZoom: PropTypes.any,
+    series: PropTypes.any,
+    label: PropTypes.any,
   }).isRequired,
 };
 export default EChart;
