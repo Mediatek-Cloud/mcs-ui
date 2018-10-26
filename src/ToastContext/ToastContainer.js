@@ -14,8 +14,8 @@ const ToastContainer = ({ toasts }: Props) => (
   <Fixed>
     <Container>
       <Transition
-        keys={toasts.map(({ id }: Toast) => id)}
         items={toasts}
+        keys={({ id }: Toast) => id}
         from={{ opacity: 0, height: 0 }}
         enter={{ opacity: 1, height: 'auto' }}
         leave={{ opacity: 0, height: 0 }}

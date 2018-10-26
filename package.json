@@ -27,6 +27,8 @@
     "d3-color": "^1.2.3",
     "date-fns": "^2.0.0-alpha.22",
     "debug": "^4.1.0",
+    "echarts": "^4.2.0-rc.2",
+    "echarts-for-react": "^2.0.15-beta.0",
     "prop-types": "^15.6.2",
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
