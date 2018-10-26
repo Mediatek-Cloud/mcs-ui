@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots EChart API 1`] = `
+<EChart
+  option={
+    Object {
+      "dataZoom": Array [
+        Object {
+          "type": "inside",
+        },
+        Object {
+          "type": "slider",
+        },
+      ],
+      "label": Object {
+        "formatter": [Function],
+      },
+      "legend": Object {
+        "data": Array [
+          "y1",
+          "y2",
+          "y3",
+        ],
+      },
+      "series": Array [
+        Object {
+          "data": Array [
+            10,
+            20,
+            30,
+            40,
+          ],
+          "name": "y1",
+          "stack": "STACK",
+          "type": "bar",
+        },
+        Object {
+          "data": Array [
+            1,
+            2,
+            3,
+            4,
+          ],
+          "name": "y2",
+          "stack": "STACK",
+          "type": "bar",
+        },
+        Object {
+          "data": Array [
+            11,
+            21,
+            31,
+            41,
+          ],
+          "name": "y3",
+          "stack": "STACK",
+          "type": "bar",
+        },
+      ],
+      "tooltip": Object {
+        "show": true,
+      },
+      "xAxis": Array [
+        Object {
+          "data": Array [
+            1,
+            2,
+            3,
+            4,
+          ],
+          "type": "category",
+        },
+      ],
+      "yAxis": Array [
+        Object {
+          "name": "Byte",
+          "type": "value",
+        },
+      ],
+    }
+  }
+  style={
+    Object {
+      "height": 300,
+    }
+  }
+>
+  <mock-ReactEchartsCore
+    echarts={
+      Object {
+        "Axis": [Function],
+        "List": [Function],
+        "Model": [Function],
+        "PRIORITY": Object {
+          "PROCESSOR": Object {
+            "FILTER": 1000,
+            "STATISTIC": 5000,
+          },
+          "VISUAL": Object {
+            "BRUSH": 5000,
+            "CHART": 3000,
+            "COMPONENT": 4000,
+            "GLOBAL": 2000,
+            "LAYOUT": 1000,
+          },
+        },
+        "color": Object {
+          "fastLerp": [Function],
+          "fastMapToColor": [Function],
+          "lerp": [Function],
+          "lift": [Function],
+          "mapToColor": [Function],
+          "modifyAlpha": [Function],
+          "modifyHSL": [Function],
+          "parse": [Function],
+          "stringify": [Function],
+          "toHex": [Function],
+        },
+        "connect": [Function],
+        "dataTool": Object {},
+        "dependencies": Object {
+          "zrender": "4.0.5",
+        },
+        "disConnect": [Function],
+        "disconnect": [Function],
+        "dispose": [Function],
+        "env": Object {
+          "browser": Object {},
+          "canvasSupported": true,
+          "domSupported": true,
+          "node": false,
+          "os": Object {},
+          "pointerEventsSupported": false,
+          "svgSupported": false,
+          "touchEventsSupported": false,
+        },
+        "extendChartView": [Function],
+        "extendComponentModel": [Function],
+        "extendComponentView": [Function],
+        "extendSeriesModel": [Function],
+        "format": Object {
+          "addCommas": [Function],
+          "capitalFirst": [Function],
+          "encodeHTML": [Function],
+          "formatTime": [Function],
+          "formatTpl": [Function],
+          "formatTplSimple": [Function],
+          "getTextRect": [Function],
+          "getTooltipMarker": [Function],
+          "normalizeCssArray": [Function],
+          "toCamelCase": [Function],
+          "truncateText": [Function],
+        },
+        "getCoordinateSystemDimensions": [Function],
+        "getInstanceByDom": [Function],
+        "getInstanceById": [Function],
+        "getMap": [Function],
+        "graphic": Object {
+          "Arc": [Function],
+          "BezierCurve": [Function],
+          "BoundingRect": [Function],
+          "Circle": [Function],
+          "CompoundPath": [Function],
+          "Group": [Function],
+          "Image": [Function],
+          "IncrementalDisplayable": [Function],
+          "Line": [Function],
+          "LinearGradient": [Function],
+          "Polygon": [Function],
+          "Polyline": [Function],
+          "RadialGradient": [Function],
+          "Rect": [Function],
+          "Ring": [Function],
+          "Sector": [Function],
+          "Text": [Function],
+          "clipPointsByRect": [Function],
+          "clipRectByRect": [Function],
+          "createIcon": [Function],
+          "extendPath": [Function],
+          "extendShape": [Function],
+          "getFont": [Function],
+          "getTransform": [Function],
+          "initProps": [Function],
+          "makeImage": [Function],
+          "makePath": [Function],
+          "mergePath": [Function],
+          "resizePath": [Function],
+          "setHoverStyle": [Function],
+          "setLabelStyle": [Function],
+          "setText": [Function],
+          "setTextStyle": [Function],
+          "updateProps": [Function],
+        },
+        "helper": Object {
+          "completeDimensions": [Function],
+          "createDimensions": [Function],
+          "createList": [Function],
+          "createScale": [Function],
+          "createSymbol": [Function],
+          "dataStack": Object {
+            "enableDataStack": [Function],
+            "getStackedDimension": [Function],
+            "isDimensionStacked": [Function],
+          },
+          "getLayoutRect": [Function],
+          "mixinAxisModelCommonMethods": [Function],
+        },
+        "init": [Function],
+        "matrix": Object {
+          "clone": [Function],
+          "copy": [Function],
+          "create": [Function],
+          "identity": [Function],
+          "invert": [Function],
+          "mul": [Function],
+          "rotate": [Function],
+          "scale": [Function],
+          "translate": [Function],
+        },
+        "number": Object {
+          "MAX_SAFE_INTEGER": 9007199254740991,
+          "asc": [Function],
+          "getPercentWithPrecision": [Function],
+          "getPixelPrecision": [Function],
+          "getPrecision": [Function],
+          "getPrecisionSafe": [Function],
+          "isNumeric": [Function],
+          "isRadianAroundZero": [Function],
+          "linearMap": [Function],
+          "nice": [Function],
+          "parseDate": [Function],
+          "parsePercent": [Function],
+          "quantile": [Function],
+          "quantity": [Function],
+          "reformIntervals": [Function],
+          "remRadian": [Function],
+          "round": [Function],
+        },
+        "parseGeoJSON": [Function],
+        "parseGeoJson": [Function],
+        "registerAction": [Function],
+        "registerCoordinateSystem": [Function],
+        "registerLayout": [Function],
+        "registerLoading": [Function],
+        "registerMap": [Function],
+        "registerPostUpdate": [Function],
+        "registerPreprocessor": [Function],
+        "registerProcessor": [Function],
+        "registerTheme": [Function],
+        "registerVisual": [Function],
+        "setCanvasCreator": [Function],
+        "throttle": [Function],
+        "util": Object {
+          "bind": [Function],
+          "clone": [Function],
+          "curry": [Function],
+          "defaults": [Function],
+          "each": [Function],
+          "extend": [Function],
+          "filter": [Function],
+          "indexOf": [Function],
+          "inherits": [Function],
+          "isArray": [Function],
+          "isFunction": [Function],
+          "isObject": [Function],
+          "isString": [Function],
+          "map": [Function],
+          "merge": [Function],
+          "reduce": [Function],
+        },
+        "vector": Object {
+          "add": [Function],
+          "applyTransform": [Function],
+          "clone": [Function],
+          "copy": [Function],
+          "create": [Function],
+          "dist": [Function],
+          "distSquare": [Function],
+          "distance": [Function],
+          "distanceSquare": [Function],
+          "div": [Function],
+          "dot": [Function],
+          "len": [Function],
+          "lenSquare": [Function],
+          "length": [Function],
+          "lengthSquare": [Function],
+          "lerp": [Function],
+          "max": [Function],
+          "min": [Function],
+          "mul": [Function],
+          "negate": [Function],
+          "normalize": [Function],
+          "scale": [Function],
+          "scaleAndAdd": [Function],
+          "set": [Function],
+          "sub": [Function],
+        },
+        "version": "4.2.0",
+        "zrender": Object {
+          "dispose": [Function],
+          "getInstance": [Function],
+          "init": [Function],
+          "registerPainter": [Function],
+          "version": "4.0.5",
+        },
+      }
+    }
+    notMerge={true}
+    option={
+      Object {
+        "dataZoom": Array [
+          Object {
+            "type": "inside",
+          },
+          Object {
+            "type": "slider",
+          },
+        ],
+        "label": Object {
+          "formatter": [Function],
+        },
+        "legend": Object {
+          "data": Array [
+            "y1",
+            "y2",
+            "y3",
+          ],
+        },
+        "series": Array [
+          Object {
+            "data": Array [
+              10,
+              20,
+              30,
+              40,
+            ],
+            "name": "y1",
+            "stack": "STACK",
+            "type": "bar",
+          },
+          Object {
+            "data": Array [
+              1,
+              2,
+              3,
+              4,
+            ],
+            "name": "y2",
+            "stack": "STACK",
+            "type": "bar",
+          },
+          Object {
+            "data": Array [
+              11,
+              21,
+              31,
+              41,
+            ],
+            "name": "y3",
+            "stack": "STACK",
+            "type": "bar",
+          },
+        ],
+        "tooltip": Object {
+          "show": true,
+        },
+        "xAxis": Array [
+          Object {
+            "data": Array [
+              1,
+              2,
+              3,
+              4,
+            ],
+            "type": "category",
+          },
+        ],
+        "yAxis": Array [
+          Object {
+            "name": "Byte",
+            "type": "value",
+          },
+        ],
+      }
+    }
+    style={
+      Object {
+        "height": 300,
+      }
+    }
+    theme="mcs"
+  />
+</EChart>
+`;

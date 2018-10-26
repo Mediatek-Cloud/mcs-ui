@@ -45,6 +45,8 @@ const mobile = {
   headerHeight: '56px',
 };
 
+export const fontFamily = `"RionaSans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"`;
+
 export default {
   color: {
     ...gray,
