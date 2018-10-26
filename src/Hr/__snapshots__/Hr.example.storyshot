@@ -10,14 +10,14 @@ exports[`Storyshots Hr API 1`] = `
 }
 
 <Hr>
-  <Hr__StyledHr>
+  <styled-components__StyledHr>
     <StyledComponent
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "Hr__StyledHr-sc-2hog90-0",
+            "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
             "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
@@ -30,9 +30,9 @@ exports[`Storyshots Hr API 1`] = `
 ",
             ],
           },
-          "displayName": "Hr__StyledHr",
+          "displayName": "styled-components__StyledHr",
           "render": [Function],
-          "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+          "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
           "target": "hr",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -44,7 +44,7 @@ exports[`Storyshots Hr API 1`] = `
         className="c0"
       />
     </StyledComponent>
-  </Hr__StyledHr>
+  </styled-components__StyledHr>
 </Hr>
 `;
 
@@ -76,14 +76,14 @@ exports[`Storyshots Hr With children 1`] = `
 }
 
 <Hr>
-  <Hr__Wrapper>
+  <styled-components__Wrapper>
     <StyledComponent
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "Hr__Wrapper-sc-2hog90-2",
+            "componentId": "styled-components__Wrapper-sc-1kwc7os-2",
             "isStatic": true,
             "lastClassName": "c0",
             "rules": Array [
@@ -94,9 +94,9 @@ exports[`Storyshots Hr With children 1`] = `
 ",
             ],
           },
-          "displayName": "Hr__Wrapper",
+          "displayName": "styled-components__Wrapper",
           "render": [Function],
-          "styledComponentId": "Hr__Wrapper-sc-2hog90-2",
+          "styledComponentId": "styled-components__Wrapper-sc-1kwc7os-2",
           "target": "div",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -107,14 +107,14 @@ exports[`Storyshots Hr With children 1`] = `
       <div
         className="c0"
       >
-        <Hr__StyledHr>
+        <styled-components__StyledHr>
           <StyledComponent
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "Hr__StyledHr-sc-2hog90-0",
+                  "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
                   "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
@@ -127,9 +127,9 @@ exports[`Storyshots Hr With children 1`] = `
 ",
                   ],
                 },
-                "displayName": "Hr__StyledHr",
+                "displayName": "styled-components__StyledHr",
                 "render": [Function],
-                "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+                "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -141,15 +141,15 @@ exports[`Storyshots Hr With children 1`] = `
               className="c1"
             />
           </StyledComponent>
-        </Hr__StyledHr>
-        <Hr__Content>
+        </styled-components__StyledHr>
+        <styled-components__Content>
           <StyledComponent
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "Hr__Content-sc-2hog90-1",
+                  "componentId": "styled-components__Content-sc-1kwc7os-1",
                   "isStatic": false,
                   "lastClassName": "c2",
                   "rules": Array [
@@ -164,9 +164,9 @@ exports[`Storyshots Hr With children 1`] = `
 ",
                   ],
                 },
-                "displayName": "Hr__Content",
+                "displayName": "styled-components__Content",
                 "render": [Function],
-                "styledComponentId": "Hr__Content-sc-2hog90-1",
+                "styledComponentId": "styled-components__Content-sc-1kwc7os-1",
                 "target": "div",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -180,15 +180,15 @@ exports[`Storyshots Hr With children 1`] = `
               String
             </div>
           </StyledComponent>
-        </Hr__Content>
-        <Hr__StyledHr>
+        </styled-components__Content>
+        <styled-components__StyledHr>
           <StyledComponent
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "Hr__StyledHr-sc-2hog90-0",
+                  "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
                   "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
@@ -201,9 +201,9 @@ exports[`Storyshots Hr With children 1`] = `
 ",
                   ],
                 },
-                "displayName": "Hr__StyledHr",
+                "displayName": "styled-components__StyledHr",
                 "render": [Function],
-                "styledComponentId": "Hr__StyledHr-sc-2hog90-0",
+                "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -215,9 +215,9 @@ exports[`Storyshots Hr With children 1`] = `
               className="c1"
             />
           </StyledComponent>
-        </Hr__StyledHr>
+        </styled-components__StyledHr>
       </div>
     </StyledComponent>
-  </Hr__Wrapper>
+  </styled-components__Wrapper>
 </Hr>
 `;
