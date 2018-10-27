@@ -23,6 +23,7 @@ export { default as Heading } from './Heading';
 export { default as Hr } from './Hr';
 export { default as HTML } from './HTML';
 export { default as IconCheck } from './IconCheck';
+export { default as IconImage } from './IconImage';
 export { default as IconSort } from './IconSort';
 export { default as IconWarning } from './IconWarning';
 export { default as Input } from './Input';
