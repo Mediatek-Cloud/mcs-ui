@@ -106,6 +106,14 @@ exports[`Storyshots Menu Fixed width 1`] = `
   font-size: 2.46rem;
 }
 
+.c9 > .c3 {
+  margin-top: 5px;
+}
+
+.c10 > .c3 {
+  margin-top: 5px;
+}
+
 .c1 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
