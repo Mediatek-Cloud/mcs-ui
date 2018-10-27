@@ -1,9 +1,7 @@
 // @flow
 import * as React from 'react';
 
-export type Props = {};
-
-const IconImage = (props: Props) => (
+const IconImage = (props: {}) => (
   <svg
     fill="currentColor"
     viewBox="0 0 50 42"
