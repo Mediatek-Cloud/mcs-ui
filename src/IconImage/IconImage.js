@@ -11,7 +11,7 @@ const IconImage = (props: Props) => (
     height="1em"
     {...props}
   >
-    <title>{`img_upload_img`}</title>
+    <title>img_upload_img</title>
     <g fill="none" fillRule="evenodd">
       <path opacity={0.1} d="M0-4h50v50H0z" />
       <path
