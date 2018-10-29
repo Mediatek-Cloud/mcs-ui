@@ -53,6 +53,14 @@ exports[`Storyshots Small With color 1`] = `
   margin-top: 5px;
 }
 
+.c4 > .c0 {
+  margin-top: 5px;
+}
+
+.c5 > .c0 {
+  margin-top: 5px;
+}
+
 .c2 {
   font-size: 0.923rem;
 }
@@ -149,6 +157,14 @@ exports[`Storyshots Small Within <P> 1`] = `
 }
 
 .c3 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+.c4 > .c0 {
+  margin-top: 5px;
+}
+
+.c5 > .c0 {
   margin-top: 5px;
 }
 

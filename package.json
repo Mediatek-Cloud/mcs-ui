@@ -32,6 +32,7 @@
     "prop-types": "^15.6.2",
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
+    "react-dnd-dropzone": "^1.0.0",
     "react-overlay-pack": "^3.0.1",
     "react-spring": "^6.0.0",
     "react-topbar-progress-indicator": "^2.0.0",

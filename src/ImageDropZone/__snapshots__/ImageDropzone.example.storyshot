@@ -1,0 +1,975 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ImageDropzone API 1`] = `
+.c0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 137px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  border: 1px dashed #D1D2D3;
+  border-radius: 3px;
+  -webkit-transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+}
+
+.c0 > .c1 {
+  margin-top: 5px;
+}
+
+<ImageDropzone
+  height={137}
+  onDrop={[Function]}
+>
+  <ReactDndDropzone
+    onDrop={[Function]}
+    render={[Function]}
+  >
+    <DropTarget(Target)
+      onDrop={[Function]}
+      render={[Function]}
+    >
+      <Target
+        canDrop={false}
+        connectDropTarget={[Function]}
+        isOver={false}
+        onDrop={[Function]}
+        render={[Function]}
+      >
+        <DragDropContextProvider
+          backend={[Function]}
+        >
+          <div>
+            <Container
+              canDrop={false}
+              height={137}
+            >
+              <StyledComponent
+                canDrop={false}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Container-sc-2zzuhz-0",
+                      "isStatic": false,
+                      "lastClassName": "c0",
+                      "rules": Array [
+                        "
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: ",
+                        [Function],
+                        "px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px
+    ",
+                        [Function],
+                        "
+    ",
+                        [Function],
+                        ";
+  border-radius: 3px;
+  transition: all cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+
+  ",
+                        [Function],
+                        ";
+
+  > ",
+                        ".c1",
+                        " {
+    margin-top: 5px;
+  }
+",
+                      ],
+                    },
+                    "displayName": "Container",
+                    "propTypes": Object {
+                      "canDrop": [Function],
+                      "src": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                height={137}
+              >
+                <div
+                  className="c0"
+                  height={137}
+                >
+                  <IconImage
+                    height={50}
+                    width={50}
+                  >
+                    <svg
+                      fill="currentColor"
+                      height={50}
+                      viewBox="0 0 50 42"
+                      width={50}
+                    >
+                      <title>
+                        img_upload_img
+                      </title>
+                      <g
+                        fill="none"
+                        fillRule="evenodd"
+                      >
+                        <path
+                          d="M0-4h50v50H0z"
+                          opacity={0.1}
+                        />
+                        <path
+                          d="M20 41.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
+                          fill="#D1D2D3"
+                          opacity={0.5}
+                        />
+                        <path
+                          d="M.515 9.688a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#FFF"
+                        />
+                        <path
+                          d="M1.481 9.429L5.627 24.9a.996.996 0 0 0 1.214.7l25.13-6.733a.995.995 0 0 0 .702-1.214L28.527 2.182a.996.996 0 0 0-1.214-.7L2.183 8.214a.995.995 0 0 0-.702 1.214zm-.966.259a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#D1D2D3"
+                          fillRule="nonzero"
+                        />
+                        <path
+                          d="M3.803 10.367a.498.498 0 0 1 .355-.61l22.214-5.953a.498.498 0 0 1 .613.352l3.366 12.56a.498.498 0 0 1-.355.61L7.782 23.28a.498.498 0 0 1-.613-.351l-3.366-12.56z"
+                          fill="#EAEAEA"
+                        />
+                        <g>
+                          <path
+                            d="M20.161 11.923a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#FFF"
+                          />
+                          <path
+                            d="M21.127 12.182l-4.146 15.472a.996.996 0 0 0 .702 1.214l25.13 6.734a.995.995 0 0 0 1.214-.7l4.146-15.473a.996.996 0 0 0-.701-1.214l-25.13-6.734a.995.995 0 0 0-1.215.7zm-.966-.259a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#D1D2D3"
+                            fillRule="nonzero"
+                          />
+                          <path
+                            d="M22.669 14.156a.498.498 0 0 1 .613-.352l22.214 5.952a.498.498 0 0 1 .355.611l-3.366 12.56a.498.498 0 0 1-.613.352l-22.214-5.952a.498.498 0 0 1-.355-.611l3.366-12.56z"
+                            fill="#EAEAEA"
+                          />
+                          <path
+                            d="M27.782 20.186a1.5 1.5 0 1 1 .777-2.898 1.5 1.5 0 0 1-.777 2.898zm1.582 5.764a.87.87 0 0 0 1.267.377l5.166-3.242c.464-.29 1.042-.137 1.302.362l4.088 7.849c.255.49.038.774-.506.629L21.367 26.75c-.534-.144-.593-.516-.141-.824l5.315-3.63c.457-.312 1.017-.162 1.255.34l1.568 3.314z"
+                            fill="#D1D2D3"
+                          />
+                        </g>
+                      </g>
+                    </svg>
+                  </IconImage>
+                </div>
+              </StyledComponent>
+            </Container>
+          </div>
+        </DragDropContextProvider>
+      </Target>
+    </DropTarget(Target)>
+  </ReactDndDropzone>
+</ImageDropzone>
+`;
+
+exports[`Storyshots ImageDropzone With children 1`] = `
+.c2 {
+  margin: 0;
+  font-size: 1rem;
+  color: #D1D2D3;
+}
+
+.c3 > *:nth-child(2) .c1 {
+  margin-top: 5px;
+}
+
+.c0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 137px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  border: 1px dashed #D1D2D3;
+  border-radius: 3px;
+  -webkit-transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+}
+
+.c0 > .c1 {
+  margin-top: 5px;
+}
+
+<ImageDropzone
+  height={137}
+  onDrop={[Function]}
+>
+  <ReactDndDropzone
+    onDrop={[Function]}
+    render={[Function]}
+  >
+    <DropTarget(Target)
+      onDrop={[Function]}
+      render={[Function]}
+    >
+      <Target
+        canDrop={false}
+        connectDropTarget={[Function]}
+        isOver={false}
+        onDrop={[Function]}
+        render={[Function]}
+      >
+        <DragDropContextProvider
+          backend={[Function]}
+        >
+          <div>
+            <Container
+              canDrop={false}
+              height={137}
+            >
+              <StyledComponent
+                canDrop={false}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Container-sc-2zzuhz-0",
+                      "isStatic": false,
+                      "lastClassName": "c0",
+                      "rules": Array [
+                        "
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: ",
+                        [Function],
+                        "px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px
+    ",
+                        [Function],
+                        "
+    ",
+                        [Function],
+                        ";
+  border-radius: 3px;
+  transition: all cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+
+  ",
+                        [Function],
+                        ";
+
+  > ",
+                        ".c1",
+                        " {
+    margin-top: 5px;
+  }
+",
+                      ],
+                    },
+                    "displayName": "Container",
+                    "propTypes": Object {
+                      "canDrop": [Function],
+                      "src": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                height={137}
+              >
+                <div
+                  className="c0"
+                  height={137}
+                >
+                  <IconImage
+                    height={50}
+                    width={50}
+                  >
+                    <svg
+                      fill="currentColor"
+                      height={50}
+                      viewBox="0 0 50 42"
+                      width={50}
+                    >
+                      <title>
+                        img_upload_img
+                      </title>
+                      <g
+                        fill="none"
+                        fillRule="evenodd"
+                      >
+                        <path
+                          d="M0-4h50v50H0z"
+                          opacity={0.1}
+                        />
+                        <path
+                          d="M20 41.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
+                          fill="#D1D2D3"
+                          opacity={0.5}
+                        />
+                        <path
+                          d="M.515 9.688a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#FFF"
+                        />
+                        <path
+                          d="M1.481 9.429L5.627 24.9a.996.996 0 0 0 1.214.7l25.13-6.733a.995.995 0 0 0 .702-1.214L28.527 2.182a.996.996 0 0 0-1.214-.7L2.183 8.214a.995.995 0 0 0-.702 1.214zm-.966.259a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#D1D2D3"
+                          fillRule="nonzero"
+                        />
+                        <path
+                          d="M3.803 10.367a.498.498 0 0 1 .355-.61l22.214-5.953a.498.498 0 0 1 .613.352l3.366 12.56a.498.498 0 0 1-.355.61L7.782 23.28a.498.498 0 0 1-.613-.351l-3.366-12.56z"
+                          fill="#EAEAEA"
+                        />
+                        <g>
+                          <path
+                            d="M20.161 11.923a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#FFF"
+                          />
+                          <path
+                            d="M21.127 12.182l-4.146 15.472a.996.996 0 0 0 .702 1.214l25.13 6.734a.995.995 0 0 0 1.214-.7l4.146-15.473a.996.996 0 0 0-.701-1.214l-25.13-6.734a.995.995 0 0 0-1.215.7zm-.966-.259a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#D1D2D3"
+                            fillRule="nonzero"
+                          />
+                          <path
+                            d="M22.669 14.156a.498.498 0 0 1 .613-.352l22.214 5.952a.498.498 0 0 1 .355.611l-3.366 12.56a.498.498 0 0 1-.613.352l-22.214-5.952a.498.498 0 0 1-.355-.611l3.366-12.56z"
+                            fill="#EAEAEA"
+                          />
+                          <path
+                            d="M27.782 20.186a1.5 1.5 0 1 1 .777-2.898 1.5 1.5 0 0 1-.777 2.898zm1.582 5.764a.87.87 0 0 0 1.267.377l5.166-3.242c.464-.29 1.042-.137 1.302.362l4.088 7.849c.255.49.038.774-.506.629L21.367 26.75c-.534-.144-.593-.516-.141-.824l5.315-3.63c.457-.312 1.017-.162 1.255.34l1.568 3.314z"
+                            fill="#D1D2D3"
+                          />
+                        </g>
+                      </g>
+                    </svg>
+                  </IconImage>
+                  <P
+                    color="grayBase"
+                  >
+                    <StyledComponent
+                      color="grayBase"
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "
+  margin: 0;
+  font-size: ",
+                              [Function],
+                              ";
+
+  ",
+                              [Function],
+                              ";
+",
+                            ],
+                          },
+                          "displayName": "P",
+                          "propTypes": Object {
+                            "color": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "c1",
+                          "target": "p",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <p
+                        className="c1 c2"
+                        color="grayBase"
+                      >
+                        Drop an image here to upload !
+                      </p>
+                    </StyledComponent>
+                  </P>
+                </div>
+              </StyledComponent>
+            </Container>
+          </div>
+        </DragDropContextProvider>
+      </Target>
+    </DropTarget(Target)>
+  </ReactDndDropzone>
+</ImageDropzone>
+`;
+
+exports[`Storyshots ImageDropzone With isLoading 1`] = `
+.c3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #D1D2D3;
+}
+
+.c4 > *:nth-child(2) .c2 {
+  margin-top: 5px;
+}
+
+.c1 {
+  box-sizing: border-box;
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  padding: 8px;
+  background-color: rgba(0,0,0,0.3);
+  color: #FAFAFA;
+}
+
+.c1 > * {
+  -webkit-transform-origin: center center;
+  -ms-transform-origin: center center;
+  transform-origin: center center;
+  -webkit-animation: iVXCSc 0.6s infinite cubic-bezier(0.41,0.01,0.58,1);
+  animation: iVXCSc 0.6s infinite cubic-bezier(0.41,0.01,0.58,1);
+}
+
+.c0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 137px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  border: 1px dashed #D1D2D3;
+  border-radius: 3px;
+  -webkit-transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+}
+
+.c0 > .c2 {
+  margin-top: 5px;
+}
+
+<ImageDropzone
+  height={137}
+  isLoading={true}
+  onDrop={[Function]}
+>
+  <ReactDndDropzone
+    onDrop={[Function]}
+    render={[Function]}
+  >
+    <DropTarget(Target)
+      onDrop={[Function]}
+      render={[Function]}
+    >
+      <Target
+        canDrop={false}
+        connectDropTarget={[Function]}
+        isOver={false}
+        onDrop={[Function]}
+        render={[Function]}
+      >
+        <DragDropContextProvider
+          backend={[Function]}
+        >
+          <div>
+            <Container
+              canDrop={false}
+              height={137}
+            >
+              <StyledComponent
+                canDrop={false}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Container-sc-2zzuhz-0",
+                      "isStatic": false,
+                      "lastClassName": "c0",
+                      "rules": Array [
+                        "
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: ",
+                        [Function],
+                        "px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px
+    ",
+                        [Function],
+                        "
+    ",
+                        [Function],
+                        ";
+  border-radius: 3px;
+  transition: all cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+
+  ",
+                        [Function],
+                        ";
+
+  > ",
+                        ".c2",
+                        " {
+    margin-top: 5px;
+  }
+",
+                      ],
+                    },
+                    "displayName": "Container",
+                    "propTypes": Object {
+                      "canDrop": [Function],
+                      "src": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                height={137}
+              >
+                <div
+                  className="c0"
+                  height={137}
+                >
+                  <LoadingWrapper>
+                    <StyledComponent
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "LoadingWrapper-f6hqxt-0",
+                            "isStatic": false,
+                            "lastClassName": "c1",
+                            "rules": Array [
+                              "
+  box-sizing: border-box;
+
+  > * {
+    transform-origin: center center;
+    animation: ",
+                              Keyframes {
+                                "id": "sc-keyframes-iVXCSc",
+                                "inject": [Function],
+                                "name": "iVXCSc",
+                                "rules": Array [
+                                  "@-webkit-keyframes iVXCSc{from{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}to{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}",
+                                  "@keyframes iVXCSc{from{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}to{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}",
+                                ],
+                                "toString": [Function],
+                              },
+                              " 0.6s infinite cubic-bezier(0.41, 0.01, 0.58, 1);
+  }
+",
+                              "
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.3);
+
+  color: ",
+                              [Function],
+                              ";
+",
+                            ],
+                          },
+                          "displayName": "LoadingWrapper",
+                          "render": [Function],
+                          "styledComponentId": "LoadingWrapper-f6hqxt-0",
+                          "target": "div",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c1"
+                      >
+                        <IconLoading
+                          size={24}
+                        >
+                          <svg
+                            fill="currentColor"
+                            height="1em"
+                            size={24}
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"
+                              opacity={0.3}
+                            />
+                            <path
+                              d="M12 4c4.4 0 8 3.6 8 8h2c0-5.5-4.5-10-10-10v2z"
+                            />
+                          </svg>
+                        </IconLoading>
+                      </div>
+                    </StyledComponent>
+                  </LoadingWrapper>
+                  <IconImage
+                    height={50}
+                    width={50}
+                  >
+                    <svg
+                      fill="currentColor"
+                      height={50}
+                      viewBox="0 0 50 42"
+                      width={50}
+                    >
+                      <title>
+                        img_upload_img
+                      </title>
+                      <g
+                        fill="none"
+                        fillRule="evenodd"
+                      >
+                        <path
+                          d="M0-4h50v50H0z"
+                          opacity={0.1}
+                        />
+                        <path
+                          d="M20 41.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
+                          fill="#D1D2D3"
+                          opacity={0.5}
+                        />
+                        <path
+                          d="M.515 9.688a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#FFF"
+                        />
+                        <path
+                          d="M1.481 9.429L5.627 24.9a.996.996 0 0 0 1.214.7l25.13-6.733a.995.995 0 0 0 .702-1.214L28.527 2.182a.996.996 0 0 0-1.214-.7L2.183 8.214a.995.995 0 0 0-.702 1.214zm-.966.259a1.995 1.995 0 0 1 1.409-2.439L27.054.515a1.996 1.996 0 0 1 2.439 1.408l4.146 15.473a1.995 1.995 0 0 1-1.409 2.438L7.1 26.568a1.996 1.996 0 0 1-2.439-1.408L.515 9.688z"
+                          fill="#D1D2D3"
+                          fillRule="nonzero"
+                        />
+                        <path
+                          d="M3.803 10.367a.498.498 0 0 1 .355-.61l22.214-5.953a.498.498 0 0 1 .613.352l3.366 12.56a.498.498 0 0 1-.355.61L7.782 23.28a.498.498 0 0 1-.613-.351l-3.366-12.56z"
+                          fill="#EAEAEA"
+                        />
+                        <g>
+                          <path
+                            d="M20.161 11.923a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#FFF"
+                          />
+                          <path
+                            d="M21.127 12.182l-4.146 15.472a.996.996 0 0 0 .702 1.214l25.13 6.734a.995.995 0 0 0 1.214-.7l4.146-15.473a.996.996 0 0 0-.701-1.214l-25.13-6.734a.995.995 0 0 0-1.215.7zm-.966-.259a1.995 1.995 0 0 1 2.44-1.408l25.13 6.734a1.996 1.996 0 0 1 1.408 2.439L44.993 35.16a1.995 1.995 0 0 1-2.439 1.408l-25.13-6.734a1.996 1.996 0 0 1-1.409-2.438l4.146-15.473z"
+                            fill="#D1D2D3"
+                            fillRule="nonzero"
+                          />
+                          <path
+                            d="M22.669 14.156a.498.498 0 0 1 .613-.352l22.214 5.952a.498.498 0 0 1 .355.611l-3.366 12.56a.498.498 0 0 1-.613.352l-22.214-5.952a.498.498 0 0 1-.355-.611l3.366-12.56z"
+                            fill="#EAEAEA"
+                          />
+                          <path
+                            d="M27.782 20.186a1.5 1.5 0 1 1 .777-2.898 1.5 1.5 0 0 1-.777 2.898zm1.582 5.764a.87.87 0 0 0 1.267.377l5.166-3.242c.464-.29 1.042-.137 1.302.362l4.088 7.849c.255.49.038.774-.506.629L21.367 26.75c-.534-.144-.593-.516-.141-.824l5.315-3.63c.457-.312 1.017-.162 1.255.34l1.568 3.314z"
+                            fill="#D1D2D3"
+                          />
+                        </g>
+                      </g>
+                    </svg>
+                  </IconImage>
+                  <P
+                    color="grayBase"
+                  >
+                    <StyledComponent
+                      color="grayBase"
+                      forwardedClass={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": undefined,
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c2",
+                            "isStatic": false,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "
+  margin: 0;
+  font-size: ",
+                              [Function],
+                              ";
+
+  ",
+                              [Function],
+                              ";
+",
+                            ],
+                          },
+                          "displayName": "P",
+                          "propTypes": Object {
+                            "color": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "c2",
+                          "target": "p",
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <p
+                        className="c2 c3"
+                        color="grayBase"
+                      >
+                        Drop an image here to upload !
+                      </p>
+                    </StyledComponent>
+                  </P>
+                </div>
+              </StyledComponent>
+            </Container>
+          </div>
+        </DragDropContextProvider>
+      </Target>
+    </DropTarget(Target)>
+  </ReactDndDropzone>
+</ImageDropzone>
+`;
+
+exports[`Storyshots ImageDropzone With src 1`] = `
+.c0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 137px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  border: 1px solid #D1D2D3;
+  border-radius: 3px;
+  -webkit-transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  background-image: url("//img.mediatek.com/350/mtk.linkit/productBanner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.c0 > .c1 {
+  margin-top: 5px;
+}
+
+<ImageDropzone
+  height={137}
+  onDrop={[Function]}
+  src="//img.mediatek.com/350/mtk.linkit/productBanner.png"
+>
+  <ReactDndDropzone
+    onDrop={[Function]}
+    render={[Function]}
+  >
+    <DropTarget(Target)
+      onDrop={[Function]}
+      render={[Function]}
+    >
+      <Target
+        canDrop={false}
+        connectDropTarget={[Function]}
+        isOver={false}
+        onDrop={[Function]}
+        render={[Function]}
+      >
+        <DragDropContextProvider
+          backend={[Function]}
+        >
+          <div>
+            <Container
+              canDrop={false}
+              height={137}
+              src="//img.mediatek.com/350/mtk.linkit/productBanner.png"
+            >
+              <StyledComponent
+                canDrop={false}
+                forwardedClass={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": undefined,
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Container-sc-2zzuhz-0",
+                      "isStatic": false,
+                      "lastClassName": "c0",
+                      "rules": Array [
+                        "
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: ",
+                        [Function],
+                        "px;
+  padding: 12px;
+  text-align: center;
+  box-sizing: border-box;
+
+  background-color: ",
+                        [Function],
+                        ";
+  border: 1px
+    ",
+                        [Function],
+                        "
+    ",
+                        [Function],
+                        ";
+  border-radius: 3px;
+  transition: all cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+
+  ",
+                        [Function],
+                        ";
+
+  > ",
+                        ".c1",
+                        " {
+    margin-top: 5px;
+  }
+",
+                      ],
+                    },
+                    "displayName": "Container",
+                    "propTypes": Object {
+                      "canDrop": [Function],
+                      "src": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "target": "div",
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                height={137}
+                src="//img.mediatek.com/350/mtk.linkit/productBanner.png"
+              >
+                <div
+                  className="c0"
+                  height={137}
+                  src="//img.mediatek.com/350/mtk.linkit/productBanner.png"
+                />
+              </StyledComponent>
+            </Container>
+          </div>
+        </DragDropContextProvider>
+      </Target>
+    </DropTarget(Target)>
+  </ReactDndDropzone>
+</ImageDropzone>
+`;

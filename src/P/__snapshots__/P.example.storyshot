@@ -10,6 +10,14 @@ exports[`Storyshots P API 1`] = `
   margin-top: 5px;
 }
 
+.c3 > .c0 {
+  margin-top: 5px;
+}
+
+.c4 > .c0 {
+  margin-top: 5px;
+}
+
 <P>
   <StyledComponent
     forwardedClass={
@@ -62,6 +70,14 @@ exports[`Storyshots P Nested children with div 1`] = `
 }
 
 .c2 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+.c3 > .c0 {
+  margin-top: 5px;
+}
+
+.c4 > .c0 {
   margin-top: 5px;
 }
 
@@ -130,6 +146,12 @@ exports[`Storyshots P With color props 1`] = `
   color: #F5364E;
 }
 
+.c3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #D1D2D3;
+}
+
 .c1 {
   margin: 0;
   font-size: 1rem;
@@ -140,12 +162,6 @@ exports[`Storyshots P With color props 1`] = `
   margin: 0;
   font-size: 1rem;
   color: #999A94;
-}
-
-.c3 {
-  margin: 0;
-  font-size: 1rem;
-  color: #D1D2D3;
 }
 
 .c4 {
@@ -173,6 +189,14 @@ exports[`Storyshots P With color props 1`] = `
 }
 
 .c10 > *:nth-child(2) .c0 {
+  margin-top: 5px;
+}
+
+.c11 > .c0 {
+  margin-top: 5px;
+}
+
+.c12 > .c0 {
   margin-top: 5px;
 }
 
