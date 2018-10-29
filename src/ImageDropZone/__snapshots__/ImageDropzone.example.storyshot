@@ -488,6 +488,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
   top: 0;
   padding: 8px;
   background-color: rgba(0,0,0,0.3);
+  color: #FAFAFA;
 }
 
 .c1 > * {
@@ -496,10 +497,6 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
   transform-origin: center center;
   -webkit-animation: iVXCSc 0.6s infinite cubic-bezier(0.41,0.01,0.58,1);
   animation: iVXCSc 0.6s infinite cubic-bezier(0.41,0.01,0.58,1);
-}
-
-.c1 > svg {
-  fill: #FAFAFA;
 }
 
 .c0 {
@@ -671,11 +668,9 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
   padding: 8px;
   background-color: rgba(0, 0, 0, 0.3);
 
-  > svg {
-    fill: ",
+  color: ",
                               [Function],
                               ";
-  }
 ",
                             ],
                           },
