@@ -1,4 +1,2 @@
 // flow
-import ImageDropzone from './ImageDropzone';
-
-export default ImageDropzone;
+export { default } from './ImageDropzone';

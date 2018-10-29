@@ -9,7 +9,6 @@ import LoadingWrapper from './LoadingWrapper';
 import Container from './Container';
 import IconImage from '../IconImage';
 
-type File = { name: string, type: string, size: number };
 export type Props = {
   isLoading?: boolean,
   src?: string,

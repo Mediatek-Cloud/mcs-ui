@@ -15,9 +15,7 @@ const LoadingWrapper: React.ComponentType<ImageDropzoneProps> = styled(Spin)`
   padding: 8px;
   background-color: rgba(0, 0, 0, 0.3);
 
-  > svg {
-    fill: ${({ theme }: ThemeProps) => theme.color.grayLight};
-  }
+  color: ${({ theme }: ThemeProps) => theme.color.grayLight};
 `;
 
 export default LoadingWrapper;
