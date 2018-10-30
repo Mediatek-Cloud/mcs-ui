@@ -12,7 +12,7 @@ import { Container, CheckboxWrapper, Center } from './styled-components';
 export const HEIGHT = 192;
 export type Props = {
   value: Array<Value>,
-  onChange: (value: Array<Value>) => Promise<void> | void,
+  onChange: (Array<Value>) => Promise<void> | void,
   items: Array<ItemProps>,
   height: number,
   placeholder?: string,
@@ -35,7 +35,7 @@ class InputOrder extends React.Component<Props> {
 
   onClick = (itemValue: Value) => {
     const { value, onChange } = this.props;
-    const index = R.indexOf(itemValue)(value);
+    const index: number = R.indexOf(itemValue)(value);
 
     if (index === -1) {
       onChange([...value, itemValue]);
