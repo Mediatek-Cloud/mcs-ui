@@ -4,9 +4,9 @@ import PropTypes from 'prop-types';
 import * as R from 'ramda';
 import P from '../P';
 import Orderbox from '../Orderbox';
-import Item from './Item';
+import { type Kind } from '../utils/type.flow';
+import Item, { type Value, type ItemProps } from './Item';
 import { Container, CheckboxWrapper, Center } from './styled-components';
-import { type Value, type ItemProps } from './type.flow';
 
 export const HEIGHT = 192;
 export type Props = {
@@ -15,10 +15,10 @@ export type Props = {
   items: Array<ItemProps>,
   height: number,
   placeholder?: string,
-  kind: string,
+  kind: Kind,
   itemRenderer: (
     item: ItemProps,
-    props: { value: Array<Value>, kind?: string },
+    props: { value: Array<Value>, kind?: Kind },
   ) => React.Node,
 };
 
@@ -28,9 +28,10 @@ class InputOrder extends React.Component<Props> {
     kind: 'primary',
     itemRenderer: (
       item: ItemProps,
-      { value, kind }: { value: Array<Value>, kind?: string },
+      { value, kind }: { value: Array<Value>, kind?: Kind },
     ) => <Orderbox value={R.indexOf(item.value)(value) + 1} kind={kind} />,
   };
+
   onClick = (itemValue: Value) => {
     const { value, onChange } = this.props;
     const index = R.indexOf(itemValue)(value);
@@ -41,6 +42,7 @@ class InputOrder extends React.Component<Props> {
       onChange(R.remove(index, 1)(value));
     }
   };
+
   render() {
     const {
       items = [],

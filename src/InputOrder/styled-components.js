@@ -1,17 +1,20 @@
 // @flow
 import * as React from 'react';
 import styled from 'styled-components';
+import { type ThemeProps } from '../utils/type.flow';
 
-export const Container: React.ComponentType<{
+type Props = {
   height: number,
-}> = styled.div`
+};
+
+export const Container: React.ComponentType<Props> = styled.div`
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
-  border: 1px solid ${props => props.theme.color.grayBase};
+  border: 1px solid ${({ theme }: ThemeProps) => theme.color.grayBase};
   border-radius: 3px;
-  height: ${props => props.height}px;
-  background-color: ${props => props.theme.color.white};
+  height: ${(props: Props) => props.height}px;
+  background-color: ${({ theme }: ThemeProps) => theme.color.white};
   overflow: auto;
 
   > * {

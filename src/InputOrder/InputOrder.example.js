@@ -1,15 +1,16 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
-import { withInfo } from '@storybook/addon-info';
 import { action } from '@storybook/addon-actions';
 import InputOrder from '.';
-import { type Value } from './type.flow';
+import { type Value } from './Item';
 import Checkbox from '../Checkbox';
 
 class StatefulInputOrder extends React.Component<{}, { value: Array<Value> }> {
   state = { value: [] };
+
   onChange = (value: Array<Value>) => this.setState(() => ({ value }));
+
   render() {
     const { value } = this.state;
     const { onChange } = this;
@@ -42,10 +43,7 @@ class StatefulInputOrder extends React.Component<{}, { value: Array<Value> }> {
 storiesOf('InputOrder', module)
   .add(
     'API',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[2, 1]}
         items={[
@@ -65,28 +63,34 @@ storiesOf('InputOrder', module)
         ]}
         onChange={action('onChange')}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'With placeholder props',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[]}
         items={[]}
         onChange={action('onChange')}
         placeholder="Please choose a device first"
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'With height props',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[]}
         items={[]}
@@ -94,41 +98,45 @@ storiesOf('InputOrder', module)
         onChange={action('onChange')}
         placeholder="Please choose a device first"
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
-  .add(
-    'With state',
-    withInfo({
+  .add('With state', () => <StatefulInputOrder />, {
+    info: {
       text: '',
       inline: true,
-    })(() => <StatefulInputOrder />),
-  )
-  .add(
-    'With kind props',
-    withInfo({
+    },
+  })
+  .add('With kind props', () => <StatefulInputOrder kind="error" />, {
+    info: {
       text: '',
       inline: true,
-    })(() => <StatefulInputOrder kind="error" />),
-  )
+    },
+  })
   .add(
     'one item',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[1]}
         items={[{ value: 1, children: 'item name 1' }]}
         onChange={action('onChange')}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'two items',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[1]}
         items={[
@@ -137,14 +145,17 @@ storiesOf('InputOrder', module)
         ]}
         onChange={action('onChange')}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'three items',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[1]}
         items={[
@@ -154,14 +165,17 @@ storiesOf('InputOrder', module)
         ]}
         onChange={action('onChange')}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
   .add(
     'With custom itemRenderer props',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputOrder
         value={[1]}
         items={[
@@ -174,5 +188,11 @@ storiesOf('InputOrder', module)
           <Checkbox value={props.value.includes(item.value)} size={18} />
         )}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   );

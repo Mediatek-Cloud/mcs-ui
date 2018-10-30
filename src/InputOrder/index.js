@@ -1,4 +1,2 @@
 // @flow
-import InputOrder from './InputOrder';
-
-export default InputOrder;
+export { default } from './InputOrder';
