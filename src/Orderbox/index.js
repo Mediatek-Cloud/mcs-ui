@@ -1,4 +1,2 @@
 // @flow
-import Orderbox from './Orderbox';
-
-export default Orderbox;
+export { default } from './Orderbox';

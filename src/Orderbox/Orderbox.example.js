@@ -1,18 +1,19 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
-import { withInfo } from '@storybook/addon-info';
 import Orderbox from '.';
 
 class StatefulOrderbox extends React.Component<any, { value: number }> {
   state = { value: 9 };
+
   onClick = () => {
-    if (this.state.value === -1) {
-      this.setState(() => ({ value: 9 }));
-    } else {
-      this.setState(() => ({ value: -1 }));
-    }
+    const { value } = this.state;
+
+    this.setState({
+      value: value === -1 ? 9 : -1,
+    });
   };
+
   render() {
     const { value } = this.state;
     const { onClick } = this;
@@ -24,50 +25,40 @@ class StatefulOrderbox extends React.Component<any, { value: number }> {
 storiesOf('Orderbox', module)
   .add(
     'API',
-    withInfo({
-      text: 'Controlled API',
-      inline: true,
-    })(() => (
+    () => (
       <div style={{ display: 'flex', flexDirection: 'column' }}>
-        <Orderbox value={-1} />
-        <Orderbox value={0.1} />
-        <Orderbox value={0} />
-        <Orderbox value={1} />
-        <Orderbox value={2} />
-        <Orderbox value={3} />
-        <Orderbox value={4} />
-        <Orderbox value={5} />
-        <Orderbox value={6} />
-        <Orderbox value={7} />
-        <Orderbox value={8} />
-        <Orderbox value={9} />
-        <Orderbox value={10} />
-        <Orderbox value={50} />
-        <Orderbox value={99} />
-        <Orderbox value={100} />
+        {[-1, 0.1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 50, 99, 100].map(value => (
+          <Orderbox value={value} />
+        ))}
       </div>
-    )),
+    ),
+    {
+      info: {
+        text:
+          'Controlled API with values: `-1, 0.1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 50, 99, 100`',
+        inline: true,
+      },
+    },
   )
-  .add(
-    'With state',
-    withInfo({
+  .add('With state', () => <StatefulOrderbox />, {
+    info: {
       text: 'default',
       inline: true,
-    })(() => <StatefulOrderbox />),
-  )
+    },
+  })
   .add(
     'With size',
-    withInfo({
-      text: 'default',
-      inline: true,
-    })(() => <StatefulOrderbox size={24} style={{ fontSize: 14 }} />),
+    () => <StatefulOrderbox size={24} style={{ fontSize: 14 }} />,
+    {
+      info: {
+        text: 'default',
+        inline: true,
+      },
+    },
   )
   .add(
     'With kind',
-    withInfo({
-      text: 'different color',
-      inline: true,
-    })(() => (
+    () => (
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <StatefulOrderbox kind="default" /> default
         <StatefulOrderbox kind="primary" /> primary
@@ -75,5 +66,11 @@ storiesOf('Orderbox', module)
         <StatefulOrderbox kind="error" /> error
         <StatefulOrderbox kind="warning" /> warning
       </div>
-    )),
+    ),
+    {
+      info: {
+        text: 'different color',
+        inline: true,
+      },
+    },
   );
