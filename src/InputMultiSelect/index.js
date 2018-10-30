@@ -1,4 +1,2 @@
 // @flow
-import InputMultiSelect from './InputMultiSelect';
-
-export default InputMultiSelect;
+export { default } from './InputMultiSelect';

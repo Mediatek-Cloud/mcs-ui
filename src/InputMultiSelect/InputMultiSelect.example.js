@@ -1,17 +1,18 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
-import { withInfo } from '@storybook/addon-info';
 import { action } from '@storybook/addon-actions';
 import InputMultiSelect from '.';
-import { type Value } from '../InputOrder/type.flow';
+import { type Value } from '../InputOrder/Item';
 
 class StatefulInputMultiSelect extends React.Component<
   {},
   { value: Array<Value> },
 > {
   state = { value: [] };
+
   onChange = (value: Array<Value>) => this.setState(() => ({ value }));
+
   render() {
     const { value } = this.state;
     const { onChange } = this;
@@ -44,10 +45,7 @@ class StatefulInputMultiSelect extends React.Component<
 storiesOf('InputMultiSelect', module)
   .add(
     'API',
-    withInfo({
-      text: '',
-      inline: true,
-    })(() => (
+    () => (
       <InputMultiSelect
         value={[2, 1]}
         items={[
@@ -67,19 +65,23 @@ storiesOf('InputMultiSelect', module)
         ]}
         onChange={action('onChange')}
       />
-    )),
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   )
-  .add(
-    'With state',
-    withInfo({
+  .add('With state', () => <StatefulInputMultiSelect />, {
+    info: {
       text: '',
       inline: true,
-    })(() => <StatefulInputMultiSelect />),
-  )
-  .add(
-    'With kind props',
-    withInfo({
+    },
+  })
+  .add('With kind props', () => <StatefulInputMultiSelect kind="error" />, {
+    info: {
       text: '',
       inline: true,
-    })(() => <StatefulInputMultiSelect kind="error" />),
-  );
+    },
+  });
