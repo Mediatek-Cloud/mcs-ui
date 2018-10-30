@@ -5,7 +5,8 @@ import * as R from 'ramda';
 import P from '../P';
 import Orderbox from '../Orderbox';
 import { type Kind } from '../utils/type.flow';
-import Item, { type Value, type ItemProps } from './Item';
+import Item from './Item';
+import { type Value, type ItemProps } from './type.flow';
 import { Container, CheckboxWrapper, Center } from './styled-components';
 
 export const HEIGHT = 192;

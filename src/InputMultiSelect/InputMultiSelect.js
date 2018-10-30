@@ -1,14 +1,15 @@
 // @flow
 import * as React from 'react';
 import styled from 'styled-components';
-import InputOrder from '../InputOrder/InputOrder';
+import InputOrder, {
+  type Props as InputOrderProps,
+} from '../InputOrder/InputOrder';
 import Checkbox from '../Checkbox';
-import { type Value, type ItemProps } from '../InputOrder/Item';
 
 type Props = {
-  value: Array<Value>,
-  onChange: (value: Array<Value>) => Promise<void> | void,
-  items: Array<ItemProps>,
+  value: $PropertyType<InputOrderProps, 'value'>,
+  onChange: $PropertyType<InputOrderProps, 'onChange'>,
+  items: $PropertyType<InputOrderProps, 'items'>,
 };
 
 const StyledInputOrder = styled(InputOrder)`

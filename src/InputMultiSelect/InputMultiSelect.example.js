@@ -3,7 +3,7 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import InputMultiSelect from '.';
-import { type Value } from '../InputOrder/Item';
+import { type Value } from '../InputOrder/type.flow';
 
 class StatefulInputMultiSelect extends React.Component<
   {},

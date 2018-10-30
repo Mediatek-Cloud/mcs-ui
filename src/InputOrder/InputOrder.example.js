@@ -3,7 +3,7 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import InputOrder from '.';
-import { type Value } from './Item';
+import { type Value } from './type.flow';
 import Checkbox from '../Checkbox';
 
 class StatefulInputOrder extends React.Component<{}, { value: Array<Value> }> {

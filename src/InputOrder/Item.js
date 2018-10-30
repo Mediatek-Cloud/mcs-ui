@@ -1,11 +1,7 @@
 // @flow
 import * as React from 'react';
+import { type Value, type ItemProps } from './type.flow';
 
-export type Value = number | string;
-export type ItemProps = {
-  value: Value,
-  children: React.Node,
-};
 class Item extends React.Component<
   ItemProps & {
     onClick: Value => Promise<any> | any,
