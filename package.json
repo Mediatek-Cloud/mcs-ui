@@ -90,7 +90,7 @@
     "prismjs": "1.15.0",
     "react": "16.6.0",
     "react-dom": "16.6.0",
-    "styled-components": "4.0.2"
+    "styled-components": "4.0.3"
   },
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "homepage": "https://github.com/Mediatek-Cloud/mcs-ui#readme",
