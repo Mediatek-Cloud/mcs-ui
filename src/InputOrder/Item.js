@@ -1,13 +1,14 @@
 // @flow
 import * as React from 'react';
+import PropTypes from 'prop-types';
 import { type Value, type ItemProps } from './type.flow';
 
-class Item extends React.Component<
-  ItemProps & {
-    onClick: Value => Promise<any> | any,
-  },
-> {
-  onClick = () => {
+type Props = ItemProps & {
+  onClick: Value => Promise<any> | any,
+};
+
+class Item extends React.Component<Props> {
+  onClick: any => void = () => {
     const { value, onClick } = this.props;
     onClick(value);
   };
@@ -23,5 +24,11 @@ class Item extends React.Component<
     );
   }
 }
+
+Item.propTypes = {
+  value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
+  children: PropTypes.node,
+  onClick: PropTypes.func,
+};
 
 export default Item;
