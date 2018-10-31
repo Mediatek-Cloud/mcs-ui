@@ -65,6 +65,7 @@
     "babel-plugin-add-module-exports": "1.0.0",
     "babel-plugin-require-context-hook": "1.0.0",
     "babel-plugin-styled-components": "1.8.0",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.19",
     "codecov": "3.1.0",
     "enzyme": "3.7.0",
     "enzyme-adapter-react-16": "1.6.0",
@@ -114,6 +115,12 @@
         "@babel/plugin-proposal-class-properties",
         {
           "loose": true
+        }
+      ],
+      [
+        "babel-plugin-transform-react-remove-prop-types",
+        {
+          "mode": "unsafe-wrap"
         }
       ]
     ],

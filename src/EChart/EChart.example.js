@@ -1,6 +1,12 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
+import 'echarts/lib/chart/bar';
+import 'echarts/lib/chart/line';
+import 'echarts/lib/component/tooltip';
+import 'echarts/lib/component/brush';
+import 'echarts/lib/component/dataZoom';
+import 'echarts/lib/component/legend';
 import EChart from '.';
 
 const data = {
@@ -37,7 +43,14 @@ storiesOf('EChart', module).add(
   () => <EChart option={option} style={{ height: 300 }} />,
   {
     info: {
-      text: 'MCS Theme',
+      text: `MCS Theme. You should import dependency in your project to reduce bundle size:
+      import 'echarts/lib/chart/bar';
+      import 'echarts/lib/chart/line';
+      import 'echarts/lib/component/tooltip';
+      import 'echarts/lib/component/brush';
+      import 'echarts/lib/component/dataZoom';
+      import 'echarts/lib/component/legend';      
+`,
       inline: true,
       source: false,
     },
