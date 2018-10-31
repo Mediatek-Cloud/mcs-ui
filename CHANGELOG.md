@@ -1,5 +1,13 @@
 ## Change Log
 
+### v0.1.12 (2018/10/31 13:11 +00:00)
+
+- [6cae60a](https://github.com/Mediatek-Cloud/mcs-ui/commit/6cae60aa6420f9b032ba14f760dc62e53885497f) 0.1.12 (@evenchange4)
+- [#34](https://github.com/Mediatek-Cloud/mcs-ui/pull/34) chore(npm): add missing sideEffects for webpack & add babel-plugin-transform-react-remove-prop-types to reduce bundle size (#34) (@evenchange4)
+- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
+- [#33](https://github.com/Mediatek-Cloud/mcs-ui/pull/33) chore(deps): update storybook monorepo to v4.0.2 (#33) (@renovate[bot])
+- [0906734](https://github.com/Mediatek-Cloud/mcs-ui/commit/09067347c3fe13fbd3c53cbdcfcc1415f465674c) docs(CHANGELOG): release 0.1.11 (@evenchange4)
+
 ### v0.1.11 (2018/10/31 06:20 +00:00)
 
 - [ca6075a](https://github.com/Mediatek-Cloud/mcs-ui/commit/ca6075a5ea269486495690fd3ea8159afad24f19) 0.1.11 (@evenchange4)
