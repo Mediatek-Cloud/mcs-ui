@@ -1,5 +1,29 @@
 ## Change Log
 
+### v0.1.11 (2018/10/31 06:20 +00:00)
+
+- [ca6075a](https://github.com/Mediatek-Cloud/mcs-ui/commit/ca6075a5ea269486495690fd3ea8159afad24f19) 0.1.11 (@evenchange4)
+- [0fe7b2f](https://github.com/Mediatek-Cloud/mcs-ui/commit/0fe7b2f2ffab059aefd50b01551821641ecd4f59) chore: upgrade sc and update snapshot (@evenchange4)
+- [fb6e813](https://github.com/Mediatek-Cloud/mcs-ui/commit/fb6e8135ffa89f7471aae71d6e0a62561b326f08) chore(npm): switch nwb to babel cli (@evenchange4)
+- [#28](https://github.com/Mediatek-Cloud/mcs-ui/pull/28) feat: Add OrderBox, InputOrder, InputMultiSelect (#28) (@liuderchi)
+- [#27](https://github.com/Mediatek-Cloud/mcs-ui/pull/27) chore(deps): update dependency lint-staged to v8 (#27) (@renovate[bot])
+- [#23](https://github.com/Mediatek-Cloud/mcs-ui/pull/23) chore(deps): update dependency eslint-plugin-jest to v21.26.2 (#23) (@renovate[bot])
+- [#26](https://github.com/Mediatek-Cloud/mcs-ui/pull/26) chore(deps): update storybook monorepo to v4.0.0 (#26) (@renovate[bot])
+- [#25](https://github.com/Mediatek-Cloud/mcs-ui/pull/25) feat: add <ImageDropZone>, <IconImage> (#25) (@liuderchi)
+- [#24](https://github.com/Mediatek-Cloud/mcs-ui/pull/24) chore(deps): update dependency eslint to v5.8.0 (#24) (@renovate[bot])
+- [#22](https://github.com/Mediatek-Cloud/mcs-ui/pull/22) chore(deps): update dependency eslint-plugin-flowtype to v3.1.4 (#22) (@renovate[bot])
+
+### v0.1.10 (2018/10/26 05:54 +00:00)
+
+- [358edc3](https://github.com/Mediatek-Cloud/mcs-ui/commit/358edc32c9f39e8fd15dcb8cbb8f61408f4566f2) 0.1.10 (@evenchange4)
+- [362b63c](https://github.com/Mediatek-Cloud/mcs-ui/commit/362b63ccf1080ea8e4c289c1edbebf758f2337ec) feat(EChart): add mcs style EChart component & fix ToastContainer test(#21) (@evenchange4)
+- [#20](https://github.com/Mediatek-Cloud/mcs-ui/pull/20) feat: Add <Hr>, utils/emptyFunction.js (#20) (@liuderchi)
+- [#19](https://github.com/Mediatek-Cloud/mcs-ui/pull/19) chore(deps): update dependency flow-bin to v0.84.0 (#19) (@renovate[bot])
+- [#18](https://github.com/Mediatek-Cloud/mcs-ui/pull/18) chore(deps): update storybook monorepo to v4.0.0-rc.6 (#18) (@renovate[bot])
+- [#17](https://github.com/Mediatek-Cloud/mcs-ui/pull/17) fix(deps): update dependency react-spring to v6 (#17) (@renovate[bot])
+- [#16](https://github.com/Mediatek-Cloud/mcs-ui/pull/16) chore(deps): update dependency eslint-plugin-jest to v21.26.1 (#16) (@renovate[bot])
+- [04c7383](https://github.com/Mediatek-Cloud/mcs-ui/commit/04c73839e9af369bab138034ab21840cb026dec8) docs(CHANGELOG): release 0.1.9 (@evenchange4)
+
 ### v0.1.9 (2018/10/24 08:31 +00:00)
 
 - [80d4f78](https://github.com/Mediatek-Cloud/mcs-ui/commit/80d4f782ba6e34a5232e454fdde735b307896f9f) 0.1.9 (@evenchange4)
