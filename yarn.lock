@@ -2068,7 +2068,7 @@ babel-plugin-transform-property-literals@^6.9.4:
   dependencies:
     esutils "^2.0.2"
 
-babel-plugin-transform-react-remove-prop-types@^0.4.19:
+babel-plugin-transform-react-remove-prop-types@0.4.19:
   version "0.4.19"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.19.tgz#dc9d8fb176a407a75efe73f231550450e29a3b17"
   integrity sha512-f49NsaohQ1ByY20nUrpc30QFdbeT4ntV4PAL2vSZe6uCB5nqAcqXS/qzU+aI6ZfYhWASx5eIsTFvFrs1B2ffGg==
@@ -3737,7 +3737,7 @@ entities@^1.1.1, entities@~1.1.1:
   resolved "https://registry.yarnpkg.com/entities/-/entities-1.1.1.tgz#6e5c2d0a5621b5dadaecef80b90edfb5cd7772f0"
   integrity sha1-blwtClYhtdra7O+AuQ7ftc13cvA=
 
-enzyme-adapter-react-16@1.6.0, enzyme-adapter-react-16@^1.6.0:
+enzyme-adapter-react-16@1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/enzyme-adapter-react-16/-/enzyme-adapter-react-16-1.6.0.tgz#3fca28d3c32f3ff427495380fe2dd51494689073"
   integrity sha512-ay9eGFpChyUDnjTFMMJHzrb681LF3hPWJLEA7RoLFG9jSWAdAm2V50pGmFV9dYGJgh5HfdiqM+MNvle41Yf/PA==
@@ -3766,7 +3766,7 @@ enzyme-to-json@3.3.4:
   dependencies:
     lodash "^4.17.4"
 
-enzyme@3.7.0, enzyme@^3.7.0:
+enzyme@3.7.0:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/enzyme/-/enzyme-3.7.0.tgz#9b499e8ca155df44fef64d9f1558961ba1385a46"
   integrity sha512-QLWx+krGK6iDNyR1KlH5YPZqxZCQaVF6ike1eDJAOg0HvSkSCVImPsdWaNw6v+VrnK92Kg8jIOYhuOSS9sBpyg==
@@ -6283,10 +6283,10 @@ jest-specific-snapshot@1.0.0, jest-specific-snapshot@^1.0.0:
   dependencies:
     jest-snapshot ">=20.0.3"
 
-jest-styled-components@6.2.2:
-  version "6.2.2"
-  resolved "https://registry.yarnpkg.com/jest-styled-components/-/jest-styled-components-6.2.2.tgz#8d69a95ca9d26b9ceab2fcccdee3795d041a1f3b"
-  integrity sha512-CLjlS4FuVpzft3DG+bX8HIFZxmkWTJs0sX2rlIkel4U6O7TteNBPBdATuH/fT+RCfEQ/bGTtOFoI7yQ9HTghRA==
+jest-styled-components@7.0.0-2:
+  version "7.0.0-2"
+  resolved "https://registry.yarnpkg.com/jest-styled-components/-/jest-styled-components-7.0.0-2.tgz#c827ab84a3e69c03579b32963f9e55f0b72f75a4"
+  integrity sha512-5Rtv9C1qaqamc1RNwg0IquGS+CGSVXbySVOtC3vs4XjcfI+RWTb+5V1lqIU+Qj4dAyk/3x+seiLvnJ+X80n8Gw==
   dependencies:
     css "^2.2.4"
 
@@ -8433,10 +8433,10 @@ raw-loader@^0.5.1:
   resolved "https://registry.yarnpkg.com/raw-loader/-/raw-loader-0.5.1.tgz#0c3d0beaed8a01c966d9787bf778281252a979aa"
   integrity sha1-DD0L6u2KAclm2Xh793goElKpeao=
 
-rc-tween-one@^2.2.12:
-  version "2.2.12"
-  resolved "https://registry.yarnpkg.com/rc-tween-one/-/rc-tween-one-2.2.12.tgz#ab20b9ce7a8b76e0a90173f70088e12e10beb14a"
-  integrity sha512-ilZqBvzQ5I2WkySnj2hxrIljisQu62d0j/4CtSTw4TObWXCsUgtQ4KS1+XQQJHXG3SFq6JwYJ0PK+NILYqhPCQ==
+rc-tween-one@^2.2.14:
+  version "2.2.14"
+  resolved "https://registry.yarnpkg.com/rc-tween-one/-/rc-tween-one-2.2.14.tgz#8e511cf38266cdccc2a31cfebebd8fdb5a1fc2c1"
+  integrity sha512-1uedvjot7KsjFVxqwOQ02rv2Tjx5eld9ZWUudqhrCfNxan+RI3bPF0PwWr066go++Cx/pd+FpZEu7kjDQQ/zmw==
   dependencies:
     babel-runtime "6.x"
     prop-types "^15.6.1"
@@ -8601,16 +8601,16 @@ react-modal@^3.6.1:
     react-lifecycles-compat "^3.0.0"
     warning "^3.0.0"
 
-react-overlay-pack@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.0.1.tgz#0c1f8e43b13ee8072b55d8d6e36bc638a1007138"
-  integrity sha512-1ZOf0KNoauD2hjATUdsNirsMc5n79Ne7K5fFNOjHrg7McjNk3VKm4DiZtAqahbw8dA7/KuXfmI5mmaBXeuX17Q==
+react-overlay-pack@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.0.2.tgz#9ff170a151e13e1e38e481711464d98b65625599"
+  integrity sha512-OJ8c//PMSENlr2cQq9Lhj1dg/tIwv8DqptQB4AAJju4vRbjxzPEvogzvEyOfXnLG+WauJphkOnbf8mRIP+M1Jw==
   dependencies:
     dom-align "^1.8.0"
     prop-types "^15.6.2"
     raf-throttle "^2.0.3"
     ramda "^0.25.0"
-    rc-tween-one "^2.2.12"
+    rc-tween-one "^2.2.14"
     react-portal "^4.1.5"
 
 react-portal@^4.1.5:
@@ -8630,14 +8630,12 @@ react-split-pane@^0.1.84:
     react-lifecycles-compat "^3.0.4"
     react-style-proptype "^3.0.0"
 
-react-spring@^6.1.4:
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-6.1.4.tgz#e3a42063f655e1cdd6f872d2b3526452b789dabc"
-  integrity sha512-OzfTTUvULIafx/OKbCoEqPaH/X/3b66L45vp12UWo4bF3Qu+L7EFjV/OUOsKljYJ2lbXpqIyKihkCnjltUP2PQ==
+react-spring@^6.1.5:
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-6.1.5.tgz#37e6106f19a5c76e892eafb43a6eb434c4cacbfc"
+  integrity sha512-0gWXUu0g+CMGT0oSKxgeYfFrZ5fHrtwl0GpYjO+IMD7nVGR7JvxLXs8bNROB2IHOvzZpQolNRnQQD+WCR8U9dQ==
   dependencies:
     "@babel/runtime" "^7.1.2"
-    enzyme "^3.7.0"
-    enzyme-adapter-react-16 "^1.6.0"
 
 react-style-proptype@^3.0.0:
   version "3.2.2"

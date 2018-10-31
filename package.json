@@ -4,6 +4,7 @@
   "description": "mcs-ui",
   "main": "lib/index.js",
   "module": "es/index.js",
+  "sideEffects": false,
   "files": [
     "es",
     "lib"
@@ -34,8 +35,8 @@
     "raf-throttle": "^2.0.3",
     "ramda": "^0.25.0",
     "react-dnd-dropzone": "^1.0.0",
-    "react-overlay-pack": "^3.0.1",
-    "react-spring": "^6.1.4",
+    "react-overlay-pack": "^3.0.2",
+    "react-spring": "^6.1.5",
     "react-topbar-progress-indicator": "^2.0.0",
     "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0"
@@ -86,7 +87,7 @@
     "husky": "1.1.2",
     "jest": "23.6.0",
     "jest-specific-snapshot": "1.0.0",
-    "jest-styled-components": "6.2.2",
+    "jest-styled-components": "7.0.0-2",
     "lint-staged": "8.0.4",
     "polished": "2.3.0",
     "prettier": "1.14.3",
