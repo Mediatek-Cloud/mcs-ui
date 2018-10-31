@@ -111,6 +111,7 @@ exports[`Storyshots Textarea API 1`] = `
         "render": [Function],
         "styledComponentId": "Textarea-sc-121l34w-0",
         "target": "textarea",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -369,6 +370,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
         "render": [Function],
         "styledComponentId": "Textareaexample__Wrapper-sc-6btv7j-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -446,6 +448,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Textarea-sc-121l34w-0",
               "target": "textarea",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -529,6 +532,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Textarea-sc-121l34w-0",
               "target": "textarea",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -612,6 +616,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Textarea-sc-121l34w-0",
               "target": "textarea",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -695,6 +700,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Textarea-sc-121l34w-0",
               "target": "textarea",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -778,6 +784,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Textarea-sc-121l34w-0",
               "target": "textarea",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

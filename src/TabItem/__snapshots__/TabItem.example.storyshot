@@ -133,6 +133,7 @@ exports[`Storyshots TabItem API 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -218,6 +219,7 @@ exports[`Storyshots TabItem API 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -373,6 +375,7 @@ exports[`Storyshots TabItem With color props 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -458,6 +461,7 @@ exports[`Storyshots TabItem With color props 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -592,6 +596,7 @@ exports[`Storyshots TabItem With state 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -678,6 +683,7 @@ exports[`Storyshots TabItem With state 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -764,6 +770,7 @@ exports[`Storyshots TabItem With state 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

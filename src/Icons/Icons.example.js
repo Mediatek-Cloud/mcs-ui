@@ -34,16 +34,18 @@ storiesOf('Icons', module).add(
   'List',
   () => (
     <div>
-      {Object.keys(Components).map(name => {
-        const Component = Components[name];
-        return (
-          <IconWrapper key={name}>
-            <pre>{name}</pre>
-            {/* $FlowFixMe */}
-            <Component />
-          </IconWrapper>
-        );
-      })}
+      {Object.keys(Components)
+        .filter(name => name.startsWith('Icon'))
+        .map(name => {
+          const Component = Components[name];
+          return (
+            <IconWrapper key={name}>
+              <pre>{name}</pre>
+              {/* $FlowFixMe */}
+              <Component />
+            </IconWrapper>
+          );
+        })}
     </div>
   ),
   {

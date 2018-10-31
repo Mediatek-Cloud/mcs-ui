@@ -119,6 +119,7 @@ exports[`Storyshots MenuItem API for MenuItem 1`] = `
         "render": [Function],
         "styledComponentId": "MenuItem-mycuic-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

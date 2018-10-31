@@ -298,6 +298,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
           "render": [Function],
           "styledComponentId": "InputMultiSelect__StyledInputOrder-sc-7h2yc1-0",
           "target": [Function],
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
           Symbol(Symbol.hasInstance): [Function],
@@ -484,6 +485,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-z5p25e-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -527,6 +529,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -557,6 +560,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -620,6 +624,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -666,6 +671,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -740,6 +746,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -770,6 +777,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -833,6 +841,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -879,6 +888,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -953,6 +963,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -983,6 +994,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -1046,6 +1058,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -1092,6 +1105,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -1149,6 +1163,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1179,6 +1194,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -1242,6 +1258,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -1288,6 +1305,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -1345,6 +1363,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1375,6 +1394,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -1438,6 +1458,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -1484,6 +1505,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -1541,6 +1563,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1571,6 +1594,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -1634,6 +1658,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -1680,6 +1705,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -1737,6 +1763,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1767,6 +1794,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -1830,6 +1858,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -1876,6 +1905,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -1933,6 +1963,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1963,6 +1994,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -2026,6 +2058,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -2072,6 +2105,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -2129,6 +2163,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2159,6 +2194,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -2222,6 +2258,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -2268,6 +2305,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -2325,6 +2363,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2355,6 +2394,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -2418,6 +2458,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -2464,6 +2505,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -2521,6 +2563,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2551,6 +2594,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -2614,6 +2658,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -2660,6 +2705,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -2717,6 +2763,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2747,6 +2794,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -2810,6 +2858,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -2856,6 +2905,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -2913,6 +2963,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                           "render": [Function],
                           "styledComponentId": "styled-components__Center-z5p25e-1",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2943,6 +2994,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                 "render": [Function],
                                 "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                 "target": "div",
+                                "toString": [Function],
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -3006,6 +3058,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                         "target": "div",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -3052,6 +3105,7 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                               "render": [Function],
                                               "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                               "target": "div",
+                                              "toString": [Function],
                                               "warnTooManyClasses": [Function],
                                               "withComponent": [Function],
                                             }
@@ -3334,6 +3388,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
             "render": [Function],
             "styledComponentId": "InputMultiSelect__StyledInputOrder-sc-7h2yc1-0",
             "target": [Function],
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
             Symbol(Symbol.hasInstance): [Function],
@@ -3511,6 +3566,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Container-z5p25e-0",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -3554,6 +3610,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -3584,6 +3641,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -3647,6 +3705,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -3693,6 +3752,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -3750,6 +3810,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -3780,6 +3841,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -3843,6 +3905,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -3889,6 +3952,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -3946,6 +4010,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -3976,6 +4041,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -4039,6 +4105,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -4085,6 +4152,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -4142,6 +4210,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4172,6 +4241,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -4235,6 +4305,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -4281,6 +4352,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -4338,6 +4410,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4368,6 +4441,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -4431,6 +4505,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -4477,6 +4552,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -4534,6 +4610,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4564,6 +4641,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -4627,6 +4705,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -4673,6 +4752,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -4730,6 +4810,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4760,6 +4841,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -4823,6 +4905,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -4869,6 +4952,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -4926,6 +5010,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4956,6 +5041,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5019,6 +5105,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -5065,6 +5152,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -5122,6 +5210,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -5152,6 +5241,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5215,6 +5305,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -5261,6 +5352,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -5318,6 +5410,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -5348,6 +5441,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5411,6 +5505,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -5457,6 +5552,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -5514,6 +5610,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -5544,6 +5641,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5607,6 +5705,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -5653,6 +5752,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -5710,6 +5810,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -5740,6 +5841,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5803,6 +5905,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -5849,6 +5952,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -5906,6 +6010,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -5936,6 +6041,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -5999,6 +6105,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -6045,6 +6152,7 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -6324,6 +6432,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
             "render": [Function],
             "styledComponentId": "InputMultiSelect__StyledInputOrder-sc-7h2yc1-0",
             "target": [Function],
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
             Symbol(Symbol.hasInstance): [Function],
@@ -6500,6 +6609,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Container-z5p25e-0",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -6543,6 +6653,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -6573,6 +6684,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -6636,6 +6748,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -6682,6 +6795,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -6739,6 +6853,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -6769,6 +6884,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -6832,6 +6948,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -6878,6 +6995,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -6935,6 +7053,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -6965,6 +7084,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -7028,6 +7148,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -7074,6 +7195,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -7131,6 +7253,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7161,6 +7284,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -7224,6 +7348,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -7270,6 +7395,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -7327,6 +7453,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7357,6 +7484,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -7420,6 +7548,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -7466,6 +7595,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -7523,6 +7653,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7553,6 +7684,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -7616,6 +7748,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -7662,6 +7795,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -7719,6 +7853,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7749,6 +7884,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -7812,6 +7948,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -7858,6 +7995,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -7915,6 +8053,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7945,6 +8084,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8008,6 +8148,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -8054,6 +8195,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -8111,6 +8253,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8141,6 +8284,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8204,6 +8348,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -8250,6 +8395,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -8307,6 +8453,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8337,6 +8484,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8400,6 +8548,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -8446,6 +8595,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -8503,6 +8653,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8533,6 +8684,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8596,6 +8748,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -8642,6 +8795,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -8699,6 +8853,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8729,6 +8884,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8792,6 +8948,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -8838,6 +8995,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -8895,6 +9053,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__Center-z5p25e-1",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8925,6 +9084,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -8988,6 +9148,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                           "target": "div",
+                                          "toString": [Function],
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -9034,6 +9195,7 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                 "render": [Function],
                                                 "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                                 "target": "div",
+                                                "toString": [Function],
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }

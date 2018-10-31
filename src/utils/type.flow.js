@@ -34,16 +34,7 @@ export type Kind = 'default' | 'primary' | 'success' | 'error' | 'warning';
 export type Size = 'small' | 'normal';
 export type Theme = {
   color: {
-    black: string,
-    grayDark: string,
-    grayBase: string,
-    grayLight: string,
-    white: string,
-    default: string,
-    primary: string,
-    success: string,
-    error: string,
-    warning: string,
+    [Color]: string,
   },
   base: {
     bodyBackgroundColor: string,

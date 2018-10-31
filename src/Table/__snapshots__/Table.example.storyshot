@@ -126,6 +126,7 @@ exports[`Storyshots Table API 1`] = `
         "render": [Function],
         "styledComponentId": "Table-e6uimp-0",
         "target": "table",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -197,6 +198,7 @@ exports[`Storyshots Table API 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
                     "target": "th",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -256,6 +258,7 @@ exports[`Storyshots Table API 1`] = `
                               "render": [Function],
                               "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
                               "target": "svg",
+                              "toString": [Function],
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }

@@ -35,6 +35,7 @@ exports[`Storyshots Card API 1`] = `
         "render": [Function],
         "styledComponentId": "Card-lighsv-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

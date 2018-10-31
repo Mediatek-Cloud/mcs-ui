@@ -111,6 +111,7 @@ exports[`Storyshots Form Fieldset 1`] = `
         "render": [Function],
         "styledComponentId": "Fieldset-c881qj-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -361,6 +362,7 @@ exports[`Storyshots Form Form 1`] = `
         "render": [Function],
         "styledComponentId": "Form-sc-3bbe89-0",
         "target": "form",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -439,6 +441,7 @@ exports[`Storyshots Form Form 1`] = `
               "render": [Function],
               "styledComponentId": "c1",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -484,6 +487,7 @@ exports[`Storyshots Form Form 1`] = `
                       "render": [Function],
                       "styledComponentId": "Label-pwgi1j-0",
                       "target": "label",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -571,6 +575,7 @@ exports[`Storyshots Form Form 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -649,6 +654,7 @@ exports[`Storyshots Form Form 1`] = `
               "render": [Function],
               "styledComponentId": "c1",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -696,6 +702,7 @@ exports[`Storyshots Form Form 1`] = `
                     "render": [Function],
                     "styledComponentId": "Label-pwgi1j-0",
                     "target": "label",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -787,6 +794,7 @@ exports[`Storyshots Form Form 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -852,6 +860,7 @@ exports[`Storyshots Form Form 1`] = `
                           "render": [Function],
                           "styledComponentId": "c7",
                           "target": "p",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -1170,6 +1179,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
         "render": [Function],
         "styledComponentId": "ResponsivePanel-xz3mbp-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -1231,6 +1241,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                 "render": [Function],
                 "styledComponentId": "Form-sc-3bbe89-0",
                 "target": "form",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1299,6 +1310,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1344,6 +1356,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                               "render": [Function],
                               "styledComponentId": "Label-pwgi1j-0",
                               "target": "label",
+                              "toString": [Function],
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -1431,6 +1444,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                               "render": [Function],
                               "styledComponentId": "Input-a7ignf-0",
                               "target": "input",
+                              "toString": [Function],
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -1509,6 +1523,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1556,6 +1571,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                             "render": [Function],
                             "styledComponentId": "Label-pwgi1j-0",
                             "target": "label",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -1647,6 +1663,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                               "render": [Function],
                               "styledComponentId": "Input-a7ignf-0",
                               "target": "input",
+                              "toString": [Function],
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -1712,6 +1729,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "c8",
                                   "target": "p",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }

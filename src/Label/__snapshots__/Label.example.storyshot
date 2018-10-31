@@ -42,6 +42,7 @@ exports[`Storyshots Label API 1`] = `
         "render": [Function],
         "styledComponentId": "Label-pwgi1j-0",
         "target": "label",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

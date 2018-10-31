@@ -49,6 +49,7 @@ exports[`Storyshots Rotate API 1`] = `
         "render": [Function],
         "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -95,6 +96,7 @@ exports[`Storyshots Rotate API 1`] = `
               "render": [Function],
               "styledComponentId": "Rotate-sc-7d7mt1-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -173,6 +175,7 @@ exports[`Storyshots Rotate With active props 1`] = `
         "render": [Function],
         "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -219,6 +222,7 @@ exports[`Storyshots Rotate With active props 1`] = `
               "render": [Function],
               "styledComponentId": "Rotate-sc-7d7mt1-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -298,6 +302,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
           "render": [Function],
           "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -345,6 +350,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
                 "render": [Function],
                 "styledComponentId": "Rotate-sc-7d7mt1-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -427,6 +433,7 @@ exports[`Storyshots Rotate With state 1`] = `
           "render": [Function],
           "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -474,6 +481,7 @@ exports[`Storyshots Rotate With state 1`] = `
                 "render": [Function],
                 "styledComponentId": "Rotate-sc-7d7mt1-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }

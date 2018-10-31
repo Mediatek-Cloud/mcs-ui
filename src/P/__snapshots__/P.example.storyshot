@@ -48,6 +48,7 @@ exports[`Storyshots P API 1`] = `
         "render": [Function],
         "styledComponentId": "c0",
         "target": "p",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -114,6 +115,7 @@ exports[`Storyshots P Nested children with div 1`] = `
         "render": [Function],
         "styledComponentId": "c0",
         "target": "p",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -235,6 +237,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -284,6 +287,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -333,6 +337,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -382,6 +387,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -431,6 +437,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -480,6 +487,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -529,6 +537,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -578,6 +587,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -627,6 +637,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -676,6 +687,7 @@ exports[`Storyshots P With color props 1`] = `
           "render": [Function],
           "styledComponentId": "c0",
           "target": "p",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

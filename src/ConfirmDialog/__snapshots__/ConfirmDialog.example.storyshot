@@ -523,6 +523,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                             "render": [Function],
                             "styledComponentId": "ResponsivePanel-xz3mbp-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -576,6 +577,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Content-sc-1028n22-0",
                                     "target": "div",
+                                    "toString": [Function],
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
                                   }
@@ -732,6 +734,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                     "render": [Function],
                                     "styledComponentId": "Button-sc-4bw22c-0",
                                     "target": "button",
+                                    "toString": [Function],
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
                                   }
@@ -852,6 +855,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                     "render": [Function],
                                     "styledComponentId": "Button-sc-4bw22c-0",
                                     "target": "button",
+                                    "toString": [Function],
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
                                   }
