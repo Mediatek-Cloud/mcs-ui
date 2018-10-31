@@ -1,0 +1,1154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Switch API 1`] = `
+.c0 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #999A94;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c0::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 0;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c1 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #69BE28;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c1::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+<div>
+  <Switch
+    checked={false}
+    kind="success"
+  >
+    <StyledComponent
+      checked={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c1",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="success"
+    >
+      <div
+        checked={false}
+        className="c0"
+        kind="success"
+      />
+    </StyledComponent>
+  </Switch>
+  <Switch
+    checked={true}
+    kind="success"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c1",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="success"
+    >
+      <div
+        checked={true}
+        className="c1"
+        kind="success"
+      />
+    </StyledComponent>
+  </Switch>
+</div>
+`;
+
+exports[`Storyshots Switch Overriding style 1`] = `
+.c0 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #999A94;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  background-color: aliceblue;
+}
+
+.c0::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 0;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c0::after {
+  background-color: cornflowerblue;
+}
+
+<WithStateComponent>
+  <Switchexample__StyledSwitch
+    checked={false}
+    kind="success"
+    onClick={[Function]}
+  >
+    <StyledComponent
+      checked={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switchexample__StyledSwitch-sc-1ju152o-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+              "
+    background-color: ",
+              [Function],
+              ";
+
+    &::after {
+      background-color: ",
+              [Function],
+              ";
+    }
+  ",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switchexample__StyledSwitch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switchexample__StyledSwitch-sc-1ju152o-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="success"
+      onClick={[Function]}
+    >
+      <div
+        checked={false}
+        className="c0"
+        kind="success"
+        onClick={[Function]}
+      />
+    </StyledComponent>
+  </Switchexample__StyledSwitch>
+</WithStateComponent>
+`;
+
+exports[`Storyshots Switch Stateful switch 1`] = `
+.c0 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #999A94;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c0::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 0;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+<WithStateComponent>
+  <Switch
+    checked={false}
+    kind="success"
+    onClick={[Function]}
+  >
+    <StyledComponent
+      checked={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="success"
+      onClick={[Function]}
+    >
+      <div
+        checked={false}
+        className="c0"
+        kind="success"
+        onClick={[Function]}
+      />
+    </StyledComponent>
+  </Switch>
+</WithStateComponent>
+`;
+
+exports[`Storyshots Switch With kind props 1`] = `
+.c2 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #69BE28;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c2::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c0 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #FAFAFA;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c0::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c1 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #00A1DE;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c1::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c3 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #F5364E;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c3::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.c4 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #F39A1E;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c4::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 32px;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+<div>
+  <Switch
+    checked={true}
+    key="default"
+    kind="default"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="default"
+    >
+      <div
+        checked={true}
+        className="c0"
+        kind="default"
+      />
+    </StyledComponent>
+  </Switch>
+  <Switch
+    checked={true}
+    key="primary"
+    kind="primary"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="primary"
+    >
+      <div
+        checked={true}
+        className="c1"
+        kind="primary"
+      />
+    </StyledComponent>
+  </Switch>
+  <Switch
+    checked={true}
+    key="success"
+    kind="success"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="success"
+    >
+      <div
+        checked={true}
+        className="c2"
+        kind="success"
+      />
+    </StyledComponent>
+  </Switch>
+  <Switch
+    checked={true}
+    key="error"
+    kind="error"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="error"
+    >
+      <div
+        checked={true}
+        className="c3"
+        kind="error"
+      />
+    </StyledComponent>
+  </Switch>
+  <Switch
+    checked={true}
+    key="warning"
+    kind="warning"
+  >
+    <StyledComponent
+      checked={true}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switch-sc-1gxrito-0",
+            "isStatic": false,
+            "lastClassName": "c4",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switch-sc-1gxrito-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="warning"
+    >
+      <div
+        checked={true}
+        className="c4"
+        kind="warning"
+      />
+    </StyledComponent>
+  </Switch>
+</div>
+`;
+
+exports[`Storyshots Switch With scaling 1`] = `
+.c0 {
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  cursor: pointer;
+  background-color: #999A94;
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: scale(0.48);
+  -ms-transform: scale(0.48);
+  transform: scale(0.48);
+}
+
+.c0::after {
+  content: ' ';
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.17);
+  top: 3px;
+  left: 0;
+  -webkit-transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  transition: left cubic-bezier(0.47,0,0.75,0.72) 0.2s;
+  margin: 0 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+<WithStateComponent
+  kind="primary"
+>
+  <Switchexample__ScaledSwitch
+    checked={false}
+    kind="primary"
+    onClick={[Function]}
+  >
+    <StyledComponent
+      checked={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": undefined,
+          "componentStyle": ComponentStyle {
+            "componentId": "Switchexample__ScaledSwitch-sc-1ju152o-1",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  position: relative;
+  height: 50px;
+  width: 82px;
+  box-sizing: border-box;
+  border-radius: 24px;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+  cursor: pointer;
+  background-color: ",
+              [Function],
+              ";
+  transform-origin: 0 0;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: ",
+              [Function],
+              ";
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.17);
+    top: 3px;
+    left: ",
+              [Function],
+              ";
+    transition: left cubic-bezier(0.47, 0, 0.75, 0.72) 0.2s;
+    margin: 0 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+",
+              "
+    transform: scale(0.48);
+  ",
+            ],
+          },
+          "defaultProps": Object {
+            "checked": false,
+            "kind": "success",
+          },
+          "displayName": "Switchexample__ScaledSwitch",
+          "propTypes": Object {
+            "checked": [Function],
+            "kind": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "Switchexample__ScaledSwitch-sc-1ju152o-1",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="primary"
+      onClick={[Function]}
+    >
+      <div
+        checked={false}
+        className="c0"
+        kind="primary"
+        onClick={[Function]}
+      />
+    </StyledComponent>
+  </Switchexample__ScaledSwitch>
+</WithStateComponent>
+`;
