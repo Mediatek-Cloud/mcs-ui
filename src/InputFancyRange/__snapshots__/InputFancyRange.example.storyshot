@@ -249,6 +249,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
         "render": [Function],
         "styledComponentId": "InputFancyRange-sc-1x3x53l-0",
         "target": "input",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -523,6 +524,7 @@ exports[`Storyshots InputFancyRange with state 1`] = `
           "render": [Function],
           "styledComponentId": "InputFancyRange-sc-1x3x53l-0",
           "target": "input",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

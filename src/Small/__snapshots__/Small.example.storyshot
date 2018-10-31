@@ -27,6 +27,7 @@ exports[`Storyshots Small API 1`] = `
         "render": [Function],
         "styledComponentId": "Small-sc-275w8q-0",
         "target": "small",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -98,6 +99,7 @@ exports[`Storyshots Small With color 1`] = `
         "render": [Function],
         "styledComponentId": "c0",
         "target": "p",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -131,6 +133,7 @@ exports[`Storyshots Small With color 1`] = `
               "render": [Function],
               "styledComponentId": "Small-sc-275w8q-0",
               "target": "small",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -202,6 +205,7 @@ exports[`Storyshots Small Within <P> 1`] = `
         "render": [Function],
         "styledComponentId": "c0",
         "target": "p",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -234,6 +238,7 @@ exports[`Storyshots Small Within <P> 1`] = `
               "render": [Function],
               "styledComponentId": "Small-sc-275w8q-0",
               "target": "small",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

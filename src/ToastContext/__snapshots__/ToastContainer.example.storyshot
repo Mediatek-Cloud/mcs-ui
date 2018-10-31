@@ -42,6 +42,7 @@ exports[`Storyshots ToastContainer API 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -75,6 +76,7 @@ exports[`Storyshots ToastContainer API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -193,6 +195,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -226,6 +229,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -384,6 +388,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -438,6 +443,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                         "target": "p",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -578,6 +584,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -611,6 +618,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -774,6 +782,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -828,6 +837,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                         "target": "p",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }
@@ -968,6 +978,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
+                                  "toString": [Function],
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
                                 }
@@ -1022,6 +1033,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                         "render": [Function],
                                         "styledComponentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                         "target": "p",
+                                        "toString": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
                                       }

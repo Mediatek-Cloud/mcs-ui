@@ -34,6 +34,7 @@ exports[`Storyshots Hr API 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
           "target": "hr",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -98,6 +99,7 @@ exports[`Storyshots Hr With children 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1kwc7os-2",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -131,6 +133,7 @@ exports[`Storyshots Hr With children 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -168,6 +171,7 @@ exports[`Storyshots Hr With children 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Content-sc-1kwc7os-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -205,6 +209,7 @@ exports[`Storyshots Hr With children 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }

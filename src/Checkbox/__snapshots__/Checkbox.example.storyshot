@@ -153,6 +153,7 @@ exports[`Storyshots Checkbox API 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Container-sc-1jb6672-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -199,6 +200,7 @@ exports[`Storyshots Checkbox API 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -286,6 +288,7 @@ exports[`Storyshots Checkbox API 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Container-sc-1jb6672-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -332,6 +335,7 @@ exports[`Storyshots Checkbox API 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -624,6 +628,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -672,6 +677,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -766,6 +772,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -814,6 +821,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -908,6 +916,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -956,6 +965,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1050,6 +1060,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1098,6 +1109,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1192,6 +1204,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1240,6 +1253,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1334,6 +1348,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1382,6 +1397,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1476,6 +1492,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1524,6 +1541,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1752,6 +1770,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1800,6 +1819,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -1894,6 +1914,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1942,6 +1963,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -2036,6 +2058,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2084,6 +2107,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -2178,6 +2202,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2226,6 +2251,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -2320,6 +2346,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2368,6 +2395,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -2511,6 +2539,7 @@ exports[`Storyshots Checkbox With render props 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Container-sc-1jb6672-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -2559,6 +2588,7 @@ exports[`Storyshots Checkbox With render props 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -2697,6 +2727,7 @@ exports[`Storyshots Checkbox With size props 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Container-sc-1jb6672-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -2745,6 +2776,7 @@ exports[`Storyshots Checkbox With size props 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -2884,6 +2916,7 @@ exports[`Storyshots Checkbox With state 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__Container-sc-1jb6672-0",
             "target": "div",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -2932,6 +2965,7 @@ exports[`Storyshots Checkbox With state 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                   "target": "div",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }

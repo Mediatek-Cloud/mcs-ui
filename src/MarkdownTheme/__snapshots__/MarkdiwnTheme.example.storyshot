@@ -757,6 +757,7 @@ exports[`Storyshots MarkdownTheme API 1`] = `
         "render": [Function],
         "styledComponentId": "MarkdownTheme-sc-1bmwnnu-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

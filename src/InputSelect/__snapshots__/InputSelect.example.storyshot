@@ -266,6 +266,7 @@ exports[`Storyshots InputSelect API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -505,6 +506,7 @@ exports[`Storyshots InputSelect API 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -645,6 +647,7 @@ exports[`Storyshots InputSelect API 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -700,6 +703,7 @@ exports[`Storyshots InputSelect API 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -1096,6 +1100,7 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1335,6 +1340,7 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1475,6 +1481,7 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -1530,6 +1537,7 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -3007,6 +3015,7 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
               "render": [Function],
               "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -3246,6 +3255,7 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
                     "render": [Function],
                     "styledComponentId": "Input-a7ignf-0",
                     "target": "input",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -3386,6 +3396,7 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
                     "render": [Function],
                     "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                     "target": "button",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -3441,6 +3452,7 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
                           "render": [Function],
                           "styledComponentId": "Rotate-sc-7d7mt1-0",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -3849,6 +3861,7 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -4090,6 +4103,7 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -4231,6 +4245,7 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -4286,6 +4301,7 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -4680,6 +4696,7 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
               "render": [Function],
               "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -4919,6 +4936,7 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
                     "render": [Function],
                     "styledComponentId": "Input-a7ignf-0",
                     "target": "input",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -5059,6 +5077,7 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
                     "render": [Function],
                     "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                     "target": "button",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -5114,6 +5133,7 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
                           "render": [Function],
                           "styledComponentId": "Rotate-sc-7d7mt1-0",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -5523,6 +5543,7 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -5767,6 +5788,7 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -5908,6 +5930,7 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -5963,6 +5986,7 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -6372,6 +6396,7 @@ exports[`Storyshots InputSelect With focus props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -6611,6 +6636,7 @@ exports[`Storyshots InputSelect With focus props 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -6751,6 +6777,7 @@ exports[`Storyshots InputSelect With focus props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -6806,6 +6833,7 @@ exports[`Storyshots InputSelect With focus props 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -7212,6 +7240,7 @@ exports[`Storyshots InputSelect With kind props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -7451,6 +7480,7 @@ exports[`Storyshots InputSelect With kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -7591,6 +7621,7 @@ exports[`Storyshots InputSelect With kind props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -7646,6 +7677,7 @@ exports[`Storyshots InputSelect With kind props 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8054,6 +8086,7 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -8293,6 +8326,7 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -8433,6 +8467,7 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -8488,6 +8523,7 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -8892,6 +8928,7 @@ exports[`Storyshots InputSelect With state 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-rj6hz5-1",
                 "target": "div",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -9131,6 +9168,7 @@ exports[`Storyshots InputSelect With state 1`] = `
                       "render": [Function],
                       "styledComponentId": "Input-a7ignf-0",
                       "target": "input",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -9271,6 +9309,7 @@ exports[`Storyshots InputSelect With state 1`] = `
                       "render": [Function],
                       "styledComponentId": "styled-components__StyledButton-sc-1vavxcc-3",
                       "target": "button",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -9326,6 +9365,7 @@ exports[`Storyshots InputSelect With state 1`] = `
                             "render": [Function],
                             "styledComponentId": "Rotate-sc-7d7mt1-0",
                             "target": "div",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }

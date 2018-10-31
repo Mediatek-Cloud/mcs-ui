@@ -48,6 +48,7 @@ exports[`Storyshots Menu API for Menu 1`] = `
         "render": [Function],
         "styledComponentId": "Menu-sc-1eizce1-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -205,6 +206,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
         "render": [Function],
         "styledComponentId": "Menuexample__StyledMenu-sc-10gs01o-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -293,6 +295,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -387,6 +390,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -481,6 +485,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -528,6 +533,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                     "render": [Function],
                     "styledComponentId": "Heading-sc-1ol6ekh-0",
                     "target": [Function],
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                     Symbol(Symbol.hasInstance): [Function],
@@ -630,6 +636,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -671,6 +678,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                     "render": [Function],
                     "styledComponentId": "c3",
                     "target": "p",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -766,6 +774,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -810,6 +819,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                     "render": [Function],
                     "styledComponentId": "c3",
                     "target": "p",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -906,6 +916,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -961,6 +972,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                     "render": [Function],
                     "styledComponentId": "A-sc-1bkdbcq-0",
                     "target": "a",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -1057,6 +1069,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1088,6 +1101,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                     "render": [Function],
                     "styledComponentId": "B-sc-1ocntpk-0",
                     "target": "b",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -1183,6 +1197,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1289,6 +1304,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1396,6 +1412,7 @@ exports[`Storyshots Menu Min width 1`] = `
         "render": [Function],
         "styledComponentId": "Menu-sc-1eizce1-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -1484,6 +1501,7 @@ exports[`Storyshots Menu Min width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1578,6 +1596,7 @@ exports[`Storyshots Menu Min width 1`] = `
               "render": [Function],
               "styledComponentId": "MenuItem-mycuic-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

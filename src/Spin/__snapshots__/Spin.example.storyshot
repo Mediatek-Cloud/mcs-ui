@@ -53,6 +53,7 @@ exports[`Storyshots Spin API 1`] = `
         "render": [Function],
         "styledComponentId": "Spin-sc-1vw5iwo-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -82,6 +83,7 @@ exports[`Storyshots Spin API 1`] = `
               "render": [Function],
               "styledComponentId": "Spinexample__ContentWrapper-sc-1nxetrv-0",
               "target": "div",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

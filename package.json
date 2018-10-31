@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "d3-color": "^1.2.3",
-    "date-fns": "^2.0.0-alpha.22",
+    "date-fns": "^2.0.0-alpha.25",
     "debug": "^4.1.0",
     "echarts": "^4.2.0-rc.2",
     "echarts-for-react": "^2.0.15-beta.0",
@@ -34,7 +34,7 @@
     "ramda": "^0.25.0",
     "react-dnd-dropzone": "^1.0.0",
     "react-overlay-pack": "^3.0.1",
-    "react-spring": "^6.0.0",
+    "react-spring": "^6.1.4",
     "react-topbar-progress-indicator": "^2.0.0",
     "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0"
@@ -75,7 +75,7 @@
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-plugin-prettier": "3.0.0",
     "eslint-plugin-react": "7.11.1",
-    "flow-bin": "0.84.0",
+    "flow-bin": "0.85.0",
     "flow-copy-source": "2.0.2",
     "flow-coverage-report": "0.6.0",
     "github-changes": "1.1.2",
@@ -83,14 +83,14 @@
     "jest": "23.6.0",
     "jest-specific-snapshot": "1.0.0",
     "jest-styled-components": "6.2.2",
-    "lint-staged": "8.0.2",
+    "lint-staged": "8.0.3",
     "nwb": "0.23.0",
     "polished": "2.3.0",
     "prettier": "1.14.3",
     "prismjs": "1.15.0",
     "react": "16.6.0",
     "react-dom": "16.6.0",
-    "styled-components": "4.0.2"
+    "styled-components": "4.0.3"
   },
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "homepage": "https://github.com/Mediatek-Cloud/mcs-ui#readme",
@@ -172,7 +172,7 @@
     "reportTypes": [
       "text"
     ],
-    "threshold": 91
+    "threshold": 92
   },
   "eslintConfig": {
     "parser": "babel-eslint",

@@ -7,11 +7,13 @@ import { Item } from './styled-components';
 
 export type Props = {
   value: any,
+  active: boolean,
   onClick?: (e: any, value: any) => void,
   color?: Color,
 };
 export type InnerProps = {
   value: any,
+  active: boolean,
   onClick: (e: any, value: any) => void,
   color: Color,
 };

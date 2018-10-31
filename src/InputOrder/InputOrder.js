@@ -14,6 +14,18 @@ export type Props = {
   value: Array<Value>,
   onChange: (Array<Value>) => Promise<void> | void,
   items: Array<ItemProps>,
+  height?: number,
+  placeholder?: string,
+  kind?: Kind,
+  itemRenderer?: (
+    item: ItemProps,
+    props: { value: Array<Value>, kind?: Kind },
+  ) => React.Node,
+};
+export type InnerProps = {
+  value: Array<Value>,
+  onChange: (Array<Value>) => Promise<void> | void,
+  items: Array<ItemProps>,
   height: number,
   placeholder?: string,
   kind: Kind,
@@ -23,7 +35,7 @@ export type Props = {
   ) => React.Node,
 };
 
-class InputOrder extends React.Component<Props> {
+class InputOrder extends React.Component<InnerProps> {
   static defaultProps = {
     height: HEIGHT,
     kind: 'primary',
