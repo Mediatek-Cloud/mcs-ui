@@ -103,6 +103,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
         "render": [Function],
         "styledComponentId": "InputRadioGroup-sc-1brt9al-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -151,6 +152,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                 "target": "label",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -185,6 +187,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "svg",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -232,6 +235,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                             "target": "circle",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -285,6 +289,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                             "target": "circle",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -349,6 +354,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                 "target": "label",
+                "toString": [Function],
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -383,6 +389,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "svg",
+                      "toString": [Function],
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
                     }
@@ -430,6 +437,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                             "target": "circle",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }
@@ -483,6 +491,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                             "target": "circle",
+                            "toString": [Function],
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
                           }

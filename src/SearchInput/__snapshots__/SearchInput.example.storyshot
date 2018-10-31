@@ -112,6 +112,7 @@ exports[`Storyshots SearchInput API 1`] = `
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-hla0ih-0",
             "target": "label",
+            "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -182,6 +183,7 @@ exports[`Storyshots SearchInput API 1`] = `
                   "render": [Function],
                   "styledComponentId": "styled-components__StyledInput-hla0ih-1",
                   "target": "input",
+                  "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }

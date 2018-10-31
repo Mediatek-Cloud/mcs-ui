@@ -57,6 +57,7 @@ exports[`Storyshots Panel API 1`] = `
         "render": [Function],
         "styledComponentId": "Panel-sc-8vfb46-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

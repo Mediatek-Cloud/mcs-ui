@@ -117,6 +117,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
                     "render": [Function],
                     "styledComponentId": "Container-sc-2zzuhz-0",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -327,6 +328,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                     "render": [Function],
                     "styledComponentId": "Container-sc-2zzuhz-0",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -432,6 +434,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                           "render": [Function],
                           "styledComponentId": "c1",
                           "target": "p",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -616,6 +619,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                     "render": [Function],
                     "styledComponentId": "Container-sc-2zzuhz-0",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -678,6 +682,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                           "render": [Function],
                           "styledComponentId": "LoadingWrapper-f6hqxt-0",
                           "target": "div",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -803,6 +808,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                           "render": [Function],
                           "styledComponentId": "c2",
                           "target": "p",
+                          "toString": [Function],
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -951,6 +957,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
                     "render": [Function],
                     "styledComponentId": "Container-sc-2zzuhz-0",
                     "target": "div",
+                    "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }

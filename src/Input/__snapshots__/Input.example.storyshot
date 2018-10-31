@@ -114,6 +114,7 @@ exports[`Storyshots Input API 1`] = `
         "render": [Function],
         "styledComponentId": "Input-a7ignf-0",
         "target": "input",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -245,6 +246,7 @@ exports[`Storyshots Input With focus props 1`] = `
         "render": [Function],
         "styledComponentId": "Input-a7ignf-0",
         "target": "input",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -496,6 +498,7 @@ exports[`Storyshots Input With kind props 1`] = `
         "render": [Function],
         "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -578,6 +581,7 @@ exports[`Storyshots Input With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -666,6 +670,7 @@ exports[`Storyshots Input With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -754,6 +759,7 @@ exports[`Storyshots Input With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -842,6 +848,7 @@ exports[`Storyshots Input With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -930,6 +937,7 @@ exports[`Storyshots Input With kind props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1020,6 +1028,7 @@ exports[`Storyshots Input With type props 1`] = `
         "render": [Function],
         "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }
@@ -1103,6 +1112,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1194,6 +1204,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1285,6 +1296,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1376,6 +1388,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1467,6 +1480,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1558,6 +1572,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1649,6 +1664,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1740,6 +1756,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1831,6 +1848,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -1922,6 +1940,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2013,6 +2032,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2104,6 +2124,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2195,6 +2216,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2286,6 +2308,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }
@@ -2377,6 +2400,7 @@ exports[`Storyshots Input With type props 1`] = `
               "render": [Function],
               "styledComponentId": "Input-a7ignf-0",
               "target": "input",
+              "toString": [Function],
               "warnTooManyClasses": [Function],
               "withComponent": [Function],
             }

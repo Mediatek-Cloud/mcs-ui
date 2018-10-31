@@ -42,6 +42,7 @@ exports[`Storyshots Popover With position 1`] = `
         "render": [Function],
         "styledComponentId": "Popoverexample__Wrapper-sc-5lgfkf-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

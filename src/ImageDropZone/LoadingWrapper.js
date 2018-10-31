@@ -1,10 +1,11 @@
 // @flow
+import * as React from 'react';
 import styled from 'styled-components';
 import Spin from '../Spin';
-import { type Props as ImageDropzoneProps } from './ImageDropzone';
+import { type Props as SpinProps } from '../Spin/Spin';
 import { type ThemeProps } from '../utils/type.flow';
 
-const LoadingWrapper: React.ComponentType<ImageDropzoneProps> = styled(Spin)`
+const LoadingWrapper: React.ComponentType<SpinProps> = styled(Spin)`
   position: absolute;
   display: flex;
   align-items: center;

@@ -7,16 +7,16 @@ import { type InnerProps } from './Button';
 const SMALL: Size = 'small';
 const DEFAULT: Kind = 'default';
 
-export const width = R.cond([
+export const width = R.cond<InnerProps, string>([
   [R.propEq('block', true), R.always('100%')],
   [
     R.anyPass([R.propEq('square', true), R.propEq('round', true)]),
-    R.path(['theme', 'height', 'normal']),
+    ({ theme }) => theme.height.normal,
   ],
   [R.T, R.always('initial')],
 ]);
 
-export const minWidth = R.cond([
+export const minWidth = R.cond<InnerProps, string>([
   [
     R.anyPass([
       R.propEq('block', true),
@@ -29,12 +29,12 @@ export const minWidth = R.cond([
   [R.T, R.always('80px')],
 ]);
 
-export const borderRadius = R.cond([
+export const borderRadius = R.cond<InnerProps, string>([
   [R.propEq('round', true), R.always('50%')],
   [R.T, R.always('3px')],
 ]);
 
-export const padding = R.cond([
+export const padding = R.cond<InnerProps, string>([
   [
     R.anyPass([R.propEq('square', true), R.propEq('round', true)]),
     R.always('0'),
@@ -43,39 +43,33 @@ export const padding = R.cond([
   [R.T, R.always('6px 15px')],
 ]);
 
-export const fontSize = R.cond([
-  [R.propEq('size', SMALL), R.path(['theme', 'fontSize', 'small'])],
-  [R.T, R.path(['theme', 'fontSize', 'p'])],
+export const fontSize = R.cond<InnerProps, string>([
+  [R.propEq('size', SMALL), ({ theme }) => theme.fontSize.small],
+  [R.T, ({ theme }) => theme.fontSize.p],
 ]);
 
-export const color = R.cond([
-  [R.propEq('kind', DEFAULT), R.path(['theme', 'color', 'grayDark'])],
-  [R.T, R.path(['theme', 'color', 'white'])],
+export const color = R.cond<InnerProps, string>([
+  [R.propEq('kind', DEFAULT), ({ theme }) => theme.color.grayDark],
+  [R.T, ({ theme }) => theme.color.white],
 ]);
 
-export const backgroundColor = R.cond([
-  [
-    R.propEq('active', true),
-    ({ theme, kind }: InnerProps) => darken2(theme.color[kind]),
-  ],
-  [R.propEq('disabled', true), R.path(['theme', 'color', 'grayBase'])],
-  [R.T, ({ theme, kind }: InnerProps) => theme.color[kind]],
+export const backgroundColor = R.cond<InnerProps, string>([
+  [R.propEq('active', true), ({ theme, kind }) => darken2(theme.color[kind])],
+  [R.propEq('disabled', true), ({ theme }) => theme.color.grayBase],
+  [R.T, ({ theme, kind }) => theme.color[kind]],
 ]);
 
-export const hoverBackgroundColor = R.cond([
-  [R.propEq('disabled', true), R.path(['theme', 'color', 'grayBase'])],
-  [R.T, ({ theme, kind }: InnerProps) => darken1(theme.color[kind])],
+export const hoverBackgroundColor = R.cond<InnerProps, string>([
+  [R.propEq('disabled', true), ({ theme }) => theme.color.grayBase],
+  [R.T, ({ theme, kind }) => darken1(theme.color[kind])],
 ]);
 
-export const activeBackgroundColor = R.cond([
-  [R.propEq('disabled', true), R.path(['theme', 'color', 'grayBase'])],
-  [R.T, ({ theme, kind }: InnerProps) => darken2(theme.color[kind])],
+export const activeBackgroundColor = R.cond<InnerProps, string>([
+  [R.propEq('disabled', true), ({ theme }) => theme.color.grayBase],
+  [R.T, ({ theme, kind }) => darken2(theme.color[kind])],
 ]);
 
-export const borderColor = R.cond([
-  [
-    R.propEq('disabled', true),
-    ({ theme }: InnerProps) => darken3(theme.color.grayBase),
-  ],
-  [R.T, ({ theme, kind }: InnerProps) => darken3(theme.color[kind])],
+export const borderColor = R.cond<InnerProps, string>([
+  [R.propEq('disabled', true), ({ theme }) => darken3(theme.color.grayBase)],
+  [R.T, ({ theme, kind }) => darken3(theme.color[kind])],
 ]);

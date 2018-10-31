@@ -1,19 +1,13 @@
 // @flow
 import * as R from 'ramda';
-import { type ThemeProps } from '../utils/type.flow';
 import { type InnerProps } from './TabItem';
+import { type ThemeProps } from '../utils/type.flow';
 
-export const mapBorderColorByActive = R.cond([
-  [
-    R.propEq('active', true),
-    ({ theme, color }: InnerProps & ThemeProps) => theme.color[color],
-  ],
+export const mapBorderColorByActive = R.cond<InnerProps & ThemeProps, string>([
+  [R.propEq('active', true), ({ theme, color }) => theme.color[color]],
   [R.T, R.always('transparent')],
 ]);
-export const mapColorByActive = R.cond([
-  [
-    R.propEq('active', true),
-    ({ theme, color }: InnerProps & ThemeProps) => theme.color[color],
-  ],
-  [R.T, R.path(['theme', 'color', 'black'])],
+export const mapColorByActive = R.cond<InnerProps & ThemeProps, string>([
+  [R.propEq('active', true), ({ theme, color }) => theme.color[color]],
+  [R.T, ({ theme }) => theme.color.black],
 ]);

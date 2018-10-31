@@ -44,6 +44,7 @@ exports[`Storyshots Breadcrumb API 1`] = `
         "render": [Function],
         "styledComponentId": "Breadcrumb-sqawcc-0",
         "target": "div",
+        "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
       }

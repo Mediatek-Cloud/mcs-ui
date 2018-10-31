@@ -6,13 +6,11 @@ import InputOrder, {
 } from '../InputOrder/InputOrder';
 import Checkbox from '../Checkbox';
 
-type Props = {
-  value: $PropertyType<InputOrderProps, 'value'>,
-  onChange: $PropertyType<InputOrderProps, 'onChange'>,
-  items: $PropertyType<InputOrderProps, 'items'>,
-};
+type Props = $Diff<InputOrderProps, { itemRenderer: any }>;
 
-const StyledInputOrder = styled(InputOrder)`
+const StyledInputOrder: React.ComponentType<InputOrderProps> = styled<any>(
+  InputOrder,
+)`
   > * {
     margin: 5px 10px;
   }

@@ -52,6 +52,7 @@ exports[`Storyshots Avatar Default - Large 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -134,6 +135,7 @@ exports[`Storyshots Avatar Default 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -217,6 +219,7 @@ exports[`Storyshots Avatar With Url - Large 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -291,6 +294,7 @@ exports[`Storyshots Avatar With Url 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

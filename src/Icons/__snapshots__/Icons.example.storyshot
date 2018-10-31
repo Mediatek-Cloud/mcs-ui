@@ -89,6 +89,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -167,6 +168,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -245,6 +247,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -323,6 +326,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -401,6 +405,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -479,6 +484,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -557,6 +563,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -635,6 +642,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -713,6 +721,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -791,6 +800,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -869,6 +879,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -947,6 +958,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1025,6 +1037,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1103,6 +1116,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1181,6 +1195,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1259,6 +1274,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1337,6 +1353,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1415,6 +1432,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1493,6 +1511,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1571,6 +1590,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1649,6 +1669,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1727,6 +1748,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1805,6 +1827,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1883,6 +1906,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1961,6 +1985,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2039,6 +2064,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2117,6 +2143,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2195,6 +2222,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2273,6 +2301,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2355,6 +2384,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2433,6 +2463,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2511,6 +2542,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2589,6 +2621,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2667,6 +2700,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2745,6 +2779,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2823,6 +2858,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2901,6 +2937,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2979,6 +3016,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3057,6 +3095,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3135,6 +3174,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3213,6 +3253,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3291,6 +3332,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3369,6 +3411,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3447,6 +3490,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3525,6 +3569,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3603,6 +3648,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3681,6 +3727,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3759,6 +3806,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3837,6 +3885,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3915,6 +3964,7 @@ exports[`Storyshots Icons List 1`] = `
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

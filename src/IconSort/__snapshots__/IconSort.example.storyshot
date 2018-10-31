@@ -58,6 +58,7 @@ exports[`Storyshots IconSort API 1`] = `
           "render": [Function],
           "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
           "target": "svg",
+          "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
