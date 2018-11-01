@@ -61,9 +61,11 @@ it('should export es module of HoCs folder', () => {
 });
 
 it('should export es module of Logo folder', () => {
-  const dirnames = R.without([...IGNORES, 'LogoMTK.example.js'])(
-    fs.readdirSync('./src/Logo'),
-  ).map(name => name.replace('.js', ''));
+  const dirnames = R.without([
+    ...IGNORES,
+    'LogoMTK.example.js',
+    'LogoMCS.example.js',
+  ])(fs.readdirSync('./src/Logo')).map(name => name.replace('.js', ''));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
   });

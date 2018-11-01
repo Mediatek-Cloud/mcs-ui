@@ -1,8 +1,8 @@
+# .cache folder produced by storybook https://github.com/storybooks/storybook/issues/4665
+/.cache
 /coverage
-/demo/dist
 /es
 /lib
 /node_modules
-/umd
 npm-debug.log*
 storybook-static
