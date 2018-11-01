@@ -1,18 +1,23 @@
 ## Change Log
 
-### v0.1.12 (2018/10/31 13:11 +00:00)
+### v1.0.0 (2018/11/01 07:34 +00:00)
 
-- [6cae60a](https://github.com/Mediatek-Cloud/mcs-ui/commit/6cae60aa6420f9b032ba14f760dc62e53885497f) 0.1.12 (@evenchange4)
+- [f13fbe6](https://github.com/Mediatek-Cloud/mcs-ui/commit/f13fbe62994561834e1398aae8848846ee546167) 1.0.0 (@liuderchi)
+- [#36](https://github.com/Mediatek-Cloud/mcs-ui/pull/36) feat: Add LogoMCS, PanelIcon, StatusLight, Switch, ToolTip (#36) (@liuderchi)
+
+### v0.1.12 (2018/11/01 07:22 +00:00)
+
 - [#34](https://github.com/Mediatek-Cloud/mcs-ui/pull/34) chore(npm): add missing sideEffects for webpack & add babel-plugin-transform-react-remove-prop-types to reduce bundle size (#34) (@evenchange4)
-- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
+- [e9ab066](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9ab0666c31edf109dbb4b266ece08e3452bb332) 0.1.12 (@evenchange4)
+- [8069532](https://github.com/Mediatek-Cloud/mcs-ui/commit/8069532546ad4cd8c72ac7c21b12aff476dfdc58) docs(CHANGELOG): release 0.1.12 (@evenchange4)
+- [9e09212](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e0921272e8ef83259be4ee0ff4737174eff19de) docs(CHANGELOG): release 0.1.11 (@evenchange4)
 - [#33](https://github.com/Mediatek-Cloud/mcs-ui/pull/33) chore(deps): update storybook monorepo to v4.0.2 (#33) (@renovate[bot])
-- [0906734](https://github.com/Mediatek-Cloud/mcs-ui/commit/09067347c3fe13fbd3c53cbdcfcc1415f465674c) docs(CHANGELOG): release 0.1.11 (@evenchange4)
+- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
 
-### v0.1.11 (2018/10/31 06:20 +00:00)
+### v0.1.11 (2018/11/01 07:22 +00:00)
 
-- [ca6075a](https://github.com/Mediatek-Cloud/mcs-ui/commit/ca6075a5ea269486495690fd3ea8159afad24f19) 0.1.11 (@evenchange4)
-- [0fe7b2f](https://github.com/Mediatek-Cloud/mcs-ui/commit/0fe7b2f2ffab059aefd50b01551821641ecd4f59) chore: upgrade sc and update snapshot (@evenchange4)
-- [fb6e813](https://github.com/Mediatek-Cloud/mcs-ui/commit/fb6e8135ffa89f7471aae71d6e0a62561b326f08) chore(npm): switch nwb to babel cli (@evenchange4)
+- [e9c6780](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9c6780da8399210907ee196862c6f102362029f) 0.1.11 (@evenchange4)
+- [e53d05c](https://github.com/Mediatek-Cloud/mcs-ui/commit/e53d05c163dcba5af20d4165bdb8643a4f6f42fd) chore(npm): switch nwb to babel cli (@evenchange4)
 - [#28](https://github.com/Mediatek-Cloud/mcs-ui/pull/28) feat: Add OrderBox, InputOrder, InputMultiSelect (#28) (@liuderchi)
 - [#27](https://github.com/Mediatek-Cloud/mcs-ui/pull/27) chore(deps): update dependency lint-staged to v8 (#27) (@renovate[bot])
 - [#23](https://github.com/Mediatek-Cloud/mcs-ui/pull/23) chore(deps): update dependency eslint-plugin-jest to v21.26.2 (#23) (@renovate[bot])
