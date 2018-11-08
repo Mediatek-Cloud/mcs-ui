@@ -227,11 +227,9 @@ class PureInputSelect extends React.Component<InnerProps, State> {
             autoComplete="off"
             {...R.omit(['onChange'])(otherProps)}
           />
-          {isOpen &&
-            activeItem &&
-            !filter && (
-              <FakeInputValue defaultValue={itemValueMapper(activeItem)} />
-            )}
+          {isOpen && activeItem && !filter && (
+            <FakeInputValue defaultValue={itemValueMapper(activeItem)} />
+          )}
           <StyledButton
             kind={kind}
             active={focus || isOpen}
