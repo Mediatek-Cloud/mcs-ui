@@ -1,5 +1,20 @@
 ## Change Log
 
+### v1.0.1 (2018/11/08 02:23 +00:00)
+
+- [f571201](https://github.com/Mediatek-Cloud/mcs-ui/commit/f5712015b0cdbb19cd49e129503decb59872a219) 1.0.1 (@evenchange4)
+- [#39](https://github.com/Mediatek-Cloud/mcs-ui/pull/39) chore(deps): update node.js to v11.1.0 (#39) (@renovate[bot])
+- [#45](https://github.com/Mediatek-Cloud/mcs-ui/pull/45) chore(deps): update dependency prettier to v1.15.1 (#45) (@renovate[bot])
+- [#46](https://github.com/Mediatek-Cloud/mcs-ui/pull/46) chore(deps): update react monorepo to v16.6.1 (#46) (@renovate[bot])
+- [#41](https://github.com/Mediatek-Cloud/mcs-ui/pull/41) chore(deps): update storybook monorepo to v4.0.4 (#41) (@renovate[bot])
+- [#47](https://github.com/Mediatek-Cloud/mcs-ui/pull/47) chore(deps): update dependency eslint-plugin-jest to v22 (#47) (@renovate[bot])
+- [#43](https://github.com/Mediatek-Cloud/mcs-ui/pull/43) chore(deps): update babel monorepo to v7.1.5 (#43) (@renovate[bot])
+- [#42](https://github.com/Mediatek-Cloud/mcs-ui/pull/42) chore(deps): update dependency babel-plugin-transform-react-remove-prop-types to v0.4.20 (#42) (@renovate[bot])
+- [#40](https://github.com/Mediatek-Cloud/mcs-ui/pull/40) chore(deps): update dependency eslint-plugin-jest to v21.27.1 (#40) (@renovate[bot])
+- [#38](https://github.com/Mediatek-Cloud/mcs-ui/pull/38) chore(deps): update dependency husky to v1.1.3 (#38) (@renovate[bot])
+- [#37](https://github.com/Mediatek-Cloud/mcs-ui/pull/37) chore(deps): update dependency eslint-plugin-flowtype to v3.2.0 (#37) (@renovate[bot])
+- [96431ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/96431ee210d67455a7e75812ec9de30976baa67c) docs(CHANGELOG): release 1.0.0 (@liuderchi)
+
 ### v1.0.0 (2018/11/01 07:34 +00:00)
 
 - [f13fbe6](https://github.com/Mediatek-Cloud/mcs-ui/commit/f13fbe62994561834e1398aae8848846ee546167) 1.0.0 (@liuderchi)
