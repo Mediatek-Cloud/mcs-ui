@@ -1,11 +1,11 @@
 sudo: false
 language: node_js
 node_js:
-  - "11.0.0"
+  - '11.1.0'
 
 env:
   global:
-    - YARN_VERSION=1.10.1
+    - YARN_VERSION=1.12.3
 
 before_install:
   - export PATH="$HOME/.yarn/bin:$PATH"

@@ -33,8 +33,8 @@ import { theme, Button } from 'mcs-ui';
 
 ## Development
 
-- node 11.0.0
-- yarn 1.10.1
+- node 11.1.0
+- yarn 1.12.3
 - react >= 16
 
 ```bash
