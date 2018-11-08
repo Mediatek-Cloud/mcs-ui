@@ -22,7 +22,7 @@
     "flow": "flow",
     "flow-coverage": "flow-coverage-report",
     "eslint": "eslint ./",
-    "format": "prettier --write '**/*.{js,json,md}' '*.{json,md,js}'",
+    "format": "prettier --write '**/*.{js,json,md,css,yaml,yml}' '*.{js,json,md,css,yaml,yml}'",
     "changelog": "github-changes -o Mediatek-Cloud -r mcs-ui -b master -f ./CHANGELOG.md --order-semver --use-commit-body"
   },
   "dependencies": {
@@ -90,7 +90,7 @@
     "jest-styled-components": "7.0.0-2",
     "lint-staged": "8.0.4",
     "polished": "2.3.0",
-    "prettier": "1.14.3",
+    "prettier": "1.15.1",
     "prismjs": "1.15.0",
     "react": "16.6.1",
     "react-dom": "16.6.1",
@@ -270,7 +270,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,json,md}": [
+    "*.{js,json,md,css,yaml,yml}": [
       "prettier --write",
       "git add"
     ]

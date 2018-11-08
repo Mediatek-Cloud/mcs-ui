@@ -71,12 +71,11 @@ class InputOrder extends React.Component<InnerProps> {
     return (
       <Container height={height} {...R.omit(['onChange'])(otherProps)}>
         {/* Placeholder */}
-        {items.length === 0 &&
-          placeholder && (
-            <div>
-              <P color="grayBase">{placeholder}</P>
-            </div>
-          )}
+        {items.length === 0 && placeholder && (
+          <div>
+            <P color="grayBase">{placeholder}</P>
+          </div>
+        )}
 
         {/* Item list */}
         {items.length > 0 &&
