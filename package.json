@@ -92,8 +92,8 @@
     "polished": "2.3.0",
     "prettier": "1.14.3",
     "prismjs": "1.15.0",
-    "react": "16.6.0",
-    "react-dom": "16.6.0",
+    "react": "16.6.1",
+    "react-dom": "16.6.1",
     "styled-components": "4.0.3"
   },
   "author": "Michael Hsu <evenchange4@gmail.com>",
