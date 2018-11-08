@@ -22,7 +22,7 @@
     "flow": "flow",
     "flow-coverage": "flow-coverage-report",
     "eslint": "eslint ./",
-    "format": "prettier --write '**/*.{js,json,md}' '*.{json,md,js}'",
+    "format": "prettier --write '**/*.{js,json,md,css,yaml,yml}' '*.{js,json,md,css,yaml,yml}'",
     "changelog": "github-changes -o Mediatek-Cloud -r mcs-ui -b master -f ./CHANGELOG.md --order-semver --use-commit-body"
   },
   "dependencies": {
@@ -270,7 +270,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,json,md}": [
+    "*.{js,json,md,css,yaml,yml}": [
       "prettier --write",
       "git add"
     ]
