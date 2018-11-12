@@ -1,5 +1,11 @@
 ## Change Log
 
+### v1.0.4 (2018/11/12 09:23 +00:00)
+
+- [9e38a78](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e38a785f48e0f30476c740a19ec6ea4f9c2aac7) 1.0.4 (@evenchange4)
+- [d2a7353](https://github.com/Mediatek-Cloud/mcs-ui/commit/d2a7353fbd345044d220ced76d450c410d0a5508) fix(SearchInput): update placeholder style (@evenchange4)
+- [05ebd96](https://github.com/Mediatek-Cloud/mcs-ui/commit/05ebd96e5e20a92959f26a08294c4010d9133ff9) docs(CHANGELOG): release 1.0.3 (@evenchange4)
+
 ### v1.0.3 (2018/11/12 07:59 +00:00)
 
 - [cad5a4c](https://github.com/Mediatek-Cloud/mcs-ui/commit/cad5a4c5a7de6312ab0dc865f663969d8fda9c95) 1.0.3 (@evenchange4)
