@@ -1,5 +1,21 @@
 ## Change Log
 
+### v1.0.3 (2018/11/12 07:59 +00:00)
+
+- [cad5a4c](https://github.com/Mediatek-Cloud/mcs-ui/commit/cad5a4c5a7de6312ab0dc865f663969d8fda9c95) 1.0.3 (@evenchange4)
+- [#54](https://github.com/Mediatek-Cloud/mcs-ui/pull/54) feat(InputGroup): add span for display only (#54) (@evenchange4)
+- [#53](https://github.com/Mediatek-Cloud/mcs-ui/pull/53) fix(EChart): fix formatter when no data displayed (#53) (@liuderchi)
+
+### v1.0.2 (2018/11/12 01:17 +00:00)
+
+- [2a3e8ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/2a3e8ee80bd3de7ea30fb783b679a078b3634600) 1.0.2 (@evenchange4)
+- [#51](https://github.com/Mediatek-Cloud/mcs-ui/pull/51) chore(deps): update dependency prettier to v1.15.2 (#51) (@renovate[bot])
+- [#52](https://github.com/Mediatek-Cloud/mcs-ui/pull/52) chore(deps): update dependency eslint-config-prettier to v3.3.0 (#52) (@renovate[bot])
+- [#50](https://github.com/Mediatek-Cloud/mcs-ui/pull/50) chore(deps): update dependency eslint to v5.9.0 (#50) (@renovate[bot])
+- [#49](https://github.com/Mediatek-Cloud/mcs-ui/pull/49) chore(deps): update dependency flow-bin to v0.86.0 (#49) (@renovate[bot])
+- [#48](https://github.com/Mediatek-Cloud/mcs-ui/pull/48) chore(deps): update dependency enzyme-adapter-react-16 to v1.7.0 (#48) (@renovate[bot])
+- [e274cfd](https://github.com/Mediatek-Cloud/mcs-ui/commit/e274cfda926389c8645dfdf1aa45a37b87d4472e) docs(CHANGELOG): release 1.0.1 (@evenchange4)
+
 ### v1.0.1 (2018/11/08 02:23 +00:00)
 
 - [f571201](https://github.com/Mediatek-Cloud/mcs-ui/commit/f5712015b0cdbb19cd49e129503decb59872a219) 1.0.1 (@evenchange4)
