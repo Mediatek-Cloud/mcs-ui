@@ -24,11 +24,11 @@ const option = {
   ],
   label: {
     formatter: ({
-      seriesData: [{ dataIndex }],
+      seriesData: [seriesData],
     }: {
       value: string | number,
       seriesData: Array<{ dataIndex: number }>,
-    }) => data.label[dataIndex],
+    }) => (seriesData ? data.label[seriesData.dataIndex] : ''),
   },
 };
 
