@@ -51,6 +51,22 @@ storiesOf('InputGroup', module).add(
         <Button square>和</Button>
         <Input placeholder="預設值：100" />
       </InputGroup>
+
+      <InputGroup>
+        <Input placeholder="預設值：0" />
+        <span>GB/s</span>
+      </InputGroup>
+
+      <InputGroup>
+        <span>POST</span>
+        <Input placeholder="預設值：0" />
+      </InputGroup>
+
+      <InputGroup>
+        <Input placeholder="預設值：0" />
+        <span>縣</span>
+        <Input placeholder="預設值：0" />
+      </InputGroup>
     </Wrapper>
   ),
   {
