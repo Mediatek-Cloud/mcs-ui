@@ -14,7 +14,14 @@ class StatefulSearchInput extends React.Component<{}, { value: string }> {
     const { value } = this.state;
     const { onChange, onClear } = this;
 
-    return <SearchInput value={value} onChange={onChange} onClear={onClear} />;
+    return (
+      <SearchInput
+        value={value}
+        onChange={onChange}
+        onClear={onClear}
+        placeholder="Search model"
+      />
+    );
   }
 }
 

@@ -41,11 +41,12 @@ export const StyledInput: React.ComponentType<*> = styled.input`
   padding-left: 28px;
   padding-right: 22px;
 
-  &:focus {
-    outline: 0;
+  &::placeholder {
+    opacity: 1;
+    color: ${({ theme }: ThemeProps) => theme.color.grayBase};
   }
 
-  &::placeholder {
-    color: ${({ theme }: ThemeProps) => theme.color.grayDark};
+  &:focus {
+    outline: 0;
   }
 `;

@@ -37,30 +37,35 @@ exports[`Storyshots SearchInput API 1`] = `
   padding-right: 22px;
 }
 
-.c1:focus {
-  outline: 0;
-}
-
 .c1::-webkit-input-placeholder {
-  color: #999A94;
+  opacity: 1;
+  color: #D1D2D3;
 }
 
 .c1::-moz-placeholder {
-  color: #999A94;
+  opacity: 1;
+  color: #D1D2D3;
 }
 
 .c1:-ms-input-placeholder {
-  color: #999A94;
+  opacity: 1;
+  color: #D1D2D3;
 }
 
 .c1::placeholder {
-  color: #999A94;
+  opacity: 1;
+  color: #D1D2D3;
+}
+
+.c1:focus {
+  outline: 0;
 }
 
 <StatefulSearchInput>
   <SearchInput
     onChange={[Function]}
     onClear={[Function]}
+    placeholder="Search model"
     value=""
   >
     <styled-components__StyledLabel
@@ -142,6 +147,7 @@ exports[`Storyshots SearchInput API 1`] = `
             onBlur={[Function]}
             onChange={[Function]}
             onFocus={[Function]}
+            placeholder="Search model"
             type="text"
             value=""
           >
@@ -167,14 +173,15 @@ exports[`Storyshots SearchInput API 1`] = `
   padding-left: 28px;
   padding-right: 22px;
 
-  &:focus {
-    outline: 0;
-  }
-
   &::placeholder {
+    opacity: 1;
     color: ",
                       [Function],
                       ";
+  }
+
+  &:focus {
+    outline: 0;
   }
 ",
                     ],
@@ -192,6 +199,7 @@ exports[`Storyshots SearchInput API 1`] = `
               onBlur={[Function]}
               onChange={[Function]}
               onFocus={[Function]}
+              placeholder="Search model"
               type="text"
               value=""
             >
@@ -200,6 +208,7 @@ exports[`Storyshots SearchInput API 1`] = `
                 onBlur={[Function]}
                 onChange={[Function]}
                 onFocus={[Function]}
+                placeholder="Search model"
                 type="text"
                 value=""
               />
