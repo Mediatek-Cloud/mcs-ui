@@ -119,6 +119,47 @@ exports[`Storyshots InputSelect API 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <div
   style={
     Object {
@@ -249,6 +290,46 @@ exports[`Storyshots InputSelect API 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                     "
@@ -389,6 +470,47 @@ exports[`Storyshots InputSelect API 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -859,6 +981,47 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <div
   style={
     Object {
@@ -1084,6 +1247,46 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -1223,6 +1426,47 @@ exports[`Storyshots InputSelect Controlled API 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -1691,6 +1935,47 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <InputSelect
@@ -2999,6 +3284,46 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                  [Function],
+                  ";
+    min-width: ",
+                  [Function],
+                  ";
+    border-radius: 3px;
+    border: 1px solid ",
+                  [Function],
+                  ";
+    background-color: ",
+                  [Function],
+                  ";
+    color: ",
+                  [Function],
+                  ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                   "
   position: relative;
@@ -3138,6 +3463,47 @@ exports[`Storyshots InputSelect With 150 items 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -3607,6 +3973,47 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <StatefulInputSelect
   autoFocus={true}
   kind="primary"
@@ -3845,6 +4252,46 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -3984,6 +4431,47 @@ exports[`Storyshots InputSelect With autoFocus props 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -4457,6 +4945,47 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <InputSelect
   itemValueMapper={[Function]}
   items={
@@ -4680,6 +5209,46 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                  [Function],
+                  ";
+    min-width: ",
+                  [Function],
+                  ";
+    border-radius: 3px;
+    border: 1px solid ",
+                  [Function],
+                  ";
+    background-color: ",
+                  [Function],
+                  ";
+    color: ",
+                  [Function],
+                  ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                   "
   position: relative;
@@ -4819,6 +5388,47 @@ exports[`Storyshots InputSelect With children React element and itemValueMapper 
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -5288,6 +5898,47 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 > * {
   cursor: pointer;
 }
@@ -5527,6 +6178,46 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -5666,6 +6357,47 @@ exports[`Storyshots InputSelect With disableFilter props 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 .c0 > * {
@@ -6142,6 +6874,47 @@ exports[`Storyshots InputSelect With focus props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <StatefulInputSelect
   focus={true}
   kind="error"
@@ -6380,6 +7153,46 @@ exports[`Storyshots InputSelect With focus props 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -6519,6 +7332,47 @@ exports[`Storyshots InputSelect With focus props 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -6989,6 +7843,47 @@ exports[`Storyshots InputSelect With kind props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <StatefulInputSelect
   kind="warning"
   placeholder="or filter by device name"
@@ -7224,6 +8119,46 @@ exports[`Storyshots InputSelect With kind props 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -7363,6 +8298,47 @@ exports[`Storyshots InputSelect With kind props 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -7833,6 +8809,47 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <StatefulInputSelect
   kind="primary"
   noRowsRenderer={[Function]}
@@ -8070,6 +9087,46 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -8209,6 +9266,47 @@ exports[`Storyshots InputSelect With noRowsRenderer props 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
@@ -8679,6 +9777,47 @@ exports[`Storyshots InputSelect With state 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
+}
+
 <StatefulInputSelect
   placeholder="or filter by device name"
 >
@@ -8912,6 +10051,46 @@ exports[`Storyshots InputSelect With state 1`] = `
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
+  }
 ",
                     "
   position: relative;
@@ -9051,6 +10230,47 @@ exports[`Storyshots InputSelect With state 1`] = `
 .c0 > *:last-child {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.c0 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c0 > * + span {
+  border-left-width: 0;
+}
+
+.c0 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c0 > span:first-child {
+  border-right-width: 0;
+}
+
+.c0 > span:last-child {
+  border-left-width: 0;
 }
 
 <div
