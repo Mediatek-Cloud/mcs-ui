@@ -91,6 +91,47 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c1 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c1 > * + span {
+  border-left-width: 0;
+}
+
+.c1 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c1 > span:first-child {
+  border-right-width: 0;
+}
+
+.c1 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 {
   position: relative;
 }
@@ -194,7 +235,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "
@@ -234,6 +275,46 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                     "
@@ -707,6 +788,47 @@ exports[`Storyshots Select With disabled props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c1 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c1 > * + span {
+  border-left-width: 0;
+}
+
+.c1 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c1 > span:first-child {
+  border-right-width: 0;
+}
+
+.c1 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 {
   position: relative;
 }
@@ -817,7 +939,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                   "attrs": undefined,
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -857,6 +979,46 @@ exports[`Storyshots Select With disabled props 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                      [Function],
+                      ";
+    min-width: ",
+                      [Function],
+                      ";
+    border-radius: 3px;
+    border: 1px solid ",
+                      [Function],
+                      ";
+    background-color: ",
+                      [Function],
+                      ";
+    color: ",
+                      [Function],
+                      ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                       "
@@ -1347,6 +1509,47 @@ exports[`Storyshots Select With focus props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c1 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c1 > * + span {
+  border-left-width: 0;
+}
+
+.c1 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c1 > span:first-child {
+  border-right-width: 0;
+}
+
+.c1 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 {
   position: relative;
 }
@@ -1451,7 +1654,7 @@ exports[`Storyshots Select With focus props 1`] = `
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "
@@ -1491,6 +1694,46 @@ exports[`Storyshots Select With focus props 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                     "
@@ -1964,6 +2207,47 @@ exports[`Storyshots Select With kind props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c1 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c1 > * + span {
+  border-left-width: 0;
+}
+
+.c1 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c1 > span:first-child {
+  border-right-width: 0;
+}
+
+.c1 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 {
   position: relative;
 }
@@ -2067,7 +2351,7 @@ exports[`Storyshots Select With kind props 1`] = `
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "
@@ -2107,6 +2391,46 @@ exports[`Storyshots Select With kind props 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                     "
@@ -2580,6 +2904,47 @@ exports[`Storyshots Select With required props 1`] = `
   border-bottom-left-radius: 0;
 }
 
+.c1 > span {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 0 5px;
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 3px;
+  border: 1px solid #D1D2D3;
+  background-color: #FFFFFF;
+  color: #999A94;
+}
+
+.c1 > * + span {
+  border-left-width: 0;
+}
+
+.c1 > * + span:not(:last-child) {
+  border-right-width: 0;
+}
+
+.c1 > span:first-child {
+  border-right-width: 0;
+}
+
+.c1 > span:last-child {
+  border-left-width: 0;
+}
+
 .c0 {
   position: relative;
 }
@@ -2684,7 +3049,7 @@ exports[`Storyshots Select With required props 1`] = `
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "
@@ -2724,6 +3089,46 @@ exports[`Storyshots Select With required props 1`] = `
   > *:last-child {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
+  }
+
+  /**
+   * Unit
+   */
+
+  > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 0 5px;
+    min-height: ",
+                    [Function],
+                    ";
+    min-width: ",
+                    [Function],
+                    ";
+    border-radius: 3px;
+    border: 1px solid ",
+                    [Function],
+                    ";
+    background-color: ",
+                    [Function],
+                    ";
+    color: ",
+                    [Function],
+                    ";
+  }
+  > * + span {
+    border-left-width: 0;
+  }
+  > * + span:not(:last-child) {
+    border-right-width: 0;
+  }
+  > span:first-child {
+    border-right-width: 0;
+  }
+  > span:last-child {
+    border-left-width: 0;
   }
 ",
                     "
