@@ -24,7 +24,7 @@ exports[`Storyshots ToastContainer API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Fixed-h3sw4-0",
             "isStatic": true,
@@ -57,7 +57,7 @@ exports[`Storyshots ToastContainer API 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-h3sw4-1",
                   "isStatic": true,
@@ -177,7 +177,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Fixed-h3sw4-0",
             "isStatic": true,
@@ -210,7 +210,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-h3sw4-1",
                   "isStatic": true,
@@ -361,7 +361,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                     "isStatic": false,
@@ -407,7 +407,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,
@@ -566,7 +566,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Fixed-h3sw4-0",
             "isStatic": true,
@@ -599,7 +599,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-h3sw4-1",
                   "isStatic": true,
@@ -755,7 +755,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                     "isStatic": false,
@@ -801,7 +801,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,
@@ -951,7 +951,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                     "isStatic": false,
@@ -997,7 +997,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,

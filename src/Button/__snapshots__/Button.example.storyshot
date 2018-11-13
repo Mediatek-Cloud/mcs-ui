@@ -45,7 +45,7 @@ exports[`Storyshots Button API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -209,7 +209,7 @@ exports[`Storyshots Button Overriding style 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Buttonexample__TomatoButton-sc-1ml6h0r-2",
           "isStatic": false,
@@ -382,7 +382,7 @@ exports[`Storyshots Button With active props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -536,7 +536,7 @@ exports[`Storyshots Button With as props - Input submit 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -692,7 +692,7 @@ exports[`Storyshots Button With as props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -866,7 +866,7 @@ exports[`Storyshots Button With block props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
           "isStatic": true,
@@ -909,7 +909,7 @@ exports[`Storyshots Button With block props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -1027,7 +1027,7 @@ exports[`Storyshots Button With block props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -1145,7 +1145,7 @@ exports[`Storyshots Button With block props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -1297,7 +1297,7 @@ exports[`Storyshots Button With disabled props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -1473,7 +1473,7 @@ exports[`Storyshots Button With icon inside 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Button-sc-4bw22c-0",
           "isStatic": false,
@@ -1576,7 +1576,7 @@ exports[`Storyshots Button With icon inside 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Buttonexample__CenterContainer-sc-1ml6h0r-1",
                 "isStatic": true,
@@ -1608,7 +1608,7 @@ exports[`Storyshots Button With icon inside 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Spin-sc-1vw5iwo-0",
                       "isStatic": true,
@@ -1831,7 +1831,7 @@ exports[`Storyshots Button With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
             "isStatic": true,
@@ -1876,7 +1876,7 @@ exports[`Storyshots Button With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Button-sc-4bw22c-0",
                   "isStatic": false,
@@ -1998,7 +1998,7 @@ exports[`Storyshots Button With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Button-sc-4bw22c-0",
                   "isStatic": false,
@@ -2120,7 +2120,7 @@ exports[`Storyshots Button With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Button-sc-4bw22c-0",
                   "isStatic": false,
@@ -2242,7 +2242,7 @@ exports[`Storyshots Button With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Button-sc-4bw22c-0",
                   "isStatic": false,
@@ -2364,7 +2364,7 @@ exports[`Storyshots Button With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Button-sc-4bw22c-0",
                   "isStatic": false,
@@ -2540,7 +2540,7 @@ exports[`Storyshots Button With round props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
           "isStatic": true,
@@ -2583,7 +2583,7 @@ exports[`Storyshots Button With round props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -2701,7 +2701,7 @@ exports[`Storyshots Button With round props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -2885,7 +2885,7 @@ exports[`Storyshots Button With size props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
           "isStatic": true,
@@ -2928,7 +2928,7 @@ exports[`Storyshots Button With size props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -3046,7 +3046,7 @@ exports[`Storyshots Button With size props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -3219,7 +3219,7 @@ exports[`Storyshots Button With square props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
           "isStatic": true,
@@ -3262,7 +3262,7 @@ exports[`Storyshots Button With square props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -3380,7 +3380,7 @@ exports[`Storyshots Button With square props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Button-sc-4bw22c-0",
                 "isStatic": false,
@@ -3678,7 +3678,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "Buttonexample__Container-sc-1ml6h0r-0",
               "isStatic": true,
@@ -3723,7 +3723,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Button-sc-4bw22c-0",
                     "isStatic": false,
@@ -3845,7 +3845,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Button-sc-4bw22c-0",
                     "isStatic": false,
@@ -3967,7 +3967,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Button-sc-4bw22c-0",
                     "isStatic": false,
@@ -4089,7 +4089,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Button-sc-4bw22c-0",
                     "isStatic": false,
@@ -4211,7 +4211,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Button-sc-4bw22c-0",
                     "isStatic": false,

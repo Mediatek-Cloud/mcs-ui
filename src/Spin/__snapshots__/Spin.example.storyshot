@@ -22,7 +22,7 @@ exports[`Storyshots Spin API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Spin-sc-1vw5iwo-0",
           "isStatic": true,
@@ -68,7 +68,7 @@ exports[`Storyshots Spin API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Spinexample__ContentWrapper-sc-1nxetrv-0",
                 "isStatic": true,

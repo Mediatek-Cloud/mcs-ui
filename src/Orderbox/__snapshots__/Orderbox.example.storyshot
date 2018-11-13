@@ -118,7 +118,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -179,7 +179,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -240,7 +240,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -301,7 +301,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -364,7 +364,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -425,7 +425,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -486,7 +486,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -547,7 +547,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -610,7 +610,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -671,7 +671,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -734,7 +734,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -795,7 +795,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -858,7 +858,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -919,7 +919,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -982,7 +982,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1043,7 +1043,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1106,7 +1106,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1167,7 +1167,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1230,7 +1230,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1291,7 +1291,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1354,7 +1354,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1415,7 +1415,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1478,7 +1478,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1539,7 +1539,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1602,7 +1602,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1663,7 +1663,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1726,7 +1726,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1787,7 +1787,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1850,7 +1850,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1911,7 +1911,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1974,7 +1974,7 @@ exports[`Storyshots Orderbox API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -2035,7 +2035,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -2238,7 +2238,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -2301,7 +2301,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -2373,7 +2373,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -2436,7 +2436,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -2508,7 +2508,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -2571,7 +2571,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -2643,7 +2643,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -2706,7 +2706,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -2778,7 +2778,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -2841,7 +2841,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -2982,7 +2982,7 @@ exports[`Storyshots Orderbox With size 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -3055,7 +3055,7 @@ exports[`Storyshots Orderbox With size 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -3171,7 +3171,7 @@ exports[`Storyshots Orderbox With state 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -3234,7 +3234,7 @@ exports[`Storyshots Orderbox With state 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,

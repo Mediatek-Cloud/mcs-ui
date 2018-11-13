@@ -74,7 +74,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
             "isStatic": true,
@@ -124,7 +124,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Container-sc-1jb6672-0",
                     "isStatic": false,
@@ -185,7 +185,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__Content-sc-1jb6672-1",
                           "isStatic": false,
@@ -328,7 +328,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
               "isStatic": true,
@@ -378,7 +378,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Container-sc-1jb6672-0",
                       "isStatic": false,
@@ -439,7 +439,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__Content-sc-1jb6672-1",
                             "isStatic": false,
@@ -565,7 +565,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
             "isStatic": true,
@@ -615,7 +615,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Container-sc-1jb6672-0",
                     "isStatic": false,
@@ -676,7 +676,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__Content-sc-1jb6672-1",
                           "isStatic": false,
@@ -816,7 +816,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
               "isStatic": true,
@@ -866,7 +866,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Container-sc-1jb6672-0",
                       "isStatic": false,
@@ -927,7 +927,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__Content-sc-1jb6672-1",
                             "isStatic": false,
@@ -1068,7 +1068,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
               "isStatic": true,
@@ -1118,7 +1118,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Container-sc-1jb6672-0",
                       "isStatic": false,
@@ -1179,7 +1179,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__Content-sc-1jb6672-1",
                             "isStatic": false,

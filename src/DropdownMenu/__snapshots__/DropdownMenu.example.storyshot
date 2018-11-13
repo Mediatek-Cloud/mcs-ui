@@ -117,7 +117,7 @@ exports[`Storyshots DropdownMenu [children] With isOpen 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledButton-km7d5z-0",
               "isStatic": false,
@@ -244,7 +244,7 @@ exports[`Storyshots DropdownMenu [children] With isOpen 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "Rotate-sc-7d7mt1-0",
                     "isStatic": false,
@@ -524,7 +524,7 @@ exports[`Storyshots DropdownMenu [children] With open 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledButton-km7d5z-0",
               "isStatic": false,
@@ -961,7 +961,7 @@ exports[`Storyshots DropdownMenu With position 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "DropdownMenuexample__Wrapper-sc-19gsw0o-0",
           "isStatic": true,

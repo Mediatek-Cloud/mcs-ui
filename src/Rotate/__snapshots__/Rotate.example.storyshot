@@ -29,7 +29,7 @@ exports[`Storyshots Rotate API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Rotateexample__IconWrapper-yp16aq-0",
           "isStatic": false,
@@ -67,7 +67,7 @@ exports[`Storyshots Rotate API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Rotate-sc-7d7mt1-0",
                 "isStatic": false,
@@ -155,7 +155,7 @@ exports[`Storyshots Rotate With active props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Rotateexample__IconWrapper-yp16aq-0",
           "isStatic": false,
@@ -193,7 +193,7 @@ exports[`Storyshots Rotate With active props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Rotate-sc-7d7mt1-0",
                 "isStatic": false,
@@ -282,7 +282,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Rotateexample__IconWrapper-yp16aq-0",
             "isStatic": false,
@@ -321,7 +321,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Rotate-sc-7d7mt1-0",
                   "isStatic": false,
@@ -413,7 +413,7 @@ exports[`Storyshots Rotate With state 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Rotateexample__IconWrapper-yp16aq-0",
             "isStatic": false,
@@ -452,7 +452,7 @@ exports[`Storyshots Rotate With state 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Rotate-sc-7d7mt1-0",
                   "isStatic": false,

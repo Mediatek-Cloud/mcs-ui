@@ -217,7 +217,7 @@ exports[`Storyshots InputOrder API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -282,7 +282,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -313,7 +313,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -359,7 +359,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -420,7 +420,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -489,7 +489,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -520,7 +520,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -566,7 +566,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -627,7 +627,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -696,7 +696,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -727,7 +727,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -773,7 +773,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -834,7 +834,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -901,7 +901,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -932,7 +932,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -978,7 +978,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -1039,7 +1039,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -1106,7 +1106,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -1137,7 +1137,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -1183,7 +1183,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -1244,7 +1244,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -1311,7 +1311,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -1342,7 +1342,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -1388,7 +1388,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -1449,7 +1449,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -1516,7 +1516,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -1547,7 +1547,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -1593,7 +1593,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -1654,7 +1654,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -1721,7 +1721,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -1752,7 +1752,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -1798,7 +1798,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -1859,7 +1859,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -1926,7 +1926,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -1957,7 +1957,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -2003,7 +2003,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -2064,7 +2064,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -2131,7 +2131,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -2162,7 +2162,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -2208,7 +2208,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -2269,7 +2269,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -2336,7 +2336,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -2367,7 +2367,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -2413,7 +2413,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -2474,7 +2474,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -2541,7 +2541,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -2572,7 +2572,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -2618,7 +2618,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -2679,7 +2679,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -2746,7 +2746,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -2777,7 +2777,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -2823,7 +2823,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -2884,7 +2884,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -3117,7 +3117,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -3182,7 +3182,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -3213,7 +3213,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -3255,7 +3255,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__Container-sc-1jb6672-0",
                                     "isStatic": false,
@@ -3316,7 +3316,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__Content-sc-1jb6672-1",
                                           "isStatic": false,
@@ -3399,7 +3399,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -3430,7 +3430,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -3472,7 +3472,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__Container-sc-1jb6672-0",
                                     "isStatic": false,
@@ -3533,7 +3533,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__Content-sc-1jb6672-1",
                                           "isStatic": false,
@@ -3599,7 +3599,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -3630,7 +3630,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -3672,7 +3672,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__Container-sc-1jb6672-0",
                                     "isStatic": false,
@@ -3733,7 +3733,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     forwardedClass={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
-                                        "attrs": undefined,
+                                        "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__Content-sc-1jb6672-1",
                                           "isStatic": false,
@@ -3857,7 +3857,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -3915,7 +3915,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": false,
@@ -4132,7 +4132,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-z5p25e-0",
               "isStatic": false,
@@ -4197,7 +4197,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -4228,7 +4228,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -4274,7 +4274,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -4335,7 +4335,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -4402,7 +4402,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -4433,7 +4433,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -4479,7 +4479,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -4540,7 +4540,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -4607,7 +4607,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -4638,7 +4638,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -4684,7 +4684,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -4745,7 +4745,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -4812,7 +4812,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -4843,7 +4843,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -4889,7 +4889,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -4950,7 +4950,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -5017,7 +5017,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -5048,7 +5048,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -5094,7 +5094,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -5155,7 +5155,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -5222,7 +5222,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -5253,7 +5253,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -5299,7 +5299,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -5360,7 +5360,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -5427,7 +5427,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -5458,7 +5458,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -5504,7 +5504,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -5565,7 +5565,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -5632,7 +5632,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -5663,7 +5663,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -5709,7 +5709,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -5770,7 +5770,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -5837,7 +5837,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -5868,7 +5868,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -5914,7 +5914,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -5975,7 +5975,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -6042,7 +6042,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -6073,7 +6073,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -6119,7 +6119,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -6180,7 +6180,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -6247,7 +6247,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -6278,7 +6278,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -6324,7 +6324,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -6385,7 +6385,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -6452,7 +6452,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -6483,7 +6483,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -6529,7 +6529,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -6590,7 +6590,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -6657,7 +6657,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -6688,7 +6688,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -6734,7 +6734,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -6795,7 +6795,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -6921,7 +6921,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -6979,7 +6979,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": false,
@@ -7194,7 +7194,7 @@ exports[`Storyshots InputOrder With state 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-z5p25e-0",
               "isStatic": false,
@@ -7259,7 +7259,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -7290,7 +7290,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -7336,7 +7336,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -7397,7 +7397,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -7464,7 +7464,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -7495,7 +7495,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -7541,7 +7541,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -7602,7 +7602,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -7669,7 +7669,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -7700,7 +7700,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -7746,7 +7746,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -7807,7 +7807,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -7874,7 +7874,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -7905,7 +7905,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -7951,7 +7951,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -8012,7 +8012,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -8079,7 +8079,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -8110,7 +8110,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -8156,7 +8156,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -8217,7 +8217,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -8284,7 +8284,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -8315,7 +8315,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -8361,7 +8361,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -8422,7 +8422,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -8489,7 +8489,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -8520,7 +8520,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -8566,7 +8566,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -8627,7 +8627,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -8694,7 +8694,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -8725,7 +8725,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -8771,7 +8771,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -8832,7 +8832,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -8899,7 +8899,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -8930,7 +8930,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -8976,7 +8976,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -9037,7 +9037,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -9104,7 +9104,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -9135,7 +9135,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -9181,7 +9181,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -9242,7 +9242,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -9309,7 +9309,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -9340,7 +9340,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -9386,7 +9386,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -9447,7 +9447,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -9514,7 +9514,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -9545,7 +9545,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -9591,7 +9591,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -9652,7 +9652,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -9719,7 +9719,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Center-z5p25e-1",
                         "isStatic": true,
@@ -9750,7 +9750,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                               "isStatic": true,
@@ -9796,7 +9796,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                   forwardedClass={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
-                                      "attrs": undefined,
+                                      "attrs": Array [],
                                       "componentStyle": ComponentStyle {
                                         "componentId": "styled-components__Container-sc-1jb6672-0",
                                         "isStatic": false,
@@ -9857,7 +9857,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         forwardedClass={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
-                                            "attrs": undefined,
+                                            "attrs": Array [],
                                             "componentStyle": ComponentStyle {
                                               "componentId": "styled-components__Content-sc-1jb6672-1",
                                               "isStatic": false,
@@ -10038,7 +10038,7 @@ exports[`Storyshots InputOrder one item 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -10103,7 +10103,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -10134,7 +10134,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -10180,7 +10180,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -10241,7 +10241,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -10476,7 +10476,7 @@ exports[`Storyshots InputOrder three items 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -10541,7 +10541,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -10572,7 +10572,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -10618,7 +10618,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -10679,7 +10679,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -10748,7 +10748,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -10779,7 +10779,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -10825,7 +10825,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -10886,7 +10886,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -10953,7 +10953,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -10984,7 +10984,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -11030,7 +11030,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -11091,7 +11091,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -11320,7 +11320,7 @@ exports[`Storyshots InputOrder two items 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Container-z5p25e-0",
             "isStatic": false,
@@ -11385,7 +11385,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -11416,7 +11416,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -11462,7 +11462,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -11523,7 +11523,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,
@@ -11592,7 +11592,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Center-z5p25e-1",
                       "isStatic": true,
@@ -11623,7 +11623,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "isStatic": true,
@@ -11669,7 +11669,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Container-sc-1jb6672-0",
                                       "isStatic": false,
@@ -11730,7 +11730,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                       forwardedClass={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
-                                          "attrs": undefined,
+                                          "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "styled-components__Content-sc-1jb6672-1",
                                             "isStatic": false,

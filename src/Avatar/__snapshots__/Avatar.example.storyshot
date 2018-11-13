@@ -21,7 +21,7 @@ exports[`Storyshots Avatar Default - Large 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-znubx6-0",
             "isStatic": false,
@@ -104,7 +104,7 @@ exports[`Storyshots Avatar Default 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-znubx6-0",
             "isStatic": false,
@@ -188,7 +188,7 @@ exports[`Storyshots Avatar With Url - Large 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-znubx6-0",
             "isStatic": false,
@@ -263,7 +263,7 @@ exports[`Storyshots Avatar With Url 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-znubx6-0",
             "isStatic": false,

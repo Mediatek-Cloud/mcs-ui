@@ -49,7 +49,7 @@ exports[`Storyshots MenuItem API for MenuItem 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "MenuItem-mycuic-0",
           "isStatic": false,

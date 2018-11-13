@@ -463,7 +463,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "ResponsivePanel-xz3mbp-0",
                               "isStatic": false,
@@ -553,7 +553,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "styled-components__Content-sc-1028n22-0",
                                       "isStatic": true,
@@ -653,7 +653,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "Button-sc-4bw22c-0",
                                       "isStatic": false,
@@ -774,7 +774,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                 forwardedClass={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
-                                    "attrs": undefined,
+                                    "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "Button-sc-4bw22c-0",
                                       "isStatic": false,

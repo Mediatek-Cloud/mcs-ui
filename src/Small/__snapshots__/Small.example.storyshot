@@ -10,7 +10,7 @@ exports[`Storyshots Small API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Small-sc-275w8q-0",
           "isStatic": false,
@@ -74,7 +74,7 @@ exports[`Storyshots Small With color 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "c0",
           "isStatic": false,
@@ -116,7 +116,7 @@ exports[`Storyshots Small With color 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Small-sc-275w8q-0",
                 "isStatic": false,
@@ -180,7 +180,7 @@ exports[`Storyshots Small Within <P> 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "c0",
           "isStatic": false,
@@ -221,7 +221,7 @@ exports[`Storyshots Small Within <P> 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Small-sc-275w8q-0",
                 "isStatic": false,

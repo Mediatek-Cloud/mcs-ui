@@ -202,7 +202,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
             "isStatic": true,
@@ -232,7 +232,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                   "isStatic": false,
@@ -349,7 +349,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -445,7 +445,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
                         "isStatic": false,
@@ -557,7 +557,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "Rotate-sc-7d7mt1-0",
                               "isStatic": false,
@@ -627,7 +627,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                   "isStatic": false,
@@ -906,7 +906,7 @@ exports[`Storyshots Select With disabled props 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
               "isStatic": true,
@@ -936,7 +936,7 @@ exports[`Storyshots Select With disabled props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                     "isStatic": false,
@@ -1054,7 +1054,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "Input-a7ignf-0",
                           "isStatic": false,
@@ -1152,7 +1152,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
                           "isStatic": false,
@@ -1264,7 +1264,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                           forwardedClass={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": undefined,
+                              "attrs": Array [],
                               "componentStyle": ComponentStyle {
                                 "componentId": "Rotate-sc-7d7mt1-0",
                                 "isStatic": false,
@@ -1334,7 +1334,7 @@ exports[`Storyshots Select With disabled props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                     "isStatic": false,
@@ -1621,7 +1621,7 @@ exports[`Storyshots Select With focus props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
             "isStatic": true,
@@ -1651,7 +1651,7 @@ exports[`Storyshots Select With focus props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                   "isStatic": false,
@@ -1768,7 +1768,7 @@ exports[`Storyshots Select With focus props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -1864,7 +1864,7 @@ exports[`Storyshots Select With focus props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
                         "isStatic": false,
@@ -1976,7 +1976,7 @@ exports[`Storyshots Select With focus props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "Rotate-sc-7d7mt1-0",
                               "isStatic": false,
@@ -2046,7 +2046,7 @@ exports[`Storyshots Select With focus props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                   "isStatic": false,
@@ -2318,7 +2318,7 @@ exports[`Storyshots Select With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
             "isStatic": true,
@@ -2348,7 +2348,7 @@ exports[`Storyshots Select With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                   "isStatic": false,
@@ -2465,7 +2465,7 @@ exports[`Storyshots Select With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -2561,7 +2561,7 @@ exports[`Storyshots Select With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
                         "isStatic": false,
@@ -2673,7 +2673,7 @@ exports[`Storyshots Select With kind props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "Rotate-sc-7d7mt1-0",
                               "isStatic": false,
@@ -2743,7 +2743,7 @@ exports[`Storyshots Select With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                   "isStatic": false,
@@ -3016,7 +3016,7 @@ exports[`Storyshots Select With required props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-sc-1vavxcc-1",
             "isStatic": true,
@@ -3046,7 +3046,7 @@ exports[`Storyshots Select With required props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                   "isStatic": false,
@@ -3164,7 +3164,7 @@ exports[`Storyshots Select With required props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -3262,7 +3262,7 @@ exports[`Storyshots Select With required props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledButton-sc-1vavxcc-3",
                         "isStatic": false,
@@ -3374,7 +3374,7 @@ exports[`Storyshots Select With required props 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "Rotate-sc-7d7mt1-0",
                               "isStatic": false,
@@ -3445,7 +3445,7 @@ exports[`Storyshots Select With required props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                   "isStatic": false,

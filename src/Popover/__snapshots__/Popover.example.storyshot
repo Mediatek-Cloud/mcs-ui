@@ -21,7 +21,7 @@ exports[`Storyshots Popover With position 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Popoverexample__Wrapper-sc-5lgfkf-0",
           "isStatic": true,

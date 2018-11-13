@@ -37,7 +37,7 @@ exports[`Storyshots Toast API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
             "isStatic": false,
@@ -83,7 +83,7 @@ exports[`Storyshots Toast API 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                   "isStatic": false,
@@ -281,7 +281,7 @@ exports[`Storyshots Toast With kind props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Toastexample__DemoWrapper-sc-1ewmtuh-0",
           "isStatic": true,
@@ -319,7 +319,7 @@ exports[`Storyshots Toast With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
@@ -365,7 +365,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
@@ -433,7 +433,7 @@ exports[`Storyshots Toast With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
@@ -479,7 +479,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
@@ -547,7 +547,7 @@ exports[`Storyshots Toast With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
@@ -593,7 +593,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
@@ -661,7 +661,7 @@ exports[`Storyshots Toast With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
@@ -707,7 +707,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
@@ -775,7 +775,7 @@ exports[`Storyshots Toast With kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
@@ -821,7 +821,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,

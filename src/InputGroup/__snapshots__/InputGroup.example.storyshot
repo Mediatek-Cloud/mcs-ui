@@ -290,7 +290,7 @@ exports[`Storyshots InputGroup API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "InputGroupexample__Wrapper-ofrat6-0",
           "isStatic": true,
@@ -322,7 +322,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -439,7 +439,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -557,7 +557,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -667,7 +667,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -784,7 +784,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -902,7 +902,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -1020,7 +1020,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -1130,7 +1130,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -1247,7 +1247,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -1359,7 +1359,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -1445,7 +1445,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -1556,7 +1556,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -1650,7 +1650,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -1760,7 +1760,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -1877,7 +1877,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -1989,7 +1989,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -2083,7 +2083,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -2193,7 +2193,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -2310,7 +2310,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -2422,7 +2422,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -2516,7 +2516,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Button-sc-4bw22c-0",
                       "isStatic": false,
@@ -2628,7 +2628,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -2714,7 +2714,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -2825,7 +2825,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -2914,7 +2914,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -3028,7 +3028,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -3114,7 +3114,7 @@ exports[`Storyshots InputGroup API 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "InputGroup-clww0l-0",
                 "isStatic": false,
@@ -3225,7 +3225,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,
@@ -3316,7 +3316,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Input-a7ignf-0",
                       "isStatic": false,

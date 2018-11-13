@@ -19,7 +19,7 @@ exports[`Storyshots Breadcrumb API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Breadcrumb-sqawcc-0",
           "isStatic": false,

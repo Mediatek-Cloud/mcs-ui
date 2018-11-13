@@ -23,7 +23,7 @@ exports[`Storyshots P API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "c0",
           "isStatic": false,
@@ -90,7 +90,7 @@ exports[`Storyshots P Nested children with div 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "c0",
           "isStatic": false,
@@ -212,7 +212,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -262,7 +262,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -312,7 +312,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -362,7 +362,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -412,7 +412,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -462,7 +462,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -512,7 +512,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -562,7 +562,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -612,7 +612,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,
@@ -662,7 +662,7 @@ exports[`Storyshots P With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "c0",
             "isStatic": false,

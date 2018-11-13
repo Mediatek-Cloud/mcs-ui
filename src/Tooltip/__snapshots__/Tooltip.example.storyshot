@@ -21,7 +21,7 @@ exports[`Storyshots Tooltip With position 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Tooltipexample__Wrapper-cmb0b-0",
           "isStatic": true,

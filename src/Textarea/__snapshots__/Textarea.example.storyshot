@@ -52,7 +52,7 @@ exports[`Storyshots Textarea API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Textarea-sc-121l34w-0",
           "isStatic": false,
@@ -352,7 +352,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Textareaexample__Wrapper-sc-6btv7j-0",
           "isStatic": true,
@@ -389,7 +389,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Textarea-sc-121l34w-0",
                 "isStatic": false,
@@ -473,7 +473,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Textarea-sc-121l34w-0",
                 "isStatic": false,
@@ -557,7 +557,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Textarea-sc-121l34w-0",
                 "isStatic": false,
@@ -641,7 +641,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Textarea-sc-121l34w-0",
                 "isStatic": false,
@@ -725,7 +725,7 @@ exports[`Storyshots Textarea With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Textarea-sc-121l34w-0",
                 "isStatic": false,

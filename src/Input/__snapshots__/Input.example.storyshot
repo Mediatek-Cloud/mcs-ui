@@ -52,7 +52,7 @@ exports[`Storyshots Input API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Input-a7ignf-0",
           "isStatic": false,
@@ -184,7 +184,7 @@ exports[`Storyshots Input With focus props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Input-a7ignf-0",
           "isStatic": false,
@@ -480,7 +480,7 @@ exports[`Storyshots Input With kind props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Inputexample__Wrapper-sc-2u4o5p-0",
           "isStatic": true,
@@ -519,7 +519,7 @@ exports[`Storyshots Input With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -608,7 +608,7 @@ exports[`Storyshots Input With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -697,7 +697,7 @@ exports[`Storyshots Input With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -786,7 +786,7 @@ exports[`Storyshots Input With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -875,7 +875,7 @@ exports[`Storyshots Input With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1010,7 +1010,7 @@ exports[`Storyshots Input With type props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Inputexample__Wrapper-sc-2u4o5p-0",
           "isStatic": true,
@@ -1050,7 +1050,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1142,7 +1142,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1234,7 +1234,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1326,7 +1326,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1418,7 +1418,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1510,7 +1510,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1602,7 +1602,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1694,7 +1694,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1786,7 +1786,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1878,7 +1878,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -1970,7 +1970,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -2062,7 +2062,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -2154,7 +2154,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -2246,7 +2246,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,
@@ -2338,7 +2338,7 @@ exports[`Storyshots Input With type props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Input-a7ignf-0",
                 "isStatic": false,

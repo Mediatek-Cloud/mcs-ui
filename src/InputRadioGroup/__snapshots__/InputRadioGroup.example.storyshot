@@ -84,7 +84,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "InputRadioGroup-sc-1brt9al-0",
           "isStatic": true,
@@ -124,7 +124,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                   "isStatic": true,
@@ -172,7 +172,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "c2",
                         "isStatic": true,
@@ -213,7 +213,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                               "isStatic": false,
@@ -265,7 +265,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                               "isStatic": false,
@@ -326,7 +326,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                   "isStatic": true,
@@ -374,7 +374,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "c2",
                         "isStatic": true,
@@ -415,7 +415,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                               "isStatic": false,
@@ -467,7 +467,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                               "isStatic": false,

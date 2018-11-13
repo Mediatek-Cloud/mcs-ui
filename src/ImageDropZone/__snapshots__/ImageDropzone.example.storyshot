@@ -65,7 +65,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Container-sc-2zzuhz-0",
                       "isStatic": false,
@@ -276,7 +276,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Container-sc-2zzuhz-0",
                       "isStatic": false,
@@ -409,7 +409,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "c1",
                             "isStatic": false,
@@ -567,7 +567,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Container-sc-2zzuhz-0",
                       "isStatic": false,
@@ -636,7 +636,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "LoadingWrapper-f6hqxt-0",
                             "isStatic": false,
@@ -783,7 +783,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "c2",
                             "isStatic": false,
@@ -905,7 +905,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Container-sc-2zzuhz-0",
                       "isStatic": false,
