@@ -58,7 +58,7 @@ exports[`Storyshots InputRadio API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "isStatic": true,
@@ -106,7 +106,7 @@ exports[`Storyshots InputRadio API 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "c1",
                   "isStatic": true,
@@ -147,7 +147,7 @@ exports[`Storyshots InputRadio API 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "isStatic": false,
@@ -199,7 +199,7 @@ exports[`Storyshots InputRadio API 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "isStatic": false,
@@ -321,7 +321,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
               "isStatic": true,
@@ -374,7 +374,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": true,
@@ -425,7 +425,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                           "isStatic": false,
@@ -477,7 +477,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                           "isStatic": false,
@@ -589,7 +589,7 @@ exports[`Storyshots InputRadio With state 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
               "isStatic": true,
@@ -637,7 +637,7 @@ exports[`Storyshots InputRadio With state 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": true,
@@ -678,7 +678,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                           "isStatic": false,
@@ -730,7 +730,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                           "isStatic": false,
@@ -863,7 +863,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
               "isStatic": true,
@@ -911,7 +911,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": true,
@@ -952,7 +952,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                           "isStatic": false,
@@ -1004,7 +1004,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                           "isStatic": false,
@@ -1065,7 +1065,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
               "isStatic": true,
@@ -1113,7 +1113,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": true,
@@ -1154,7 +1154,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                           "isStatic": false,
@@ -1206,7 +1206,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                           "isStatic": false,
@@ -1318,7 +1318,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1vsiozb-1",
               "isStatic": true,
@@ -1366,7 +1366,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "c1",
                     "isStatic": true,
@@ -1407,7 +1407,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                           "isStatic": false,
@@ -1459,7 +1459,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                     forwardedClass={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "attrs": undefined,
+                        "attrs": Array [],
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                           "isStatic": false,

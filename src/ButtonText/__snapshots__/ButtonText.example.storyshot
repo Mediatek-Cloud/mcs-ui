@@ -32,7 +32,7 @@ exports[`Storyshots ButtonText API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "ButtonText-sc-1ke5fj7-0",
           "isStatic": false,
@@ -124,7 +124,7 @@ exports[`Storyshots ButtonText With active props 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "ButtonText-sc-1ke5fj7-0",
           "isStatic": false,

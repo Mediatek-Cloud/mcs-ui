@@ -22,7 +22,7 @@ exports[`Storyshots Menu API for Menu 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Menu-sc-1eizce1-0",
           "isStatic": false,
@@ -177,7 +177,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Menuexample__StyledMenu-sc-10gs01o-0",
           "isStatic": false,
@@ -225,7 +225,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -320,7 +320,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -415,7 +415,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -504,7 +504,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Heading-sc-1ol6ekh-0",
                       "isStatic": false,
@@ -566,7 +566,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -653,7 +653,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "c3",
                       "isStatic": false,
@@ -704,7 +704,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -794,7 +794,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "c3",
                       "isStatic": false,
@@ -846,7 +846,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -936,7 +936,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "A-sc-1bkdbcq-0",
                       "isStatic": false,
@@ -999,7 +999,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -1086,7 +1086,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "B-sc-1ocntpk-0",
                       "isStatic": true,
@@ -1127,7 +1127,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -1234,7 +1234,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -1386,7 +1386,7 @@ exports[`Storyshots Menu Min width 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Menu-sc-1eizce1-0",
           "isStatic": false,
@@ -1431,7 +1431,7 @@ exports[`Storyshots Menu Min width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,
@@ -1526,7 +1526,7 @@ exports[`Storyshots Menu Min width 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "MenuItem-mycuic-0",
                 "isStatic": false,

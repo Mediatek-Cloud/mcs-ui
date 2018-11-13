@@ -29,7 +29,7 @@ exports[`Storyshots IconSort API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledSVG-sc-1n69paq-0",
             "isStatic": false,

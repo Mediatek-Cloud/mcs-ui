@@ -12,7 +12,7 @@ exports[`Storyshots SpaceTop API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "SpaceTop-esc364-0",
           "isStatic": false,

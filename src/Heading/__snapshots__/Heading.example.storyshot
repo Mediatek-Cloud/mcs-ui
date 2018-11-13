@@ -14,7 +14,7 @@ exports[`Storyshots Heading API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Heading-sc-1ol6ekh-0",
           "isStatic": false,
@@ -141,7 +141,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -204,7 +204,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -267,7 +267,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -330,7 +330,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -393,7 +393,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -456,7 +456,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -519,7 +519,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -582,7 +582,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -645,7 +645,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -708,7 +708,7 @@ exports[`Storyshots Heading With color props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -804,7 +804,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -871,7 +871,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -938,7 +938,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -1005,7 +1005,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -1072,7 +1072,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,
@@ -1139,7 +1139,7 @@ exports[`Storyshots Heading With level props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Heading-sc-1ol6ekh-0",
             "isStatic": false,

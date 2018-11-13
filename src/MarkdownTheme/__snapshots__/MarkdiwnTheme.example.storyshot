@@ -370,7 +370,7 @@ exports[`Storyshots MarkdownTheme API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "MarkdownTheme-sc-1bmwnnu-0",
           "isStatic": false,

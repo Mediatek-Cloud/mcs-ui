@@ -109,7 +109,7 @@ exports[`Storyshots InputFancyRange API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "InputFancyRange-sc-1x3x53l-0",
           "isStatic": false,
@@ -384,7 +384,7 @@ exports[`Storyshots InputFancyRange with state 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "InputFancyRange-sc-1x3x53l-0",
             "isStatic": false,

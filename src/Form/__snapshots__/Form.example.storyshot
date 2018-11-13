@@ -59,7 +59,7 @@ exports[`Storyshots Form Fieldset 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Fieldset-c881qj-0",
           "isStatic": false,
@@ -331,7 +331,7 @@ exports[`Storyshots Form Form 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Form-sc-3bbe89-0",
           "isStatic": true,
@@ -389,7 +389,7 @@ exports[`Storyshots Form Form 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "c1",
                 "isStatic": false,
@@ -459,7 +459,7 @@ exports[`Storyshots Form Form 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Label-pwgi1j-0",
                         "isStatic": false,
@@ -513,7 +513,7 @@ exports[`Storyshots Form Form 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -602,7 +602,7 @@ exports[`Storyshots Form Form 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "c1",
                 "isStatic": false,
@@ -674,7 +674,7 @@ exports[`Storyshots Form Form 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Label-pwgi1j-0",
                       "isStatic": false,
@@ -732,7 +732,7 @@ exports[`Storyshots Form Form 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "Input-a7ignf-0",
                         "isStatic": false,
@@ -835,7 +835,7 @@ exports[`Storyshots Form Form 1`] = `
                       forwardedClass={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": undefined,
+                          "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "c7",
                             "isStatic": false,
@@ -1119,7 +1119,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "ResponsivePanel-xz3mbp-0",
           "isStatic": false,
@@ -1210,7 +1210,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Form-sc-3bbe89-0",
                   "isStatic": true,
@@ -1258,7 +1258,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "c2",
                         "isStatic": false,
@@ -1328,7 +1328,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                           forwardedClass={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": undefined,
+                              "attrs": Array [],
                               "componentStyle": ComponentStyle {
                                 "componentId": "Label-pwgi1j-0",
                                 "isStatic": false,
@@ -1382,7 +1382,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                           forwardedClass={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": undefined,
+                              "attrs": Array [],
                               "componentStyle": ComponentStyle {
                                 "componentId": "Input-a7ignf-0",
                                 "isStatic": false,
@@ -1471,7 +1471,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "c2",
                         "isStatic": false,
@@ -1543,7 +1543,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                         forwardedClass={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
-                            "attrs": undefined,
+                            "attrs": Array [],
                             "componentStyle": ComponentStyle {
                               "componentId": "Label-pwgi1j-0",
                               "isStatic": false,
@@ -1601,7 +1601,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                           forwardedClass={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": undefined,
+                              "attrs": Array [],
                               "componentStyle": ComponentStyle {
                                 "componentId": "Input-a7ignf-0",
                                 "isStatic": false,
@@ -1704,7 +1704,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                               forwardedClass={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": undefined,
+                                  "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "c8",
                                     "isStatic": false,

@@ -36,7 +36,7 @@
     "ramda": "^0.25.0",
     "react-dnd-dropzone": "^1.0.0",
     "react-overlay-pack": "^3.0.2",
-    "react-spring": "^6.1.5",
+    "react-spring": "^6.1.8",
     "react-topbar-progress-indicator": "^2.0.0",
     "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0"
@@ -66,7 +66,7 @@
     "babel-plugin-add-module-exports": "1.0.0",
     "babel-plugin-require-context-hook": "1.0.0",
     "babel-plugin-styled-components": "1.8.0",
-    "babel-plugin-transform-react-remove-prop-types": "0.4.19",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.20",
     "codecov": "3.1.0",
     "enzyme": "3.7.0",
     "enzyme-adapter-react-16": "1.7.0",
@@ -94,7 +94,7 @@
     "prismjs": "1.15.0",
     "react": "16.6.1",
     "react-dom": "16.6.1",
-    "styled-components": "4.0.3"
+    "styled-components": "4.1.1"
   },
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "homepage": "https://github.com/Mediatek-Cloud/mcs-ui#readme",

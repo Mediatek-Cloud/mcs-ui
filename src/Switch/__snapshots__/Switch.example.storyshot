@@ -75,7 +75,7 @@ exports[`Storyshots Switch API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -152,7 +152,7 @@ exports[`Storyshots Switch API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -272,7 +272,7 @@ exports[`Storyshots Switch Overriding style 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switchexample__StyledSwitch-sc-1ju152o-0",
             "isStatic": false,
@@ -400,7 +400,7 @@ exports[`Storyshots Switch Stateful switch 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -645,7 +645,7 @@ exports[`Storyshots Switch With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -723,7 +723,7 @@ exports[`Storyshots Switch With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -801,7 +801,7 @@ exports[`Storyshots Switch With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -879,7 +879,7 @@ exports[`Storyshots Switch With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -957,7 +957,7 @@ exports[`Storyshots Switch With kind props 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switch-sc-1gxrito-0",
             "isStatic": false,
@@ -1077,7 +1077,7 @@ exports[`Storyshots Switch With scaling 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Switchexample__ScaledSwitch-sc-1ju152o-1",
             "isStatic": false,

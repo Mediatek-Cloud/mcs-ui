@@ -75,7 +75,7 @@ exports[`Storyshots SearchInput API 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-hla0ih-0",
               "isStatic": false,
@@ -155,7 +155,7 @@ exports[`Storyshots SearchInput API 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__StyledInput-hla0ih-1",
                     "isStatic": false,

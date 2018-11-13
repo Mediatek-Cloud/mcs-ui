@@ -24,7 +24,7 @@ exports[`Storyshots Panel API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Panel-sc-8vfb46-0",
           "isStatic": false,

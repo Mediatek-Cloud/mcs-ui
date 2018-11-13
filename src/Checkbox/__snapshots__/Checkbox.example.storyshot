@@ -115,7 +115,7 @@ exports[`Storyshots Checkbox API 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-sc-1jb6672-0",
               "isStatic": false,
@@ -176,7 +176,7 @@ exports[`Storyshots Checkbox API 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,
@@ -250,7 +250,7 @@ exports[`Storyshots Checkbox API 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-sc-1jb6672-0",
               "isStatic": false,
@@ -311,7 +311,7 @@ exports[`Storyshots Checkbox API 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,
@@ -590,7 +590,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -653,7 +653,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -734,7 +734,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -797,7 +797,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -878,7 +878,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -941,7 +941,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -1022,7 +1022,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -1085,7 +1085,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -1166,7 +1166,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -1229,7 +1229,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -1310,7 +1310,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -1373,7 +1373,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -1454,7 +1454,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
@@ -1517,7 +1517,7 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                   forwardedClass={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
-                      "attrs": undefined,
+                      "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
@@ -1732,7 +1732,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1795,7 +1795,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -1876,7 +1876,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -1939,7 +1939,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -2020,7 +2020,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -2083,7 +2083,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -2164,7 +2164,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -2227,7 +2227,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -2308,7 +2308,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
@@ -2371,7 +2371,7 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
@@ -2501,7 +2501,7 @@ exports[`Storyshots Checkbox With render props 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-sc-1jb6672-0",
               "isStatic": false,
@@ -2564,7 +2564,7 @@ exports[`Storyshots Checkbox With render props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,
@@ -2689,7 +2689,7 @@ exports[`Storyshots Checkbox With size props 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-sc-1jb6672-0",
               "isStatic": false,
@@ -2752,7 +2752,7 @@ exports[`Storyshots Checkbox With size props 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,
@@ -2878,7 +2878,7 @@ exports[`Storyshots Checkbox With state 1`] = `
         forwardedClass={
           Object {
             "$$typeof": Symbol(react.forward_ref),
-            "attrs": undefined,
+            "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__Container-sc-1jb6672-0",
               "isStatic": false,
@@ -2941,7 +2941,7 @@ exports[`Storyshots Checkbox With state 1`] = `
               forwardedClass={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
-                  "attrs": undefined,
+                  "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,

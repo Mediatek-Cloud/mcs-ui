@@ -10,7 +10,7 @@ exports[`Storyshots B API 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "B-sc-1ocntpk-0",
           "isStatic": true,
@@ -59,7 +59,7 @@ exports[`Storyshots B CJK 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "Heading-sc-1ol6ekh-0",
           "isStatic": false,
@@ -109,7 +109,7 @@ exports[`Storyshots B CJK 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "B-sc-1ocntpk-0",
                   "isStatic": true,
@@ -163,7 +163,7 @@ exports[`Storyshots B With color 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "P-sc-1ujgctf-0",
           "isStatic": false,
@@ -205,7 +205,7 @@ exports[`Storyshots B With color 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "B-sc-1ocntpk-0",
                 "isStatic": true,
@@ -259,7 +259,7 @@ exports[`Storyshots B Within <P> 1`] = `
     forwardedClass={
       Object {
         "$$typeof": Symbol(react.forward_ref),
-        "attrs": undefined,
+        "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "P-sc-1ujgctf-0",
           "isStatic": false,
@@ -300,7 +300,7 @@ exports[`Storyshots B Within <P> 1`] = `
           forwardedClass={
             Object {
               "$$typeof": Symbol(react.forward_ref),
-              "attrs": undefined,
+              "attrs": Array [],
               "componentStyle": ComponentStyle {
                 "componentId": "Small-sc-275w8q-0",
                 "isStatic": false,
@@ -332,7 +332,7 @@ exports[`Storyshots B Within <P> 1`] = `
                 forwardedClass={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": undefined,
+                    "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "B-sc-1ocntpk-0",
                       "isStatic": true,

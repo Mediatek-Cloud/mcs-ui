@@ -15,7 +15,7 @@ exports[`Storyshots Hr API 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
             "isStatic": false,
@@ -82,7 +82,7 @@ exports[`Storyshots Hr With children 1`] = `
       forwardedClass={
         Object {
           "$$typeof": Symbol(react.forward_ref),
-          "attrs": undefined,
+          "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__Wrapper-sc-1kwc7os-2",
             "isStatic": true,
@@ -114,7 +114,7 @@ exports[`Storyshots Hr With children 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
                   "isStatic": false,
@@ -150,7 +150,7 @@ exports[`Storyshots Hr With children 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Content-sc-1kwc7os-1",
                   "isStatic": false,
@@ -190,7 +190,7 @@ exports[`Storyshots Hr With children 1`] = `
             forwardedClass={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
-                "attrs": undefined,
+                "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledHr-sc-1kwc7os-0",
                   "isStatic": false,
