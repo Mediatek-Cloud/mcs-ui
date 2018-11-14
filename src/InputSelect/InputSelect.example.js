@@ -6,7 +6,7 @@ import { action } from '@storybook/addon-actions';
 import InputSelect from '.';
 import Button from '../Button';
 
-class StatefulInputSelect extends React.Component<{}, { value: string }> {
+class StatefulInputSelect extends React.PureComponent<{}, { value: string }> {
   state = { value: '' };
 
   menu = React.createRef();

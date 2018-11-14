@@ -17,7 +17,7 @@ export type Props = {
 };
 type State = { isOpen: boolean };
 
-class Popover extends React.Component<Props, State> {
+class Popover extends React.PureComponent<Props, State> {
   static defaultProps = {
     position: RIGHT_CENTER,
   };
@@ -49,22 +49,26 @@ class Popover extends React.Component<Props, State> {
         </div>
 
         {/* Note: Card */}
-        <Overlay
-          show={isOpen}
-          resize
-          target={target}
-          onOutsideClick={onHide}
-          {...position.card}
-        >
-          <StyledCard key="card" ref={innerRef}>
-            {content}
-          </StyledCard>
-        </Overlay>
+        {isOpen && (
+          <React.Fragment>
+            <Overlay
+              show={isOpen}
+              resize
+              target={target}
+              onOutsideClick={onHide}
+              {...position.card}
+            >
+              <StyledCard key="card" ref={innerRef}>
+                {content}
+              </StyledCard>
+            </Overlay>
 
-        {/* Note: Arrow */}
-        <Overlay show={isOpen} resize target={target} {...position.arrow}>
-          <Arrow key="arrow" />
-        </Overlay>
+            {/* Note: Arrow */}
+            <Overlay show={isOpen} resize target={target} {...position.arrow}>
+              <Arrow key="arrow" />
+            </Overlay>
+          </React.Fragment>
+        )}
       </React.Fragment>
     );
   }

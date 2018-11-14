@@ -26,7 +26,7 @@ export type Props = {
 };
 type InnerProps = WithSubmittingStateProps & Props;
 
-export class PureConfirmDialog extends React.Component<InnerProps> {
+export class PureConfirmDialog extends React.PureComponent<InnerProps> {
   static propTypes = {
     children: PropTypes.node.isRequired,
     show: PropTypes.bool.isRequired,

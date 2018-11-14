@@ -5,7 +5,7 @@ import { action } from '@storybook/addon-actions';
 import InputMultiSelect from '.';
 import { type Value } from '../InputOrder/type.flow';
 
-class StatefulInputMultiSelect extends React.Component<
+class StatefulInputMultiSelect extends React.PureComponent<
   {},
   { value: Array<Value> },
 > {

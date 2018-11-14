@@ -4,7 +4,7 @@ import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import InputRadio from '.';
 
-class StatefulInputRadio extends React.Component<*, { value: boolean }> {
+class StatefulInputRadio extends React.PureComponent<*, { value: boolean }> {
   state = { value: true };
 
   onChange = (value: boolean) => this.setState(() => ({ value }));

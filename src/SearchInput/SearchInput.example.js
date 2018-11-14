@@ -3,7 +3,7 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import SearchInput from '.';
 
-class StatefulSearchInput extends React.Component<{}, { value: string }> {
+class StatefulSearchInput extends React.PureComponent<{}, { value: string }> {
   state = { value: '' };
 
   onChange = e => this.setState({ value: e.target.value });

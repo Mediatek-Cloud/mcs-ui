@@ -35,7 +35,7 @@ export type InnerProps = {
   ) => React.Node,
 };
 
-class InputOrder extends React.Component<InnerProps> {
+class InputOrder extends React.PureComponent<InnerProps> {
   static defaultProps = {
     height: HEIGHT,
     kind: 'primary',

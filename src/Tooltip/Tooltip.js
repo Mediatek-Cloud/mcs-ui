@@ -6,7 +6,7 @@ import { StyledCard } from './styled-components';
 import Arrow from './Arrow';
 import { TOP_CENTER } from './position.config';
 
-class Tooltip extends React.Component<
+class Tooltip extends React.PureComponent<
   {
     children: React.Node,
     content: React.Node,
@@ -50,29 +50,33 @@ class Tooltip extends React.Component<
         </div>
 
         {/* Note: Card */}
-        <Overlay
-          show={isOpen}
-          resize
-          target={target}
-          onOutsideClick={onHide}
-          style={{ pointerEvents: 'none' }}
-          {...position.card}
-        >
-          <StyledCard key="card" ref={innerRef} onMouseOver={onMouseOver}>
-            {content}
-          </StyledCard>
-        </Overlay>
+        {isOpen && (
+          <React.Fragment>
+            <Overlay
+              show={isOpen}
+              resize
+              target={target}
+              onOutsideClick={onHide}
+              style={{ pointerEvents: 'none' }}
+              {...position.card}
+            >
+              <StyledCard key="card" ref={innerRef} onMouseOver={onMouseOver}>
+                {content}
+              </StyledCard>
+            </Overlay>
 
-        {/* Note: Arrow */}
-        <Overlay
-          show={isOpen}
-          resize
-          target={target}
-          style={{ pointerEvents: 'none' }}
-          {...position.arrow}
-        >
-          <Arrow key="arrow" />
-        </Overlay>
+            {/* Note: Arrow */}
+            <Overlay
+              show={isOpen}
+              resize
+              target={target}
+              style={{ pointerEvents: 'none' }}
+              {...position.arrow}
+            >
+              <Arrow key="arrow" />
+            </Overlay>
+          </React.Fragment>
+        )}
       </React.Fragment>
     );
   }

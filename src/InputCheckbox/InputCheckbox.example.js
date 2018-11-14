@@ -5,7 +5,10 @@ import { action } from '@storybook/addon-actions';
 import InputCheckbox from '.';
 import Checkbox from '../Checkbox';
 
-class StatefulInputCheckbox extends React.Component<any, { value: boolean }> {
+class StatefulInputCheckbox extends React.PureComponent<
+  any,
+  { value: boolean },
+> {
   state = { value: true };
 
   onChange = (value: boolean) => this.setState(() => ({ value }));

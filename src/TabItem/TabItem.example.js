@@ -4,7 +4,7 @@ import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import TabItem from '.';
 
-class StatefulTabItems extends React.Component<any, { value: string }> {
+class StatefulTabItems extends React.PureComponent<any, { value: string }> {
   static propTypes = {
     items: PropTypes.arrayOf(PropTypes.number).isRequired,
   };

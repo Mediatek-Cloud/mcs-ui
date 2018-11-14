@@ -18,7 +18,7 @@ export type InnerProps = {
   color: Color,
 };
 
-class TabItem extends React.Component<Props> {
+class TabItem extends React.PureComponent<Props> {
   static propTypes = {
     value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
     onClick: PropTypes.func, // (e, value) => void
