@@ -1,5 +1,14 @@
 ## Change Log
 
+### v1.0.7 (2018/11/14 02:17 +00:00)
+
+- [671515b](https://github.com/Mediatek-Cloud/mcs-ui/commit/671515bf68d8eaed7b5b8646d669afd12fd3ef3f) 1.0.7 (@evenchange4)
+- [#61](https://github.com/Mediatek-Cloud/mcs-ui/pull/61) refactor(Overlay): performance tunning & use PureComponet (#61) (@evenchange4)
+- [#60](https://github.com/Mediatek-Cloud/mcs-ui/pull/60) chore(deps): update babel monorepo to v7.1.6 (#60) (@renovate[bot])
+- [#59](https://github.com/Mediatek-Cloud/mcs-ui/pull/59) chore(deps): update storybook monorepo to v4.0.6 (#59) (@renovate[bot])
+- [#58](https://github.com/Mediatek-Cloud/mcs-ui/pull/58) chore(deps): update dependency husky to v1.1.4 (#58) (@renovate[bot])
+- [6abd6fc](https://github.com/Mediatek-Cloud/mcs-ui/commit/6abd6fca990d0a80e3708f480fa7eaa4db89c38a) docs(CHANGELOG): release 1.0.6 (@evenchange4)
+
 ### v1.0.6 (2018/11/13 08:54 +00:00)
 
 - [fad4845](https://github.com/Mediatek-Cloud/mcs-ui/commit/fad484511952269bc7f49f03bd4a37c3621dd2b9) 1.0.6 (@evenchange4)
