@@ -20,7 +20,7 @@ export type Props = {
 };
 type State = { isOpen: boolean };
 
-class DropdownMenu extends React.Component<Props, State> {
+class DropdownMenu extends React.PureComponent<Props, State> {
   static propTypes = {
     children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
     itemRenderer: PropTypes.func,
@@ -66,17 +66,19 @@ class DropdownMenu extends React.Component<Props, State> {
           {typeof children === 'function' ? children(renderProps) : children}
         </div>
 
-        <Overlay
-          show={isOpen}
-          resize
-          target={target}
-          onOutsideClick={onHide}
-          {...position}
-        >
-          <StyledMenu key="menu" ref={innerRef}>
-            {itemRenderer(renderProps)}
-          </StyledMenu>
-        </Overlay>
+        {isOpen && (
+          <Overlay
+            show={isOpen}
+            resize
+            target={target}
+            onOutsideClick={onHide}
+            {...position}
+          >
+            <StyledMenu key="menu" ref={innerRef}>
+              {itemRenderer(renderProps)}
+            </StyledMenu>
+          </Overlay>
+        )}
       </React.Fragment>
     );
   }

@@ -27,7 +27,7 @@ type State = {
   isOpen: boolean,
 };
 
-class Select extends React.Component<Props, State> {
+class Select extends React.PureComponent<Props, State> {
   static propTypes = {
     value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
     items: PropTypes.arrayOf(

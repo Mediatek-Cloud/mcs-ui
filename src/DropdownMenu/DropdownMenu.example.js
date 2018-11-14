@@ -20,7 +20,7 @@ const Wrapper: React.ComponentType<*> = styled.div`
   }
 `;
 
-class DropdownMenuWithRef extends React.Component<*> {
+class DropdownMenuWithRef extends React.PureComponent<*> {
   menu = React.createRef();
 
   onClick = () => {

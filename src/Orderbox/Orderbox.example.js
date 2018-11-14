@@ -3,7 +3,7 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import Orderbox from '.';
 
-class StatefulOrderbox extends React.Component<any, { value: number }> {
+class StatefulOrderbox extends React.PureComponent<any, { value: number }> {
   state = { value: 9 };
 
   onClick = () => {

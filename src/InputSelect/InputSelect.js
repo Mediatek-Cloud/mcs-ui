@@ -64,7 +64,7 @@ type State = {
 
 const defaultItemValueMapper = (item: ItemProps) => item.children;
 
-class PureInputSelect extends React.Component<InnerProps, State> {
+class PureInputSelect extends React.PureComponent<InnerProps, State> {
   static propTypes = {
     value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
     onChange: PropTypes.func.isRequired, // (value: any) => Promise<void> | void,

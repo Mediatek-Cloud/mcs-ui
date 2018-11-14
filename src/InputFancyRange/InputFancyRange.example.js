@@ -3,7 +3,10 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import InputFancyRange from '.';
 
-class StatefulInputFancyRange extends React.Component<{}, { value: number }> {
+class StatefulInputFancyRange extends React.PureComponent<
+  {},
+  { value: number },
+> {
   state = { value: 2 };
 
   onChange = (e: any) => this.setState({ value: parseFloat(e.target.value) });

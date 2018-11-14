@@ -7,7 +7,7 @@ import { IconPlay } from '../Icons';
 import IconCheck from '../IconCheck';
 import Checkbox from '.';
 
-class StatefulCheckbox extends React.Component<any, { value: boolean }> {
+class StatefulCheckbox extends React.PureComponent<any, { value: boolean }> {
   state = { value: true };
 
   onClick = () => {

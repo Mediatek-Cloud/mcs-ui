@@ -11,7 +11,7 @@ export type Props = {
   children?: React.Node,
 };
 
-class InputCheckbox extends React.Component<Props> {
+class InputCheckbox extends React.PureComponent<Props> {
   static propTypes = {
     value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
     onChange: PropTypes.func,

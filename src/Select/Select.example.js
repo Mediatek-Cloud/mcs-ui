@@ -3,7 +3,7 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 import Select from '.';
 
-class StatefulSelect extends React.Component<{}, { value: number }> {
+class StatefulSelect extends React.PureComponent<{}, { value: number }> {
   state = { value: 0 };
 
   onChange = (e: any) => this.setState({ value: parseFloat(e.target.value) });

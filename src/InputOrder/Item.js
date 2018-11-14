@@ -7,7 +7,7 @@ type Props = ItemProps & {
   onClick: Value => Promise<any> | any,
 };
 
-class Item extends React.Component<Props> {
+class Item extends React.PureComponent<Props> {
   onClick: any => void = () => {
     const { value, onClick } = this.props;
     onClick(value);

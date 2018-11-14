@@ -8,7 +8,7 @@ import { type Props } from './Switch';
 import Switch from '.';
 
 const withState = Component =>
-  class WithStateComponent extends React.Component<
+  class WithStateComponent extends React.PureComponent<
     Props,
     { checked: boolean },
   > {

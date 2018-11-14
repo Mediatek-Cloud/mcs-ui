@@ -10,7 +10,7 @@ export type Props = {
   children?: React.Node,
 };
 
-class InputRadio extends React.Component<Props> {
+class InputRadio extends React.PureComponent<Props> {
   static propTypes = {
     value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
     onChange: PropTypes.func,

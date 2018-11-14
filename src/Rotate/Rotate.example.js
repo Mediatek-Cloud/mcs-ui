@@ -13,7 +13,7 @@ const IconWrapper: React.ComponentType<*> = styled.div`
   cursor: pointer;
 `;
 
-class StatefulRotate extends React.Component<any, { isActive: boolean }> {
+class StatefulRotate extends React.PureComponent<any, { isActive: boolean }> {
   state = { isActive: false };
 
   onClick = () => this.setState(({ isActive }) => ({ isActive: !isActive }));

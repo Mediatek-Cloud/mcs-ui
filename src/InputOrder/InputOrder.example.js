@@ -6,7 +6,10 @@ import InputOrder from '.';
 import { type Value } from './type.flow';
 import Checkbox from '../Checkbox';
 
-class StatefulInputOrder extends React.Component<{}, { value: Array<Value> }> {
+class StatefulInputOrder extends React.PureComponent<
+  {},
+  { value: Array<Value> },
+> {
   state = { value: [] };
 
   onChange = (value: Array<Value>) => this.setState(() => ({ value }));
