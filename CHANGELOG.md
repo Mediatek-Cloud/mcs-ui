@@ -1,5 +1,13 @@
 ## Change Log
 
+### v1.0.8 (2018/11/20 08:56 +00:00)
+
+- [5091a57](https://github.com/Mediatek-Cloud/mcs-ui/commit/5091a57736b6ddaa3953f77e07e0a8e424703439) 1.0.8 (@evenchange4)
+- [599b029](https://github.com/Mediatek-Cloud/mcs-ui/commit/599b029ee718f929cf186ef30e4e5aec6529329b) chore: ncu update & use node 11.2.0 (@evenchange4)
+- [#65](https://github.com/Mediatek-Cloud/mcs-ui/pull/65) fix(deps): update dependency ramda to ^0.26.0 (#65) (@renovate[bot])
+- [#62](https://github.com/Mediatek-Cloud/mcs-ui/pull/62) chore(deps): update storybook monorepo to v4.0.7 (#62) (@renovate[bot])
+- [06cd5fa](https://github.com/Mediatek-Cloud/mcs-ui/commit/06cd5fa78780a94e18211e6e9b8eb6e3f1054b14) docs(CHANGELOG): release 1.0.7 (@evenchange4)
+
 ### v1.0.7 (2018/11/14 02:17 +00:00)
 
 - [671515b](https://github.com/Mediatek-Cloud/mcs-ui/commit/671515bf68d8eaed7b5b8646d669afd12fd3ef3f) 1.0.7 (@evenchange4)
