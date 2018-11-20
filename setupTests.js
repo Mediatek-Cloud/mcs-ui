@@ -13,7 +13,7 @@ registerRequireContextHook();
 
 Enzyme.configure({ adapter: new Adapter() });
 
-jest.mock('rc-tween-one/lib/TweenOne', () => 'mock-TweenOne');
+jest.mock('rc-tween-one', () => 'mock-TweenOne');
 jest.mock('react-topbar-progress-indicator');
 jest.mock('echarts-for-react/lib/core', () => 'mock-ReactEchartsCore');
 jest.mock('echarts');
