@@ -26,7 +26,7 @@ export { default as IconCheck } from './IconCheck';
 export { default as IconImage } from './IconImage';
 export { default as IconSort } from './IconSort';
 export { default as IconWarning } from './IconWarning';
-export { default as ImageDropZone } from './ImageDropZone';
+export { default as ImageDropzone } from './ImageDropzone';
 export { default as Input } from './Input';
 export { default as InputCheckbox } from './InputCheckbox';
 export { default as InputFancyRange } from './InputFancyRange';

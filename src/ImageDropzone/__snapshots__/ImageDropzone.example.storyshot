@@ -67,7 +67,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
-                      "componentId": "Container-sc-2zzuhz-0",
+                      "componentId": "Container-gc9nux-0",
                       "isStatic": false,
                       "lastClassName": "c0",
                       "rules": Array [
@@ -115,7 +115,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
                       "src": [Function],
                     },
                     "render": [Function],
-                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "styledComponentId": "Container-gc9nux-0",
                     "target": "div",
                     "toString": [Function],
                     "warnTooManyClasses": [Function],
@@ -278,7 +278,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
-                      "componentId": "Container-sc-2zzuhz-0",
+                      "componentId": "Container-gc9nux-0",
                       "isStatic": false,
                       "lastClassName": "c0",
                       "rules": Array [
@@ -326,7 +326,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                       "src": [Function],
                     },
                     "render": [Function],
-                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "styledComponentId": "Container-gc9nux-0",
                     "target": "div",
                     "toString": [Function],
                     "warnTooManyClasses": [Function],
@@ -569,7 +569,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
-                      "componentId": "Container-sc-2zzuhz-0",
+                      "componentId": "Container-gc9nux-0",
                       "isStatic": false,
                       "lastClassName": "c0",
                       "rules": Array [
@@ -617,7 +617,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                       "src": [Function],
                     },
                     "render": [Function],
-                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "styledComponentId": "Container-gc9nux-0",
                     "target": "div",
                     "toString": [Function],
                     "warnTooManyClasses": [Function],
@@ -638,7 +638,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
-                            "componentId": "LoadingWrapper-f6hqxt-0",
+                            "componentId": "LoadingWrapper-sc-1ifvrz0-0",
                             "isStatic": false,
                             "lastClassName": "c1",
                             "rules": Array [
@@ -680,7 +680,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                           },
                           "displayName": "LoadingWrapper",
                           "render": [Function],
-                          "styledComponentId": "LoadingWrapper-f6hqxt-0",
+                          "styledComponentId": "LoadingWrapper-sc-1ifvrz0-0",
                           "target": "div",
                           "toString": [Function],
                           "warnTooManyClasses": [Function],
@@ -907,7 +907,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
-                      "componentId": "Container-sc-2zzuhz-0",
+                      "componentId": "Container-gc9nux-0",
                       "isStatic": false,
                       "lastClassName": "c0",
                       "rules": Array [
@@ -955,7 +955,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
                       "src": [Function],
                     },
                     "render": [Function],
-                    "styledComponentId": "Container-sc-2zzuhz-0",
+                    "styledComponentId": "Container-gc9nux-0",
                     "target": "div",
                     "toString": [Function],
                     "warnTooManyClasses": [Function],
