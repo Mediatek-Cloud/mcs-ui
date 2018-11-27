@@ -1,5 +1,15 @@
 ## Change Log
 
+### v1.0.9 (2018/11/27 06:08 +00:00)
+
+- [81faa16](https://github.com/Mediatek-Cloud/mcs-ui/commit/81faa1657213ddacf7d5ddcb8722ce80d0792b15) 1.0.9 (@evenchange4)
+- [#73](https://github.com/Mediatek-Cloud/mcs-ui/pull/73) fix(ImageDropzone): typo: ImageDropZone -> ImageDropzone (#73) (@liuderchi)
+- [#70](https://github.com/Mediatek-Cloud/mcs-ui/pull/70) chore(deps): update storybook monorepo to v4.0.9 (#70) (@renovate[bot])
+- [#72](https://github.com/Mediatek-Cloud/mcs-ui/pull/72) chore(deps): update dependency babel-plugin-styled-components to v1.9.0 (#72) (@renovate[bot])
+- [#71](https://github.com/Mediatek-Cloud/mcs-ui/pull/71) chore(deps): update dependency eslint-plugin-jest to v22.0.1 (#71) (@renovate[bot])
+- [#69](https://github.com/Mediatek-Cloud/mcs-ui/pull/69) chore: ncu update (#69) (@evenchange4)
+- [9542762](https://github.com/Mediatek-Cloud/mcs-ui/commit/95427621af2f7aedf1c49c25b23a23c7dc212b8f) docs(CHANGELOG): release 1.0.8 (@evenchange4)
+
 ### v1.0.8 (2018/11/20 08:56 +00:00)
 
 - [5091a57](https://github.com/Mediatek-Cloud/mcs-ui/commit/5091a57736b6ddaa3953f77e07e0a8e424703439) 1.0.8 (@evenchange4)
