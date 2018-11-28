@@ -1,5 +1,11 @@
 ## Change Log
 
+### v1.1.1 (2018/11/28 08:28 +00:00)
+
+- [68a71e8](https://github.com/Mediatek-Cloud/mcs-ui/commit/68a71e8a937d3d4a3b874cb0a74d0fd862ca85da) 1.1.1 (@evenchange4)
+- [1385efa](https://github.com/Mediatek-Cloud/mcs-ui/commit/1385efa53fe1a991b5548210290e57e4143b436e) chore: ncu update (@evenchange4)
+- [b4e2248](https://github.com/Mediatek-Cloud/mcs-ui/commit/b4e22484fadc3f547c40dc9a6014fbdf04027668) docs(CHANGELOG): release 1.1.0 (@evenchange4)
+
 ### v1.1.0 (2018/11/28 05:46 +00:00)
 
 - [6e6324c](https://github.com/Mediatek-Cloud/mcs-ui/commit/6e6324c367de7a76169d30f62c73849cbd50c157) 1.1.0 (@evenchange4)
