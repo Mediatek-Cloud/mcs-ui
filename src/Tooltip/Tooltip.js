@@ -25,7 +25,7 @@ class Tooltip extends React.PureComponent<
 
   state = { isOpen: false };
 
-  target = React.createRef();
+  target = React.createRef<React.ElementRef<'div'>>();
 
   onMouseOver = () => this.setState(() => ({ isOpen: true }));
 
