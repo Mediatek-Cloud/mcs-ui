@@ -5,12 +5,11 @@ import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import InputSelect from '.';
 import Button from '../Button';
-import { StyledMenu } from './styled-components';
 
 class StatefulInputSelect extends React.PureComponent<{}, { value: string }> {
   state = { value: '' };
 
-  menu = React.createRef<React.ElementRef<typeof StyledMenu>>();
+  menu = React.createRef();
 
   onChange = (value: string) => {
     this.setState(() => ({ value }));
