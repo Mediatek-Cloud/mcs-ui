@@ -1,0 +1,489 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots CopyButton API 1`] = `
+.c0 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 40px;
+  height: 20px;
+  padding: 0 5px;
+  font-size: 0.923rem;
+  border-color: rgb(0,130,179);
+  display: block;
+}
+
+.c0:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c0:active {
+  background-color: rgb(0,144,198);
+}
+
+.c1 {
+  visibility: visible;
+}
+
+<CopyButton
+  text="devieKey"
+>
+  <styled-components__StyledButton
+    active={false}
+    block={false}
+    disabled={false}
+    kind="primary"
+    onClick={[Function]}
+    round={false}
+    size="small"
+    square={false}
+  >
+    <StyledComponent
+      active={false}
+      block={false}
+      disabled={false}
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__StyledButton-sc-140miaj-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+              [Function],
+              ";
+
+  &:hover {
+    background-color: ",
+              [Function],
+              ";
+  }
+
+  &:active {
+    background-color: ",
+              [Function],
+              ";
+  }
+
+  background-color: ",
+              [Function],
+              ";
+  color: ",
+              [Function],
+              ";
+  border-radius: ",
+              [Function],
+              ";
+  width: ",
+              [Function],
+              ";
+  min-width: ",
+              [Function],
+              ";
+  height: ",
+              [Function],
+              ";
+  padding: ",
+              [Function],
+              ";
+  font-size: ",
+              [Function],
+              ";
+  border-color: ",
+              [Function],
+              ";
+",
+              "
+  display: block;
+",
+            ],
+          },
+          "defaultProps": Object {
+            "active": false,
+            "block": false,
+            "disabled": false,
+            "kind": "primary",
+            "round": false,
+            "size": "normal",
+            "square": false,
+          },
+          "displayName": "styled-components__StyledButton",
+          "propTypes": Object {
+            "active": [Function],
+            "block": [Function],
+            "disabled": [Function],
+            "kind": [Function],
+            "round": [Function],
+            "size": [Function],
+            "square": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "styled-components__StyledButton-sc-140miaj-0",
+          "target": "button",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      kind="primary"
+      onClick={[Function]}
+      round={false}
+      size="small"
+      square={false}
+    >
+      <button
+        className="c0"
+        disabled={false}
+        kind="primary"
+        onClick={[Function]}
+        size="small"
+      >
+        <styled-components__ChildrenWrapper
+          show={true}
+        >
+          <StyledComponent
+            forwardedClass={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  visibility: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__ChildrenWrapper",
+                "render": [Function],
+                "styledComponentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={true}
+          >
+            <div
+              className="c1"
+            >
+              Copy
+            </div>
+          </StyledComponent>
+        </styled-components__ChildrenWrapper>
+      </button>
+    </StyledComponent>
+  </styled-components__StyledButton>
+</CopyButton>
+`;
+
+exports[`Storyshots CopyButton With Flex 1`] = `
+.c0 {
+  color: #00A1DE;
+  -webkit-transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: rgb(0,151,208);
+}
+
+.c0:active {
+  color: rgb(0,144,198);
+}
+
+.c1 {
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: background-color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #00A1DE;
+  color: #FFFFFF;
+  border-radius: 3px;
+  width: initial;
+  min-width: 40px;
+  height: 20px;
+  padding: 0 5px;
+  font-size: 0.923rem;
+  border-color: rgb(0,130,179);
+  display: block;
+}
+
+.c1:hover {
+  background-color: rgb(0,151,208);
+}
+
+.c1:active {
+  background-color: rgb(0,144,198);
+}
+
+.c2 {
+  visibility: visible;
+}
+
+<div
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <A
+    color="primary"
+  >
+    <StyledComponent
+      color="primary"
+      forwardedClass={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "A-sc-1bkdbcq-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+              [Function],
+              ";
+  }
+  &:active {
+    color: ",
+              [Function],
+              ";
+  }
+",
+            ],
+          },
+          "defaultProps": Object {
+            "color": "primary",
+          },
+          "displayName": "A",
+          "propTypes": Object {
+            "color": [Function],
+          },
+          "render": [Function],
+          "styledComponentId": "A-sc-1bkdbcq-0",
+          "target": "a",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="c0"
+        color="primary"
+      >
+        6f52d070-bdd5-44da-af68-9a4a9950ec7c
+      </a>
+    </StyledComponent>
+  </A>
+  <CopyButton
+    text="6f52d070-bdd5-44da-af68-9a4a9950ec7c"
+  >
+    <styled-components__StyledButton
+      active={false}
+      block={false}
+      disabled={false}
+      kind="primary"
+      onClick={[Function]}
+      round={false}
+      size="small"
+      square={false}
+    >
+      <StyledComponent
+        active={false}
+        block={false}
+        disabled={false}
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "styled-components__StyledButton-sc-140miaj-0",
+              "isStatic": false,
+              "lastClassName": "c1",
+              "rules": Array [
+                "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                [Function],
+                ";
+
+  &:hover {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  &:active {
+    background-color: ",
+                [Function],
+                ";
+  }
+
+  background-color: ",
+                [Function],
+                ";
+  color: ",
+                [Function],
+                ";
+  border-radius: ",
+                [Function],
+                ";
+  width: ",
+                [Function],
+                ";
+  min-width: ",
+                [Function],
+                ";
+  height: ",
+                [Function],
+                ";
+  padding: ",
+                [Function],
+                ";
+  font-size: ",
+                [Function],
+                ";
+  border-color: ",
+                [Function],
+                ";
+",
+                "
+  display: block;
+",
+              ],
+            },
+            "defaultProps": Object {
+              "active": false,
+              "block": false,
+              "disabled": false,
+              "kind": "primary",
+              "round": false,
+              "size": "normal",
+              "square": false,
+            },
+            "displayName": "styled-components__StyledButton",
+            "propTypes": Object {
+              "active": [Function],
+              "block": [Function],
+              "disabled": [Function],
+              "kind": [Function],
+              "round": [Function],
+              "size": [Function],
+              "square": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "styled-components__StyledButton-sc-140miaj-0",
+            "target": "button",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        kind="primary"
+        onClick={[Function]}
+        round={false}
+        size="small"
+        square={false}
+      >
+        <button
+          className="c1"
+          disabled={false}
+          kind="primary"
+          onClick={[Function]}
+          size="small"
+        >
+          <styled-components__ChildrenWrapper
+            show={true}
+          >
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
+                    "isStatic": false,
+                    "lastClassName": "c2",
+                    "rules": Array [
+                      "
+  visibility: ",
+                      [Function],
+                      ";
+",
+                    ],
+                  },
+                  "displayName": "styled-components__ChildrenWrapper",
+                  "render": [Function],
+                  "styledComponentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              show={true}
+            >
+              <div
+                className="c2"
+              >
+                Copy
+              </div>
+            </StyledComponent>
+          </styled-components__ChildrenWrapper>
+        </button>
+      </StyledComponent>
+    </styled-components__StyledButton>
+  </CopyButton>
+</div>
+`;

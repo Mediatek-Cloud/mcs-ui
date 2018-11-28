@@ -26,6 +26,7 @@
     "changelog": "github-changes -o Mediatek-Cloud -r mcs-ui -b master -f ./CHANGELOG.md --order-semver --use-commit-body"
   },
   "dependencies": {
+    "copy-to-clipboard": "^3.0.8",
     "d3-color": "^1.2.3",
     "date-fns": "^2.0.0-alpha.25",
     "debug": "^4.1.0",
@@ -190,7 +191,7 @@
     "resetModules": true,
     "coverageThreshold": {
       "global": {
-        "branches": 72,
+        "branches": 71,
         "functions": 81,
         "lines": 89,
         "statements": 86
