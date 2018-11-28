@@ -16,6 +16,7 @@ export { default as ButtonText } from './ButtonText';
 export { default as Card } from './Card';
 export { default as Checkbox } from './Checkbox';
 export { default as ConfirmDialog } from './ConfirmDialog';
+export { default as CopyButton } from './CopyButton';
 export { default as DropdownMenu } from './DropdownMenu';
 export { default as EChart } from './EChart';
 export { default as Gauge } from './Gauge';
