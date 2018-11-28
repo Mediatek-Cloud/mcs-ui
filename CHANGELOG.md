@@ -1,5 +1,13 @@
 ## Change Log
 
+### v1.1.0 (2018/11/28 05:46 +00:00)
+
+- [6e6324c](https://github.com/Mediatek-Cloud/mcs-ui/commit/6e6324c367de7a76169d30f62c73849cbd50c157) 1.1.0 (@evenchange4)
+- [38763f6](https://github.com/Mediatek-Cloud/mcs-ui/commit/38763f6180f4ebf61b576ffa379a8e077a5b5b0e) fix(emptyFunction): update flow type (@evenchange4)
+- [#79](https://github.com/Mediatek-Cloud/mcs-ui/pull/79) feat: add new CopyButton (#79) (@evenchange4)
+- [#78](https://github.com/Mediatek-Cloud/mcs-ui/pull/78) chore: ncu update & flow (#78) (@evenchange4)
+- [5e337b1](https://github.com/Mediatek-Cloud/mcs-ui/commit/5e337b1d156989a1bc81f82d9b2bd29641528fde) docs(CHANGELOG): release 1.0.9 (@evenchange4)
+
 ### v1.0.9 (2018/11/27 06:08 +00:00)
 
 - [81faa16](https://github.com/Mediatek-Cloud/mcs-ui/commit/81faa1657213ddacf7d5ddcb8722ce80d0792b15) 1.0.9 (@evenchange4)
