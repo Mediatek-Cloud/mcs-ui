@@ -33,7 +33,7 @@
     "echarts-for-react": "^2.0.15-beta.0",
     "prop-types": "^15.6.2",
     "raf-throttle": "^2.0.3",
-    "ramda": "^0.26.0",
+    "ramda": "^0.26.1",
     "react-dnd-dropzone": "^1.0.0",
     "react-overlay-pack": "^3.0.5",
     "react-spring": "^6.1.9",
