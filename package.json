@@ -36,7 +36,7 @@
     "raf-throttle": "^2.0.3",
     "ramda": "^0.26.1",
     "react-dnd-dropzone": "^1.0.0",
-    "react-overlay-pack": "^3.0.5",
+    "react-overlay-pack": "^3.0.6",
     "react-spring": "^6.1.9",
     "react-topbar-progress-indicator": "^2.0.0",
     "react-virtualized": "^9.21.0",
