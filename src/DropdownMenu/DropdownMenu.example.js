@@ -7,8 +7,9 @@ import { IconFold } from '../Icons';
 import DropdownMenu from './DropdownMenu';
 import MenuItem from '../MenuItem';
 import Rotate from '../Rotate';
-import { StyledButton } from './styled-components';
+import { StyledButton, StyledMenu } from './styled-components';
 import { BOTTOM_RIGHT, BOTTOM_LEFT } from './position.config';
+import { type ReactRef } from '../utils/type.flow';
 
 const Wrapper: React.ComponentType<*> = styled.div`
   display: inline-flex;
@@ -21,11 +22,16 @@ const Wrapper: React.ComponentType<*> = styled.div`
 `;
 
 class DropdownMenuWithRef extends React.PureComponent<*> {
-  menu = React.createRef();
+  constructor(props) {
+    super(props);
+    this.menu = React.createRef();
+  }
 
   onClick = () => {
     action('WithRef')(this.menu);
   };
+
+  menu: ReactRef<React.ElementRef<typeof StyledMenu>>;
 
   render() {
     const { menu, onClick } = this;

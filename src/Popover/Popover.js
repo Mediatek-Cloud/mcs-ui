@@ -24,7 +24,7 @@ class Popover extends React.PureComponent<Props, State> {
 
   state = { isOpen: false };
 
-  target = React.createRef();
+  target = React.createRef<React.ElementRef<'div'>>();
 
   onClick = () => this.setState(({ isOpen }) => ({ isOpen: !isOpen }));
 
