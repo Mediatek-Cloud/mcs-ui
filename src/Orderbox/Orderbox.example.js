@@ -28,7 +28,7 @@ storiesOf('Orderbox', module)
     () => (
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         {[-1, 0.1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 50, 99, 100].map(value => (
-          <Orderbox value={value} />
+          <Orderbox key={value} value={value} />
         ))}
       </div>
     ),

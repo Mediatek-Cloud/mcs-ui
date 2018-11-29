@@ -82,7 +82,7 @@ exports[`Storyshots TabItem API 1`] = `
     >
       <StyledComponent
         color="primary"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -130,6 +130,7 @@ exports[`Storyshots TabItem API 1`] = `
               ],
             },
             "displayName": "styled-components__Item",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
@@ -168,7 +169,7 @@ exports[`Storyshots TabItem API 1`] = `
       <StyledComponent
         active={true}
         color="primary"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -216,6 +217,7 @@ exports[`Storyshots TabItem API 1`] = `
               ],
             },
             "displayName": "styled-components__Item",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
@@ -324,7 +326,7 @@ exports[`Storyshots TabItem With color props 1`] = `
     >
       <StyledComponent
         color="warning"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -372,6 +374,7 @@ exports[`Storyshots TabItem With color props 1`] = `
               ],
             },
             "displayName": "styled-components__Item",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
@@ -410,7 +413,7 @@ exports[`Storyshots TabItem With color props 1`] = `
       <StyledComponent
         active={true}
         color="warning"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -458,6 +461,7 @@ exports[`Storyshots TabItem With color props 1`] = `
               ],
             },
             "displayName": "styled-components__Item",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Item-wx6451-0",
             "target": "div",
@@ -545,7 +549,7 @@ exports[`Storyshots TabItem With state 1`] = `
         <StyledComponent
           active={false}
           color="primary"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -593,6 +597,7 @@ exports[`Storyshots TabItem With state 1`] = `
                 ],
               },
               "displayName": "styled-components__Item",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",
@@ -632,7 +637,7 @@ exports[`Storyshots TabItem With state 1`] = `
         <StyledComponent
           active={false}
           color="primary"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -680,6 +685,7 @@ exports[`Storyshots TabItem With state 1`] = `
                 ],
               },
               "displayName": "styled-components__Item",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",
@@ -719,7 +725,7 @@ exports[`Storyshots TabItem With state 1`] = `
         <StyledComponent
           active={false}
           color="primary"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -767,6 +773,7 @@ exports[`Storyshots TabItem With state 1`] = `
                 ],
               },
               "displayName": "styled-components__Item",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Item-wx6451-0",
               "target": "div",

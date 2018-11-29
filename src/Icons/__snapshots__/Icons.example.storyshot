@@ -42,7 +42,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconAccount"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -86,6 +86,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -121,7 +122,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconAdd"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -165,6 +166,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -200,7 +202,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconArrowDropDown"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -244,6 +246,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -279,7 +282,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconArrowLeft"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -323,6 +326,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -358,7 +362,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconArrowNarrow"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -402,6 +406,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -437,7 +442,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconAvatar"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -481,6 +486,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -516,7 +522,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconCalendar"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -560,6 +566,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -595,7 +602,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconChevronRight"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -639,6 +646,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -674,7 +682,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconClose"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -718,6 +726,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -753,7 +762,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconCloudDownloadOutline"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -797,6 +806,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -832,7 +842,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconCloudUpload"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -876,6 +886,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -911,7 +922,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconData"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -955,6 +966,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -990,7 +1002,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDataUsage"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1034,6 +1046,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1069,7 +1082,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDelete"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1113,6 +1126,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1148,7 +1162,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDevelopment"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1192,6 +1206,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1227,7 +1242,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDevice"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1271,6 +1286,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1306,7 +1322,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDisplayImg"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1350,6 +1366,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1385,7 +1402,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconDone"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1429,6 +1446,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1464,7 +1482,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconEdit"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1508,6 +1526,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1543,7 +1562,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconEditOutline"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1587,6 +1606,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1622,7 +1642,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconExport"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1666,6 +1686,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1701,7 +1722,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconFileOutline"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1745,6 +1766,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1780,7 +1802,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconFold"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1824,6 +1846,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1859,7 +1882,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconFullScreen"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1903,6 +1926,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -1938,7 +1962,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconGoDown"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1982,6 +2006,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2017,7 +2042,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconHelp"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2061,6 +2086,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2096,7 +2122,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconLink"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2140,6 +2166,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2175,7 +2202,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconList"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2219,6 +2246,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2254,7 +2282,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconLoading"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2298,6 +2326,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2337,7 +2366,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconLogout"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2381,6 +2410,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2416,7 +2446,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconMenu"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2460,6 +2490,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2495,7 +2526,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconMoreVert"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2539,6 +2570,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2574,7 +2606,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconNotification"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2618,6 +2650,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2653,7 +2686,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconOnPremise"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2697,6 +2730,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2732,7 +2766,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconOverview"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2776,6 +2810,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2811,7 +2846,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconPause"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2855,6 +2890,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2890,7 +2926,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconPlay"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2934,6 +2970,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -2969,7 +3006,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconPrototype"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3013,6 +3050,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3048,7 +3086,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconPublic"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3092,6 +3130,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3127,7 +3166,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconRefresh"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3171,6 +3210,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3206,7 +3246,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconResources"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3250,6 +3290,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3285,7 +3326,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconRicherTriggerRules"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3329,6 +3370,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3364,7 +3406,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconScene"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3408,6 +3450,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3443,7 +3486,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconSearch"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3487,6 +3530,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3522,7 +3566,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconSetting"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3566,6 +3610,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3601,7 +3646,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconStop"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3645,6 +3690,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3680,7 +3726,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconSync"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3724,6 +3770,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3759,7 +3806,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconTestDevice"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3803,6 +3850,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3838,7 +3886,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconUnfold"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3882,6 +3930,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",
@@ -3917,7 +3966,7 @@ exports[`Storyshots Icons List 1`] = `
     key="IconUnlimited"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3961,6 +4010,7 @@ exports[`Storyshots Icons List 1`] = `
             ],
           },
           "displayName": "Iconsexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Iconsexample__IconWrapper-f2ede-0",
           "target": "div",

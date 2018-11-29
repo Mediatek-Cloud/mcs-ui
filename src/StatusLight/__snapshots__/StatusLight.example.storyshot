@@ -20,7 +20,7 @@ exports[`Storyshots StatusLight API 1`] = `
   >
     <StyledComponent
       color="grayBase"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -42,6 +42,7 @@ exports[`Storyshots StatusLight API 1`] = `
             ],
           },
           "displayName": "StatusLight__Svg",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "StatusLight__Svg-lwy0gd-0",
           "target": "svg",
@@ -89,7 +90,7 @@ exports[`Storyshots StatusLight Custom width 1`] = `
 >
   <StyledComponent
     color="warning"
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -104,6 +105,7 @@ exports[`Storyshots StatusLight Custom width 1`] = `
           ],
         },
         "displayName": "StatusLightexample__StyledStatusLight",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "StatusLightexample__StyledStatusLight-sc-901ayv-0",
         "target": [Function],
@@ -127,7 +129,7 @@ exports[`Storyshots StatusLight Custom width 1`] = `
         <StyledComponent
           className="c0"
           color="warning"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -149,6 +151,7 @@ exports[`Storyshots StatusLight Custom width 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -282,7 +285,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="black"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -304,6 +307,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -343,7 +347,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="grayDark"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -365,6 +369,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -404,7 +409,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="grayBase"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -426,6 +431,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -465,7 +471,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="grayLight"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -487,6 +493,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -526,7 +533,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="white"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -548,6 +555,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -587,7 +595,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="default"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -609,6 +617,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -648,7 +657,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="primary"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -670,6 +679,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -709,7 +719,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="success"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -731,6 +741,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -770,7 +781,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="error"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -792,6 +803,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",
@@ -831,7 +843,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
       >
         <StyledComponent
           color="warning"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -853,6 +865,7 @@ exports[`Storyshots StatusLight With color props 1`] = `
                 ],
               },
               "displayName": "StatusLight__Svg",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "StatusLight__Svg-lwy0gd-0",
               "target": "svg",

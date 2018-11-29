@@ -199,7 +199,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -214,6 +214,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
           "target": "div",
@@ -229,7 +230,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
       >
         <styled-components__StyledInputGroup>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -325,6 +326,9 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledInputGroup",
+                "foldedComponentIds": Array [
+                  "InputGroup-clww0l-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                 "target": "div",
@@ -346,7 +350,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
               >
                 <StyledComponent
                   focus={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -404,6 +408,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                         "kind": "primary",
                       },
                       "displayName": "Input",
+                      "foldedComponentIds": Array [],
                       "propTypes": Object {
                         "focus": [Function],
                         "kind": [Function],
@@ -442,7 +447,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                   active={false}
                   block={false}
                   disabled={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -520,6 +525,9 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                         "square": false,
                       },
                       "displayName": "styled-components__StyledButton",
+                      "foldedComponentIds": Array [
+                        "Button-sc-4bw22c-0",
+                      ],
                       "propTypes": Object {
                         "active": [Function],
                         "block": [Function],
@@ -554,7 +562,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                     >
                       <StyledComponent
                         active={false}
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -580,6 +588,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                               "active": false,
                             },
                             "displayName": "Rotate",
+                            "foldedComponentIds": Array [],
                             "propTypes": Object {
                               "active": [Function],
                             },
@@ -624,7 +633,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
           value={2}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -655,6 +664,7 @@ exports[`Storyshots Select API - ReadOnly 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledSelect",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                 "target": "select",
@@ -903,7 +913,7 @@ exports[`Storyshots Select With disabled props 1`] = `
   >
     <styled-components__Wrapper>
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -918,6 +928,7 @@ exports[`Storyshots Select With disabled props 1`] = `
               ],
             },
             "displayName": "styled-components__Wrapper",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
             "target": "div",
@@ -933,7 +944,7 @@ exports[`Storyshots Select With disabled props 1`] = `
         >
           <styled-components__StyledInputGroup>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -1029,6 +1040,9 @@ exports[`Storyshots Select With disabled props 1`] = `
                     ],
                   },
                   "displayName": "styled-components__StyledInputGroup",
+                  "foldedComponentIds": Array [
+                    "InputGroup-clww0l-0",
+                  ],
                   "render": [Function],
                   "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                   "target": "div",
@@ -1051,7 +1065,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                 >
                   <StyledComponent
                     focus={false}
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1109,6 +1123,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                           "kind": "primary",
                         },
                         "displayName": "Input",
+                        "foldedComponentIds": Array [],
                         "propTypes": Object {
                           "focus": [Function],
                           "kind": [Function],
@@ -1149,7 +1164,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                     active={false}
                     block={false}
                     disabled={false}
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1227,6 +1242,9 @@ exports[`Storyshots Select With disabled props 1`] = `
                           "square": false,
                         },
                         "displayName": "styled-components__StyledButton",
+                        "foldedComponentIds": Array [
+                          "Button-sc-4bw22c-0",
+                        ],
                         "propTypes": Object {
                           "active": [Function],
                           "block": [Function],
@@ -1261,7 +1279,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                       >
                         <StyledComponent
                           active={false}
-                          forwardedClass={
+                          forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
                               "attrs": Array [],
@@ -1287,6 +1305,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                                 "active": false,
                               },
                               "displayName": "Rotate",
+                              "foldedComponentIds": Array [],
                               "propTypes": Object {
                                 "active": [Function],
                               },
@@ -1331,7 +1350,7 @@ exports[`Storyshots Select With disabled props 1`] = `
             value="SELECT/PLACEHOLDER_VALUE"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -1362,6 +1381,7 @@ exports[`Storyshots Select With disabled props 1`] = `
                     ],
                   },
                   "displayName": "styled-components__StyledSelect",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                   "target": "select",
@@ -1618,7 +1638,7 @@ exports[`Storyshots Select With focus props 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1633,6 +1653,7 @@ exports[`Storyshots Select With focus props 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
           "target": "div",
@@ -1648,7 +1669,7 @@ exports[`Storyshots Select With focus props 1`] = `
       >
         <styled-components__StyledInputGroup>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -1744,6 +1765,9 @@ exports[`Storyshots Select With focus props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledInputGroup",
+                "foldedComponentIds": Array [
+                  "InputGroup-clww0l-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                 "target": "div",
@@ -1765,7 +1789,7 @@ exports[`Storyshots Select With focus props 1`] = `
               >
                 <StyledComponent
                   focus={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -1823,6 +1847,7 @@ exports[`Storyshots Select With focus props 1`] = `
                         "kind": "primary",
                       },
                       "displayName": "Input",
+                      "foldedComponentIds": Array [],
                       "propTypes": Object {
                         "focus": [Function],
                         "kind": [Function],
@@ -1861,7 +1886,7 @@ exports[`Storyshots Select With focus props 1`] = `
                   active={true}
                   block={false}
                   disabled={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -1939,6 +1964,9 @@ exports[`Storyshots Select With focus props 1`] = `
                         "square": false,
                       },
                       "displayName": "styled-components__StyledButton",
+                      "foldedComponentIds": Array [
+                        "Button-sc-4bw22c-0",
+                      ],
                       "propTypes": Object {
                         "active": [Function],
                         "block": [Function],
@@ -1973,7 +2001,7 @@ exports[`Storyshots Select With focus props 1`] = `
                     >
                       <StyledComponent
                         active={true}
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -1999,6 +2027,7 @@ exports[`Storyshots Select With focus props 1`] = `
                               "active": false,
                             },
                             "displayName": "Rotate",
+                            "foldedComponentIds": Array [],
                             "propTypes": Object {
                               "active": [Function],
                             },
@@ -2043,7 +2072,7 @@ exports[`Storyshots Select With focus props 1`] = `
           value={2}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2074,6 +2103,7 @@ exports[`Storyshots Select With focus props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledSelect",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                 "target": "select",
@@ -2315,7 +2345,7 @@ exports[`Storyshots Select With kind props 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -2330,6 +2360,7 @@ exports[`Storyshots Select With kind props 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
           "target": "div",
@@ -2345,7 +2376,7 @@ exports[`Storyshots Select With kind props 1`] = `
       >
         <styled-components__StyledInputGroup>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2441,6 +2472,9 @@ exports[`Storyshots Select With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledInputGroup",
+                "foldedComponentIds": Array [
+                  "InputGroup-clww0l-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                 "target": "div",
@@ -2462,7 +2496,7 @@ exports[`Storyshots Select With kind props 1`] = `
               >
                 <StyledComponent
                   focus={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2520,6 +2554,7 @@ exports[`Storyshots Select With kind props 1`] = `
                         "kind": "primary",
                       },
                       "displayName": "Input",
+                      "foldedComponentIds": Array [],
                       "propTypes": Object {
                         "focus": [Function],
                         "kind": [Function],
@@ -2558,7 +2593,7 @@ exports[`Storyshots Select With kind props 1`] = `
                   active={false}
                   block={false}
                   disabled={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2636,6 +2671,9 @@ exports[`Storyshots Select With kind props 1`] = `
                         "square": false,
                       },
                       "displayName": "styled-components__StyledButton",
+                      "foldedComponentIds": Array [
+                        "Button-sc-4bw22c-0",
+                      ],
                       "propTypes": Object {
                         "active": [Function],
                         "block": [Function],
@@ -2670,7 +2708,7 @@ exports[`Storyshots Select With kind props 1`] = `
                     >
                       <StyledComponent
                         active={false}
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -2696,6 +2734,7 @@ exports[`Storyshots Select With kind props 1`] = `
                               "active": false,
                             },
                             "displayName": "Rotate",
+                            "foldedComponentIds": Array [],
                             "propTypes": Object {
                               "active": [Function],
                             },
@@ -2740,7 +2779,7 @@ exports[`Storyshots Select With kind props 1`] = `
           value={2}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2771,6 +2810,7 @@ exports[`Storyshots Select With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledSelect",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                 "target": "select",
@@ -3013,7 +3053,7 @@ exports[`Storyshots Select With required props 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3028,6 +3068,7 @@ exports[`Storyshots Select With required props 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1vavxcc-1",
           "target": "div",
@@ -3043,7 +3084,7 @@ exports[`Storyshots Select With required props 1`] = `
       >
         <styled-components__StyledInputGroup>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -3139,6 +3180,9 @@ exports[`Storyshots Select With required props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledInputGroup",
+                "foldedComponentIds": Array [
+                  "InputGroup-clww0l-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledInputGroup-sc-1vavxcc-0",
                 "target": "div",
@@ -3161,7 +3205,7 @@ exports[`Storyshots Select With required props 1`] = `
               >
                 <StyledComponent
                   focus={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -3219,6 +3263,7 @@ exports[`Storyshots Select With required props 1`] = `
                         "kind": "primary",
                       },
                       "displayName": "Input",
+                      "foldedComponentIds": Array [],
                       "propTypes": Object {
                         "focus": [Function],
                         "kind": [Function],
@@ -3259,7 +3304,7 @@ exports[`Storyshots Select With required props 1`] = `
                   active={false}
                   block={false}
                   disabled={false}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -3337,6 +3382,9 @@ exports[`Storyshots Select With required props 1`] = `
                         "square": false,
                       },
                       "displayName": "styled-components__StyledButton",
+                      "foldedComponentIds": Array [
+                        "Button-sc-4bw22c-0",
+                      ],
                       "propTypes": Object {
                         "active": [Function],
                         "block": [Function],
@@ -3371,7 +3419,7 @@ exports[`Storyshots Select With required props 1`] = `
                     >
                       <StyledComponent
                         active={false}
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -3397,6 +3445,7 @@ exports[`Storyshots Select With required props 1`] = `
                               "active": false,
                             },
                             "displayName": "Rotate",
+                            "foldedComponentIds": Array [],
                             "propTypes": Object {
                               "active": [Function],
                             },
@@ -3442,7 +3491,7 @@ exports[`Storyshots Select With required props 1`] = `
           value={2}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -3473,6 +3522,7 @@ exports[`Storyshots Select With required props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledSelect",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledSelect-sc-1vavxcc-2",
                 "target": "select",

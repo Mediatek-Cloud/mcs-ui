@@ -1,6 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots Toast API 1`] = `
+.c3 > *:nth-child(2) .c1 {
+  margin-top: 5px;
+}
+
 .c0 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
@@ -11,7 +15,7 @@ exports[`Storyshots Toast API 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c1 {
+.c2 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -27,6 +31,14 @@ exports[`Storyshots Toast API 1`] = `
   background-color: rgba(0,161,222,0.1);
 }
 
+.c4 > .c1 {
+  margin-top: 5px;
+}
+
+.c5 > .c1 {
+  margin-top: 5px;
+}
+
 <Toast
   kind="primary"
 >
@@ -34,7 +46,7 @@ exports[`Storyshots Toast API 1`] = `
     kind="primary"
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -61,6 +73,9 @@ exports[`Storyshots Toast API 1`] = `
             ],
           },
           "displayName": "styled-components__StyledCard",
+          "foldedComponentIds": Array [
+            "Card-lighsv-0",
+          ],
           "render": [Function],
           "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
           "target": "div",
@@ -80,14 +95,14 @@ exports[`Storyshots Toast API 1`] = `
           kind="primary"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                   "isStatic": false,
-                  "lastClassName": "c1",
+                  "lastClassName": "c2",
                   "rules": Array [
                     "
   margin: 0;
@@ -113,6 +128,9 @@ exports[`Storyshots Toast API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledP",
+                "foldedComponentIds": Array [
+                  "c1",
+                ],
                 "propTypes": Object {
                   "color": [Function],
                 },
@@ -128,7 +146,7 @@ exports[`Storyshots Toast API 1`] = `
             kind="primary"
           >
             <p
-              className="c1"
+              className="c1 c2"
               kind="primary"
             >
               Success! You have delete the item.
@@ -142,7 +160,11 @@ exports[`Storyshots Toast API 1`] = `
 `;
 
 exports[`Storyshots Toast With kind props 1`] = `
-.c3 {
+.c12 > *:nth-child(2) .c2 {
+  margin-top: 5px;
+}
+
+.c4 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
@@ -162,7 +184,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c5 {
+.c6 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
@@ -172,7 +194,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c7 {
+.c8 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
@@ -182,7 +204,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c9 {
+.c10 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
@@ -192,7 +214,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c4 {
+.c5 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -208,7 +230,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(0,161,222,0.1);
 }
 
-.c2 {
+.c3 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -224,7 +246,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(250,250,250,0.1);
 }
 
-.c6 {
+.c7 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -240,7 +262,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(105,190,40,0.1);
 }
 
-.c8 {
+.c9 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -256,7 +278,7 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(245,54,78,0.1);
 }
 
-.c10 {
+.c11 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -272,13 +294,21 @@ exports[`Storyshots Toast With kind props 1`] = `
   background-color: rgba(243,154,30,0.1);
 }
 
+.c13 > .c2 {
+  margin-top: 5px;
+}
+
+.c14 > .c2 {
+  margin-top: 5px;
+}
+
 .c0 > * {
   margin-bottom: 16px;
 }
 
 <Toastexample__DemoWrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -295,6 +325,7 @@ exports[`Storyshots Toast With kind props 1`] = `
           ],
         },
         "displayName": "Toastexample__DemoWrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Toastexample__DemoWrapper-sc-1ewmtuh-0",
         "target": "div",
@@ -316,14 +347,14 @@ exports[`Storyshots Toast With kind props 1`] = `
           kind="default"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
-                  "lastClassName": "c9",
+                  "lastClassName": "c10",
                   "rules": Array [
                     "
   box-sizing: border-box;
@@ -343,6 +374,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledCard",
+                "foldedComponentIds": Array [
+                  "Card-lighsv-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                 "target": "div",
@@ -362,14 +396,14 @@ exports[`Storyshots Toast With kind props 1`] = `
                 kind="default"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
-                        "lastClassName": "c10",
+                        "lastClassName": "c11",
                         "rules": Array [
                           "
   margin: 0;
@@ -395,6 +429,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__StyledP",
+                      "foldedComponentIds": Array [
+                        "c2",
+                      ],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -410,7 +447,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   kind="default"
                 >
                   <p
-                    className="c2"
+                    className="c2 c3"
                     kind="default"
                   >
                     default
@@ -430,14 +467,14 @@ exports[`Storyshots Toast With kind props 1`] = `
           kind="primary"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
-                  "lastClassName": "c9",
+                  "lastClassName": "c10",
                   "rules": Array [
                     "
   box-sizing: border-box;
@@ -457,6 +494,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledCard",
+                "foldedComponentIds": Array [
+                  "Card-lighsv-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                 "target": "div",
@@ -469,21 +509,21 @@ exports[`Storyshots Toast With kind props 1`] = `
             kind="primary"
           >
             <div
-              className="c3"
+              className="c4"
               kind="primary"
             >
               <styled-components__StyledP
                 kind="primary"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
-                        "lastClassName": "c10",
+                        "lastClassName": "c11",
                         "rules": Array [
                           "
   margin: 0;
@@ -509,6 +549,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__StyledP",
+                      "foldedComponentIds": Array [
+                        "c2",
+                      ],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -524,7 +567,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   kind="primary"
                 >
                   <p
-                    className="c4"
+                    className="c2 c5"
                     kind="primary"
                   >
                     primary
@@ -544,14 +587,14 @@ exports[`Storyshots Toast With kind props 1`] = `
           kind="success"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
-                  "lastClassName": "c9",
+                  "lastClassName": "c10",
                   "rules": Array [
                     "
   box-sizing: border-box;
@@ -571,6 +614,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledCard",
+                "foldedComponentIds": Array [
+                  "Card-lighsv-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                 "target": "div",
@@ -583,21 +629,21 @@ exports[`Storyshots Toast With kind props 1`] = `
             kind="success"
           >
             <div
-              className="c5"
+              className="c6"
               kind="success"
             >
               <styled-components__StyledP
                 kind="success"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
-                        "lastClassName": "c10",
+                        "lastClassName": "c11",
                         "rules": Array [
                           "
   margin: 0;
@@ -623,6 +669,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__StyledP",
+                      "foldedComponentIds": Array [
+                        "c2",
+                      ],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -638,7 +687,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   kind="success"
                 >
                   <p
-                    className="c6"
+                    className="c2 c7"
                     kind="success"
                   >
                     success
@@ -658,14 +707,14 @@ exports[`Storyshots Toast With kind props 1`] = `
           kind="error"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
-                  "lastClassName": "c9",
+                  "lastClassName": "c10",
                   "rules": Array [
                     "
   box-sizing: border-box;
@@ -685,6 +734,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledCard",
+                "foldedComponentIds": Array [
+                  "Card-lighsv-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                 "target": "div",
@@ -697,21 +749,21 @@ exports[`Storyshots Toast With kind props 1`] = `
             kind="error"
           >
             <div
-              className="c7"
+              className="c8"
               kind="error"
             >
               <styled-components__StyledP
                 kind="error"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
-                        "lastClassName": "c10",
+                        "lastClassName": "c11",
                         "rules": Array [
                           "
   margin: 0;
@@ -737,6 +789,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__StyledP",
+                      "foldedComponentIds": Array [
+                        "c2",
+                      ],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -752,7 +807,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   kind="error"
                 >
                   <p
-                    className="c8"
+                    className="c2 c9"
                     kind="error"
                   >
                     error
@@ -772,14 +827,14 @@ exports[`Storyshots Toast With kind props 1`] = `
           kind="warning"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                   "isStatic": false,
-                  "lastClassName": "c9",
+                  "lastClassName": "c10",
                   "rules": Array [
                     "
   box-sizing: border-box;
@@ -799,6 +854,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledCard",
+                "foldedComponentIds": Array [
+                  "Card-lighsv-0",
+                ],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                 "target": "div",
@@ -811,21 +869,21 @@ exports[`Storyshots Toast With kind props 1`] = `
             kind="warning"
           >
             <div
-              className="c9"
+              className="c10"
               kind="warning"
             >
               <styled-components__StyledP
                 kind="warning"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                         "isStatic": false,
-                        "lastClassName": "c10",
+                        "lastClassName": "c11",
                         "rules": Array [
                           "
   margin: 0;
@@ -851,6 +909,9 @@ exports[`Storyshots Toast With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__StyledP",
+                      "foldedComponentIds": Array [
+                        "c2",
+                      ],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -866,7 +927,7 @@ exports[`Storyshots Toast With kind props 1`] = `
                   kind="warning"
                 >
                   <p
-                    className="c10"
+                    className="c2 c11"
                     kind="warning"
                   >
                     warning

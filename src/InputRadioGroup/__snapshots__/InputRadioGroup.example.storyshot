@@ -81,7 +81,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
 
 <InputRadioGroup>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -100,6 +100,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
           ],
         },
         "displayName": "InputRadioGroup",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "InputRadioGroup-sc-1brt9al-0",
         "target": "div",
@@ -121,7 +122,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
           onClick={[Function]}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -149,6 +150,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledLabel",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                 "target": "label",
@@ -169,7 +171,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                 viewBox="0 0 14 14"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -184,6 +186,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         ],
                       },
                       "displayName": "styled-components__SVG",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "svg",
@@ -210,7 +213,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       <StyledComponent
                         cx="7"
                         cy="7"
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -232,6 +235,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                               ],
                             },
                             "displayName": "styled-components__BoxCircle",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                             "target": "circle",
@@ -262,7 +266,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       <StyledComponent
                         cx="7"
                         cy="7"
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -286,6 +290,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckCircle",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                             "target": "circle",
@@ -323,7 +328,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
           onClick={[Function]}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -351,6 +356,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledLabel",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
                 "target": "label",
@@ -371,7 +377,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                 viewBox="0 0 14 14"
               >
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -386,6 +392,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                         ],
                       },
                       "displayName": "styled-components__SVG",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "c2",
                       "target": "svg",
@@ -412,7 +419,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       <StyledComponent
                         cx="7"
                         cy="7"
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -434,6 +441,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                               ],
                             },
                             "displayName": "styled-components__BoxCircle",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                             "target": "circle",
@@ -464,7 +472,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                       <StyledComponent
                         cx="7"
                         cy="7"
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -488,6 +496,7 @@ exports[`Storyshots InputRadioGroup API 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckCircle",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                             "target": "circle",

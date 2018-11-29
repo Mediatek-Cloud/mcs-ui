@@ -71,7 +71,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
     onClick={[Function]}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -93,6 +93,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
             ],
           },
           "displayName": "styled-components__StyledLabel",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
           "target": "label",
@@ -121,7 +122,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
           >
             <StyledComponent
               checked={true}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -159,6 +160,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
                     ],
                   },
                   "displayName": "styled-components__Container",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                   "target": "div",
@@ -182,7 +184,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
                 >
                   <StyledComponent
                     checked={true}
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -206,6 +208,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
                           ],
                         },
                         "displayName": "styled-components__Content",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                         "target": "div",
@@ -325,7 +328,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -347,6 +350,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
             "target": "label",
@@ -375,7 +379,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -413,6 +417,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Container",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                     "target": "div",
@@ -436,7 +441,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                   >
                     <StyledComponent
                       checked={true}
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -460,6 +465,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                             ],
                           },
                           "displayName": "styled-components__Content",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                           "target": "div",
@@ -562,7 +568,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
     onClick={[Function]}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -584,6 +590,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
             ],
           },
           "displayName": "styled-components__StyledLabel",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
           "target": "label",
@@ -612,7 +619,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
           >
             <StyledComponent
               checked={true}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -650,6 +657,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                     ],
                   },
                   "displayName": "styled-components__Container",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                   "target": "div",
@@ -673,7 +681,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                 >
                   <StyledComponent
                     checked={true}
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -697,6 +705,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                           ],
                         },
                         "displayName": "styled-components__Content",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                         "target": "div",
@@ -813,7 +822,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -835,6 +844,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
             "target": "label",
@@ -863,7 +873,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -901,6 +911,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Container",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                     "target": "div",
@@ -924,7 +935,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                   >
                     <StyledComponent
                       checked={true}
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -948,6 +959,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                             ],
                           },
                           "displayName": "styled-components__Content",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                           "target": "div",
@@ -1065,7 +1077,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1087,6 +1099,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
             "target": "label",
@@ -1115,7 +1128,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1153,6 +1166,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Container",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                     "target": "div",
@@ -1176,7 +1190,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                   >
                     <StyledComponent
                       checked={true}
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1200,6 +1214,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                             ],
                           },
                           "displayName": "styled-components__Content",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                           "target": "div",

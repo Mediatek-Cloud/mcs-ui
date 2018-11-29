@@ -7,7 +7,7 @@ exports[`Storyshots B API 1`] = `
 
 <B>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -22,6 +22,7 @@ exports[`Storyshots B API 1`] = `
           ],
         },
         "displayName": "B",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "B-sc-1ocntpk-0",
         "target": "b",
@@ -56,7 +57,7 @@ exports[`Storyshots B CJK 1`] = `
   level={4}
 >
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -81,6 +82,7 @@ exports[`Storyshots B CJK 1`] = `
           "level": 1,
         },
         "displayName": "Heading",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
           "level": [Function],
@@ -106,7 +108,7 @@ exports[`Storyshots B CJK 1`] = `
       >
         <B>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -121,6 +123,7 @@ exports[`Storyshots B CJK 1`] = `
                   ],
                 },
                 "displayName": "B",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "B-sc-1ocntpk-0",
                 "target": "b",
@@ -160,7 +163,7 @@ exports[`Storyshots B With color 1`] = `
 >
   <StyledComponent
     color="primary"
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -182,6 +185,7 @@ exports[`Storyshots B With color 1`] = `
           ],
         },
         "displayName": "P",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
         },
@@ -202,7 +206,7 @@ exports[`Storyshots B With color 1`] = `
       Nisi eu eiusmod cupidatat aute laboris commodo excepteur
       <B>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -217,6 +221,7 @@ exports[`Storyshots B With color 1`] = `
                 ],
               },
               "displayName": "B",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "B-sc-1ocntpk-0",
               "target": "b",
@@ -256,7 +261,7 @@ exports[`Storyshots B Within <P> 1`] = `
 
 <P>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -278,6 +283,7 @@ exports[`Storyshots B Within <P> 1`] = `
           ],
         },
         "displayName": "P",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
         },
@@ -297,7 +303,7 @@ exports[`Storyshots B Within <P> 1`] = `
       Nisi eu eiusmod cupidatat aute laboris commodo excepteur
       <Small>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -314,6 +320,7 @@ exports[`Storyshots B Within <P> 1`] = `
                 ],
               },
               "displayName": "Small",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "Small-sc-275w8q-0",
               "target": "small",
@@ -329,7 +336,7 @@ exports[`Storyshots B Within <P> 1`] = `
           >
             <B>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -344,6 +351,7 @@ exports[`Storyshots B Within <P> 1`] = `
                       ],
                     },
                     "displayName": "B",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "B-sc-1ocntpk-0",
                     "target": "b",

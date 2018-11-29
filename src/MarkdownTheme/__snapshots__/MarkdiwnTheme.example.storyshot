@@ -367,7 +367,7 @@ exports[`Storyshots MarkdownTheme API 1`] = `
 
 <MarkdownTheme>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -754,6 +754,7 @@ exports[`Storyshots MarkdownTheme API 1`] = `
           ],
         },
         "displayName": "MarkdownTheme",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "MarkdownTheme-sc-1bmwnnu-0",
         "target": "div",

@@ -55,7 +55,7 @@ exports[`Storyshots InputRadio API 1`] = `
     onClick={[Function]}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -83,6 +83,7 @@ exports[`Storyshots InputRadio API 1`] = `
             ],
           },
           "displayName": "styled-components__StyledLabel",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
           "target": "label",
@@ -103,7 +104,7 @@ exports[`Storyshots InputRadio API 1`] = `
           viewBox="0 0 14 14"
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -118,6 +119,7 @@ exports[`Storyshots InputRadio API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__SVG",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "c1",
                 "target": "svg",
@@ -144,7 +146,7 @@ exports[`Storyshots InputRadio API 1`] = `
                 <StyledComponent
                   cx="7"
                   cy="7"
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -166,6 +168,7 @@ exports[`Storyshots InputRadio API 1`] = `
                         ],
                       },
                       "displayName": "styled-components__BoxCircle",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                       "target": "circle",
@@ -196,7 +199,7 @@ exports[`Storyshots InputRadio API 1`] = `
                 <StyledComponent
                   cx="7"
                   cy="7"
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -220,6 +223,7 @@ exports[`Storyshots InputRadio API 1`] = `
                         ],
                       },
                       "displayName": "styled-components__CheckCircle",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                       "target": "circle",
@@ -318,7 +322,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -346,6 +350,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "target": "label",
@@ -371,7 +376,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
             viewBox="0 0 14 14"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -386,6 +391,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                     ],
                   },
                   "displayName": "styled-components__SVG",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "c1",
                   "target": "svg",
@@ -422,7 +428,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -444,6 +450,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                           ],
                         },
                         "displayName": "styled-components__BoxCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "target": "circle",
@@ -474,7 +481,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -498,6 +505,7 @@ exports[`Storyshots InputRadio With custom style 1`] = `
                           ],
                         },
                         "displayName": "styled-components__CheckCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "target": "circle",
@@ -586,7 +594,7 @@ exports[`Storyshots InputRadio With state 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -614,6 +622,7 @@ exports[`Storyshots InputRadio With state 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "target": "label",
@@ -634,7 +643,7 @@ exports[`Storyshots InputRadio With state 1`] = `
             viewBox="0 0 14 14"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -649,6 +658,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                     ],
                   },
                   "displayName": "styled-components__SVG",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "c1",
                   "target": "svg",
@@ -675,7 +685,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -697,6 +707,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                           ],
                         },
                         "displayName": "styled-components__BoxCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "target": "circle",
@@ -727,7 +738,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -751,6 +762,7 @@ exports[`Storyshots InputRadio With state 1`] = `
                           ],
                         },
                         "displayName": "styled-components__CheckCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "target": "circle",
@@ -860,7 +872,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -888,6 +900,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "target": "label",
@@ -908,7 +921,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
             viewBox="0 0 14 14"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -923,6 +936,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     ],
                   },
                   "displayName": "styled-components__SVG",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "c1",
                   "target": "svg",
@@ -949,7 +963,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -971,6 +985,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                           ],
                         },
                         "displayName": "styled-components__BoxCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "target": "circle",
@@ -1001,7 +1016,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1025,6 +1040,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                           ],
                         },
                         "displayName": "styled-components__CheckCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "target": "circle",
@@ -1062,7 +1078,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1090,6 +1106,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "target": "label",
@@ -1110,7 +1127,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
             viewBox="0 0 14 14"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -1125,6 +1142,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                     ],
                   },
                   "displayName": "styled-components__SVG",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "c1",
                   "target": "svg",
@@ -1151,7 +1169,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1173,6 +1191,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                           ],
                         },
                         "displayName": "styled-components__BoxCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "target": "circle",
@@ -1203,7 +1222,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1227,6 +1246,7 @@ exports[`Storyshots InputRadio With two radios 1`] = `
                           ],
                         },
                         "displayName": "styled-components__CheckCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "target": "circle",
@@ -1315,7 +1335,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
       onClick={[Function]}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1343,6 +1363,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
               ],
             },
             "displayName": "styled-components__StyledLabel",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__StyledLabel-sc-1vsiozb-1",
             "target": "label",
@@ -1363,7 +1384,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
             viewBox="0 0 14 14"
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -1378,6 +1399,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                     ],
                   },
                   "displayName": "styled-components__SVG",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "c1",
                   "target": "svg",
@@ -1404,7 +1426,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1426,6 +1448,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                           ],
                         },
                         "displayName": "styled-components__BoxCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__BoxCircle-sc-1vsiozb-2",
                         "target": "circle",
@@ -1456,7 +1479,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                   <StyledComponent
                     cx="7"
                     cy="7"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1480,6 +1503,7 @@ exports[`Storyshots InputRadio Without label 1`] = `
                           ],
                         },
                         "displayName": "styled-components__CheckCircle",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "styled-components__CheckCircle-sc-1vsiozb-3",
                         "target": "circle",

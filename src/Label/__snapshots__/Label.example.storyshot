@@ -11,7 +11,7 @@ exports[`Storyshots Label API 1`] = `
   required={true}
 >
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -36,6 +36,7 @@ exports[`Storyshots Label API 1`] = `
           ],
         },
         "displayName": "Label",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "required": [Function],
         },

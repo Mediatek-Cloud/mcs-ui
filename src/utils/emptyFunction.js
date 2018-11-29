@@ -1,6 +1,6 @@
 // @flow
 
-const emptyFunction = (e?: any): void | any => {
+const emptyFunction = (e?: any): any => {
   if (e && e.preventDefault) e.preventDefault();
 };
 

@@ -18,7 +18,7 @@ exports[`Storyshots Tooltip With position 1`] = `
 
 <Tooltipexample__Wrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -39,6 +39,7 @@ exports[`Storyshots Tooltip With position 1`] = `
           ],
         },
         "displayName": "Tooltipexample__Wrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Tooltipexample__Wrapper-cmb0b-0",
         "target": "div",

@@ -18,7 +18,7 @@ exports[`Storyshots Popover With position 1`] = `
 
 <Popoverexample__Wrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -39,6 +39,7 @@ exports[`Storyshots Popover With position 1`] = `
           ],
         },
         "displayName": "Popoverexample__Wrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Popoverexample__Wrapper-sc-5lgfkf-0",
         "target": "div",

@@ -7,7 +7,7 @@ exports[`Storyshots Small API 1`] = `
 
 <Small>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -24,6 +24,7 @@ exports[`Storyshots Small API 1`] = `
           ],
         },
         "displayName": "Small",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Small-sc-275w8q-0",
         "target": "small",
@@ -71,7 +72,7 @@ exports[`Storyshots Small With color 1`] = `
 >
   <StyledComponent
     color="primary"
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -93,6 +94,7 @@ exports[`Storyshots Small With color 1`] = `
           ],
         },
         "displayName": "P",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
         },
@@ -113,7 +115,7 @@ exports[`Storyshots Small With color 1`] = `
       Nisi eu eiusmod cupidatat aute laboris commodo excepteur
       <Small>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -130,6 +132,7 @@ exports[`Storyshots Small With color 1`] = `
                 ],
               },
               "displayName": "Small",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "Small-sc-275w8q-0",
               "target": "small",
@@ -177,7 +180,7 @@ exports[`Storyshots Small Within <P> 1`] = `
 
 <P>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -199,6 +202,7 @@ exports[`Storyshots Small Within <P> 1`] = `
           ],
         },
         "displayName": "P",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
         },
@@ -218,7 +222,7 @@ exports[`Storyshots Small Within <P> 1`] = `
       Nisi eu eiusmod cupidatat aute laboris commodo excepteur
       <Small>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -235,6 +239,7 @@ exports[`Storyshots Small Within <P> 1`] = `
                 ],
               },
               "displayName": "Small",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "Small-sc-275w8q-0",
               "target": "small",

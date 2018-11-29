@@ -72,7 +72,7 @@ exports[`Storyshots Switch API 1`] = `
   >
     <StyledComponent
       checked={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -121,6 +121,7 @@ exports[`Storyshots Switch API 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -149,7 +150,7 @@ exports[`Storyshots Switch API 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -198,6 +199,7 @@ exports[`Storyshots Switch API 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -269,7 +271,7 @@ exports[`Storyshots Switch Overriding style 1`] = `
   >
     <StyledComponent
       checked={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -329,6 +331,9 @@ exports[`Storyshots Switch Overriding style 1`] = `
             "kind": "success",
           },
           "displayName": "Switchexample__StyledSwitch",
+          "foldedComponentIds": Array [
+            "Switch-sc-1gxrito-0",
+          ],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -397,7 +402,7 @@ exports[`Storyshots Switch Stateful switch 1`] = `
   >
     <StyledComponent
       checked={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -446,6 +451,7 @@ exports[`Storyshots Switch Stateful switch 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -642,7 +648,7 @@ exports[`Storyshots Switch With kind props 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -691,6 +697,7 @@ exports[`Storyshots Switch With kind props 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -720,7 +727,7 @@ exports[`Storyshots Switch With kind props 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -769,6 +776,7 @@ exports[`Storyshots Switch With kind props 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -798,7 +806,7 @@ exports[`Storyshots Switch With kind props 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -847,6 +855,7 @@ exports[`Storyshots Switch With kind props 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -876,7 +885,7 @@ exports[`Storyshots Switch With kind props 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -925,6 +934,7 @@ exports[`Storyshots Switch With kind props 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -954,7 +964,7 @@ exports[`Storyshots Switch With kind props 1`] = `
   >
     <StyledComponent
       checked={true}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1003,6 +1013,7 @@ exports[`Storyshots Switch With kind props 1`] = `
             "kind": "success",
           },
           "displayName": "Switch",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],
@@ -1074,7 +1085,7 @@ exports[`Storyshots Switch With scaling 1`] = `
   >
     <StyledComponent
       checked={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1126,6 +1137,9 @@ exports[`Storyshots Switch With scaling 1`] = `
             "kind": "success",
           },
           "displayName": "Switchexample__ScaledSwitch",
+          "foldedComponentIds": Array [
+            "Switch-sc-1gxrito-0",
+          ],
           "propTypes": Object {
             "checked": [Function],
             "kind": [Function],

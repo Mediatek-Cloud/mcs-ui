@@ -46,7 +46,7 @@ exports[`Storyshots MenuItem API for MenuItem 1`] = `
 >
   <StyledComponent
     active={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -113,6 +113,7 @@ exports[`Storyshots MenuItem API for MenuItem 1`] = `
           "active": false,
         },
         "displayName": "MenuItem",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
         },

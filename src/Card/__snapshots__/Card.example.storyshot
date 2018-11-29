@@ -11,7 +11,7 @@ exports[`Storyshots Card API 1`] = `
 
 <Card>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -32,6 +32,7 @@ exports[`Storyshots Card API 1`] = `
           ],
         },
         "displayName": "Card",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Card-lighsv-0",
         "target": "div",

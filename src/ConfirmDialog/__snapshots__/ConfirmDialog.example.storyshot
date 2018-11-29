@@ -460,7 +460,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                       width={446}
                     >
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -517,6 +517,9 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                               "width": 618,
                             },
                             "displayName": "ResponsivePanel",
+                            "foldedComponentIds": Array [
+                              "Panel-sc-8vfb46-0",
+                            ],
                             "propTypes": Object {
                               "width": [Function],
                             },
@@ -550,7 +553,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                           <main>
                             <styled-components__Content>
                               <StyledComponent
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -574,6 +577,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Content",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Content-sc-1028n22-0",
                                     "target": "div",
@@ -650,7 +654,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                 active={false}
                                 block={false}
                                 disabled={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -722,6 +726,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                       "square": false,
                                     },
                                     "displayName": "Button",
+                                    "foldedComponentIds": Array [],
                                     "propTypes": Object {
                                       "active": [Function],
                                       "block": [Function],
@@ -771,7 +776,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                 active={false}
                                 block={false}
                                 disabled={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -843,6 +848,7 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                                       "square": false,
                                     },
                                     "displayName": "Button",
+                                    "foldedComponentIds": Array [],
                                     "propTypes": Object {
                                       "active": [Function],
                                       "block": [Function],

@@ -8665,10 +8665,10 @@ react-split-pane@^0.1.84:
     react-lifecycles-compat "^3.0.4"
     react-style-proptype "^3.0.0"
 
-react-spring@^6.1.9:
-  version "6.1.9"
-  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-6.1.9.tgz#bf858aedb5bd954c83545c27731a9f05320a49fe"
-  integrity sha512-SLgijUY3XL2fWZrb1N/oVxnQaZloYtSm2Fy6VngC2xoJRKwXY0i0KH03CGXV5iBKV0GhST4oCI1XTy75V40K9A==
+react-spring@^6.1.10:
+  version "6.1.10"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-6.1.10.tgz#ae28796dccfb32baa02d34fb94289c2088f63a1b"
+  integrity sha512-msMoHyXHzb3KdHNY6Yo6wm1t+1GKjy6k2kqaYT3bG6nM//HOL5798OD6Qg719SEDskRDh2vXxIyJ5KEoAUbecA==
   dependencies:
     "@babel/runtime" "^7.0.0"
 
@@ -9964,10 +9964,10 @@ style-utils@~0.1.13:
   resolved "https://registry.yarnpkg.com/style-utils/-/style-utils-0.1.22.tgz#46a3f2cd4499603a46169352ac1ed01f23470aa0"
   integrity sha512-WOCiagsn/TqMcbxKAP8+59WHQaszLzKGluzRCTO15VH2gboFRy8VAk2aTU8+YBu2oNJtf7AFNdqh5JkKUkOVpA==
 
-styled-components@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-4.1.1.tgz#943922048fae556e286bcbfdd29da4f1399446bc"
-  integrity sha512-UzT/qyoOyKpYooeLdwKrPHZ85R8KWl8i0fbyH9I3z6B2WT9uGDCV7J4kbfKsBeSWFD9EytBriEODOkybcUFD/Q==
+styled-components@4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-4.1.2.tgz#f8a685e3b2bcd03c5beac7f2c02bb6ad237da9b3"
+  integrity sha512-NdvWatJ2WLqZxAvto+oH0k7GAC/TlAUJTrHoXJddjbCrU6U23EmVbb9LXJBF+d6q6hH+g9nQYOWYPUeX/Vlc2w==
   dependencies:
     "@emotion/is-prop-valid" "^0.6.8"
     "@emotion/unitless" "^0.7.0"

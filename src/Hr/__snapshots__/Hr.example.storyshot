@@ -12,7 +12,7 @@ exports[`Storyshots Hr API 1`] = `
 <Hr>
   <styled-components__StyledHr>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -31,6 +31,7 @@ exports[`Storyshots Hr API 1`] = `
             ],
           },
           "displayName": "styled-components__StyledHr",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
           "target": "hr",
@@ -79,7 +80,7 @@ exports[`Storyshots Hr With children 1`] = `
 <Hr>
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -96,6 +97,7 @@ exports[`Storyshots Hr With children 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-sc-1kwc7os-2",
           "target": "div",
@@ -111,7 +113,7 @@ exports[`Storyshots Hr With children 1`] = `
       >
         <styled-components__StyledHr>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -130,6 +132,7 @@ exports[`Storyshots Hr With children 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledHr",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
@@ -147,7 +150,7 @@ exports[`Storyshots Hr With children 1`] = `
         </styled-components__StyledHr>
         <styled-components__Content>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -168,6 +171,7 @@ exports[`Storyshots Hr With children 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Content",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Content-sc-1kwc7os-1",
                 "target": "div",
@@ -187,7 +191,7 @@ exports[`Storyshots Hr With children 1`] = `
         </styled-components__Content>
         <styled-components__StyledHr>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -206,6 +210,7 @@ exports[`Storyshots Hr With children 1`] = `
                   ],
                 },
                 "displayName": "styled-components__StyledHr",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__StyledHr-sc-1kwc7os-0",
                 "target": "hr",
