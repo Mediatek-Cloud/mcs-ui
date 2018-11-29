@@ -18,7 +18,7 @@ exports[`Storyshots Avatar Default - Large 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -49,6 +49,7 @@ exports[`Storyshots Avatar Default - Large 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
@@ -101,7 +102,7 @@ exports[`Storyshots Avatar Default 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -132,6 +133,7 @@ exports[`Storyshots Avatar Default 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
@@ -185,7 +187,7 @@ exports[`Storyshots Avatar With Url - Large 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -216,6 +218,7 @@ exports[`Storyshots Avatar With Url - Large 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",
@@ -260,7 +263,7 @@ exports[`Storyshots Avatar With Url 1`] = `
 >
   <styled-components__Wrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -291,6 +294,7 @@ exports[`Storyshots Avatar With Url 1`] = `
             ],
           },
           "displayName": "styled-components__Wrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Wrapper-znubx6-0",
           "target": "div",

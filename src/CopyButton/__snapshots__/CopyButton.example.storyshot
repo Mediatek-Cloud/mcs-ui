@@ -51,7 +51,7 @@ exports[`Storyshots CopyButton API 1`] = `
       active={false}
       block={false}
       disabled={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -126,6 +126,9 @@ exports[`Storyshots CopyButton API 1`] = `
             "square": false,
           },
           "displayName": "styled-components__StyledButton",
+          "foldedComponentIds": Array [
+            "Button-sc-4bw22c-0",
+          ],
           "propTypes": Object {
             "active": [Function],
             "block": [Function],
@@ -161,7 +164,7 @@ exports[`Storyshots CopyButton API 1`] = `
           show={true}
         >
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -178,6 +181,7 @@ exports[`Storyshots CopyButton API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__ChildrenWrapper",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
                 "target": "div",
@@ -265,7 +269,7 @@ exports[`Storyshots CopyButton With Flex 1`] = `
   >
     <StyledComponent
       color="primary"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -298,6 +302,7 @@ exports[`Storyshots CopyButton With Flex 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -336,7 +341,7 @@ exports[`Storyshots CopyButton With Flex 1`] = `
         active={false}
         block={false}
         disabled={false}
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -411,6 +416,9 @@ exports[`Storyshots CopyButton With Flex 1`] = `
               "square": false,
             },
             "displayName": "styled-components__StyledButton",
+            "foldedComponentIds": Array [
+              "Button-sc-4bw22c-0",
+            ],
             "propTypes": Object {
               "active": [Function],
               "block": [Function],
@@ -446,7 +454,7 @@ exports[`Storyshots CopyButton With Flex 1`] = `
             show={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -463,6 +471,7 @@ exports[`Storyshots CopyButton With Flex 1`] = `
                     ],
                   },
                   "displayName": "styled-components__ChildrenWrapper",
+                  "foldedComponentIds": Array [],
                   "render": [Function],
                   "styledComponentId": "styled-components__ChildrenWrapper-sc-140miaj-1",
                   "target": "div",

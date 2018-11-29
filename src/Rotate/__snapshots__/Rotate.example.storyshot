@@ -26,7 +26,7 @@ exports[`Storyshots Rotate API 1`] = `
 
 <Rotateexample__IconWrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -46,6 +46,7 @@ exports[`Storyshots Rotate API 1`] = `
           ],
         },
         "displayName": "Rotateexample__IconWrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
         "target": "div",
@@ -64,7 +65,7 @@ exports[`Storyshots Rotate API 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -90,6 +91,7 @@ exports[`Storyshots Rotate API 1`] = `
                 "active": false,
               },
               "displayName": "Rotate",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -152,7 +154,7 @@ exports[`Storyshots Rotate With active props 1`] = `
 
 <Rotateexample__IconWrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -172,6 +174,7 @@ exports[`Storyshots Rotate With active props 1`] = `
           ],
         },
         "displayName": "Rotateexample__IconWrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
         "target": "div",
@@ -190,7 +193,7 @@ exports[`Storyshots Rotate With active props 1`] = `
       >
         <StyledComponent
           active={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -216,6 +219,7 @@ exports[`Storyshots Rotate With active props 1`] = `
                 "active": false,
               },
               "displayName": "Rotate",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -279,7 +283,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
 <StatefulRotate>
   <Rotateexample__IconWrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -299,6 +303,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
             ],
           },
           "displayName": "Rotateexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
           "target": "div",
@@ -318,7 +323,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
         >
           <StyledComponent
             active={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -344,6 +349,7 @@ exports[`Storyshots Rotate With other icon 1`] = `
                   "active": false,
                 },
                 "displayName": "Rotate",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                 },
@@ -410,7 +416,7 @@ exports[`Storyshots Rotate With state 1`] = `
 <StatefulRotate>
   <Rotateexample__IconWrapper>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -430,6 +436,7 @@ exports[`Storyshots Rotate With state 1`] = `
             ],
           },
           "displayName": "Rotateexample__IconWrapper",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Rotateexample__IconWrapper-yp16aq-0",
           "target": "div",
@@ -449,7 +456,7 @@ exports[`Storyshots Rotate With state 1`] = `
         >
           <StyledComponent
             active={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -475,6 +482,7 @@ exports[`Storyshots Rotate With state 1`] = `
                   "active": false,
                 },
                 "displayName": "Rotate",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                 },

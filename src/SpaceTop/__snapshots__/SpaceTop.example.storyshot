@@ -9,7 +9,7 @@ exports[`Storyshots SpaceTop API 1`] = `
   height={20}
 >
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -26,6 +26,7 @@ exports[`Storyshots SpaceTop API 1`] = `
           ],
         },
         "displayName": "SpaceTop",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "height": [Function],
         },

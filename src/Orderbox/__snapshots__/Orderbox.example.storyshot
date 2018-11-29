@@ -100,6 +100,7 @@ exports[`Storyshots Orderbox API 1`] = `
   }
 >
   <Orderbox
+    key="-1"
     value={-1}
   >
     <Checkbox
@@ -115,7 +116,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -153,6 +154,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -176,7 +178,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -200,6 +202,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -222,6 +225,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="0.1"
     value={0.1}
   >
     <Checkbox
@@ -237,7 +241,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -275,6 +279,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -298,7 +303,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -322,6 +327,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -346,6 +352,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="0"
     value={0}
   >
     <Checkbox
@@ -361,7 +368,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -399,6 +406,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -422,7 +430,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -446,6 +454,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -468,6 +477,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="1"
     value={1}
   >
     <Checkbox
@@ -483,7 +493,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -521,6 +531,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -544,7 +555,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -568,6 +579,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -592,6 +604,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="2"
     value={2}
   >
     <Checkbox
@@ -607,7 +620,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -645,6 +658,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -668,7 +682,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -692,6 +706,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -716,6 +731,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="3"
     value={3}
   >
     <Checkbox
@@ -731,7 +747,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -769,6 +785,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -792,7 +809,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -816,6 +833,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -840,6 +858,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="4"
     value={4}
   >
     <Checkbox
@@ -855,7 +874,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -893,6 +912,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -916,7 +936,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -940,6 +960,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -964,6 +985,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="5"
     value={5}
   >
     <Checkbox
@@ -979,7 +1001,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1017,6 +1039,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1040,7 +1063,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1064,6 +1087,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1088,6 +1112,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="6"
     value={6}
   >
     <Checkbox
@@ -1103,7 +1128,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1141,6 +1166,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1164,7 +1190,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1188,6 +1214,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1212,6 +1239,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="7"
     value={7}
   >
     <Checkbox
@@ -1227,7 +1255,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1265,6 +1293,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1288,7 +1317,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1312,6 +1341,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1336,6 +1366,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="8"
     value={8}
   >
     <Checkbox
@@ -1351,7 +1382,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1389,6 +1420,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1412,7 +1444,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1436,6 +1468,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1460,6 +1493,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="9"
     value={9}
   >
     <Checkbox
@@ -1475,7 +1509,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1513,6 +1547,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1536,7 +1571,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1560,6 +1595,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1584,6 +1620,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="10"
     value={10}
   >
     <Checkbox
@@ -1599,7 +1636,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1637,6 +1674,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1660,7 +1698,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1684,6 +1722,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1708,6 +1747,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="50"
     value={50}
   >
     <Checkbox
@@ -1723,7 +1763,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1761,6 +1801,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1784,7 +1825,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1808,6 +1849,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1832,6 +1874,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="99"
     value={99}
   >
     <Checkbox
@@ -1847,7 +1890,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1885,6 +1928,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -1908,7 +1952,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1932,6 +1976,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -1956,6 +2001,7 @@ exports[`Storyshots Orderbox API 1`] = `
     </Checkbox>
   </Orderbox>
   <Orderbox
+    key="100"
     value={100}
   >
     <Checkbox
@@ -1971,7 +2017,7 @@ exports[`Storyshots Orderbox API 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2009,6 +2055,7 @@ exports[`Storyshots Orderbox API 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -2032,7 +2079,7 @@ exports[`Storyshots Orderbox API 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2056,6 +2103,7 @@ exports[`Storyshots Orderbox API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -2235,7 +2283,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
         >
           <StyledComponent
             checked={true}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2273,6 +2321,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
@@ -2298,7 +2347,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
               >
                 <StyledComponent
                   checked={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2322,6 +2371,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
@@ -2370,7 +2420,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
         >
           <StyledComponent
             checked={true}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2408,6 +2458,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
@@ -2433,7 +2484,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
               >
                 <StyledComponent
                   checked={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2457,6 +2508,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
@@ -2505,7 +2557,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
         >
           <StyledComponent
             checked={true}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2543,6 +2595,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
@@ -2568,7 +2621,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
               >
                 <StyledComponent
                   checked={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2592,6 +2645,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
@@ -2640,7 +2694,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
         >
           <StyledComponent
             checked={true}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2678,6 +2732,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
@@ -2703,7 +2758,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
               >
                 <StyledComponent
                   checked={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2727,6 +2782,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
@@ -2775,7 +2831,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
         >
           <StyledComponent
             checked={true}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2813,6 +2869,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                 "target": "div",
@@ -2838,7 +2895,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
               >
                 <StyledComponent
                   checked={true}
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -2862,6 +2919,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                       "target": "div",
@@ -2979,7 +3037,7 @@ exports[`Storyshots Orderbox With size 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3017,6 +3075,7 @@ exports[`Storyshots Orderbox With size 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -3052,7 +3111,7 @@ exports[`Storyshots Orderbox With size 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3076,6 +3135,7 @@ exports[`Storyshots Orderbox With size 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",
@@ -3168,7 +3228,7 @@ exports[`Storyshots Orderbox With state 1`] = `
       >
         <StyledComponent
           checked={true}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3206,6 +3266,7 @@ exports[`Storyshots Orderbox With state 1`] = `
                 ],
               },
               "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "styled-components__Container-sc-1jb6672-0",
               "target": "div",
@@ -3231,7 +3292,7 @@ exports[`Storyshots Orderbox With state 1`] = `
             >
               <StyledComponent
                 checked={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3255,6 +3316,7 @@ exports[`Storyshots Orderbox With state 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                     "target": "div",

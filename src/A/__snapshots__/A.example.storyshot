@@ -23,7 +23,7 @@ exports[`Storyshots A API 1`] = `
 >
   <StyledComponent
     color="primary"
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -56,6 +56,7 @@ exports[`Storyshots A API 1`] = `
           "color": "primary",
         },
         "displayName": "A",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
         },
@@ -111,7 +112,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
   level={1}
 >
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -136,6 +137,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
           "level": 1,
         },
         "displayName": "Heading",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "color": [Function],
           "level": [Function],
@@ -162,7 +164,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
         Heading Level 1 
         <B>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -177,6 +179,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                   ],
                 },
                 "displayName": "B",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "B-sc-1ocntpk-0",
                 "target": "b",
@@ -195,7 +198,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
               >
                 <StyledComponent
                   color="primary"
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -228,6 +231,7 @@ exports[`Storyshots A Nested children with Heading 1`] = `
                         "color": "primary",
                       },
                       "displayName": "A",
+                      "foldedComponentIds": Array [],
                       "propTypes": Object {
                         "color": [Function],
                       },
@@ -419,7 +423,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="black"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -452,6 +456,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -480,7 +485,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="grayDark"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -513,6 +518,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -541,7 +547,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="grayBase"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -574,6 +580,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -602,7 +609,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="grayLight"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -635,6 +642,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -663,7 +671,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="white"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -696,6 +704,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -724,7 +733,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="default"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -757,6 +766,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -785,7 +795,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="primary"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -818,6 +828,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -846,7 +857,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="success"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -879,6 +890,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -907,7 +919,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="error"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -940,6 +952,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },
@@ -968,7 +981,7 @@ exports[`Storyshots A With color props 1`] = `
   >
     <StyledComponent
       color="warning"
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1001,6 +1014,7 @@ exports[`Storyshots A With color props 1`] = `
             "color": "primary",
           },
           "displayName": "A",
+          "foldedComponentIds": Array [],
           "propTypes": Object {
             "color": [Function],
           },

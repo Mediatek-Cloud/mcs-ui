@@ -78,7 +78,7 @@ exports[`Storyshots Table API 1`] = `
   }
 >
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -123,6 +123,7 @@ exports[`Storyshots Table API 1`] = `
           ],
         },
         "displayName": "Table",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Table-e6uimp-0",
         "target": "table",
@@ -161,7 +162,7 @@ exports[`Storyshots Table API 1`] = `
             >
               <StyledComponent
                 active={true}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -195,6 +196,7 @@ exports[`Storyshots Table API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__StyledTh",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__StyledTh-sc-1fg0tp4-0",
                     "target": "th",
@@ -226,7 +228,7 @@ exports[`Storyshots Table API 1`] = `
                       >
                         <StyledComponent
                           active={true}
-                          forwardedClass={
+                          forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
                               "attrs": Array [],
@@ -255,6 +257,7 @@ exports[`Storyshots Table API 1`] = `
                                 ],
                               },
                               "displayName": "styled-components__StyledSVG",
+                              "foldedComponentIds": Array [],
                               "render": [Function],
                               "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
                               "target": "svg",

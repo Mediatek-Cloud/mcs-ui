@@ -42,7 +42,7 @@ exports[`Storyshots Button API 1`] = `
     active={false}
     block={false}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -114,6 +114,7 @@ exports[`Storyshots Button API 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -206,7 +207,7 @@ exports[`Storyshots Button Overriding style 1`] = `
     active={false}
     block={false}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -300,6 +301,9 @@ exports[`Storyshots Button Overriding style 1`] = `
           "square": false,
         },
         "displayName": "Buttonexample__TomatoButton",
+        "foldedComponentIds": Array [
+          "Button-sc-4bw22c-0",
+        ],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -379,7 +383,7 @@ exports[`Storyshots Button With active props 1`] = `
     active={true}
     block={false}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -451,6 +455,7 @@ exports[`Storyshots Button With active props 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -533,7 +538,7 @@ exports[`Storyshots Button With as props - Input submit 1`] = `
     as="input"
     block={true}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -605,6 +610,7 @@ exports[`Storyshots Button With as props - Input submit 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -689,7 +695,7 @@ exports[`Storyshots Button With as props 1`] = `
     as="a"
     block={false}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -761,6 +767,7 @@ exports[`Storyshots Button With as props 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -863,7 +870,7 @@ exports[`Storyshots Button With block props 1`] = `
 
 <Buttonexample__Container>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -880,6 +887,7 @@ exports[`Storyshots Button With block props 1`] = `
           ],
         },
         "displayName": "Buttonexample__Container",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
         "target": "div",
@@ -906,7 +914,7 @@ exports[`Storyshots Button With block props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -978,6 +986,7 @@ exports[`Storyshots Button With block props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -1024,7 +1033,7 @@ exports[`Storyshots Button With block props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1096,6 +1105,7 @@ exports[`Storyshots Button With block props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -1142,7 +1152,7 @@ exports[`Storyshots Button With block props 1`] = `
           active={false}
           block={true}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1214,6 +1224,7 @@ exports[`Storyshots Button With block props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -1294,7 +1305,7 @@ exports[`Storyshots Button With disabled props 1`] = `
     active={false}
     block={false}
     disabled={true}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -1366,6 +1377,7 @@ exports[`Storyshots Button With disabled props 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -1470,7 +1482,7 @@ exports[`Storyshots Button With icon inside 1`] = `
     active={false}
     block={false}
     disabled={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -1542,6 +1554,7 @@ exports[`Storyshots Button With icon inside 1`] = `
           "square": false,
         },
         "displayName": "Button",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "active": [Function],
           "block": [Function],
@@ -1573,7 +1586,7 @@ exports[`Storyshots Button With icon inside 1`] = `
     >
       <Buttonexample__CenterContainer>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1590,6 +1603,7 @@ exports[`Storyshots Button With icon inside 1`] = `
                 ],
               },
               "displayName": "Buttonexample__CenterContainer",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "Buttonexample__CenterContainer-sc-1ml6h0r-1",
               "target": "div",
@@ -1605,7 +1619,7 @@ exports[`Storyshots Button With icon inside 1`] = `
           >
             <Spin>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1636,6 +1650,7 @@ exports[`Storyshots Button With icon inside 1`] = `
                       ],
                     },
                     "displayName": "Spin",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "Spin-sc-1vw5iwo-0",
                     "target": "div",
@@ -1828,7 +1843,7 @@ exports[`Storyshots Button With kind props 1`] = `
 <KindContainer>
   <Buttonexample__Container>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -1845,6 +1860,7 @@ exports[`Storyshots Button With kind props 1`] = `
             ],
           },
           "displayName": "Buttonexample__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
           "target": "div",
@@ -1873,7 +1889,7 @@ exports[`Storyshots Button With kind props 1`] = `
             active={false}
             block={false}
             disabled={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -1945,6 +1961,7 @@ exports[`Storyshots Button With kind props 1`] = `
                   "square": false,
                 },
                 "displayName": "Button",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                   "block": [Function],
@@ -1995,7 +2012,7 @@ exports[`Storyshots Button With kind props 1`] = `
             active={false}
             block={false}
             disabled={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2067,6 +2084,7 @@ exports[`Storyshots Button With kind props 1`] = `
                   "square": false,
                 },
                 "displayName": "Button",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                   "block": [Function],
@@ -2117,7 +2135,7 @@ exports[`Storyshots Button With kind props 1`] = `
             active={false}
             block={false}
             disabled={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2189,6 +2207,7 @@ exports[`Storyshots Button With kind props 1`] = `
                   "square": false,
                 },
                 "displayName": "Button",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                   "block": [Function],
@@ -2239,7 +2258,7 @@ exports[`Storyshots Button With kind props 1`] = `
             active={false}
             block={false}
             disabled={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2311,6 +2330,7 @@ exports[`Storyshots Button With kind props 1`] = `
                   "square": false,
                 },
                 "displayName": "Button",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                   "block": [Function],
@@ -2361,7 +2381,7 @@ exports[`Storyshots Button With kind props 1`] = `
             active={false}
             block={false}
             disabled={false}
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -2433,6 +2453,7 @@ exports[`Storyshots Button With kind props 1`] = `
                   "square": false,
                 },
                 "displayName": "Button",
+                "foldedComponentIds": Array [],
                 "propTypes": Object {
                   "active": [Function],
                   "block": [Function],
@@ -2537,7 +2558,7 @@ exports[`Storyshots Button With round props 1`] = `
 
 <Buttonexample__Container>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -2554,6 +2575,7 @@ exports[`Storyshots Button With round props 1`] = `
           ],
         },
         "displayName": "Buttonexample__Container",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
         "target": "div",
@@ -2580,7 +2602,7 @@ exports[`Storyshots Button With round props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2652,6 +2674,7 @@ exports[`Storyshots Button With round props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -2698,7 +2721,7 @@ exports[`Storyshots Button With round props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2770,6 +2793,7 @@ exports[`Storyshots Button With round props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -2882,7 +2906,7 @@ exports[`Storyshots Button With size props 1`] = `
 
 <Buttonexample__Container>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -2899,6 +2923,7 @@ exports[`Storyshots Button With size props 1`] = `
           ],
         },
         "displayName": "Buttonexample__Container",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
         "target": "div",
@@ -2925,7 +2950,7 @@ exports[`Storyshots Button With size props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2997,6 +3022,7 @@ exports[`Storyshots Button With size props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -3043,7 +3069,7 @@ exports[`Storyshots Button With size props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3115,6 +3141,7 @@ exports[`Storyshots Button With size props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -3216,7 +3243,7 @@ exports[`Storyshots Button With square props 1`] = `
 
 <Buttonexample__Container>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -3233,6 +3260,7 @@ exports[`Storyshots Button With square props 1`] = `
           ],
         },
         "displayName": "Buttonexample__Container",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
         "target": "div",
@@ -3259,7 +3287,7 @@ exports[`Storyshots Button With square props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3331,6 +3359,7 @@ exports[`Storyshots Button With square props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -3377,7 +3406,7 @@ exports[`Storyshots Button With square props 1`] = `
           active={false}
           block={false}
           disabled={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3449,6 +3478,7 @@ exports[`Storyshots Button With square props 1`] = `
                 "square": false,
               },
               "displayName": "Button",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
                 "block": [Function],
@@ -3675,7 +3705,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
   <KindContainer>
     <Buttonexample__Container>
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3692,6 +3722,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               ],
             },
             "displayName": "Buttonexample__Container",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "Buttonexample__Container-sc-1ml6h0r-0",
             "target": "div",
@@ -3720,7 +3751,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               active={false}
               block={false}
               disabled={false}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -3792,6 +3823,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
                     "square": false,
                   },
                   "displayName": "Button",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "active": [Function],
                     "block": [Function],
@@ -3842,7 +3874,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               active={false}
               block={false}
               disabled={false}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -3914,6 +3946,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
                     "square": false,
                   },
                   "displayName": "Button",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "active": [Function],
                     "block": [Function],
@@ -3964,7 +3997,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               active={false}
               block={false}
               disabled={false}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -4036,6 +4069,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
                     "square": false,
                   },
                   "displayName": "Button",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "active": [Function],
                     "block": [Function],
@@ -4086,7 +4120,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               active={false}
               block={false}
               disabled={false}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -4158,6 +4192,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
                     "square": false,
                   },
                   "displayName": "Button",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "active": [Function],
                     "block": [Function],
@@ -4208,7 +4243,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
               active={false}
               block={false}
               disabled={false}
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -4280,6 +4315,7 @@ exports[`Storyshots Button With theme provider (Material) 1`] = `
                     "square": false,
                   },
                   "displayName": "Button",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "active": [Function],
                     "block": [Function],

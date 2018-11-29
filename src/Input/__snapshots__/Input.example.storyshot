@@ -49,7 +49,7 @@ exports[`Storyshots Input API 1`] = `
 >
   <StyledComponent
     focus={false}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -107,6 +107,7 @@ exports[`Storyshots Input API 1`] = `
           "kind": "primary",
         },
         "displayName": "Input",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "focus": [Function],
           "kind": [Function],
@@ -181,7 +182,7 @@ exports[`Storyshots Input With focus props 1`] = `
 >
   <StyledComponent
     focus={true}
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -239,6 +240,7 @@ exports[`Storyshots Input With focus props 1`] = `
           "kind": "primary",
         },
         "displayName": "Input",
+        "foldedComponentIds": Array [],
         "propTypes": Object {
           "focus": [Function],
           "kind": [Function],
@@ -477,7 +479,7 @@ exports[`Storyshots Input With kind props 1`] = `
 
 <Inputexample__Wrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -495,6 +497,7 @@ exports[`Storyshots Input With kind props 1`] = `
           ],
         },
         "displayName": "Inputexample__Wrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
         "target": "div",
@@ -516,7 +519,7 @@ exports[`Storyshots Input With kind props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -574,6 +577,7 @@ exports[`Storyshots Input With kind props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -605,7 +609,7 @@ exports[`Storyshots Input With kind props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -663,6 +667,7 @@ exports[`Storyshots Input With kind props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -694,7 +699,7 @@ exports[`Storyshots Input With kind props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -752,6 +757,7 @@ exports[`Storyshots Input With kind props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -783,7 +789,7 @@ exports[`Storyshots Input With kind props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -841,6 +847,7 @@ exports[`Storyshots Input With kind props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -872,7 +879,7 @@ exports[`Storyshots Input With kind props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -930,6 +937,7 @@ exports[`Storyshots Input With kind props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1007,7 +1015,7 @@ exports[`Storyshots Input With type props 1`] = `
 
 <Inputexample__Wrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -1025,6 +1033,7 @@ exports[`Storyshots Input With type props 1`] = `
           ],
         },
         "displayName": "Inputexample__Wrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Inputexample__Wrapper-sc-2u4o5p-0",
         "target": "div",
@@ -1047,7 +1056,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1105,6 +1114,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1139,7 +1149,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1197,6 +1207,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1231,7 +1242,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1289,6 +1300,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1323,7 +1335,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1381,6 +1393,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1415,7 +1428,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1473,6 +1486,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1507,7 +1521,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1565,6 +1579,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1599,7 +1614,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1657,6 +1672,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1691,7 +1707,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1749,6 +1765,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1783,7 +1800,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1841,6 +1858,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1875,7 +1893,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1933,6 +1951,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -1967,7 +1986,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2025,6 +2044,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -2059,7 +2079,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2117,6 +2137,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -2151,7 +2172,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2209,6 +2230,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -2243,7 +2265,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2301,6 +2323,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],
@@ -2335,7 +2358,7 @@ exports[`Storyshots Input With type props 1`] = `
       >
         <StyledComponent
           focus={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2393,6 +2416,7 @@ exports[`Storyshots Input With type props 1`] = `
                 "kind": "primary",
               },
               "displayName": "Input",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "focus": [Function],
                 "kind": [Function],

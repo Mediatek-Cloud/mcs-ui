@@ -28,7 +28,7 @@ exports[`Storyshots PanelIcon API 1`] = `
 
 <PanelIcon>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -65,6 +65,7 @@ exports[`Storyshots PanelIcon API 1`] = `
           ],
         },
         "displayName": "PanelIcon",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "PanelIcon-gscol3-0",
         "target": "div",

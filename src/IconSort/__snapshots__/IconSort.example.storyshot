@@ -26,7 +26,7 @@ exports[`Storyshots IconSort API 1`] = `
   >
     <StyledComponent
       active={false}
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -55,6 +55,7 @@ exports[`Storyshots IconSort API 1`] = `
             ],
           },
           "displayName": "styled-components__StyledSVG",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__StyledSVG-sc-1n69paq-0",
           "target": "svg",

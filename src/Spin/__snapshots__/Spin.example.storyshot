@@ -19,7 +19,7 @@ exports[`Storyshots Spin API 1`] = `
 
 <Spin>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -50,6 +50,7 @@ exports[`Storyshots Spin API 1`] = `
           ],
         },
         "displayName": "Spin",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Spin-sc-1vw5iwo-0",
         "target": "div",
@@ -65,7 +66,7 @@ exports[`Storyshots Spin API 1`] = `
     >
       <Spinexample__ContentWrapper>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -80,6 +81,7 @@ exports[`Storyshots Spin API 1`] = `
                 ],
               },
               "displayName": "Spinexample__ContentWrapper",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "Spinexample__ContentWrapper-sc-1nxetrv-0",
               "target": "div",

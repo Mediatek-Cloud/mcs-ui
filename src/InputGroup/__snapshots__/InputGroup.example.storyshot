@@ -287,7 +287,7 @@ exports[`Storyshots InputGroup API 1`] = `
 
 <InputGroupexample__Wrapper>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -304,6 +304,7 @@ exports[`Storyshots InputGroup API 1`] = `
           ],
         },
         "displayName": "InputGroupexample__Wrapper",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "InputGroupexample__Wrapper-ofrat6-0",
         "target": "div",
@@ -319,7 +320,7 @@ exports[`Storyshots InputGroup API 1`] = `
     >
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -410,6 +411,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -436,7 +438,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -508,6 +510,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -554,7 +557,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -626,6 +629,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -664,7 +668,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -755,6 +759,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -781,7 +786,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -853,6 +858,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -899,7 +905,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -971,6 +977,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -1017,7 +1024,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1089,6 +1096,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -1127,7 +1135,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1218,6 +1226,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -1244,7 +1253,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1316,6 +1325,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -1356,7 +1366,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1414,6 +1424,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -1442,7 +1453,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1533,6 +1544,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -1553,7 +1565,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1611,6 +1623,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -1647,7 +1660,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1719,6 +1732,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -1757,7 +1771,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1848,6 +1862,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -1874,7 +1889,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1946,6 +1961,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -1986,7 +2002,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2044,6 +2060,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -2080,7 +2097,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2152,6 +2169,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -2190,7 +2208,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2281,6 +2299,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -2307,7 +2326,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2379,6 +2398,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -2419,7 +2439,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2477,6 +2497,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -2513,7 +2534,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 active={false}
                 block={false}
                 disabled={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2585,6 +2606,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "square": false,
                     },
                     "displayName": "Button",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "active": [Function],
                       "block": [Function],
@@ -2625,7 +2647,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2683,6 +2705,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -2711,7 +2734,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -2802,6 +2825,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -2822,7 +2846,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2880,6 +2904,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -2911,7 +2936,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3002,6 +3027,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -3025,7 +3051,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3083,6 +3109,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -3111,7 +3138,7 @@ exports[`Storyshots InputGroup API 1`] = `
       </InputGroup>
       <InputGroup>
         <StyledComponent
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -3202,6 +3229,7 @@ exports[`Storyshots InputGroup API 1`] = `
                 ],
               },
               "displayName": "InputGroup",
+              "foldedComponentIds": Array [],
               "render": [Function],
               "styledComponentId": "InputGroup-clww0l-0",
               "target": "div",
@@ -3222,7 +3250,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3280,6 +3308,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],
@@ -3313,7 +3342,7 @@ exports[`Storyshots InputGroup API 1`] = `
             >
               <StyledComponent
                 focus={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3371,6 +3400,7 @@ exports[`Storyshots InputGroup API 1`] = `
                       "kind": "primary",
                     },
                     "displayName": "Input",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "focus": [Function],
                       "kind": [Function],

@@ -62,7 +62,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
             >
               <StyledComponent
                 canDrop={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -110,6 +110,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
                       ],
                     },
                     "displayName": "Container",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "canDrop": [Function],
                       "src": [Function],
@@ -273,7 +274,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
             >
               <StyledComponent
                 canDrop={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -321,6 +322,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                       ],
                     },
                     "displayName": "Container",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "canDrop": [Function],
                       "src": [Function],
@@ -406,7 +408,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                   >
                     <StyledComponent
                       color="grayBase"
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -428,6 +430,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
                             ],
                           },
                           "displayName": "P",
+                          "foldedComponentIds": Array [],
                           "propTypes": Object {
                             "color": [Function],
                           },
@@ -564,7 +567,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
             >
               <StyledComponent
                 canDrop={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -612,6 +615,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                       ],
                     },
                     "displayName": "Container",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "canDrop": [Function],
                       "src": [Function],
@@ -633,7 +637,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                 >
                   <LoadingWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -679,6 +683,9 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                             ],
                           },
                           "displayName": "LoadingWrapper",
+                          "foldedComponentIds": Array [
+                            "Spin-sc-1vw5iwo-0",
+                          ],
                           "render": [Function],
                           "styledComponentId": "LoadingWrapper-sc-1ifvrz0-0",
                           "target": "div",
@@ -780,7 +787,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                   >
                     <StyledComponent
                       color="grayBase"
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -802,6 +809,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
                             ],
                           },
                           "displayName": "P",
+                          "foldedComponentIds": Array [],
                           "propTypes": Object {
                             "color": [Function],
                           },
@@ -902,7 +910,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
             >
               <StyledComponent
                 canDrop={false}
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -950,6 +958,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
                       ],
                     },
                     "displayName": "Container",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "canDrop": [Function],
                       "src": [Function],

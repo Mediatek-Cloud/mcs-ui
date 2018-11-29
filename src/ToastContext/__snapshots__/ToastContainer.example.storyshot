@@ -21,7 +21,7 @@ exports[`Storyshots ToastContainer API 1`] = `
 >
   <styled-components__Fixed>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -39,6 +39,7 @@ exports[`Storyshots ToastContainer API 1`] = `
             ],
           },
           "displayName": "styled-components__Fixed",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
@@ -54,7 +55,7 @@ exports[`Storyshots ToastContainer API 1`] = `
       >
         <styled-components__Container>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -73,6 +74,7 @@ exports[`Storyshots ToastContainer API 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
@@ -120,6 +122,10 @@ exports[`Storyshots ToastContainer API 1`] = `
 `;
 
 exports[`Storyshots ToastContainer With toasts props 1`] = `
+.c5 > *:nth-child(2) .c3 {
+  margin-top: 5px;
+}
+
 .c2 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
@@ -130,7 +136,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c3 {
+.c4 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -161,6 +167,14 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
   margin-top: 8px;
 }
 
+.c6 > .c3 {
+  margin-top: 5px;
+}
+
+.c7 > .c3 {
+  margin-top: 5px;
+}
+
 <ToastContainer
   toasts={
     Array [
@@ -174,7 +188,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
 >
   <styled-components__Fixed>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -192,6 +206,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
             ],
           },
           "displayName": "styled-components__Fixed",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
@@ -207,7 +222,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
       >
         <styled-components__Container>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -226,6 +241,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
@@ -358,7 +374,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                             kind="error"
                           >
                             <StyledComponent
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
@@ -385,6 +401,9 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__StyledCard",
+                                  "foldedComponentIds": Array [
+                                    "Card-lighsv-0",
+                                  ],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
@@ -404,14 +423,14 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                   kind="error"
                                 >
                                   <StyledComponent
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,
-                                          "lastClassName": "c3",
+                                          "lastClassName": "c4",
                                           "rules": Array [
                                             "
   margin: 0;
@@ -437,6 +456,9 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__StyledP",
+                                        "foldedComponentIds": Array [
+                                          "c3",
+                                        ],
                                         "propTypes": Object {
                                           "color": [Function],
                                         },
@@ -452,7 +474,7 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
                                     kind="error"
                                   >
                                     <p
-                                      className="c3"
+                                      className="c3 c4"
                                       kind="error"
                                     >
                                       error children
@@ -478,7 +500,11 @@ exports[`Storyshots ToastContainer With toasts props 1`] = `
 `;
 
 exports[`Storyshots ToastContainer With two toasts 1`] = `
-.c4 {
+.c7 > *:nth-child(2) .c3 {
+  margin-top: 5px;
+}
+
+.c5 {
   box-sizing: border-box;
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
@@ -498,7 +524,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
   background-color: rgba(255,255,255,0.9);
 }
 
-.c5 {
+.c6 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -514,7 +540,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
   background-color: rgba(105,190,40,0.1);
 }
 
-.c3 {
+.c4 {
   margin: 0;
   font-size: 1rem;
   display: -webkit-box;
@@ -545,6 +571,14 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
   margin-top: 8px;
 }
 
+.c8 > .c3 {
+  margin-top: 5px;
+}
+
+.c9 > .c3 {
+  margin-top: 5px;
+}
+
 <ToastContainer
   toasts={
     Array [
@@ -563,7 +597,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
 >
   <styled-components__Fixed>
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -581,6 +615,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
             ],
           },
           "displayName": "styled-components__Fixed",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Fixed-h3sw4-0",
           "target": "div",
@@ -596,7 +631,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
       >
         <styled-components__Container>
           <StyledComponent
-            forwardedClass={
+            forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": Array [],
@@ -615,6 +650,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                   ],
                 },
                 "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
                 "render": [Function],
                 "styledComponentId": "styled-components__Container-h3sw4-1",
                 "target": "div",
@@ -752,14 +788,14 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                             kind="error"
                           >
                             <StyledComponent
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                     "isStatic": false,
-                                    "lastClassName": "c4",
+                                    "lastClassName": "c5",
                                     "rules": Array [
                                       "
   box-sizing: border-box;
@@ -779,6 +815,9 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__StyledCard",
+                                  "foldedComponentIds": Array [
+                                    "Card-lighsv-0",
+                                  ],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
@@ -798,14 +837,14 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                   kind="error"
                                 >
                                   <StyledComponent
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,
-                                          "lastClassName": "c5",
+                                          "lastClassName": "c6",
                                           "rules": Array [
                                             "
   margin: 0;
@@ -831,6 +870,9 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__StyledP",
+                                        "foldedComponentIds": Array [
+                                          "c3",
+                                        ],
                                         "propTypes": Object {
                                           "color": [Function],
                                         },
@@ -846,7 +888,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     kind="error"
                                   >
                                     <p
-                                      className="c3"
+                                      className="c3 c4"
                                       kind="error"
                                     >
                                       error children
@@ -948,14 +990,14 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                             kind="success"
                           >
                             <StyledComponent
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
                                   "componentStyle": ComponentStyle {
                                     "componentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                     "isStatic": false,
-                                    "lastClassName": "c4",
+                                    "lastClassName": "c5",
                                     "rules": Array [
                                       "
   box-sizing: border-box;
@@ -975,6 +1017,9 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__StyledCard",
+                                  "foldedComponentIds": Array [
+                                    "Card-lighsv-0",
+                                  ],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__StyledCard-sc-1kgwv0d-0",
                                   "target": "div",
@@ -987,21 +1032,21 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                               kind="success"
                             >
                               <div
-                                className="c4"
+                                className="c5"
                                 kind="success"
                               >
                                 <styled-components__StyledP
                                   kind="success"
                                 >
                                   <StyledComponent
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
                                         "componentStyle": ComponentStyle {
                                           "componentId": "styled-components__StyledP-sc-1kgwv0d-1",
                                           "isStatic": false,
-                                          "lastClassName": "c5",
+                                          "lastClassName": "c6",
                                           "rules": Array [
                                             "
   margin: 0;
@@ -1027,6 +1072,9 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__StyledP",
+                                        "foldedComponentIds": Array [
+                                          "c3",
+                                        ],
                                         "propTypes": Object {
                                           "color": [Function],
                                         },
@@ -1042,7 +1090,7 @@ exports[`Storyshots ToastContainer With two toasts 1`] = `
                                     kind="success"
                                   >
                                     <p
-                                      className="c5"
+                                      className="c3 c6"
                                       kind="success"
                                     >
                                       success children

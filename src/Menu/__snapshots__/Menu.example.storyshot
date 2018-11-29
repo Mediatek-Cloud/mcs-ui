@@ -19,7 +19,7 @@ exports[`Storyshots Menu API for Menu 1`] = `
 
 <Menu>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -45,6 +45,9 @@ exports[`Storyshots Menu API for Menu 1`] = `
           ],
         },
         "displayName": "Menu",
+        "foldedComponentIds": Array [
+          "Card-lighsv-0",
+        ],
         "render": [Function],
         "styledComponentId": "Menu-sc-1eizce1-0",
         "target": "div",
@@ -174,7 +177,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
 
 <Menuexample__StyledMenu>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -203,6 +206,10 @@ exports[`Storyshots Menu Fixed width 1`] = `
           ],
         },
         "displayName": "Menuexample__StyledMenu",
+        "foldedComponentIds": Array [
+          "Card-lighsv-0",
+          "Menu-sc-1eizce1-0",
+        ],
         "render": [Function],
         "styledComponentId": "Menuexample__StyledMenu-sc-10gs01o-0",
         "target": "div",
@@ -222,7 +229,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -289,6 +296,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -317,7 +325,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -384,6 +392,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -412,7 +421,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -479,6 +488,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -501,7 +511,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
               level={1}
             >
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -526,6 +536,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                       "level": 1,
                     },
                     "displayName": "Heading",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "color": [Function],
                       "level": [Function],
@@ -563,7 +574,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -630,6 +641,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -650,7 +662,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           >
             <P>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -672,6 +684,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                       ],
                     },
                     "displayName": "P",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "color": [Function],
                     },
@@ -701,7 +714,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -768,6 +781,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -791,7 +805,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
             >
               <StyledComponent
                 color="error"
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -813,6 +827,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                       ],
                     },
                     "displayName": "P",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "color": [Function],
                     },
@@ -843,7 +858,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -910,6 +925,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -933,7 +949,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
             >
               <StyledComponent
                 color="primary"
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -966,6 +982,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                       "color": "primary",
                     },
                     "displayName": "A",
+                    "foldedComponentIds": Array [],
                     "propTypes": Object {
                       "color": [Function],
                     },
@@ -996,7 +1013,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1063,6 +1080,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -1083,7 +1101,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
           >
             <B>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1098,6 +1116,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                       ],
                     },
                     "displayName": "B",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "B-sc-1ocntpk-0",
                     "target": "b",
@@ -1124,7 +1143,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1191,6 +1210,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -1231,7 +1251,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
         <StyledComponent
           active={false}
           as="a"
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1298,6 +1318,7 @@ exports[`Storyshots Menu Fixed width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -1383,7 +1404,7 @@ exports[`Storyshots Menu Min width 1`] = `
 
 <Menu>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -1409,6 +1430,9 @@ exports[`Storyshots Menu Min width 1`] = `
           ],
         },
         "displayName": "Menu",
+        "foldedComponentIds": Array [
+          "Card-lighsv-0",
+        ],
         "render": [Function],
         "styledComponentId": "Menu-sc-1eizce1-0",
         "target": "div",
@@ -1428,7 +1452,7 @@ exports[`Storyshots Menu Min width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1495,6 +1519,7 @@ exports[`Storyshots Menu Min width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },
@@ -1523,7 +1548,7 @@ exports[`Storyshots Menu Min width 1`] = `
       >
         <StyledComponent
           active={false}
-          forwardedClass={
+          forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
               "attrs": Array [],
@@ -1590,6 +1615,7 @@ exports[`Storyshots Menu Min width 1`] = `
                 "active": false,
               },
               "displayName": "MenuItem",
+              "foldedComponentIds": Array [],
               "propTypes": Object {
                 "active": [Function],
               },

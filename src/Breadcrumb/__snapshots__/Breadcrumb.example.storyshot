@@ -16,7 +16,7 @@ exports[`Storyshots Breadcrumb API 1`] = `
 
 <Breadcrumb>
   <StyledComponent
-    forwardedClass={
+    forwardedComponent={
       Object {
         "$$typeof": Symbol(react.forward_ref),
         "attrs": Array [],
@@ -41,6 +41,7 @@ exports[`Storyshots Breadcrumb API 1`] = `
           ],
         },
         "displayName": "Breadcrumb",
+        "foldedComponentIds": Array [],
         "render": [Function],
         "styledComponentId": "Breadcrumb-sqawcc-0",
         "target": "div",

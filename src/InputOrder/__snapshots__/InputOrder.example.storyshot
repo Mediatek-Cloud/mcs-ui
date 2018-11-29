@@ -214,7 +214,7 @@ exports[`Storyshots InputOrder API 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -251,6 +251,7 @@ exports[`Storyshots InputOrder API 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -279,7 +280,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -295,6 +296,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -310,7 +312,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -326,6 +328,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -356,7 +359,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={true}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -394,6 +397,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -417,7 +421,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={true}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -441,6 +445,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -486,7 +491,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -502,6 +507,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -517,7 +523,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -533,6 +539,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -563,7 +570,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={true}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -601,6 +608,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -624,7 +632,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={true}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -648,6 +656,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -693,7 +702,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -709,6 +718,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -724,7 +734,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -740,6 +750,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -770,7 +781,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -808,6 +819,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -831,7 +843,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -855,6 +867,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -898,7 +911,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -914,6 +927,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -929,7 +943,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -945,6 +959,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -975,7 +990,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -1013,6 +1028,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -1036,7 +1052,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -1060,6 +1076,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -1103,7 +1120,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1119,6 +1136,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -1134,7 +1152,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1150,6 +1168,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -1180,7 +1199,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -1218,6 +1237,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -1241,7 +1261,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -1265,6 +1285,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -1308,7 +1329,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1324,6 +1345,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -1339,7 +1361,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1355,6 +1377,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -1385,7 +1408,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -1423,6 +1446,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -1446,7 +1470,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -1470,6 +1494,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -1513,7 +1538,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1529,6 +1554,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -1544,7 +1570,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1560,6 +1586,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -1590,7 +1617,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -1628,6 +1655,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -1651,7 +1679,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -1675,6 +1703,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -1718,7 +1747,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1734,6 +1763,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -1749,7 +1779,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1765,6 +1795,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -1795,7 +1826,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -1833,6 +1864,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -1856,7 +1888,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -1880,6 +1912,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -1923,7 +1956,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -1939,6 +1972,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -1954,7 +1988,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -1970,6 +2004,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -2000,7 +2035,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -2038,6 +2073,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -2061,7 +2097,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -2085,6 +2121,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -2128,7 +2165,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2144,6 +2181,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -2159,7 +2197,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -2175,6 +2213,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -2205,7 +2244,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -2243,6 +2282,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -2266,7 +2306,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -2290,6 +2330,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -2333,7 +2374,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2349,6 +2390,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -2364,7 +2406,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -2380,6 +2422,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -2410,7 +2453,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -2448,6 +2491,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -2471,7 +2515,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -2495,6 +2539,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -2538,7 +2583,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2554,6 +2599,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -2569,7 +2615,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -2585,6 +2631,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -2615,7 +2662,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -2653,6 +2700,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -2676,7 +2724,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -2700,6 +2748,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -2743,7 +2792,7 @@ exports[`Storyshots InputOrder API 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -2759,6 +2808,7 @@ exports[`Storyshots InputOrder API 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -2774,7 +2824,7 @@ exports[`Storyshots InputOrder API 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -2790,6 +2840,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -2820,7 +2871,7 @@ exports[`Storyshots InputOrder API 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -2858,6 +2909,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -2881,7 +2933,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -2905,6 +2957,7 @@ exports[`Storyshots InputOrder API 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -3114,7 +3167,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3151,6 +3204,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -3179,7 +3233,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3195,6 +3249,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -3210,7 +3265,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -3226,6 +3281,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -3252,7 +3308,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                           >
                             <StyledComponent
                               checked={true}
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
@@ -3290,6 +3346,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__Container",
+                                  "foldedComponentIds": Array [],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                   "target": "div",
@@ -3313,7 +3370,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                 >
                                   <StyledComponent
                                     checked={true}
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
@@ -3337,6 +3394,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__Content",
+                                        "foldedComponentIds": Array [],
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                         "target": "div",
@@ -3396,7 +3454,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3412,6 +3470,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -3427,7 +3486,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -3443,6 +3502,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -3469,7 +3529,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                           >
                             <StyledComponent
                               checked={false}
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
@@ -3507,6 +3567,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__Container",
+                                  "foldedComponentIds": Array [],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                   "target": "div",
@@ -3530,7 +3591,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                 >
                                   <StyledComponent
                                     checked={false}
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
@@ -3554,6 +3615,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__Content",
+                                        "foldedComponentIds": Array [],
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                         "target": "div",
@@ -3596,7 +3658,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -3612,6 +3674,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -3627,7 +3690,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -3643,6 +3706,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -3669,7 +3733,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                           >
                             <StyledComponent
                               checked={false}
-                              forwardedClass={
+                              forwardedComponent={
                                 Object {
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": Array [],
@@ -3707,6 +3771,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                     ],
                                   },
                                   "displayName": "styled-components__Container",
+                                  "foldedComponentIds": Array [],
                                   "render": [Function],
                                   "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                   "target": "div",
@@ -3730,7 +3795,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                 >
                                   <StyledComponent
                                     checked={false}
-                                    forwardedClass={
+                                    forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
                                         "attrs": Array [],
@@ -3754,6 +3819,7 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                           ],
                                         },
                                         "displayName": "styled-components__Content",
+                                        "foldedComponentIds": Array [],
                                         "render": [Function],
                                         "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                         "target": "div",
@@ -3854,7 +3920,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
     height={100}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -3891,6 +3957,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -3912,7 +3979,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
           >
             <StyledComponent
               color="grayBase"
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -3934,6 +4001,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
                     ],
                   },
                   "displayName": "P",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "color": [Function],
                   },
@@ -4129,7 +4197,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
       height={192}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -4166,6 +4234,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
               ],
             },
             "displayName": "styled-components__Container",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Container-z5p25e-0",
             "target": "div",
@@ -4194,7 +4263,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -4210,6 +4279,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -4225,7 +4295,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -4241,6 +4311,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -4271,7 +4342,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -4309,6 +4380,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -4332,7 +4404,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -4356,6 +4428,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -4399,7 +4472,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -4415,6 +4488,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -4430,7 +4504,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -4446,6 +4520,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -4476,7 +4551,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -4514,6 +4589,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -4537,7 +4613,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -4561,6 +4637,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -4604,7 +4681,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -4620,6 +4697,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -4635,7 +4713,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -4651,6 +4729,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -4681,7 +4760,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -4719,6 +4798,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -4742,7 +4822,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -4766,6 +4846,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -4809,7 +4890,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -4825,6 +4906,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -4840,7 +4922,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -4856,6 +4938,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -4886,7 +4969,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -4924,6 +5007,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -4947,7 +5031,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -4971,6 +5055,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -5014,7 +5099,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -5030,6 +5115,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -5045,7 +5131,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -5061,6 +5147,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -5091,7 +5178,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -5129,6 +5216,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -5152,7 +5240,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -5176,6 +5264,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -5219,7 +5308,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -5235,6 +5324,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -5250,7 +5340,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -5266,6 +5356,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -5296,7 +5387,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -5334,6 +5425,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -5357,7 +5449,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -5381,6 +5473,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -5424,7 +5517,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -5440,6 +5533,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -5455,7 +5549,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -5471,6 +5565,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -5501,7 +5596,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -5539,6 +5634,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -5562,7 +5658,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -5586,6 +5682,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -5629,7 +5726,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -5645,6 +5742,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -5660,7 +5758,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -5676,6 +5774,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -5706,7 +5805,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -5744,6 +5843,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -5767,7 +5867,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -5791,6 +5891,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -5834,7 +5935,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -5850,6 +5951,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -5865,7 +5967,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -5881,6 +5983,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -5911,7 +6014,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -5949,6 +6052,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -5972,7 +6076,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -5996,6 +6100,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -6039,7 +6144,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -6055,6 +6160,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -6070,7 +6176,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -6086,6 +6192,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -6116,7 +6223,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -6154,6 +6261,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -6177,7 +6285,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -6201,6 +6309,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -6244,7 +6353,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -6260,6 +6369,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -6275,7 +6385,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -6291,6 +6401,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -6321,7 +6432,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -6359,6 +6470,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -6382,7 +6494,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -6406,6 +6518,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -6449,7 +6562,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -6465,6 +6578,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -6480,7 +6594,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -6496,6 +6610,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -6526,7 +6641,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -6564,6 +6679,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -6587,7 +6703,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -6611,6 +6727,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -6654,7 +6771,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -6670,6 +6787,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -6685,7 +6803,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -6701,6 +6819,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -6731,7 +6850,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -6769,6 +6888,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -6792,7 +6912,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -6816,6 +6936,7 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -6918,7 +7039,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -6955,6 +7076,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -6976,7 +7098,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
           >
             <StyledComponent
               color="grayBase"
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
@@ -6998,6 +7120,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
                     ],
                   },
                   "displayName": "P",
+                  "foldedComponentIds": Array [],
                   "propTypes": Object {
                     "color": [Function],
                   },
@@ -7191,7 +7314,7 @@ exports[`Storyshots InputOrder With state 1`] = `
       height={192}
     >
       <StyledComponent
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -7228,6 +7351,7 @@ exports[`Storyshots InputOrder With state 1`] = `
               ],
             },
             "displayName": "styled-components__Container",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "styled-components__Container-z5p25e-0",
             "target": "div",
@@ -7256,7 +7380,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -7272,6 +7396,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -7287,7 +7412,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -7303,6 +7428,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -7333,7 +7459,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -7371,6 +7497,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -7394,7 +7521,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -7418,6 +7545,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -7461,7 +7589,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -7477,6 +7605,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -7492,7 +7621,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -7508,6 +7637,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -7538,7 +7668,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -7576,6 +7706,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -7599,7 +7730,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -7623,6 +7754,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -7666,7 +7798,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -7682,6 +7814,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -7697,7 +7830,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -7713,6 +7846,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -7743,7 +7877,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -7781,6 +7915,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -7804,7 +7939,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -7828,6 +7963,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -7871,7 +8007,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -7887,6 +8023,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -7902,7 +8039,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -7918,6 +8055,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -7948,7 +8086,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -7986,6 +8124,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -8009,7 +8148,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -8033,6 +8172,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -8076,7 +8216,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -8092,6 +8232,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -8107,7 +8248,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -8123,6 +8264,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -8153,7 +8295,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -8191,6 +8333,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -8214,7 +8357,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -8238,6 +8381,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -8281,7 +8425,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -8297,6 +8441,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -8312,7 +8457,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -8328,6 +8473,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -8358,7 +8504,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -8396,6 +8542,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -8419,7 +8566,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -8443,6 +8590,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -8486,7 +8634,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -8502,6 +8650,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -8517,7 +8666,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -8533,6 +8682,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -8563,7 +8713,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -8601,6 +8751,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -8624,7 +8775,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -8648,6 +8799,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -8691,7 +8843,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -8707,6 +8859,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -8722,7 +8875,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -8738,6 +8891,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -8768,7 +8922,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -8806,6 +8960,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -8829,7 +8984,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -8853,6 +9008,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -8896,7 +9052,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -8912,6 +9068,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -8927,7 +9084,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -8943,6 +9100,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -8973,7 +9131,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -9011,6 +9169,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -9034,7 +9193,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -9058,6 +9217,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -9101,7 +9261,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -9117,6 +9277,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -9132,7 +9293,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -9148,6 +9309,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -9178,7 +9340,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -9216,6 +9378,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -9239,7 +9402,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -9263,6 +9426,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -9306,7 +9470,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -9322,6 +9486,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -9337,7 +9502,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -9353,6 +9518,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -9383,7 +9549,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -9421,6 +9587,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -9444,7 +9611,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -9468,6 +9635,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -9511,7 +9679,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -9527,6 +9695,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -9542,7 +9711,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -9558,6 +9727,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -9588,7 +9758,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -9626,6 +9796,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -9649,7 +9820,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -9673,6 +9844,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -9716,7 +9888,7 @@ exports[`Storyshots InputOrder With state 1`] = `
             >
               <styled-components__Center>
                 <StyledComponent
-                  forwardedClass={
+                  forwardedComponent={
                     Object {
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": Array [],
@@ -9732,6 +9904,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                         ],
                       },
                       "displayName": "styled-components__Center",
+                      "foldedComponentIds": Array [],
                       "render": [Function],
                       "styledComponentId": "styled-components__Center-z5p25e-1",
                       "target": "div",
@@ -9747,7 +9920,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                   >
                     <styled-components__CheckboxWrapper>
                       <StyledComponent
-                        forwardedClass={
+                        forwardedComponent={
                           Object {
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": Array [],
@@ -9763,6 +9936,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               ],
                             },
                             "displayName": "styled-components__CheckboxWrapper",
+                            "foldedComponentIds": Array [],
                             "render": [Function],
                             "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                             "target": "div",
@@ -9793,7 +9967,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                               >
                                 <StyledComponent
                                   checked={false}
-                                  forwardedClass={
+                                  forwardedComponent={
                                     Object {
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": Array [],
@@ -9831,6 +10005,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                         ],
                                       },
                                       "displayName": "styled-components__Container",
+                                      "foldedComponentIds": Array [],
                                       "render": [Function],
                                       "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                       "target": "div",
@@ -9854,7 +10029,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                     >
                                       <StyledComponent
                                         checked={false}
-                                        forwardedClass={
+                                        forwardedComponent={
                                           Object {
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": Array [],
@@ -9878,6 +10053,7 @@ exports[`Storyshots InputOrder With state 1`] = `
                                               ],
                                             },
                                             "displayName": "styled-components__Content",
+                                            "foldedComponentIds": Array [],
                                             "render": [Function],
                                             "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                             "target": "div",
@@ -10035,7 +10211,7 @@ exports[`Storyshots InputOrder one item 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -10072,6 +10248,7 @@ exports[`Storyshots InputOrder one item 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -10100,7 +10277,7 @@ exports[`Storyshots InputOrder one item 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -10116,6 +10293,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -10131,7 +10309,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -10147,6 +10325,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -10177,7 +10356,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                             >
                               <StyledComponent
                                 checked={true}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -10215,6 +10394,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -10238,7 +10418,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                                   >
                                     <StyledComponent
                                       checked={true}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -10262,6 +10442,7 @@ exports[`Storyshots InputOrder one item 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -10473,7 +10654,7 @@ exports[`Storyshots InputOrder three items 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -10510,6 +10691,7 @@ exports[`Storyshots InputOrder three items 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -10538,7 +10720,7 @@ exports[`Storyshots InputOrder three items 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -10554,6 +10736,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -10569,7 +10752,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -10585,6 +10768,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -10615,7 +10799,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             >
                               <StyledComponent
                                 checked={true}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -10653,6 +10837,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -10676,7 +10861,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                   >
                                     <StyledComponent
                                       checked={true}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -10700,6 +10885,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -10745,7 +10931,7 @@ exports[`Storyshots InputOrder three items 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -10761,6 +10947,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -10776,7 +10963,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -10792,6 +10979,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -10822,7 +11010,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -10860,6 +11048,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -10883,7 +11072,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -10907,6 +11096,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -10950,7 +11140,7 @@ exports[`Storyshots InputOrder three items 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -10966,6 +11156,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -10981,7 +11172,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -10997,6 +11188,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -11027,7 +11219,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -11065,6 +11257,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -11088,7 +11281,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -11112,6 +11305,7 @@ exports[`Storyshots InputOrder three items 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -11317,7 +11511,7 @@ exports[`Storyshots InputOrder two items 1`] = `
     height={192}
   >
     <StyledComponent
-      forwardedClass={
+      forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
@@ -11354,6 +11548,7 @@ exports[`Storyshots InputOrder two items 1`] = `
             ],
           },
           "displayName": "styled-components__Container",
+          "foldedComponentIds": Array [],
           "render": [Function],
           "styledComponentId": "styled-components__Container-z5p25e-0",
           "target": "div",
@@ -11382,7 +11577,7 @@ exports[`Storyshots InputOrder two items 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -11398,6 +11593,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -11413,7 +11609,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -11429,6 +11625,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -11459,7 +11656,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                             >
                               <StyledComponent
                                 checked={true}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -11497,6 +11694,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -11520,7 +11718,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                   >
                                     <StyledComponent
                                       checked={true}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -11544,6 +11742,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
@@ -11589,7 +11788,7 @@ exports[`Storyshots InputOrder two items 1`] = `
           >
             <styled-components__Center>
               <StyledComponent
-                forwardedClass={
+                forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
                     "attrs": Array [],
@@ -11605,6 +11804,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                       ],
                     },
                     "displayName": "styled-components__Center",
+                    "foldedComponentIds": Array [],
                     "render": [Function],
                     "styledComponentId": "styled-components__Center-z5p25e-1",
                     "target": "div",
@@ -11620,7 +11820,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                 >
                   <styled-components__CheckboxWrapper>
                     <StyledComponent
-                      forwardedClass={
+                      forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
                           "attrs": Array [],
@@ -11636,6 +11836,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                             ],
                           },
                           "displayName": "styled-components__CheckboxWrapper",
+                          "foldedComponentIds": Array [],
                           "render": [Function],
                           "styledComponentId": "styled-components__CheckboxWrapper-z5p25e-2",
                           "target": "div",
@@ -11666,7 +11867,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                             >
                               <StyledComponent
                                 checked={false}
-                                forwardedClass={
+                                forwardedComponent={
                                   Object {
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": Array [],
@@ -11704,6 +11905,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                       ],
                                     },
                                     "displayName": "styled-components__Container",
+                                    "foldedComponentIds": Array [],
                                     "render": [Function],
                                     "styledComponentId": "styled-components__Container-sc-1jb6672-0",
                                     "target": "div",
@@ -11727,7 +11929,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                   >
                                     <StyledComponent
                                       checked={false}
-                                      forwardedClass={
+                                      forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": Array [],
@@ -11751,6 +11953,7 @@ exports[`Storyshots InputOrder two items 1`] = `
                                             ],
                                           },
                                           "displayName": "styled-components__Content",
+                                          "foldedComponentIds": Array [],
                                           "render": [Function],
                                           "styledComponentId": "styled-components__Content-sc-1jb6672-1",
                                           "target": "div",
