@@ -144,6 +144,12 @@ exports[`Storyshots P With color props 1`] = `
   color: #00A1DE;
 }
 
+.c2 {
+  margin: 0;
+  font-size: 1rem;
+  color: #999A94;
+}
+
 .c8 {
   margin: 0;
   font-size: 1rem;
@@ -160,12 +166,6 @@ exports[`Storyshots P With color props 1`] = `
   margin: 0;
   font-size: 1rem;
   color: #353630;
-}
-
-.c2 {
-  margin: 0;
-  font-size: 1rem;
-  color: #999A94;
 }
 
 .c4 {

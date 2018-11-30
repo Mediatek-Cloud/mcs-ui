@@ -8617,6 +8617,14 @@ react-fuzzy@^0.5.2:
     fuse.js "^3.0.1"
     prop-types "^15.5.9"
 
+react-input-files@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-input-files/-/react-input-files-1.0.0.tgz#449ac35ee0f30ba79000accd5512d0060c67ea25"
+  integrity sha512-E6uTRNr3AuJEWr/NjKPQL1EIhfvSw6w/dHiFM9QNnxQfWPKGhHld4qU0dK7dz5AeTY/r7WSXtB8UBz7JAs6ffg==
+  dependencies:
+    prop-types "^15.6.0"
+    react-portal "^4.1.2"
+
 react-inspector@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/react-inspector/-/react-inspector-2.3.0.tgz#fc9c1d38ab687fc0d190dcaf133ae40158968fc8"
@@ -8657,7 +8665,7 @@ react-overlay-pack@^3.0.6:
     rc-tween-one "^2.2.18"
     react-portal "^4.2.0"
 
-react-portal@^4.2.0:
+react-portal@^4.1.2, react-portal@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/react-portal/-/react-portal-4.2.0.tgz#5400831cdb0ae64dccb8128121cf076089ab1afd"
   integrity sha512-Zf+vGQ/VEAb5XAy+muKEn48yhdCNYPZaB1BWg1xc8sAZWD8pXTgPtQT4ihBdmWzsfCq8p8/kqf0GWydSBqc+Eg==
@@ -9295,6 +9303,11 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
   dependencies:
     hash-base "^3.0.0"
     inherits "^2.0.1"
+
+round-to@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/round-to/-/round-to-3.0.0.tgz#f457177d68e5a1d9d55796528cd03daea0bb4fb9"
+  integrity sha512-h8xeIC7dRHkY++BGKtXTlO/FifRJdUmW5YObBk/8X9nc/2syNXKN8qUA6OvCgmPdtYlWvDqKZOuxz/CX6dcZNg==
 
 rst-selector-parser@^2.2.3:
   version "2.2.3"
