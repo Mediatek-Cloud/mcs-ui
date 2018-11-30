@@ -51,7 +51,7 @@ exports[`Storyshots Small With color 1`] = `
   color: #00A1DE;
 }
 
-.c3 > *:nth-child(2) .c0 {
+.c3 > *:nth-child(2) > * + .c0 {
   margin-top: 5px;
 }
 
@@ -162,7 +162,7 @@ exports[`Storyshots Small Within <P> 1`] = `
   font-size: 1rem;
 }
 
-.c3 > *:nth-child(2) .c0 {
+.c3 > *:nth-child(2) > * + .c0 {
   margin-top: 5px;
 }
 

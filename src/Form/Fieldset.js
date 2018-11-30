@@ -34,7 +34,7 @@ const Fieldset: ReactComponentFunctional<Props> = styled.div`
     min-width: ${({ width }: InnerProps) => width}px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ${P} {
+    > * + ${P} {
       margin-top: 5px;
     }
   }

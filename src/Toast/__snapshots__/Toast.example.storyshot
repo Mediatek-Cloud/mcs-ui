@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Storyshots Toast API 1`] = `
-.c3 > *:nth-child(2) .c1 {
+.c3 > *:nth-child(2) > * + .c1 {
   margin-top: 5px;
 }
 
@@ -160,7 +160,7 @@ exports[`Storyshots Toast API 1`] = `
 `;
 
 exports[`Storyshots Toast With kind props 1`] = `
-.c12 > *:nth-child(2) .c2 {
+.c12 > *:nth-child(2) > * + .c2 {
   margin-top: 5px;
 }
 

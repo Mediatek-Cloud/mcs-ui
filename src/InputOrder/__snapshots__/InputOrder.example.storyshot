@@ -3862,7 +3862,7 @@ exports[`Storyshots InputOrder With height props 1`] = `
   color: #D1D2D3;
 }
 
-.c3 > *:nth-child(2) .c1 {
+.c3 > *:nth-child(2) > * + .c1 {
   margin-top: 5px;
 }
 
@@ -6981,7 +6981,7 @@ exports[`Storyshots InputOrder With placeholder props 1`] = `
   color: #D1D2D3;
 }
 
-.c3 > *:nth-child(2) .c1 {
+.c3 > *:nth-child(2) > * + .c1 {
   margin-top: 5px;
 }
 
