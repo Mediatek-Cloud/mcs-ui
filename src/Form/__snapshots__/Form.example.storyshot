@@ -48,7 +48,7 @@ exports[`Storyshots Form Fieldset 1`] = `
   min-width: 200px;
 }
 
-.c0 > *:nth-child(2) .c1 {
+.c0 > *:nth-child(2) > * + .c1 {
   margin-top: 5px;
 }
 
@@ -92,7 +92,7 @@ exports[`Storyshots Form Fieldset 1`] = `
             "px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ",
+    > * + ",
             ".c1",
             " {
       margin-top: 5px;
@@ -201,7 +201,7 @@ exports[`Storyshots Form Form 1`] = `
   min-width: 200px;
 }
 
-.c2 > *:nth-child(2) .c7 {
+.c2 > *:nth-child(2) > * + .c7 {
   margin-top: 5px;
 }
 
@@ -424,7 +424,7 @@ exports[`Storyshots Form Form 1`] = `
                   "px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ",
+    > * + ",
                   ".c7",
                   " {
       margin-top: 5px;
@@ -640,7 +640,7 @@ exports[`Storyshots Form Form 1`] = `
                   "px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ",
+    > * + ",
                   ".c7",
                   " {
       margin-top: 5px;
@@ -949,7 +949,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
   min-width: 200px;
 }
 
-.c3 > *:nth-child(2) .c8 {
+.c3 > *:nth-child(2) > * + .c8 {
   margin-top: 5px;
 }
 
@@ -1304,7 +1304,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                           "px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ",
+    > * + ",
                           ".c8",
                           " {
       margin-top: 5px;
@@ -1520,7 +1520,7 @@ exports[`Storyshots Form ResponsivePanel 1`] = `
                           "px; /* Note: for flex-wrap */
 
     /* Note: Error message */
-    ",
+    > * + ",
                           ".c8",
                           " {
       margin-top: 5px;

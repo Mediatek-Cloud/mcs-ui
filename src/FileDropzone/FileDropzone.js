@@ -50,13 +50,9 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
     accept: '*',
   };
 
-  onFileChange = async ([file]: Array<File>) => {
+  onFileChange = ([file]: Array<File>) => {
     const { onFileChange, setSubmitting } = this.props;
-    try {
-      await onFileChange(file, setSubmitting);
-    } catch (error) {
-      throw new Error(error);
-    }
+    onFileChange(file, setSubmitting);
   };
 
   render() {
