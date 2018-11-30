@@ -19,6 +19,7 @@ export { default as ConfirmDialog } from './ConfirmDialog';
 export { default as CopyButton } from './CopyButton';
 export { default as DropdownMenu } from './DropdownMenu';
 export { default as EChart } from './EChart';
+export { default as FileDropzone } from './FileDropzone';
 export { default as Gauge } from './Gauge';
 export { default as Heading } from './Heading';
 export { default as Hr } from './Hr';
