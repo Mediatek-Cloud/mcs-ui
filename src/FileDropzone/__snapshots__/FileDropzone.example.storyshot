@@ -57,7 +57,7 @@ exports[`Storyshots FileDropzone API 1`] = `
       dot="."
       isSubmitting={false}
       onFileChange={[Function]}
-      placeholder="Please upload your file"
+      placeholder="Drag & drop your file here or "
       setSubmitting={[Function]}
       value={null}
     >
@@ -133,8 +133,7 @@ exports[`Storyshots FileDropzone API 1`] = `
                       className="c0"
                     >
                       <div>
-                        Please upload your file
-                         
+                        Drag & drop your file here or 
                         <InputFiles
                           accept="*"
                           onChange={[Function]}
@@ -299,7 +298,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
   browse="瀏覽"
   dot="。"
   onFileChange={[Function]}
-  placeholder="請選擇您的檔案"
+  placeholder="請拖拉檔案至此，或者您可以點擊"
   value={null}
 >
   <withState(PureFileDropzone)
@@ -307,7 +306,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
     browse="瀏覽"
     dot="。"
     onFileChange={[Function]}
-    placeholder="請選擇您的檔案"
+    placeholder="請拖拉檔案至此，或者您可以點擊"
     value={null}
   >
     <PureFileDropzone
@@ -316,7 +315,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
       dot="。"
       isSubmitting={false}
       onFileChange={[Function]}
-      placeholder="請選擇您的檔案"
+      placeholder="請拖拉檔案至此，或者您可以點擊"
       setSubmitting={[Function]}
       value={null}
     >
@@ -392,8 +391,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
                       className="c0"
                     >
                       <div>
-                        請選擇您的檔案
-                         
+                        請拖拉檔案至此，或者您可以點擊
                         <InputFiles
                           accept="*"
                           onChange={[Function]}
@@ -653,7 +651,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
       dot="."
       isSubmitting={false}
       onFileChange={[Function]}
-      placeholder="Please upload your file"
+      placeholder="Drag & drop your file here or "
       setSubmitting={[Function]}
       value={
         Object {
@@ -734,8 +732,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
                       className="c0"
                     >
                       <div>
-                        Please upload your file
-                         
+                        Drag & drop your file here or 
                         <InputFiles
                           accept="*"
                           onChange={[Function]}
@@ -1138,7 +1135,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
         dot="."
         isSubmitting={false}
         onFileChange={[Function]}
-        placeholder="Please upload your file"
+        placeholder="Drag & drop your file here or "
         setSubmitting={[Function]}
         value={null}
       >
@@ -1214,8 +1211,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
                         className="c0"
                       >
                         <div>
-                          Please upload your file
-                           
+                          Drag & drop your file here or 
                           <InputFiles
                             accept="*"
                             onChange={[Function]}

@@ -48,7 +48,7 @@ storiesOf('FileDropzone', module)
       <FileDropzone
         value={null}
         onFileChange={action('onFileChange')}
-        placeholder="請選擇您的檔案"
+        placeholder="請拖拉檔案至此，或者您可以點擊"
         browse="瀏覽"
         dot="。"
         accept="*"

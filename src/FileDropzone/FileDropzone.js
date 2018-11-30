@@ -44,7 +44,7 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
   };
 
   static defaultProps = {
-    placeholder: 'Please upload your file',
+    placeholder: 'Drag & drop your file here or ',
     browse: 'browse',
     dot: '.',
     accept: '*',
@@ -78,7 +78,6 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
             <Container canDrop={canDrop}>
               <div>
                 {placeholder}
-                &nbsp;
                 <InputFiles onChange={onFileChange} accept={accept}>
                   <A>{browse}</A>
                 </InputFiles>
