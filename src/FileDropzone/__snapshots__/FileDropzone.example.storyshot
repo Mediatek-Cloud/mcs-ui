@@ -55,6 +55,7 @@ exports[`Storyshots FileDropzone API 1`] = `
       accept="*"
       browse="browse"
       dot="."
+      height={120}
       isSubmitting={false}
       onFileChange={[Function]}
       placeholder="Drag & drop your file here or "
@@ -82,6 +83,7 @@ exports[`Storyshots FileDropzone API 1`] = `
               <div>
                 <styled-components__Container
                   canDrop={false}
+                  height={120}
                 >
                   <StyledComponent
                     canDrop={false}
@@ -100,7 +102,9 @@ exports[`Storyshots FileDropzone API 1`] = `
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 120px;
+  height: ",
+                            [Function],
+                            "px;
   padding: 12px;
   color: ",
                             [Function],
@@ -128,9 +132,11 @@ exports[`Storyshots FileDropzone API 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    height={120}
                   >
                     <div
                       className="c0"
+                      height={120}
                     >
                       <div>
                         Drag & drop your file here or 
@@ -250,6 +256,583 @@ exports[`Storyshots FileDropzone API 1`] = `
 </FileDropzone>
 `;
 
+exports[`Storyshots FileDropzone With custom height 1`] = `
+.c4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #999A94;
+}
+
+.c1 {
+  color: #00A1DE;
+  -webkit-transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: color cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1:hover {
+  color: rgb(0,151,208);
+}
+
+.c1:active {
+  color: rgb(0,144,198);
+}
+
+.c0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  height: 240px;
+  padding: 12px;
+  color: #D1D2D3;
+  background-color: #FAFAFA;
+  border: 1px dashed #D1D2D3;
+  border-radius: 3px;
+  -webkit-transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+  transition: all cubic-bezier(0.47,0,0.75,0.72) 0.3s;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #D1D2D3;
+}
+
+.c2 > * {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.c2 > *:first-child {
+  overflow: hidden;
+}
+
+.c2 > *:first-child svg {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  margin-right: 5px;
+  fill: #00A1DE;
+}
+
+.c3 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c5 svg {
+  margin-left: 5px;
+  fill: #69BE28;
+}
+
+<FileDropzone
+  height={240}
+  onFileChange={[Function]}
+  value={
+    Object {
+      "name": "text.txt",
+      "size": 12000,
+    }
+  }
+>
+  <withState(PureFileDropzone)
+    height={240}
+    onFileChange={[Function]}
+    value={
+      Object {
+        "name": "text.txt",
+        "size": 12000,
+      }
+    }
+  >
+    <PureFileDropzone
+      accept="*"
+      browse="browse"
+      dot="."
+      height={240}
+      isSubmitting={false}
+      onFileChange={[Function]}
+      placeholder="Drag & drop your file here or "
+      setSubmitting={[Function]}
+      value={
+        Object {
+          "name": "text.txt",
+          "size": 12000,
+        }
+      }
+    >
+      <ReactDndDropzone
+        onDrop={[Function]}
+        render={[Function]}
+      >
+        <DropTarget(Target)
+          onDrop={[Function]}
+          render={[Function]}
+        >
+          <Target
+            canDrop={false}
+            connectDropTarget={[Function]}
+            isOver={false}
+            onDrop={[Function]}
+            render={[Function]}
+          >
+            <DragDropContextProvider
+              backend={[Function]}
+            >
+              <div>
+                <styled-components__Container
+                  canDrop={false}
+                  height={240}
+                >
+                  <StyledComponent
+                    canDrop={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styled-components__Container-esmhbm-0",
+                          "isStatic": false,
+                          "lastClassName": "c0",
+                          "rules": Array [
+                            "
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: ",
+                            [Function],
+                            "px;
+  padding: 12px;
+  color: ",
+                            [Function],
+                            ";
+  background-color: ",
+                            [Function],
+                            ";
+  border: 1px dashed
+    ",
+                            [Function],
+                            ";
+  border-radius: 3px;
+  transition: all cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+",
+                          ],
+                        },
+                        "displayName": "styled-components__Container",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "styled-components__Container-esmhbm-0",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    height={240}
+                  >
+                    <div
+                      className="c0"
+                      height={240}
+                    >
+                      <div>
+                        Drag & drop your file here or 
+                        <InputFiles
+                          accept="*"
+                          onChange={[Function]}
+                        >
+                          <div
+                            onClick={[Function]}
+                            onKeyPress={[Function]}
+                            role="button"
+                            style={
+                              Object {
+                                "display": "inline-block",
+                              }
+                            }
+                            tabIndex="0"
+                          >
+                            <A
+                              color="primary"
+                            >
+                              <StyledComponent
+                                color="primary"
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "A-sc-1bkdbcq-0",
+                                      "isStatic": false,
+                                      "lastClassName": "c1",
+                                      "rules": Array [
+                                        "
+  color: ",
+                                        [Function],
+                                        ";
+  transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: ",
+                                        [Function],
+                                        ";
+  }
+  &:active {
+    color: ",
+                                        [Function],
+                                        ";
+  }
+",
+                                      ],
+                                    },
+                                    "defaultProps": Object {
+                                      "color": "primary",
+                                    },
+                                    "displayName": "A",
+                                    "foldedComponentIds": Array [],
+                                    "propTypes": Object {
+                                      "color": [Function],
+                                    },
+                                    "render": [Function],
+                                    "styledComponentId": "A-sc-1bkdbcq-0",
+                                    "target": "a",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <a
+                                  className="c1"
+                                  color="primary"
+                                >
+                                  browse
+                                </a>
+                              </StyledComponent>
+                            </A>
+                          </div>
+                          <Portal>
+                            <Portal
+                              containerInfo={
+                                <div>
+                                  <input
+                                    accept="*"
+                                    style="display: none;"
+                                    type="file"
+                                  />
+                                </div>
+                              }
+                            >
+                              <input
+                                accept="*"
+                                onChange={[Function]}
+                                style={
+                                  Object {
+                                    "display": "none",
+                                  }
+                                }
+                                type="file"
+                              />
+                            </Portal>
+                          </Portal>
+                        </InputFiles>
+                        .
+                      </div>
+                    </div>
+                  </StyledComponent>
+                </styled-components__Container>
+              </div>
+            </DragDropContextProvider>
+          </Target>
+        </DropTarget(Target)>
+      </ReactDndDropzone>
+      <styled-components__FileNameDisplay>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__FileNameDisplay-esmhbm-1",
+                "isStatic": false,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid ",
+                  [Function],
+                  ";
+
+  > * {
+    display: flex;
+    align-items: stretch;
+  }
+
+  > *:first-child {
+    overflow: hidden;
+
+    svg {
+      flex-shrink: 0;
+      margin-right: 5px;
+      fill: ",
+                  [Function],
+                  ";
+    }
+  }
+",
+                ],
+              },
+              "displayName": "styled-components__FileNameDisplay",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "styled-components__FileNameDisplay-esmhbm-1",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c2"
+          >
+            <div>
+              <IconFileOutline
+                height={18}
+                width={18}
+              >
+                <svg
+                  fill="currentColor"
+                  height={18}
+                  viewBox="0 0 24 24"
+                  width={18}
+                >
+                  <path
+                    d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h5v7h7v9zM13 9V3.5L18.5 9H13zm-5 4h8v2H8v-2zm0 3h5v2H8v-2z"
+                  />
+                </svg>
+              </IconFileOutline>
+              <styled-components__TextOverflow>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__TextOverflow-esmhbm-2",
+                        "isStatic": true,
+                        "lastClassName": "c3",
+                        "rules": Array [
+                          "
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+",
+                        ],
+                      },
+                      "displayName": "styled-components__TextOverflow",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__TextOverflow-esmhbm-2",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="c3"
+                  >
+                    text.txt
+                  </div>
+                </StyledComponent>
+              </styled-components__TextOverflow>
+            </div>
+            <div>
+              <P
+                color="grayDark"
+              >
+                <StyledComponent
+                  color="grayDark"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "P-sc-1ujgctf-0",
+                        "isStatic": false,
+                        "lastClassName": "c4",
+                        "rules": Array [
+                          "
+  margin: 0;
+  font-size: ",
+                          [Function],
+                          ";
+
+  ",
+                          [Function],
+                          ";
+",
+                        ],
+                      },
+                      "displayName": "P",
+                      "foldedComponentIds": Array [],
+                      "propTypes": Object {
+                        "color": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "P-sc-1ujgctf-0",
+                      "target": "p",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <p
+                    className="c4"
+                    color="grayDark"
+                  >
+                    0.01MB
+                  </p>
+                </StyledComponent>
+              </P>
+              <styled-components__FileLoadingIcon
+                isLoading={false}
+              >
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__FileLoadingIcon-esmhbm-3",
+                        "isStatic": false,
+                        "lastClassName": "c5",
+                        "rules": Array [
+                          "
+  display: flex;
+
+  /* Note: Spin div */
+  div {
+    display: flex;
+    align-items: center;
+  }
+
+  svg {
+    margin-left: 5px;
+    fill: ",
+                          [Function],
+                          ";
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled-components__FileLoadingIcon",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__FileLoadingIcon-esmhbm-3",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  isLoading={false}
+                >
+                  <div
+                    className="c5"
+                  >
+                    <IconDone
+                      height={18}
+                      width={18}
+                    >
+                      <svg
+                        fill="currentColor"
+                        height={18}
+                        viewBox="0 0 24 24"
+                        width={18}
+                      >
+                        <path
+                          d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"
+                        />
+                      </svg>
+                    </IconDone>
+                  </div>
+                </StyledComponent>
+              </styled-components__FileLoadingIcon>
+            </div>
+          </div>
+        </StyledComponent>
+      </styled-components__FileNameDisplay>
+    </PureFileDropzone>
+  </withState(PureFileDropzone)>
+</FileDropzone>
+`;
+
 exports[`Storyshots FileDropzone With custom text 1`] = `
 .c1 {
   color: #00A1DE;
@@ -313,6 +896,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
       accept="*"
       browse="瀏覽"
       dot="。"
+      height={120}
       isSubmitting={false}
       onFileChange={[Function]}
       placeholder="請拖拉檔案至此，或者您可以點擊"
@@ -340,6 +924,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
               <div>
                 <styled-components__Container
                   canDrop={false}
+                  height={120}
                 >
                   <StyledComponent
                     canDrop={false}
@@ -358,7 +943,9 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 120px;
+  height: ",
+                            [Function],
+                            "px;
   padding: 12px;
   color: ",
                             [Function],
@@ -386,9 +973,11 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    height={120}
                   >
                     <div
                       className="c0"
+                      height={120}
                     >
                       <div>
                         請拖拉檔案至此，或者您可以點擊
@@ -649,6 +1238,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
       accept="*"
       browse="browse"
       dot="."
+      height={120}
       isSubmitting={false}
       onFileChange={[Function]}
       placeholder="Drag & drop your file here or "
@@ -681,6 +1271,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
               <div>
                 <styled-components__Container
                   canDrop={false}
+                  height={120}
                 >
                   <StyledComponent
                     canDrop={false}
@@ -699,7 +1290,9 @@ exports[`Storyshots FileDropzone With file value 1`] = `
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 120px;
+  height: ",
+                            [Function],
+                            "px;
   padding: 12px;
   color: ",
                             [Function],
@@ -727,9 +1320,11 @@ exports[`Storyshots FileDropzone With file value 1`] = `
                       }
                     }
                     forwardedRef={null}
+                    height={120}
                   >
                     <div
                       className="c0"
+                      height={120}
                     >
                       <div>
                         Drag & drop your file here or 
@@ -1133,6 +1728,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
         accept="*"
         browse="browse"
         dot="."
+        height={120}
         isSubmitting={false}
         onFileChange={[Function]}
         placeholder="Drag & drop your file here or "
@@ -1160,6 +1756,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
                 <div>
                   <styled-components__Container
                     canDrop={false}
+                    height={120}
                   >
                     <StyledComponent
                       canDrop={false}
@@ -1178,7 +1775,9 @@ exports[`Storyshots FileDropzone With state 1`] = `
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 120px;
+  height: ",
+                              [Function],
+                              "px;
   padding: 12px;
   color: ",
                               [Function],
@@ -1206,9 +1805,11 @@ exports[`Storyshots FileDropzone With state 1`] = `
                         }
                       }
                       forwardedRef={null}
+                      height={120}
                     >
                       <div
                         className="c0"
+                        height={120}
                       >
                         <div>
                           Drag & drop your file here or 

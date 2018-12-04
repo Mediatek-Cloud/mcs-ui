@@ -27,8 +27,19 @@ export type Props = {
   browse?: string,
   dot?: string,
   accept?: string,
+  height?: number,
 };
-type InnerProps = Props & WithSubmittingStateInjectedProps;
+type InnerProps = {
+  value: ?File,
+  onFileChange: (File, setSubmitting: SetSubmitting) => void | Promise<void>,
+  placeholder?: string,
+  browse?: string,
+  dot?: string,
+  accept?: string,
+  height: number,
+} & WithSubmittingStateInjectedProps;
+
+const HEIGHT: number = 120;
 
 export class PureFileDropzone extends React.PureComponent<InnerProps> {
   static propTypes = {
@@ -41,6 +52,7 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
     browse: PropTypes.string,
     dot: PropTypes.string,
     accept: PropTypes.string,
+    height: PropTypes.number,
   };
 
   static defaultProps = {
@@ -48,6 +60,7 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
     browse: 'browse',
     dot: '.',
     accept: '*',
+    height: HEIGHT,
   };
 
   onFileChange = ([file]: Array<File>) => {
@@ -63,6 +76,7 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
       browse,
       dot,
       accept,
+      height,
     } = this.props;
     const { onFileChange } = this;
 
@@ -71,7 +85,7 @@ export class PureFileDropzone extends React.PureComponent<InnerProps> {
         <Dropzone
           onDrop={onFileChange}
           render={({ canDrop }) => (
-            <Container canDrop={canDrop}>
+            <Container canDrop={canDrop} height={height}>
               <div>
                 {placeholder}
                 <InputFiles onChange={onFileChange} accept={accept}>

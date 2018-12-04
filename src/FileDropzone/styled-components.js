@@ -3,15 +3,18 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { type ThemeProps } from '../utils/type.flow';
 
-export const Container: React.ComponentType<{
+type ContainerProps = {
   canDrop: boolean,
-}> = styled.div`
+  height: number,
+};
+
+export const Container: React.ComponentType<ContainerProps> = styled.div`
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 120px;
+  height: ${({ height }: ContainerProps) => height}px;
   padding: 12px;
   color: ${({ theme }: ThemeProps) => theme.color.grayBase};
   background-color: ${({ theme }: ThemeProps) => theme.color.grayLight};

@@ -85,4 +85,24 @@ storiesOf('FileDropzone', module)
       text: 'default',
       inline: true,
     },
-  });
+  })
+  .add(
+    'With custom height',
+    () => (
+      <FileDropzone
+        // $FlowFixMe
+        value={{
+          name: 'text.txt',
+          size: 12000,
+        }}
+        onFileChange={action('onFileChange')}
+        height={240}
+      />
+    ),
+    {
+      info: {
+        text: 'default',
+        inline: true,
+      },
+    },
+  );
