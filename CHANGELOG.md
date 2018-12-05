@@ -1,5 +1,25 @@
 ## Change Log
 
+### v1.1.5 (2018/12/05 08:00 +00:00)
+
+- [f616756](https://github.com/Mediatek-Cloud/mcs-ui/commit/f6167562769802a292f1801146d4748e8a4f61f9) 1.1.5 (@evenchange4)
+- [#95](https://github.com/Mediatek-Cloud/mcs-ui/pull/95) refactor: introduce hsu-scripts to simplify configs (#95) (@evenchange4)
+- [a075eef](https://github.com/Mediatek-Cloud/mcs-ui/commit/a075eef3c098576d97d94bc2248a48b5f811dceb) chore: add missing .editorconfig (@evenchange4)
+- [#94](https://github.com/Mediatek-Cloud/mcs-ui/pull/94) chore(deps): update dependency @babel/plugin-proposal-class-properties to v7.2.1 (#94) (@renovate[bot])
+- [#93](https://github.com/Mediatek-Cloud/mcs-ui/pull/93) chore(deps): update dependency enzyme-to-json to v3.3.5 (#93) (@renovate[bot])
+- [#92](https://github.com/Mediatek-Cloud/mcs-ui/pull/92) chore(deps): update dependency eslint-plugin-jest to v22.1.2 (#92) (@renovate[bot])
+- [9a71f7b](https://github.com/Mediatek-Cloud/mcs-ui/commit/9a71f7beb7615bb1d5b04b7fdd516c4c30346f03) feat(FileDropzone): add height props (@evenchange4)
+- [6d919a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d919a88e5d35e842dc69e921897e180018beaa5) chore: ncu update & update flow type (@evenchange4)
+- [#88](https://github.com/Mediatek-Cloud/mcs-ui/pull/88) chore(deps): update storybook monorepo to v4.0.11 (#88) (@renovate[bot])
+- [#87](https://github.com/Mediatek-Cloud/mcs-ui/pull/87) chore(deps): update storybook monorepo to v4.0.10 (#87) (@renovate[bot])
+- [#86](https://github.com/Mediatek-Cloud/mcs-ui/pull/86) chore(deps): update dependency polished to v2.3.1 (#86) (@renovate[bot])
+
+### v1.1.4 (2018/11/30 11:25 +00:00)
+
+- [8ddfc82](https://github.com/Mediatek-Cloud/mcs-ui/commit/8ddfc824836f815a04d7c2e758c56c6c9c3f56e0) 1.1.4 (@evenchange4)
+- [#85](https://github.com/Mediatek-Cloud/mcs-ui/pull/85) fix(ErrorMessage): css tunning & use @babel/plugin-transform-runtime (#85) (@evenchange4)
+- [140b8a7](https://github.com/Mediatek-Cloud/mcs-ui/commit/140b8a7dd1b767fb599b0cab3dea35f28f47c8c3) docs(CHANGELOG): release 1.1.3 (@evenchange4)
+
 ### v1.1.3 (2018/11/30 08:39 +00:00)
 
 - [4423962](https://github.com/Mediatek-Cloud/mcs-ui/commit/4423962bbb6f22e477f96d96fa258ccf24d36cdf) 1.1.3 (@evenchange4)
@@ -111,12 +131,12 @@
 
 ### v0.1.12 (2018/11/01 07:22 +00:00)
 
-- [8069532](https://github.com/Mediatek-Cloud/mcs-ui/commit/8069532546ad4cd8c72ac7c21b12aff476dfdc58) docs(CHANGELOG): release 0.1.12 (@evenchange4)
-- [e9ab066](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9ab0666c31edf109dbb4b266ece08e3452bb332) 0.1.12 (@evenchange4)
 - [#34](https://github.com/Mediatek-Cloud/mcs-ui/pull/34) chore(npm): add missing sideEffects for webpack & add babel-plugin-transform-react-remove-prop-types to reduce bundle size (#34) (@evenchange4)
-- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
-- [#33](https://github.com/Mediatek-Cloud/mcs-ui/pull/33) chore(deps): update storybook monorepo to v4.0.2 (#33) (@renovate[bot])
+- [e9ab066](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9ab0666c31edf109dbb4b266ece08e3452bb332) 0.1.12 (@evenchange4)
+- [8069532](https://github.com/Mediatek-Cloud/mcs-ui/commit/8069532546ad4cd8c72ac7c21b12aff476dfdc58) docs(CHANGELOG): release 0.1.12 (@evenchange4)
 - [9e09212](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e0921272e8ef83259be4ee0ff4737174eff19de) docs(CHANGELOG): release 0.1.11 (@evenchange4)
+- [#33](https://github.com/Mediatek-Cloud/mcs-ui/pull/33) chore(deps): update storybook monorepo to v4.0.2 (#33) (@renovate[bot])
+- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
 
 ### v0.1.11 (2018/11/01 07:22 +00:00)
 
