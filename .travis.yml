@@ -20,7 +20,7 @@ install:
 script:
   - yarn run eslint
   - yarn run test
-  - ./tasks/flow-coverage.sh
+  - yarn run flow-coverage
   - yarn run build
 
 after_success:
