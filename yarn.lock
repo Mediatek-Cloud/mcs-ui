@@ -4656,7 +4656,7 @@ flow-copy-source@2.0.2, flow-copy-source@^2.0.2:
     kefir "^3.7.3"
     yargs "^12.0.1"
 
-flow-coverage-report@0.6.0:
+flow-coverage-report@0.6.0, flow-coverage-report@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/flow-coverage-report/-/flow-coverage-report-0.6.0.tgz#3bab30921f14ef798d709902048205bd7611ec43"
   integrity sha512-Tr94Db/8xXhaaEeO5knE5iGZ/UxzmuVPqb4F2pcOgKv3R6/9kLVprIcORZJnxKPiPvF6f56JAoNx0TdkDCJUxA==
@@ -5293,10 +5293,10 @@ hosted-git-info@^2.1.4:
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
   integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
 
-hsu-scripts@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/hsu-scripts/-/hsu-scripts-0.1.1.tgz#47beed375420bf8de820d2e0313f85dc91de1203"
-  integrity sha512-mrhNQUC8S4kMUzWn2DozFBXreWOk4zEx7BDNKZCaFHlYdspY513OiH/r0Jf9nLbEdtkqS6YvlyNgBxlF8mjgeQ==
+hsu-scripts@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/hsu-scripts/-/hsu-scripts-0.2.0.tgz#65d1101a361173444f66e5a0e3cc0f78787965cf"
+  integrity sha512-q7n3ie31QRUy2EdO88EwqvqiRu0zTl6/f8LB+vSkC71IOYob6yqtGLUi2fn7Xjwi5bUzC3zPtbEUp3FU88fYrQ==
   dependencies:
     "@babel/cli" "^7.2.0"
     "@babel/core" "^7.2.0"
@@ -5325,6 +5325,7 @@ hsu-scripts@0.1.1:
     eslint-plugin-react "^7.11.1"
     execa "^1.0.0"
     flow-copy-source "^2.0.2"
+    flow-coverage-report "^0.6.0"
     rimraf "^2.6.2"
     yargs "^12.0.5"
 
