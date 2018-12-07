@@ -58,6 +58,7 @@ export { default as StatusLight } from './StatusLight';
 export { default as Switch } from './Switch';
 export { default as TabItem } from './TabItem';
 export { default as Table } from './Table';
+export { default as Tag } from './Tag';
 export { default as Textarea } from './Textarea';
 export { default as Toast } from './Toast';
 export { default as Tooltip } from './Tooltip';

@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Tag API 1`] = `
+.c0 {
+  color: #F39A1E;
+  background-color: #fefaf4;
+  border: 1px solid #F39A1E;
+  height: 20px;
+  padding: 0 5px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  border-radius: 3px;
+}
+
+<Tag>
+  <StyledComponent
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "Tag-sc-5b3788-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  color: ",
+            [Function],
+            ";
+  background-color: #fefaf4;
+  border: 1px solid ",
+            [Function],
+            ";
+  height: 20px;
+  padding: 0 5px;
+  display: inline-flex;
+  border-radius: 3px;
+",
+          ],
+        },
+        "displayName": "Tag",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "Tag-sc-5b3788-0",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      common
+    </div>
+  </StyledComponent>
+</Tag>
+`;
+
+exports[`Storyshots Tag multiple tags 1`] = `
+.c1 {
+  color: #F39A1E;
+  background-color: #fefaf4;
+  border: 1px solid #F39A1E;
+  height: 20px;
+  padding: 0 5px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  border-radius: 3px;
+}
+
+.c0 > * + * {
+  margin-left: 5px;
+}
+
+<Tagexample__TagWrapper>
+  <StyledComponent
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "Tagexample__TagWrapper-sc-1jdmz88-0",
+          "isStatic": true,
+          "lastClassName": "c0",
+          "rules": Array [
+            "
+  > * + * {
+    margin-left: 5px;
+  }
+",
+          ],
+        },
+        "displayName": "Tagexample__TagWrapper",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "Tagexample__TagWrapper-sc-1jdmz88-0",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    >
+      <Tag>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Tag-sc-5b3788-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  color: ",
+                  [Function],
+                  ";
+  background-color: #fefaf4;
+  border: 1px solid ",
+                  [Function],
+                  ";
+  height: 20px;
+  padding: 0 5px;
+  display: inline-flex;
+  border-radius: 3px;
+",
+                ],
+              },
+              "displayName": "Tag",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Tag-sc-5b3788-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c1"
+          >
+            common
+          </div>
+        </StyledComponent>
+      </Tag>
+      <Tag>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Tag-sc-5b3788-0",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "
+  color: ",
+                  [Function],
+                  ";
+  background-color: #fefaf4;
+  border: 1px solid ",
+                  [Function],
+                  ";
+  height: 20px;
+  padding: 0 5px;
+  display: inline-flex;
+  border-radius: 3px;
+",
+                ],
+              },
+              "displayName": "Tag",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Tag-sc-5b3788-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c1"
+          >
+            p80
+          </div>
+        </StyledComponent>
+      </Tag>
+    </div>
+  </StyledComponent>
+</Tagexample__TagWrapper>
+`;
