@@ -71,16 +71,19 @@ exports[`Storyshots TabItem API 1`] = `
 
 <div>
   <TabItem
+    active={false}
     color="primary"
     onClick={[Function]}
     value="key"
   >
     <styled-components__Item
+      active={false}
       color="primary"
       onClick={[Function]}
       value="key"
     >
       <StyledComponent
+        active={false}
         color="primary"
         forwardedComponent={
           Object {
@@ -315,16 +318,19 @@ exports[`Storyshots TabItem With color props 1`] = `
 
 <div>
   <TabItem
+    active={false}
     color="warning"
     onClick={[Function]}
     value={1}
   >
     <styled-components__Item
+      active={false}
       color="warning"
       onClick={[Function]}
       value={1}
     >
       <StyledComponent
+        active={false}
         color="warning"
         forwardedComponent={
           Object {

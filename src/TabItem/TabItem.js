@@ -7,7 +7,7 @@ import { Item } from './styled-components';
 
 export type Props = {
   value: any,
-  active: boolean,
+  active?: boolean,
   onClick?: (e: any, value: any) => void,
   color?: Color,
 };
@@ -21,6 +21,7 @@ export type InnerProps = {
 class TabItem extends React.PureComponent<Props> {
   static propTypes = {
     value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
+    active: PropTypes.bool,
     onClick: PropTypes.func, // (e, value) => void
     color: PropTypes.string,
   };
@@ -28,6 +29,7 @@ class TabItem extends React.PureComponent<Props> {
   static defaultProps = {
     onClick: emptyFunction,
     color: 'primary',
+    active: false,
   };
 
   onClick = (e: any) => {
