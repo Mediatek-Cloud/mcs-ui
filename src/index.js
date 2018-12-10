@@ -5,7 +5,7 @@ export * from './ToastContext';
 export * from './KeyHandler';
 export * from './HoCs';
 export * from './Logo';
-export { default as theme } from './utils/theme';
+export * from './utils';
 
 export { default as A } from './A';
 export { default as Avatar } from './Avatar';

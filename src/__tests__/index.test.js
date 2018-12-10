@@ -15,7 +15,7 @@ const IGNORES = [
   '__snapshots__',
 ];
 
-it('should export es module of each folder', () => {
+it('should export es module of each Component folder', () => {
   const dirnames = R.without(IGNORES)(fs.readdirSync('./src'));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
@@ -66,6 +66,15 @@ it('should export es module of Logo folder', () => {
     'LogoMTK.example.js',
     'LogoMCS.example.js',
   ])(fs.readdirSync('./src/Logo')).map(name => name.replace('.js', ''));
+  dirnames.forEach(name => {
+    expect(Modules).toHaveProperty(name);
+  });
+});
+
+it('should export es module of utils folder', () => {
+  const dirnames = R.without([...IGNORES, 'theme.example.js', 'type.flow.js'])(
+    fs.readdirSync('./src/utils'),
+  ).map(name => name.replace('.js', ''));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
   });

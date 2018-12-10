@@ -47,7 +47,7 @@ const mobile = {
 
 export const fontFamily = `"RionaSans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"`;
 
-export default {
+export const theme = {
   color: {
     ...gray,
     ...kind,
@@ -57,3 +57,5 @@ export default {
   height,
   mobile,
 };
+
+export default theme;
