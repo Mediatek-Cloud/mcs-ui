@@ -52,7 +52,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
         onDrop={[Function]}
         render={[Function]}
       >
-        <DragDropContextProvider
+        <Component
           backend={[Function]}
         >
           <div>
@@ -195,7 +195,7 @@ exports[`Storyshots ImageDropzone API 1`] = `
               </StyledComponent>
             </Container>
           </div>
-        </DragDropContextProvider>
+        </Component>
       </Target>
     </DropTarget(Target)>
   </ReactDndDropzone>
@@ -264,7 +264,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
         onDrop={[Function]}
         render={[Function]}
       >
-        <DragDropContextProvider
+        <Component
           backend={[Function]}
         >
           <div>
@@ -456,7 +456,7 @@ exports[`Storyshots ImageDropzone With children 1`] = `
               </StyledComponent>
             </Container>
           </div>
-        </DragDropContextProvider>
+        </Component>
       </Target>
     </DropTarget(Target)>
   </ReactDndDropzone>
@@ -557,7 +557,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
         onDrop={[Function]}
         render={[Function]}
       >
-        <DragDropContextProvider
+        <Component
           backend={[Function]}
         >
           <div>
@@ -835,7 +835,7 @@ exports[`Storyshots ImageDropzone With isLoading 1`] = `
               </StyledComponent>
             </Container>
           </div>
-        </DragDropContextProvider>
+        </Component>
       </Target>
     </DropTarget(Target)>
   </ReactDndDropzone>
@@ -899,7 +899,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
         onDrop={[Function]}
         render={[Function]}
       >
-        <DragDropContextProvider
+        <Component
           backend={[Function]}
         >
           <div>
@@ -983,7 +983,7 @@ exports[`Storyshots ImageDropzone With src 1`] = `
               </StyledComponent>
             </Container>
           </div>
-        </DragDropContextProvider>
+        </Component>
       </Target>
     </DropTarget(Target)>
   </ReactDndDropzone>

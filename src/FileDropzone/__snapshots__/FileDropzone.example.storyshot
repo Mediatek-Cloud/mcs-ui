@@ -77,7 +77,7 @@ exports[`Storyshots FileDropzone API 1`] = `
             onDrop={[Function]}
             render={[Function]}
           >
-            <DragDropContextProvider
+            <Component
               backend={[Function]}
             >
               <div>
@@ -247,7 +247,7 @@ exports[`Storyshots FileDropzone API 1`] = `
                   </StyledComponent>
                 </styled-components__Container>
               </div>
-            </DragDropContextProvider>
+            </Component>
           </Target>
         </DropTarget(Target)>
       </ReactDndDropzone>
@@ -426,7 +426,7 @@ exports[`Storyshots FileDropzone With custom height 1`] = `
             onDrop={[Function]}
             render={[Function]}
           >
-            <DragDropContextProvider
+            <Component
               backend={[Function]}
             >
               <div>
@@ -596,7 +596,7 @@ exports[`Storyshots FileDropzone With custom height 1`] = `
                   </StyledComponent>
                 </styled-components__Container>
               </div>
-            </DragDropContextProvider>
+            </Component>
           </Target>
         </DropTarget(Target)>
       </ReactDndDropzone>
@@ -918,7 +918,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
             onDrop={[Function]}
             render={[Function]}
           >
-            <DragDropContextProvider
+            <Component
               backend={[Function]}
             >
               <div>
@@ -1088,7 +1088,7 @@ exports[`Storyshots FileDropzone With custom text 1`] = `
                   </StyledComponent>
                 </styled-components__Container>
               </div>
-            </DragDropContextProvider>
+            </Component>
           </Target>
         </DropTarget(Target)>
       </ReactDndDropzone>
@@ -1265,7 +1265,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
             onDrop={[Function]}
             render={[Function]}
           >
-            <DragDropContextProvider
+            <Component
               backend={[Function]}
             >
               <div>
@@ -1435,7 +1435,7 @@ exports[`Storyshots FileDropzone With file value 1`] = `
                   </StyledComponent>
                 </styled-components__Container>
               </div>
-            </DragDropContextProvider>
+            </Component>
           </Target>
         </DropTarget(Target)>
       </ReactDndDropzone>
@@ -1750,7 +1750,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
               onDrop={[Function]}
               render={[Function]}
             >
-              <DragDropContextProvider
+              <Component
                 backend={[Function]}
               >
                 <div>
@@ -1920,7 +1920,7 @@ exports[`Storyshots FileDropzone With state 1`] = `
                     </StyledComponent>
                   </styled-components__Container>
                 </div>
-              </DragDropContextProvider>
+              </Component>
             </Target>
           </DropTarget(Target)>
         </ReactDndDropzone>
