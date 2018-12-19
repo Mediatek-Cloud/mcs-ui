@@ -575,18 +575,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={true}
                               >
                                 <styled-components__Container
                                   checked={true}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={true}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -608,7 +613,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -636,12 +643,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={true}
                                       className="c4"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -796,18 +806,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={true}
                               >
                                 <styled-components__Container
                                   checked={true}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={true}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -829,7 +844,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -857,12 +874,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={true}
                                       className="c4"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -1017,18 +1037,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -1050,7 +1075,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1078,12 +1105,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -1221,18 +1251,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -1254,7 +1289,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1282,12 +1319,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -1425,18 +1465,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -1458,7 +1503,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1486,12 +1533,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -1629,18 +1679,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -1662,7 +1717,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1690,12 +1747,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -1833,18 +1893,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -1866,7 +1931,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1894,12 +1961,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -2037,18 +2107,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -2070,7 +2145,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2098,12 +2175,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -2241,18 +2321,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -2274,7 +2359,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2302,12 +2389,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -2445,18 +2535,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -2478,7 +2573,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2506,12 +2603,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -2649,18 +2749,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -2682,7 +2787,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2710,12 +2817,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -2853,18 +2963,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -2886,7 +3001,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2914,12 +3031,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -3057,18 +3177,23 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
                               >
                                 <styled-components__Container
                                   checked={false}
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   size={14}
                                 >
                                   <StyledComponent
                                     checked={false}
+                                    disabled={false}
                                     forwardedComponent={
                                       Object {
                                         "$$typeof": Symbol(react.forward_ref),
@@ -3090,7 +3215,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                             "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                            [Function],
+                                            ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -3118,12 +3245,15 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                     }
                                     forwardedRef={null}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <div
                                       checked={false}
                                       className="c6"
+                                      disabled={false}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <styled-components__Content
@@ -3710,18 +3840,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -3743,7 +3878,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -3771,12 +3908,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -3914,18 +4054,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -3947,7 +4092,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -3975,12 +4122,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -4118,18 +4268,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -4151,7 +4306,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -4179,12 +4336,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -4322,18 +4482,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -4355,7 +4520,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -4383,12 +4550,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -4526,18 +4696,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -4559,7 +4734,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -4587,12 +4764,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -4730,18 +4910,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -4763,7 +4948,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -4791,12 +4978,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -4934,18 +5124,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -4967,7 +5162,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -4995,12 +5192,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -5138,18 +5338,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -5171,7 +5376,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -5199,12 +5406,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -5342,18 +5552,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -5375,7 +5590,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -5403,12 +5620,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -5546,18 +5766,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -5579,7 +5804,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -5607,12 +5834,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -5750,18 +5980,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -5783,7 +6018,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -5811,12 +6048,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -5954,18 +6194,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -5987,7 +6232,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -6015,12 +6262,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -6158,18 +6408,23 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="error"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -6191,7 +6446,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -6219,12 +6476,15 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="error"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="error"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -6807,18 +7067,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -6840,7 +7105,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -6868,12 +7135,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -7011,18 +7281,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -7044,7 +7319,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -7072,12 +7349,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -7215,18 +7495,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -7248,7 +7533,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -7276,12 +7563,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -7419,18 +7709,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -7452,7 +7747,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -7480,12 +7777,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -7623,18 +7923,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -7656,7 +7961,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -7684,12 +7991,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -7827,18 +8137,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -7860,7 +8175,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -7888,12 +8205,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -8031,18 +8351,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -8064,7 +8389,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -8092,12 +8419,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -8235,18 +8565,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -8268,7 +8603,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -8296,12 +8633,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -8439,18 +8779,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -8472,7 +8817,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -8500,12 +8847,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -8643,18 +8993,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -8676,7 +9031,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -8704,12 +9061,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -8847,18 +9207,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -8880,7 +9245,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -8908,12 +9275,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -9051,18 +9421,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -9084,7 +9459,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -9112,12 +9489,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content
@@ -9255,18 +9635,23 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
                                 >
                                   <styled-components__Container
                                     checked={false}
+                                    disabled={false}
                                     kind="primary"
+                                    onClick={[Function]}
                                     size={14}
                                   >
                                     <StyledComponent
                                       checked={false}
+                                      disabled={false}
                                       forwardedComponent={
                                         Object {
                                           "$$typeof": Symbol(react.forward_ref),
@@ -9288,7 +9673,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                               "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                                              [Function],
+                                              ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -9316,12 +9703,15 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                       }
                                       forwardedRef={null}
                                       kind="primary"
+                                      onClick={[Function]}
                                       size={14}
                                     >
                                       <div
                                         checked={false}
                                         className="c4"
+                                        disabled={false}
                                         kind="primary"
+                                        onClick={[Function]}
                                         size={14}
                                       >
                                         <styled-components__Content

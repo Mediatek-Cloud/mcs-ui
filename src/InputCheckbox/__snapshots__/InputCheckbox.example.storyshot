@@ -64,26 +64,31 @@ exports[`Storyshots InputCheckbox API 1`] = `
 }
 
 <InputCheckbox
+  disabled={false}
   onChange={[Function]}
   value={true}
 >
   <styled-components__StyledLabel
+    disabled={false}
     onClick={[Function]}
   >
     <StyledComponent
+      disabled={false}
       forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "
   display: flex;
   align-items: center;
-  cursor: pointer;
+  cursor: ",
+              [Function],
+              ";
   line-height: 0;
 
   > *:first-child {
@@ -107,21 +112,27 @@ exports[`Storyshots InputCheckbox API 1`] = `
     >
       <label
         className="c0"
+        disabled={false}
         onClick={[Function]}
       >
         <Checkbox
+          disabled={false}
           kind="primary"
+          onClick={[Function]}
           render={[Function]}
           size={14}
           value={true}
         >
           <styled-components__Container
             checked={true}
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={14}
           >
             <StyledComponent
               checked={true}
+              disabled={false}
               forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
@@ -143,7 +154,9 @@ exports[`Storyshots InputCheckbox API 1`] = `
                       "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                      [Function],
+                      ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -171,12 +184,15 @@ exports[`Storyshots InputCheckbox API 1`] = `
               }
               forwardedRef={null}
               kind="primary"
+              onClick={[Function]}
               size={14}
             >
               <div
                 checked={true}
                 className="c1"
+                disabled={false}
                 kind="primary"
+                onClick={[Function]}
                 size={14}
               >
                 <styled-components__Content
@@ -320,27 +336,32 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
   render={[Function]}
 >
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     render={[Function]}
     value={true}
   >
     <styled-components__StyledLabel
+      disabled={false}
       onClick={[Function]}
     >
       <StyledComponent
+        disabled={false}
         forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
-              "isStatic": true,
+              "isStatic": false,
               "lastClassName": "c0",
               "rules": Array [
                 "
   display: flex;
   align-items: center;
-  cursor: pointer;
+  cursor: ",
+                [Function],
+                ";
   line-height: 0;
 
   > *:first-child {
@@ -364,21 +385,27 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
       >
         <label
           className="c0"
+          disabled={false}
           onClick={[Function]}
         >
           <Checkbox
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}
           >
             <styled-components__Container
               checked={true}
+              disabled={false}
               kind="primary"
+              onClick={[Function]}
               size={14}
             >
               <StyledComponent
                 checked={true}
+                disabled={false}
                 forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
@@ -400,7 +427,9 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                         "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                        [Function],
+                        ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -428,12 +457,15 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                 }
                 forwardedRef={null}
                 kind="primary"
+                onClick={[Function]}
                 size={14}
               >
                 <div
                   checked={true}
                   className="c1"
+                  disabled={false}
                   kind="primary"
+                  onClick={[Function]}
                   size={14}
                 >
                   <styled-components__Content
@@ -494,6 +526,276 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
     </styled-components__StyledLabel>
   </InputCheckbox>
 </StatefulInputCheckbox>
+`;
+
+exports[`Storyshots InputCheckbox With disabled props 1`] = `
+.c1 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: not-allowed;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #D1D2D3;
+  border: 1px solid rgb(169,170,170);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: not-allowed;
+  line-height: 0;
+}
+
+.c0 > *:first-child {
+  margin-right: 5px;
+}
+
+<InputCheckbox
+  disabled={true}
+  kind="error"
+  onChange={[Function]}
+  value={true}
+>
+  <styled-components__StyledLabel
+    disabled={true}
+    onClick={[Function]}
+  >
+    <StyledComponent
+      disabled={true}
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  display: flex;
+  align-items: center;
+  cursor: ",
+              [Function],
+              ";
+  line-height: 0;
+
+  > *:first-child {
+    margin-right: 5px;
+  }
+",
+            ],
+          },
+          "displayName": "styled-components__StyledLabel",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "styled-components__StyledLabel-sc-1scal9d-0",
+          "target": "label",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      onClick={[Function]}
+    >
+      <label
+        className="c0"
+        disabled={true}
+        onClick={[Function]}
+      >
+        <Checkbox
+          disabled={true}
+          kind="error"
+          onClick={[Function]}
+          render={[Function]}
+          size={14}
+          value={true}
+        >
+          <styled-components__Container
+            checked={true}
+            disabled={true}
+            kind="error"
+            onClick={[Function]}
+            size={14}
+          >
+            <StyledComponent
+              checked={true}
+              disabled={true}
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styled-components__Container-sc-1jb6672-0",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                      [Function],
+                      "px;
+  height: ",
+                      [Function],
+                      "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                      [Function],
+                      ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                      [Function],
+                      ";
+  background-color: ",
+                      [Function],
+                      ";
+  border: 1px solid
+    ",
+                      [Function],
+                      ";
+",
+                    ],
+                  },
+                  "displayName": "styled-components__Container",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              kind="error"
+              onClick={[Function]}
+              size={14}
+            >
+              <div
+                checked={true}
+                className="c1"
+                disabled={true}
+                kind="error"
+                onClick={[Function]}
+                size={14}
+              >
+                <styled-components__Content
+                  checked={true}
+                >
+                  <StyledComponent
+                    checked={true}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styled-components__Content-sc-1jb6672-1",
+                          "isStatic": false,
+                          "lastClassName": "kNHNfk",
+                          "rules": Array [
+                            "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                            [Function],
+                            ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                          ],
+                        },
+                        "displayName": "styled-components__Content",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      checked={true}
+                      className="c2"
+                    >
+                      <IconCheck
+                        height={8}
+                        width={8}
+                      >
+                        <svg
+                          fill="currentColor"
+                          height={8}
+                          viewBox="0 0 9 8"
+                          width={8}
+                        >
+                          <path
+                            d="M3.221 7.35l-.483-.586L0 3.45l.892-1.003 2.22 1.702L7.962 0l.904 1-5.14 5.785z"
+                            fillRule="evenodd"
+                          />
+                        </svg>
+                      </IconCheck>
+                    </div>
+                  </StyledComponent>
+                </styled-components__Content>
+              </div>
+            </StyledComponent>
+          </styled-components__Container>
+        </Checkbox>
+        This is disabled
+      </label>
+    </StyledComponent>
+  </styled-components__StyledLabel>
+</InputCheckbox>
 `;
 
 exports[`Storyshots InputCheckbox With kind props 1`] = `
@@ -560,27 +862,32 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
 }
 
 <InputCheckbox
+  disabled={false}
   kind="error"
   onChange={[Function]}
   value={true}
 >
   <styled-components__StyledLabel
+    disabled={false}
     onClick={[Function]}
   >
     <StyledComponent
+      disabled={false}
       forwardedComponent={
         Object {
           "$$typeof": Symbol(react.forward_ref),
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "
   display: flex;
   align-items: center;
-  cursor: pointer;
+  cursor: ",
+              [Function],
+              ";
   line-height: 0;
 
   > *:first-child {
@@ -604,21 +911,27 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
     >
       <label
         className="c0"
+        disabled={false}
         onClick={[Function]}
       >
         <Checkbox
+          disabled={false}
           kind="error"
+          onClick={[Function]}
           render={[Function]}
           size={14}
           value={true}
         >
           <styled-components__Container
             checked={true}
+            disabled={false}
             kind="error"
+            onClick={[Function]}
             size={14}
           >
             <StyledComponent
               checked={true}
+              disabled={false}
               forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
@@ -640,7 +953,9 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                       "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                      [Function],
+                      ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -668,12 +983,15 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
               }
               forwardedRef={null}
               kind="error"
+              onClick={[Function]}
               size={14}
             >
               <div
                 checked={true}
                 className="c1"
+                disabled={false}
                 kind="error"
+                onClick={[Function]}
                 size={14}
               >
                 <styled-components__Content
@@ -815,26 +1133,31 @@ exports[`Storyshots InputCheckbox With state 1`] = `
 
 <StatefulInputCheckbox>
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     value={true}
   >
     <styled-components__StyledLabel
+      disabled={false}
       onClick={[Function]}
     >
       <StyledComponent
+        disabled={false}
         forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
-              "isStatic": true,
+              "isStatic": false,
               "lastClassName": "c0",
               "rules": Array [
                 "
   display: flex;
   align-items: center;
-  cursor: pointer;
+  cursor: ",
+                [Function],
+                ";
   line-height: 0;
 
   > *:first-child {
@@ -858,21 +1181,27 @@ exports[`Storyshots InputCheckbox With state 1`] = `
       >
         <label
           className="c0"
+          disabled={false}
           onClick={[Function]}
         >
           <Checkbox
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}
           >
             <styled-components__Container
               checked={true}
+              disabled={false}
               kind="primary"
+              onClick={[Function]}
               size={14}
             >
               <StyledComponent
                 checked={true}
+                disabled={false}
                 forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
@@ -894,7 +1223,9 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                         "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                        [Function],
+                        ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -922,12 +1253,15 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                 }
                 forwardedRef={null}
                 kind="primary"
+                onClick={[Function]}
                 size={14}
               >
                 <div
                   checked={true}
                   className="c1"
+                  disabled={false}
                   kind="primary"
+                  onClick={[Function]}
                   size={14}
                 >
                   <styled-components__Content
@@ -1070,26 +1404,31 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
 
 <StatefulInputCheckbox>
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     value={true}
   >
     <styled-components__StyledLabel
+      disabled={false}
       onClick={[Function]}
     >
       <StyledComponent
+        disabled={false}
         forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
             "componentStyle": ComponentStyle {
               "componentId": "styled-components__StyledLabel-sc-1scal9d-0",
-              "isStatic": true,
+              "isStatic": false,
               "lastClassName": "c0",
               "rules": Array [
                 "
   display: flex;
   align-items: center;
-  cursor: pointer;
+  cursor: ",
+                [Function],
+                ";
   line-height: 0;
 
   > *:first-child {
@@ -1113,21 +1452,27 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
       >
         <label
           className="c0"
+          disabled={false}
           onClick={[Function]}
         >
           <Checkbox
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}
           >
             <styled-components__Container
               checked={true}
+              disabled={false}
               kind="primary"
+              onClick={[Function]}
               size={14}
             >
               <StyledComponent
                 checked={true}
+                disabled={false}
                 forwardedComponent={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
@@ -1149,7 +1494,9 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                         "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                        [Function],
+                        ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1177,12 +1524,15 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                 }
                 forwardedRef={null}
                 kind="primary"
+                onClick={[Function]}
                 size={14}
               >
                 <div
                   checked={true}
                   className="c1"
+                  disabled={false}
                   kind="primary"
+                  onClick={[Function]}
                   size={14}
                 >
                   <styled-components__Content

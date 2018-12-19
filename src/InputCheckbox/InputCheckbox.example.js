@@ -91,4 +91,30 @@ storiesOf('InputCheckbox', module)
         propTables: [InputCheckbox, Checkbox],
       },
     },
+  )
+  .add(
+    'With disabled props',
+    () => (
+      <React.Fragment>
+        <InputCheckbox
+          value
+          disabled
+          onChange={action('onChange')}
+          kind="error"
+        >
+          This is disabled
+        </InputCheckbox>
+        <InputCheckbox value={false} disabled onChange={action('onChange')}>
+          This is disabled and unchecked
+        </InputCheckbox>
+      </React.Fragment>
+    ),
+    {
+      info: {
+        text: '',
+        inline: true,
+        source: false,
+        propTables: [InputCheckbox, Checkbox],
+      },
+    },
   );

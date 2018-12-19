@@ -4,9 +4,11 @@ import * as R from 'ramda';
 import PropTypes from 'prop-types';
 import Checkbox from '../Checkbox';
 import { StyledLabel } from './styled-components';
+import emptyFunction from '../utils/emptyFunction';
 
 export type Props = {
   value: boolean,
+  disabled?: boolean,
   onChange: (value: boolean) => Promise<void> | void,
   children?: React.Node,
 };
@@ -14,8 +16,13 @@ export type Props = {
 class InputCheckbox extends React.PureComponent<Props> {
   static propTypes = {
     value: PropTypes.bool, // (value: boolean) => Promise<void> | void,
+    disabled: PropTypes.bool,
     onChange: PropTypes.func,
     children: PropTypes.node,
+  };
+
+  static defaultProps = {
+    disabled: false,
   };
 
   onChange = () => {
@@ -24,12 +31,19 @@ class InputCheckbox extends React.PureComponent<Props> {
   };
 
   render() {
-    const { value, children, ...otherProps } = this.props;
+    const { value, disabled, children, ...otherProps } = this.props;
     const { onChange } = this;
 
     return (
-      <StyledLabel onClick={onChange}>
-        <Checkbox value={value} {...R.omit(['onChange'])(otherProps)} />
+      <StyledLabel
+        disabled={disabled}
+        onClick={disabled ? emptyFunction : onChange}
+      >
+        <Checkbox
+          value={value}
+          disabled={disabled}
+          {...R.omit(['onChange'])(otherProps)}
+        />
         {children}
       </StyledLabel>
     );

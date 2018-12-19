@@ -104,18 +104,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={-1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={-1}
     >
       <styled-components__Container
         checked={false}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={false}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -137,7 +142,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -165,12 +172,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={false}
             className="c0"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -229,18 +239,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={0.1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={0.1}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -262,7 +277,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -290,12 +307,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -356,18 +376,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={0}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={0}
     >
       <styled-components__Container
         checked={false}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={false}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -389,7 +414,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -417,12 +444,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={false}
             className="c0"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -481,18 +511,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={1}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -514,7 +549,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -542,12 +579,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -608,18 +648,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={2}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={2}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -641,7 +686,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -669,12 +716,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -735,18 +785,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={3}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={3}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -768,7 +823,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -796,12 +853,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -862,18 +922,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={4}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={4}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -895,7 +960,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -923,12 +990,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -989,18 +1059,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={5}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={5}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1022,7 +1097,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1050,12 +1127,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1116,18 +1196,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={6}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={6}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1149,7 +1234,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1177,12 +1264,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1243,18 +1333,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={7}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={7}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1276,7 +1371,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1304,12 +1401,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1370,18 +1470,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={8}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={8}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1403,7 +1508,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1431,12 +1538,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1497,18 +1607,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={9}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1530,7 +1645,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1558,12 +1675,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1624,18 +1744,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={10}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={10}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1657,7 +1782,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1685,12 +1812,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1751,18 +1881,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={50}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={50}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1784,7 +1919,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1812,12 +1949,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -1878,18 +2018,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={99}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={99}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -1911,7 +2056,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -1939,12 +2086,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -2005,18 +2155,23 @@ exports[`Storyshots Orderbox API 1`] = `
     value={100}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={100}
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
+        onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -2038,7 +2193,9 @@ exports[`Storyshots Orderbox API 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2066,12 +2223,15 @@ exports[`Storyshots Orderbox API 1`] = `
           }
           forwardedRef={null}
           kind="primary"
+          onClick={[Function]}
           size={18}
         >
           <div
             checked={true}
             className="c2"
+            disabled={false}
             kind="primary"
+            onClick={[Function]}
             size={18}
           >
             <styled-components__Content
@@ -2127,6 +2287,951 @@ exports[`Storyshots Orderbox API 1`] = `
       </styled-components__Container>
     </Checkbox>
   </Orderbox>
+</div>
+`;
+
+exports[`Storyshots Orderbox With disabled props 1`] = `
+.c0 {
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: not-allowed;
+  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
+  color: #FFFFFF;
+  background-color: #D1D2D3;
+  border: 1px solid rgb(169,170,170);
+}
+
+.c1 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+  transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
+  <StatefulOrderbox
+    disabled={true}
+    kind="default"
+  >
+    <Orderbox
+      disabled={true}
+      kind="default"
+      onClick={[Function]}
+      value={9}
+    >
+      <Checkbox
+        disabled={true}
+        kind="default"
+        onClick={[Function]}
+        render={[Function]}
+        size={18}
+        value={9}
+      >
+        <styled-components__Container
+          checked={true}
+          disabled={true}
+          kind="default"
+          onClick={[Function]}
+          size={18}
+        >
+          <StyledComponent
+            checked={true}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                    [Function],
+                    ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="default"
+            onClick={[Function]}
+            size={18}
+          >
+            <div
+              checked={true}
+              className="c0"
+              disabled={true}
+              kind="default"
+              onClick={[Function]}
+              size={18}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    9
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </Orderbox>
+  </StatefulOrderbox>
+   default
+  <StatefulOrderbox
+    disabled={true}
+    kind="primary"
+  >
+    <Orderbox
+      disabled={true}
+      kind="primary"
+      onClick={[Function]}
+      value={9}
+    >
+      <Checkbox
+        disabled={true}
+        kind="primary"
+        onClick={[Function]}
+        render={[Function]}
+        size={18}
+        value={9}
+      >
+        <styled-components__Container
+          checked={true}
+          disabled={true}
+          kind="primary"
+          onClick={[Function]}
+          size={18}
+        >
+          <StyledComponent
+            checked={true}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                    [Function],
+                    ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="primary"
+            onClick={[Function]}
+            size={18}
+          >
+            <div
+              checked={true}
+              className="c0"
+              disabled={true}
+              kind="primary"
+              onClick={[Function]}
+              size={18}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    9
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </Orderbox>
+  </StatefulOrderbox>
+   primary
+  <StatefulOrderbox
+    disabled={true}
+    kind="success"
+  >
+    <Orderbox
+      disabled={true}
+      kind="success"
+      onClick={[Function]}
+      value={9}
+    >
+      <Checkbox
+        disabled={true}
+        kind="success"
+        onClick={[Function]}
+        render={[Function]}
+        size={18}
+        value={9}
+      >
+        <styled-components__Container
+          checked={true}
+          disabled={true}
+          kind="success"
+          onClick={[Function]}
+          size={18}
+        >
+          <StyledComponent
+            checked={true}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                    [Function],
+                    ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="success"
+            onClick={[Function]}
+            size={18}
+          >
+            <div
+              checked={true}
+              className="c0"
+              disabled={true}
+              kind="success"
+              onClick={[Function]}
+              size={18}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    9
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </Orderbox>
+  </StatefulOrderbox>
+   success
+  <StatefulOrderbox
+    disabled={true}
+    kind="error"
+  >
+    <Orderbox
+      disabled={true}
+      kind="error"
+      onClick={[Function]}
+      value={9}
+    >
+      <Checkbox
+        disabled={true}
+        kind="error"
+        onClick={[Function]}
+        render={[Function]}
+        size={18}
+        value={9}
+      >
+        <styled-components__Container
+          checked={true}
+          disabled={true}
+          kind="error"
+          onClick={[Function]}
+          size={18}
+        >
+          <StyledComponent
+            checked={true}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                    [Function],
+                    ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="error"
+            onClick={[Function]}
+            size={18}
+          >
+            <div
+              checked={true}
+              className="c0"
+              disabled={true}
+              kind="error"
+              onClick={[Function]}
+              size={18}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    9
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </Orderbox>
+  </StatefulOrderbox>
+   error
+  <StatefulOrderbox
+    disabled={true}
+    kind="warning"
+  >
+    <Orderbox
+      disabled={true}
+      kind="warning"
+      onClick={[Function]}
+      value={9}
+    >
+      <Checkbox
+        disabled={true}
+        kind="warning"
+        onClick={[Function]}
+        render={[Function]}
+        size={18}
+        value={9}
+      >
+        <styled-components__Container
+          checked={true}
+          disabled={true}
+          kind="warning"
+          onClick={[Function]}
+          size={18}
+        >
+          <StyledComponent
+            checked={true}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styled-components__Container-sc-1jb6672-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                    [Function],
+                    "px;
+  height: ",
+                    [Function],
+                    "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                    [Function],
+                    ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                    [Function],
+                    ";
+  background-color: ",
+                    [Function],
+                    ";
+  border: 1px solid
+    ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled-components__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            kind="warning"
+            onClick={[Function]}
+            size={18}
+          >
+            <div
+              checked={true}
+              className="c0"
+              disabled={true}
+              kind="warning"
+              onClick={[Function]}
+              size={18}
+            >
+              <styled-components__Content
+                checked={true}
+              >
+                <StyledComponent
+                  checked={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styled-components__Content-sc-1jb6672-1",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                          [Function],
+                          ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                        ],
+                      },
+                      "displayName": "styled-components__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    checked={true}
+                    className="c1"
+                  >
+                    9
+                  </div>
+                </StyledComponent>
+              </styled-components__Content>
+            </div>
+          </StyledComponent>
+        </styled-components__Container>
+      </Checkbox>
+    </Orderbox>
+  </StatefulOrderbox>
+   warning
+  <Orderbox
+    disabled={true}
+    onClick={[Function]}
+    value={false}
+  >
+    <Checkbox
+      disabled={true}
+      kind="primary"
+      onClick={[Function]}
+      render={[Function]}
+      size={18}
+      value={false}
+    >
+      <styled-components__Container
+        checked={false}
+        disabled={true}
+        kind="primary"
+        onClick={[Function]}
+        size={18}
+      >
+        <StyledComponent
+          checked={false}
+          disabled={true}
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "styled-components__Container-sc-1jb6672-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "
+  line-height: 1em;
+  font-size: 12px;
+  border-radius: 2px;
+  width: ",
+                  [Function],
+                  "px;
+  height: ",
+                  [Function],
+                  "px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: ",
+                  [Function],
+                  ";
+  transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+    border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  color: ",
+                  [Function],
+                  ";
+  background-color: ",
+                  [Function],
+                  ";
+  border: 1px solid
+    ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled-components__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "styled-components__Container-sc-1jb6672-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          kind="primary"
+          onClick={[Function]}
+          size={18}
+        >
+          <div
+            checked={false}
+            className="c0"
+            disabled={true}
+            kind="primary"
+            onClick={[Function]}
+            size={18}
+          >
+            <styled-components__Content
+              checked={false}
+            >
+              <StyledComponent
+                checked={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styled-components__Content-sc-1jb6672-1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(",
+                        [Function],
+                        ");
+  transform-origin: 50% 50%;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+",
+                      ],
+                    },
+                    "displayName": "styled-components__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styled-components__Content-sc-1jb6672-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  checked={false}
+                  className="c2"
+                />
+              </StyledComponent>
+            </styled-components__Content>
+          </div>
+        </StyledComponent>
+      </styled-components__Container>
+    </Checkbox>
+  </Orderbox>
+  unchecked
 </div>
 `;
 
@@ -2269,6 +3374,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="default"
         onClick={[Function]}
         render={[Function]}
@@ -2277,12 +3383,14 @@ exports[`Storyshots Orderbox With kind 1`] = `
       >
         <styled-components__Container
           checked={true}
+          disabled={false}
           kind="default"
           onClick={[Function]}
           size={18}
         >
           <StyledComponent
             checked={true}
+            disabled={false}
             forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
@@ -2304,7 +3412,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                     "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                    [Function],
+                    ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2338,6 +3448,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             <div
               checked={true}
               className="c0"
+              disabled={false}
               kind="default"
               onClick={[Function]}
               size={18}
@@ -2406,6 +3517,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="primary"
         onClick={[Function]}
         render={[Function]}
@@ -2414,12 +3526,14 @@ exports[`Storyshots Orderbox With kind 1`] = `
       >
         <styled-components__Container
           checked={true}
+          disabled={false}
           kind="primary"
           onClick={[Function]}
           size={18}
         >
           <StyledComponent
             checked={true}
+            disabled={false}
             forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
@@ -2441,7 +3555,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                     "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                    [Function],
+                    ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2475,6 +3591,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             <div
               checked={true}
               className="c2"
+              disabled={false}
               kind="primary"
               onClick={[Function]}
               size={18}
@@ -2543,6 +3660,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="success"
         onClick={[Function]}
         render={[Function]}
@@ -2551,12 +3669,14 @@ exports[`Storyshots Orderbox With kind 1`] = `
       >
         <styled-components__Container
           checked={true}
+          disabled={false}
           kind="success"
           onClick={[Function]}
           size={18}
         >
           <StyledComponent
             checked={true}
+            disabled={false}
             forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
@@ -2578,7 +3698,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                     "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                    [Function],
+                    ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2612,6 +3734,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             <div
               checked={true}
               className="c3"
+              disabled={false}
               kind="success"
               onClick={[Function]}
               size={18}
@@ -2680,6 +3803,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="error"
         onClick={[Function]}
         render={[Function]}
@@ -2688,12 +3812,14 @@ exports[`Storyshots Orderbox With kind 1`] = `
       >
         <styled-components__Container
           checked={true}
+          disabled={false}
           kind="error"
           onClick={[Function]}
           size={18}
         >
           <StyledComponent
             checked={true}
+            disabled={false}
             forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
@@ -2715,7 +3841,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                     "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                    [Function],
+                    ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2749,6 +3877,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             <div
               checked={true}
               className="c4"
+              disabled={false}
               kind="error"
               onClick={[Function]}
               size={18}
@@ -2817,6 +3946,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="warning"
         onClick={[Function]}
         render={[Function]}
@@ -2825,12 +3955,14 @@ exports[`Storyshots Orderbox With kind 1`] = `
       >
         <styled-components__Container
           checked={true}
+          disabled={false}
           kind="warning"
           onClick={[Function]}
           size={18}
         >
           <StyledComponent
             checked={true}
+            disabled={false}
             forwardedComponent={
               Object {
                 "$$typeof": Symbol(react.forward_ref),
@@ -2852,7 +3984,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                     "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                    [Function],
+                    ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -2886,6 +4020,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
             <div
               checked={true}
               className="c5"
+              disabled={false}
               kind="warning"
               onClick={[Function]}
               size={18}
@@ -3013,6 +4148,7 @@ exports[`Storyshots Orderbox With size 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
       onClick={[Function]}
       render={[Function]}
@@ -3026,6 +4162,7 @@ exports[`Storyshots Orderbox With size 1`] = `
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
         onClick={[Function]}
         size={24}
@@ -3037,6 +4174,7 @@ exports[`Storyshots Orderbox With size 1`] = `
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -3058,7 +4196,9 @@ exports[`Storyshots Orderbox With size 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -3097,6 +4237,7 @@ exports[`Storyshots Orderbox With size 1`] = `
           <div
             checked={true}
             className="c0"
+            disabled={false}
             kind="primary"
             onClick={[Function]}
             size={24}
@@ -3214,6 +4355,7 @@ exports[`Storyshots Orderbox With state 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
       onClick={[Function]}
       render={[Function]}
@@ -3222,12 +4364,14 @@ exports[`Storyshots Orderbox With state 1`] = `
     >
       <styled-components__Container
         checked={true}
+        disabled={false}
         kind="primary"
         onClick={[Function]}
         size={18}
       >
         <StyledComponent
           checked={true}
+          disabled={false}
           forwardedComponent={
             Object {
               "$$typeof": Symbol(react.forward_ref),
@@ -3249,7 +4393,9 @@ exports[`Storyshots Orderbox With state 1`] = `
                   "px;
   box-sizing: border-box;
   user-select: none;
-  cursor: pointer;
+  cursor: ",
+                  [Function],
+                  ";
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   color: ",
@@ -3283,6 +4429,7 @@ exports[`Storyshots Orderbox With state 1`] = `
           <div
             checked={true}
             className="c0"
+            disabled={false}
             kind="primary"
             onClick={[Function]}
             size={18}
