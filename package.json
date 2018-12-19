@@ -1,6 +1,6 @@
 {
   "name": "mcs-ui",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "mcs-ui",
   "main": "lib/index.js",
   "module": "es/index.js",
