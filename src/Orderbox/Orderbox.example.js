@@ -1,6 +1,7 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
 import Orderbox from '.';
 
 class StatefulOrderbox extends React.PureComponent<any, { value: number }> {
@@ -65,6 +66,26 @@ storiesOf('Orderbox', module)
         <StatefulOrderbox kind="success" /> success
         <StatefulOrderbox kind="error" /> error
         <StatefulOrderbox kind="warning" /> warning
+      </div>
+    ),
+    {
+      info: {
+        text: 'different color',
+        inline: true,
+      },
+    },
+  )
+  .add(
+    'With disabled props',
+    () => (
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        <StatefulOrderbox kind="default" disabled /> default
+        <StatefulOrderbox kind="primary" disabled /> primary
+        <StatefulOrderbox kind="success" disabled /> success
+        <StatefulOrderbox kind="error" disabled /> error
+        <StatefulOrderbox kind="warning" disabled /> warning
+        <Orderbox value={false} disabled onClick={action('onClick')} />
+        unchecked
       </div>
     ),
     {

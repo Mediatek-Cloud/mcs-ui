@@ -1,6 +1,7 @@
 // @flow
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
 import { ThemeProvider } from 'styled-components';
 import theme from '../utils/theme';
 import { IconPlay } from '../Icons';
@@ -137,6 +138,29 @@ storiesOf('Checkbox', module)
           render={(value: boolean): React.Node => (value ? '3' : null)}
         />
       </React.Fragment>
+    ),
+    {
+      info: {
+        text: 'custom icon',
+        inline: true,
+        source: false,
+        propTables: [Checkbox],
+      },
+    },
+  )
+  .add(
+    'With disabled props',
+    () => (
+      <ThemeProvider theme={theme}>
+        <React.Fragment>
+          <StatefulCheckbox kind="default" disabled /> default
+          <StatefulCheckbox kind="primary" disabled /> primary
+          <StatefulCheckbox kind="success" disabled /> success
+          <StatefulCheckbox kind="error" disabled /> error
+          <Checkbox value={false} disabled onClick={action('onClick')} />
+          unchecked
+        </React.Fragment>
+      </ThemeProvider>
     ),
     {
       info: {
