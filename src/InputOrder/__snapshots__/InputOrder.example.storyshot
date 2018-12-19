@@ -347,7 +347,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={2}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={2}
@@ -566,7 +568,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={1}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={1}
@@ -785,7 +789,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -1002,7 +1008,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -1219,7 +1227,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -1436,7 +1446,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -1653,7 +1665,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -1870,7 +1884,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -2087,7 +2103,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -2304,7 +2322,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -2521,7 +2541,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -2738,7 +2760,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -2955,7 +2979,9 @@ exports[`Storyshots InputOrder API 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -3400,7 +3426,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                         className="c2"
                       >
                         <Checkbox
+                          disabled={false}
                           kind="primary"
+                          onClick={[Function]}
                           render={[Function]}
                           size={18}
                           value={true}
@@ -3629,7 +3657,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                         className="c2"
                       >
                         <Checkbox
+                          disabled={false}
                           kind="primary"
+                          onClick={[Function]}
                           render={[Function]}
                           size={18}
                           value={false}
@@ -3841,7 +3871,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                         className="c2"
                       >
                         <Checkbox
+                          disabled={false}
                           kind="primary"
+                          onClick={[Function]}
                           render={[Function]}
                           size={18}
                           value={false}
@@ -4458,7 +4490,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -4675,7 +4709,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -4892,7 +4928,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -5109,7 +5147,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -5326,7 +5366,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -5543,7 +5585,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -5760,7 +5804,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -5977,7 +6023,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -6194,7 +6242,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -6411,7 +6461,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -6628,7 +6680,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -6845,7 +6899,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -7062,7 +7118,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="error"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -7679,7 +7737,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -7896,7 +7956,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -8113,7 +8175,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -8330,7 +8394,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -8547,7 +8613,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -8764,7 +8832,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -8981,7 +9051,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -9198,7 +9270,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -9415,7 +9489,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -9632,7 +9708,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -9849,7 +9927,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -10066,7 +10146,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -10283,7 +10365,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                             value={0}
                           >
                             <Checkbox
+                              disabled={false}
                               kind="primary"
+                              onClick={[Function]}
                               render={[Function]}
                               size={18}
                               value={0}
@@ -10680,7 +10764,9 @@ exports[`Storyshots InputOrder one item 1`] = `
                           value={1}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={1}
@@ -11131,7 +11217,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                           value={1}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={1}
@@ -11350,7 +11438,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -11567,7 +11657,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}
@@ -12012,7 +12104,9 @@ exports[`Storyshots InputOrder two items 1`] = `
                           value={1}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={1}
@@ -12231,7 +12325,9 @@ exports[`Storyshots InputOrder two items 1`] = `
                           value={0}
                         >
                           <Checkbox
+                            disabled={false}
                             kind="primary"
+                            onClick={[Function]}
                             render={[Function]}
                             size={18}
                             value={0}

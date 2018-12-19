@@ -8,13 +8,14 @@ type InnerProps = {
   size: number,
   kind: Color,
   checked: boolean,
+  disabled?: boolean,
 } & ThemeProps;
 
 export const Container: React.ComponentType<{
   size?: number,
   kind?: Color,
   checked: boolean,
-  diabled?: boolean,
+  disabled?: boolean,
 }> = styled.div`
   line-height: 1em;
   font-size: 12px;
@@ -26,17 +27,22 @@ export const Container: React.ComponentType<{
   cursor: ${({ disabled }) => (disabled ? 'not-allowed' : 'pointer')};
   transition: background-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
     border 0.3s cubic-bezier(0.23, 1, 0.32, 1);
-  color: ${({ checked, theme, kind }: InnerProps) => {
+  color: ${({ disabled, checked, theme, kind }: InnerProps) => {
+    if (disabled) return theme.color.white;
     if (checked) {
       return kind === 'default' ? theme.color.grayDark : theme.color.white;
     }
     return 'transparent';
   }};
-  background-color: ${({ checked, theme, kind }: InnerProps) =>
-    checked ? theme.color[kind] : theme.color.white};
+  background-color: ${({ disabled, checked, theme, kind }: InnerProps) => {
+    if (disabled) return theme.color.grayBase;
+    return checked ? theme.color[kind] : theme.color.white;
+  }};
   border: 1px solid
-    ${({ checked, theme, kind }: InnerProps) =>
-      checked ? darken3(theme.color[kind]) : theme.color.grayBase};
+    ${({ disabled, checked, theme, kind }: InnerProps) => {
+      if (disabled) return darken3(theme.color.grayBase);
+      return checked ? darken3(theme.color[kind]) : theme.color.grayBase;
+    }};
 `;
 
 export const Content: React.ComponentType<{ checked: boolean }> = styled.div`

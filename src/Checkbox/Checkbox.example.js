@@ -151,16 +151,14 @@ storiesOf('Checkbox', module)
   .add(
     'With disabled props',
     () => (
-      <ThemeProvider theme={theme}>
-        <React.Fragment>
-          <StatefulCheckbox kind="default" disabled /> default
-          <StatefulCheckbox kind="primary" disabled /> primary
-          <StatefulCheckbox kind="success" disabled /> success
-          <StatefulCheckbox kind="error" disabled /> error
-          <Checkbox value={false} disabled onClick={action('onClick')} />
-          unchecked
-        </React.Fragment>
-      </ThemeProvider>
+      <React.Fragment>
+        <StatefulCheckbox kind="default" disabled /> default
+        <StatefulCheckbox kind="primary" disabled /> primary
+        <StatefulCheckbox kind="success" disabled /> success
+        <StatefulCheckbox kind="error" disabled /> error
+        <Checkbox value={false} disabled onClick={action('onClick')} />
+        unchecked
+      </React.Fragment>
     ),
     {
       info: {

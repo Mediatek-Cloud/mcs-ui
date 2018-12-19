@@ -64,6 +64,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
 }
 
 <InputCheckbox
+  disabled={false}
   onChange={[Function]}
   value={true}
 >
@@ -117,6 +118,7 @@ exports[`Storyshots InputCheckbox API 1`] = `
         <Checkbox
           disabled={false}
           kind="primary"
+          onClick={[Function]}
           render={[Function]}
           size={14}
           value={true}
@@ -334,6 +336,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
   render={[Function]}
 >
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     render={[Function]}
     value={true}
@@ -388,6 +391,7 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
           <Checkbox
             disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}
@@ -643,6 +647,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
         <Checkbox
           disabled={true}
           kind="error"
+          onClick={[Function]}
           render={[Function]}
           size={14}
           value={true}
@@ -650,7 +655,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
           <styled-components__Container
             checked={true}
             disabled={true}
-            kind="grayBase"
+            kind="error"
             onClick={[Function]}
             size={14}
           >
@@ -664,7 +669,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Container-sc-1jb6672-0",
                     "isStatic": false,
-                    "lastClassName": "cbmAkh",
+                    "lastClassName": "c1",
                     "rules": Array [
                       "
   line-height: 1em;
@@ -707,7 +712,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
                 }
               }
               forwardedRef={null}
-              kind="grayBase"
+              kind="error"
               onClick={[Function]}
               size={14}
             >
@@ -715,7 +720,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
                 checked={true}
                 className="c1"
                 disabled={true}
-                kind="grayBase"
+                kind="error"
                 onClick={[Function]}
                 size={14}
               >
@@ -857,6 +862,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
 }
 
 <InputCheckbox
+  disabled={false}
   kind="error"
   onChange={[Function]}
   value={true}
@@ -911,6 +917,7 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
         <Checkbox
           disabled={false}
           kind="error"
+          onClick={[Function]}
           render={[Function]}
           size={14}
           value={true}
@@ -1126,6 +1133,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
 
 <StatefulInputCheckbox>
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     value={true}
   >
@@ -1179,6 +1187,7 @@ exports[`Storyshots InputCheckbox With state 1`] = `
           <Checkbox
             disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}
@@ -1395,6 +1404,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
 
 <StatefulInputCheckbox>
   <InputCheckbox
+    disabled={false}
     onChange={[Function]}
     value={true}
   >
@@ -1448,6 +1458,7 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
           <Checkbox
             disabled={false}
             kind="primary"
+            onClick={[Function]}
             render={[Function]}
             size={14}
             value={true}

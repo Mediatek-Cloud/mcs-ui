@@ -575,7 +575,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={true}
@@ -804,7 +806,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={true}
@@ -1033,7 +1037,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -1245,7 +1251,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -1457,7 +1465,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -1669,7 +1679,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -1881,7 +1893,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -2093,7 +2107,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -2305,7 +2321,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -2517,7 +2535,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -2729,7 +2749,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -2941,7 +2963,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -3153,7 +3177,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                               className="c3"
                             >
                               <Checkbox
+                                disabled={false}
                                 kind="primary"
+                                onClick={[Function]}
                                 render={[Function]}
                                 size={14}
                                 value={false}
@@ -3814,7 +3840,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -4026,7 +4054,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -4238,7 +4268,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -4450,7 +4482,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -4662,7 +4696,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -4874,7 +4910,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -5086,7 +5124,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -5298,7 +5338,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -5510,7 +5552,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -5722,7 +5766,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -5934,7 +5980,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -6146,7 +6194,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -6358,7 +6408,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="error"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -7015,7 +7067,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -7227,7 +7281,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -7439,7 +7495,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -7651,7 +7709,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -7863,7 +7923,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -8075,7 +8137,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -8287,7 +8351,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -8499,7 +8565,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -8711,7 +8779,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -8923,7 +8993,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -9135,7 +9207,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -9347,7 +9421,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}
@@ -9559,7 +9635,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                 className="c3"
                               >
                                 <Checkbox
+                                  disabled={false}
                                   kind="primary"
+                                  onClick={[Function]}
                                   render={[Function]}
                                   size={14}
                                   value={false}

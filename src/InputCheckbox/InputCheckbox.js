@@ -21,13 +21,17 @@ class InputCheckbox extends React.PureComponent<Props> {
     children: PropTypes.node,
   };
 
+  static defaultProps = {
+    disabled: false,
+  };
+
   onChange = () => {
     const { onChange, value } = this.props;
     onChange(!value);
   };
 
   render() {
-    const { value, disabled = false, children, ...otherProps } = this.props;
+    const { value, disabled, children, ...otherProps } = this.props;
     const { onChange } = this;
 
     return (

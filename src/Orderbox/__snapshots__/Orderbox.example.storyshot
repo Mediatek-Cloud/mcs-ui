@@ -104,7 +104,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={-1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={-1}
@@ -237,7 +239,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={0.1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={0.1}
@@ -372,7 +376,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={0}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={0}
@@ -505,7 +511,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={1}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={1}
@@ -640,7 +648,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={2}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={2}
@@ -775,7 +785,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={3}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={3}
@@ -910,7 +922,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={4}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={4}
@@ -1045,7 +1059,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={5}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={5}
@@ -1180,7 +1196,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={6}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={6}
@@ -1315,7 +1333,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={7}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={7}
@@ -1450,7 +1470,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={8}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={8}
@@ -1585,7 +1607,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={9}
@@ -1720,7 +1744,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={10}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={10}
@@ -1855,7 +1881,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={50}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={50}
@@ -1990,7 +2018,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={99}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={99}
@@ -2125,7 +2155,9 @@ exports[`Storyshots Orderbox API 1`] = `
     value={100}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
+      onClick={[Function]}
       render={[Function]}
       size={18}
       value={100}
@@ -2278,25 +2310,6 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
   border: 1px solid rgb(169,170,170);
 }
 
-.c2 {
-  line-height: 1em;
-  font-size: 12px;
-  border-radius: 2px;
-  width: 18px;
-  height: 18px;
-  box-sizing: border-box;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: not-allowed;
-  -webkit-transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
-  transition: background-color 0.5s cubic-bezier(0.23,1,0.32,1), border 0.3s cubic-bezier(0.23,1,0.32,1);
-  color: transparent;
-  background-color: #FFFFFF;
-  border: 1px solid #D1D2D3;
-}
-
 .c1 {
   height: 100%;
   width: 100%;
@@ -2323,7 +2336,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
-.c3 {
+.c2 {
   height: 100%;
   width: 100%;
   display: -webkit-box;
@@ -2378,7 +2391,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
         <styled-components__Container
           checked={true}
           disabled={true}
-          kind="grayBase"
+          kind="default"
           onClick={[Function]}
           size={18}
         >
@@ -2392,7 +2405,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
-                  "lastClassName": "c2",
+                  "lastClassName": "c0",
                   "rules": Array [
                     "
   line-height: 1em;
@@ -2435,7 +2448,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               }
             }
             forwardedRef={null}
-            kind="grayBase"
+            kind="default"
             onClick={[Function]}
             size={18}
           >
@@ -2443,7 +2456,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               checked={true}
               className="c0"
               disabled={true}
-              kind="grayBase"
+              kind="default"
               onClick={[Function]}
               size={18}
             >
@@ -2459,7 +2472,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
-                        "lastClassName": "c3",
+                        "lastClassName": "c2",
                         "rules": Array [
                           "
   height: 100%;
@@ -2523,7 +2536,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
         <styled-components__Container
           checked={true}
           disabled={true}
-          kind="grayBase"
+          kind="primary"
           onClick={[Function]}
           size={18}
         >
@@ -2537,7 +2550,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
-                  "lastClassName": "c2",
+                  "lastClassName": "c0",
                   "rules": Array [
                     "
   line-height: 1em;
@@ -2580,7 +2593,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               }
             }
             forwardedRef={null}
-            kind="grayBase"
+            kind="primary"
             onClick={[Function]}
             size={18}
           >
@@ -2588,7 +2601,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               checked={true}
               className="c0"
               disabled={true}
-              kind="grayBase"
+              kind="primary"
               onClick={[Function]}
               size={18}
             >
@@ -2604,7 +2617,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
-                        "lastClassName": "c3",
+                        "lastClassName": "c2",
                         "rules": Array [
                           "
   height: 100%;
@@ -2668,7 +2681,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
         <styled-components__Container
           checked={true}
           disabled={true}
-          kind="grayBase"
+          kind="success"
           onClick={[Function]}
           size={18}
         >
@@ -2682,7 +2695,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
-                  "lastClassName": "c2",
+                  "lastClassName": "c0",
                   "rules": Array [
                     "
   line-height: 1em;
@@ -2725,7 +2738,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               }
             }
             forwardedRef={null}
-            kind="grayBase"
+            kind="success"
             onClick={[Function]}
             size={18}
           >
@@ -2733,7 +2746,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               checked={true}
               className="c0"
               disabled={true}
-              kind="grayBase"
+              kind="success"
               onClick={[Function]}
               size={18}
             >
@@ -2749,7 +2762,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
-                        "lastClassName": "c3",
+                        "lastClassName": "c2",
                         "rules": Array [
                           "
   height: 100%;
@@ -2813,7 +2826,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
         <styled-components__Container
           checked={true}
           disabled={true}
-          kind="grayBase"
+          kind="error"
           onClick={[Function]}
           size={18}
         >
@@ -2827,7 +2840,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
-                  "lastClassName": "c2",
+                  "lastClassName": "c0",
                   "rules": Array [
                     "
   line-height: 1em;
@@ -2870,7 +2883,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               }
             }
             forwardedRef={null}
-            kind="grayBase"
+            kind="error"
             onClick={[Function]}
             size={18}
           >
@@ -2878,7 +2891,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               checked={true}
               className="c0"
               disabled={true}
-              kind="grayBase"
+              kind="error"
               onClick={[Function]}
               size={18}
             >
@@ -2894,7 +2907,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
-                        "lastClassName": "c3",
+                        "lastClassName": "c2",
                         "rules": Array [
                           "
   height: 100%;
@@ -2958,7 +2971,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
         <styled-components__Container
           checked={true}
           disabled={true}
-          kind="grayBase"
+          kind="warning"
           onClick={[Function]}
           size={18}
         >
@@ -2972,7 +2985,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "styled-components__Container-sc-1jb6672-0",
                   "isStatic": false,
-                  "lastClassName": "c2",
+                  "lastClassName": "c0",
                   "rules": Array [
                     "
   line-height: 1em;
@@ -3015,7 +3028,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               }
             }
             forwardedRef={null}
-            kind="grayBase"
+            kind="warning"
             onClick={[Function]}
             size={18}
           >
@@ -3023,7 +3036,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               checked={true}
               className="c0"
               disabled={true}
-              kind="grayBase"
+              kind="warning"
               onClick={[Function]}
               size={18}
             >
@@ -3039,7 +3052,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "styled-components__Content-sc-1jb6672-1",
                         "isStatic": false,
-                        "lastClassName": "c3",
+                        "lastClassName": "c2",
                         "rules": Array [
                           "
   height: 100%;
@@ -3098,7 +3111,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
       <styled-components__Container
         checked={false}
         disabled={true}
-        kind="grayBase"
+        kind="primary"
         onClick={[Function]}
         size={18}
       >
@@ -3112,7 +3125,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               "componentStyle": ComponentStyle {
                 "componentId": "styled-components__Container-sc-1jb6672-0",
                 "isStatic": false,
-                "lastClassName": "c2",
+                "lastClassName": "c0",
                 "rules": Array [
                   "
   line-height: 1em;
@@ -3155,15 +3168,15 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
             }
           }
           forwardedRef={null}
-          kind="grayBase"
+          kind="primary"
           onClick={[Function]}
           size={18}
         >
           <div
             checked={false}
-            className="c2"
+            className="c0"
             disabled={true}
-            kind="grayBase"
+            kind="primary"
             onClick={[Function]}
             size={18}
           >
@@ -3179,7 +3192,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                     "componentStyle": ComponentStyle {
                       "componentId": "styled-components__Content-sc-1jb6672-1",
                       "isStatic": false,
-                      "lastClassName": "c3",
+                      "lastClassName": "c2",
                       "rules": Array [
                         "
   height: 100%;
@@ -3209,7 +3222,7 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
               >
                 <div
                   checked={false}
-                  className="c3"
+                  className="c2"
                 />
               </StyledComponent>
             </styled-components__Content>
@@ -3361,6 +3374,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="default"
         onClick={[Function]}
         render={[Function]}
@@ -3503,6 +3517,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="primary"
         onClick={[Function]}
         render={[Function]}
@@ -3645,6 +3660,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="success"
         onClick={[Function]}
         render={[Function]}
@@ -3787,6 +3803,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="error"
         onClick={[Function]}
         render={[Function]}
@@ -3929,6 +3946,7 @@ exports[`Storyshots Orderbox With kind 1`] = `
       value={9}
     >
       <Checkbox
+        disabled={false}
         kind="warning"
         onClick={[Function]}
         render={[Function]}
@@ -4130,6 +4148,7 @@ exports[`Storyshots Orderbox With size 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
       onClick={[Function]}
       render={[Function]}
@@ -4336,6 +4355,7 @@ exports[`Storyshots Orderbox With state 1`] = `
     value={9}
   >
     <Checkbox
+      disabled={false}
       kind="primary"
       onClick={[Function]}
       render={[Function]}

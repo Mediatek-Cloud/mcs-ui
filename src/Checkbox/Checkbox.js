@@ -17,10 +17,10 @@ export type Props = {
 
 function Checkbox({
   value,
-  disabled = false,
+  disabled,
   size,
   kind,
-  onClick = emptyFunction,
+  onClick,
   render,
   ...otherProps
 }: Props) {
@@ -31,7 +31,7 @@ function Checkbox({
       checked={!!child}
       disabled={disabled}
       size={size}
-      kind={disabled ? 'grayBase' : kind}
+      kind={kind}
       onClick={disabled ? emptyFunction : onClick}
       {...otherProps}
     >
@@ -40,8 +40,10 @@ function Checkbox({
   );
 }
 Checkbox.defaultProps = {
+  disabled: false,
   size: 14,
   kind: 'primary',
+  onClick: emptyFunction,
   render: (value: boolean): React.Node =>
     value ? <IconCheck width={8} height={8} /> : null,
 };
