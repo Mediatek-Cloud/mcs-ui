@@ -1,234 +1,279 @@
-## Change Log
+## Unreleased (2018-12-20)
 
-### v1.1.5 (2018/12/05 08:00 +00:00)
+- chore(deps): update storybook monorepo to v4.1.3 (#123) ([af463e3](https://github.com/Mediatek-Cloud/mcs-ui/commit/af463e3)), closes [#123](https://github.com/Mediatek-Cloud/mcs-ui/issues/123)
 
-- [f616756](https://github.com/Mediatek-Cloud/mcs-ui/commit/f6167562769802a292f1801146d4748e8a4f61f9) 1.1.5 (@evenchange4)
-- [#95](https://github.com/Mediatek-Cloud/mcs-ui/pull/95) refactor: introduce hsu-scripts to simplify configs (#95) (@evenchange4)
-- [a075eef](https://github.com/Mediatek-Cloud/mcs-ui/commit/a075eef3c098576d97d94bc2248a48b5f811dceb) chore: add missing .editorconfig (@evenchange4)
-- [#94](https://github.com/Mediatek-Cloud/mcs-ui/pull/94) chore(deps): update dependency @babel/plugin-proposal-class-properties to v7.2.1 (#94) (@renovate[bot])
-- [#93](https://github.com/Mediatek-Cloud/mcs-ui/pull/93) chore(deps): update dependency enzyme-to-json to v3.3.5 (#93) (@renovate[bot])
-- [#92](https://github.com/Mediatek-Cloud/mcs-ui/pull/92) chore(deps): update dependency eslint-plugin-jest to v22.1.2 (#92) (@renovate[bot])
-- [9a71f7b](https://github.com/Mediatek-Cloud/mcs-ui/commit/9a71f7beb7615bb1d5b04b7fdd516c4c30346f03) feat(FileDropzone): add height props (@evenchange4)
-- [6d919a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d919a88e5d35e842dc69e921897e180018beaa5) chore: ncu update & update flow type (@evenchange4)
-- [#88](https://github.com/Mediatek-Cloud/mcs-ui/pull/88) chore(deps): update storybook monorepo to v4.0.11 (#88) (@renovate[bot])
-- [#87](https://github.com/Mediatek-Cloud/mcs-ui/pull/87) chore(deps): update storybook monorepo to v4.0.10 (#87) (@renovate[bot])
-- [#86](https://github.com/Mediatek-Cloud/mcs-ui/pull/86) chore(deps): update dependency polished to v2.3.1 (#86) (@renovate[bot])
+## <small>1.1.10 (2018-12-19)</small>
 
-### v1.1.4 (2018/11/30 11:25 +00:00)
+- 1.1.10 ([5f55a08](https://github.com/Mediatek-Cloud/mcs-ui/commit/5f55a08))
+- feat(Checkbox, InputCheckbox, Orderbox): add disabled props (#120) ([d0c141e](https://github.com/Mediatek-Cloud/mcs-ui/commit/d0c141e)), closes [#120](https://github.com/Mediatek-Cloud/mcs-ui/issues/120)
+- chore(deps): update dependency hsu-scripts to v0.2.3 (#111) ([e42f114](https://github.com/Mediatek-Cloud/mcs-ui/commit/e42f114)), closes [#111](https://github.com/Mediatek-Cloud/mcs-ui/issues/111)
+- chore(deps): update dependency husky to v1.2.1 (#115) ([1c8d7d8](https://github.com/Mediatek-Cloud/mcs-ui/commit/1c8d7d8)), closes [#115](https://github.com/Mediatek-Cloud/mcs-ui/issues/115)
+- chore(deps): update dependency husky to v1.3.0 (#118) ([b5465ae](https://github.com/Mediatek-Cloud/mcs-ui/commit/b5465ae)), closes [#118](https://github.com/Mediatek-Cloud/mcs-ui/issues/118)
+- chore(deps): update dependency styled-components to v4.1.3 (#117) ([2e92c2a](https://github.com/Mediatek-Cloud/mcs-ui/commit/2e92c2a)), closes [#117](https://github.com/Mediatek-Cloud/mcs-ui/issues/117)
+- chore(deps): update storybook monorepo to v4.1.0 (#112) ([3285bd6](https://github.com/Mediatek-Cloud/mcs-ui/commit/3285bd6)), closes [#112](https://github.com/Mediatek-Cloud/mcs-ui/issues/112) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- chore(deps): update storybook monorepo to v4.1.1 (#113) ([aed70fd](https://github.com/Mediatek-Cloud/mcs-ui/commit/aed70fd)), closes [#113](https://github.com/Mediatek-Cloud/mcs-ui/issues/113) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- chore(deps): update storybook monorepo to v4.1.2 (#116) ([2022f34](https://github.com/Mediatek-Cloud/mcs-ui/commit/2022f34)), closes [#116](https://github.com/Mediatek-Cloud/mcs-ui/issues/116)
+- fix(deps): update dependency react-spring to v7 (#110) ([68e351c](https://github.com/Mediatek-Cloud/mcs-ui/commit/68e351c)), closes [#110](https://github.com/Mediatek-Cloud/mcs-ui/issues/110)
 
-- [8ddfc82](https://github.com/Mediatek-Cloud/mcs-ui/commit/8ddfc824836f815a04d7c2e758c56c6c9c3f56e0) 1.1.4 (@evenchange4)
-- [#85](https://github.com/Mediatek-Cloud/mcs-ui/pull/85) fix(ErrorMessage): css tunning & use @babel/plugin-transform-runtime (#85) (@evenchange4)
-- [140b8a7](https://github.com/Mediatek-Cloud/mcs-ui/commit/140b8a7dd1b767fb599b0cab3dea35f28f47c8c3) docs(CHANGELOG): release 1.1.3 (@evenchange4)
+## <small>1.1.9 (2018-12-11)</small>
 
-### v1.1.3 (2018/11/30 08:39 +00:00)
+- 1.1.9 ([246378f](https://github.com/Mediatek-Cloud/mcs-ui/commit/246378f))
+- chore: ncu update react-overlay-pack (#109) ([fe9a302](https://github.com/Mediatek-Cloud/mcs-ui/commit/fe9a302)), closes [#109](https://github.com/Mediatek-Cloud/mcs-ui/issues/109)
+- chore(deps): update dependency enzyme to v3.8.0 (#107) ([5fd81e9](https://github.com/Mediatek-Cloud/mcs-ui/commit/5fd81e9)), closes [#107](https://github.com/Mediatek-Cloud/mcs-ui/issues/107)
+- chore(deps): update dependency enzyme-adapter-react-16 to v1.7.1 (#106) ([d08c13b](https://github.com/Mediatek-Cloud/mcs-ui/commit/d08c13b)), closes [#106](https://github.com/Mediatek-Cloud/mcs-ui/issues/106)
+- chore(deps): update dependency flow-bin to v0.88.0 (#108) ([8006e5a](https://github.com/Mediatek-Cloud/mcs-ui/commit/8006e5a)), closes [#108](https://github.com/Mediatek-Cloud/mcs-ui/issues/108)
 
-- [4423962](https://github.com/Mediatek-Cloud/mcs-ui/commit/4423962bbb6f22e477f96d96fa258ccf24d36cdf) 1.1.3 (@evenchange4)
-- [#84](https://github.com/Mediatek-Cloud/mcs-ui/pull/84) feat(FileDropzone): add new FileDropzone component (#84) (@evenchange4)
-- [#77](https://github.com/Mediatek-Cloud/mcs-ui/pull/77) chore(deps): update node.js to v11.3.0 (#77) (@renovate[bot])
-- [#83](https://github.com/Mediatek-Cloud/mcs-ui/pull/83) chore(deps): update dependency prettier to v1.15.3 (#83) (@renovate[bot])
-- [#82](https://github.com/Mediatek-Cloud/mcs-ui/pull/82) chore(deps): update dependency babel-plugin-styled-components to v1.9.2 (#82) (@renovate[bot])
+## <small>1.1.8 (2018-12-10)</small>
 
-### v1.1.2 (2018/11/29 01:04 +00:00)
+- 1.1.8 ([5202752](https://github.com/Mediatek-Cloud/mcs-ui/commit/5202752))
+- fix(TabItem): add missing @flow annotation ([88bb814](https://github.com/Mediatek-Cloud/mcs-ui/commit/88bb814))
+- chore: expose all utils for es modules usage (#104) ([6f76e9a](https://github.com/Mediatek-Cloud/mcs-ui/commit/6f76e9a)), closes [#104](https://github.com/Mediatek-Cloud/mcs-ui/issues/104)
 
-- [345ab8d](https://github.com/Mediatek-Cloud/mcs-ui/commit/345ab8d3d8595470a4f07db5fac5d41fee76f8e4) 1.1.2 (@evenchange4)
-- [#81](https://github.com/Mediatek-Cloud/mcs-ui/pull/81) chore: ncu update & upgrade sc (#81) (@evenchange4)
-- [7e61b8e](https://github.com/Mediatek-Cloud/mcs-ui/commit/7e61b8e6435295d13618076fa404a7111978357d) docs(CHANGELOG): release 1.1.1 (@evenchange4)
+## <small>1.1.7 (2018-12-10)</small>
 
-### v1.1.1 (2018/11/28 08:28 +00:00)
+- 1.1.7 ([3b9d2b4](https://github.com/Mediatek-Cloud/mcs-ui/commit/3b9d2b4))
+- chore: ncu update & use node 11.4.0 (#103) ([8b9ed6f](https://github.com/Mediatek-Cloud/mcs-ui/commit/8b9ed6f)), closes [#103](https://github.com/Mediatek-Cloud/mcs-ui/issues/103)
+- chore(deps): update dependency eslint to v5.10.0 (#101) ([f15cc78](https://github.com/Mediatek-Cloud/mcs-ui/commit/f15cc78)), closes [#101](https://github.com/Mediatek-Cloud/mcs-ui/issues/101)
+- chore(deps): update dependency hsu-scripts to v0.2.1 (#102) ([1ef1f45](https://github.com/Mediatek-Cloud/mcs-ui/commit/1ef1f45)), closes [#102](https://github.com/Mediatek-Cloud/mcs-ui/issues/102)
+- feat(Tag): add new Tag Component (#99) ([e3b3102](https://github.com/Mediatek-Cloud/mcs-ui/commit/e3b3102)), closes [#99](https://github.com/Mediatek-Cloud/mcs-ui/issues/99)
 
-- [68a71e8](https://github.com/Mediatek-Cloud/mcs-ui/commit/68a71e8a937d3d4a3b874cb0a74d0fd862ca85da) 1.1.1 (@evenchange4)
-- [1385efa](https://github.com/Mediatek-Cloud/mcs-ui/commit/1385efa53fe1a991b5548210290e57e4143b436e) chore: ncu update (@evenchange4)
-- [b4e2248](https://github.com/Mediatek-Cloud/mcs-ui/commit/b4e22484fadc3f547c40dc9a6014fbdf04027668) docs(CHANGELOG): release 1.1.0 (@evenchange4)
+## <small>1.1.6 (2018-12-06)</small>
 
-### v1.1.0 (2018/11/28 05:46 +00:00)
+- 1.1.6 ([5662ccc](https://github.com/Mediatek-Cloud/mcs-ui/commit/5662ccc))
+- chore(deps): update dependency hsu-scripts to v0.1.1 (#96) ([b46be3e](https://github.com/Mediatek-Cloud/mcs-ui/commit/b46be3e)), closes [#96](https://github.com/Mediatek-Cloud/mcs-ui/issues/96)
+- chore(deps): update dependency hsu-scripts to v0.2.0 (#98) ([18e6b3d](https://github.com/Mediatek-Cloud/mcs-ui/commit/18e6b3d)), closes [#98](https://github.com/Mediatek-Cloud/mcs-ui/issues/98)
+- chore(deps): update storybook monorepo to v4.0.12 (#97) ([d0f4c1a](https://github.com/Mediatek-Cloud/mcs-ui/commit/d0f4c1a)), closes [#97](https://github.com/Mediatek-Cloud/mcs-ui/issues/97)
+- docs(CHANGELOG): release 1.1.5 ([d7b8072](https://github.com/Mediatek-Cloud/mcs-ui/commit/d7b8072))
 
-- [6e6324c](https://github.com/Mediatek-Cloud/mcs-ui/commit/6e6324c367de7a76169d30f62c73849cbd50c157) 1.1.0 (@evenchange4)
-- [38763f6](https://github.com/Mediatek-Cloud/mcs-ui/commit/38763f6180f4ebf61b576ffa379a8e077a5b5b0e) fix(emptyFunction): update flow type (@evenchange4)
-- [#79](https://github.com/Mediatek-Cloud/mcs-ui/pull/79) feat: add new CopyButton (#79) (@evenchange4)
-- [#78](https://github.com/Mediatek-Cloud/mcs-ui/pull/78) chore: ncu update & flow (#78) (@evenchange4)
-- [5e337b1](https://github.com/Mediatek-Cloud/mcs-ui/commit/5e337b1d156989a1bc81f82d9b2bd29641528fde) docs(CHANGELOG): release 1.0.9 (@evenchange4)
+## <small>1.1.5 (2018-12-05)</small>
 
-### v1.0.9 (2018/11/27 06:08 +00:00)
+- 1.1.5 ([f616756](https://github.com/Mediatek-Cloud/mcs-ui/commit/f616756))
+- refactor: introduce hsu-scripts to simplify configs (#95) ([5598078](https://github.com/Mediatek-Cloud/mcs-ui/commit/5598078)), closes [#95](https://github.com/Mediatek-Cloud/mcs-ui/issues/95)
+- chore: add missing .editorconfig ([a075eef](https://github.com/Mediatek-Cloud/mcs-ui/commit/a075eef))
+- chore: ncu update & update flow type ([6d919a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d919a8))
+- chore(deps): update dependency @babel/plugin-proposal-class-properties to v7.2.1 (#94) ([575fa57](https://github.com/Mediatek-Cloud/mcs-ui/commit/575fa57)), closes [#94](https://github.com/Mediatek-Cloud/mcs-ui/issues/94)
+- chore(deps): update dependency enzyme-to-json to v3.3.5 (#93) ([24aebf1](https://github.com/Mediatek-Cloud/mcs-ui/commit/24aebf1)), closes [#93](https://github.com/Mediatek-Cloud/mcs-ui/issues/93)
+- chore(deps): update dependency eslint-plugin-jest to v22.1.2 (#92) ([63da556](https://github.com/Mediatek-Cloud/mcs-ui/commit/63da556)), closes [#92](https://github.com/Mediatek-Cloud/mcs-ui/issues/92)
+- chore(deps): update dependency polished to v2.3.1 (#86) ([0eb39bb](https://github.com/Mediatek-Cloud/mcs-ui/commit/0eb39bb)), closes [#86](https://github.com/Mediatek-Cloud/mcs-ui/issues/86)
+- chore(deps): update storybook monorepo to v4.0.10 (#87) ([fc022d1](https://github.com/Mediatek-Cloud/mcs-ui/commit/fc022d1)), closes [#87](https://github.com/Mediatek-Cloud/mcs-ui/issues/87)
+- chore(deps): update storybook monorepo to v4.0.11 (#88) ([4b57b35](https://github.com/Mediatek-Cloud/mcs-ui/commit/4b57b35)), closes [#88](https://github.com/Mediatek-Cloud/mcs-ui/issues/88)
+- feat(FileDropzone): add height props ([9a71f7b](https://github.com/Mediatek-Cloud/mcs-ui/commit/9a71f7b))
 
-- [81faa16](https://github.com/Mediatek-Cloud/mcs-ui/commit/81faa1657213ddacf7d5ddcb8722ce80d0792b15) 1.0.9 (@evenchange4)
-- [#73](https://github.com/Mediatek-Cloud/mcs-ui/pull/73) fix(ImageDropzone): typo: ImageDropZone -> ImageDropzone (#73) (@liuderchi)
-- [#70](https://github.com/Mediatek-Cloud/mcs-ui/pull/70) chore(deps): update storybook monorepo to v4.0.9 (#70) (@renovate[bot])
-- [#72](https://github.com/Mediatek-Cloud/mcs-ui/pull/72) chore(deps): update dependency babel-plugin-styled-components to v1.9.0 (#72) (@renovate[bot])
-- [#71](https://github.com/Mediatek-Cloud/mcs-ui/pull/71) chore(deps): update dependency eslint-plugin-jest to v22.0.1 (#71) (@renovate[bot])
-- [#69](https://github.com/Mediatek-Cloud/mcs-ui/pull/69) chore: ncu update (#69) (@evenchange4)
-- [9542762](https://github.com/Mediatek-Cloud/mcs-ui/commit/95427621af2f7aedf1c49c25b23a23c7dc212b8f) docs(CHANGELOG): release 1.0.8 (@evenchange4)
+## <small>1.1.4 (2018-11-30)</small>
 
-### v1.0.8 (2018/11/20 08:56 +00:00)
+- 1.1.4 ([8ddfc82](https://github.com/Mediatek-Cloud/mcs-ui/commit/8ddfc82))
+- fix(ErrorMessage): css tunning & use @babel/plugin-transform-runtime (#85) ([ade5831](https://github.com/Mediatek-Cloud/mcs-ui/commit/ade5831)), closes [#85](https://github.com/Mediatek-Cloud/mcs-ui/issues/85)
+- docs(CHANGELOG): release 1.1.3 ([140b8a7](https://github.com/Mediatek-Cloud/mcs-ui/commit/140b8a7))
 
-- [5091a57](https://github.com/Mediatek-Cloud/mcs-ui/commit/5091a57736b6ddaa3953f77e07e0a8e424703439) 1.0.8 (@evenchange4)
-- [599b029](https://github.com/Mediatek-Cloud/mcs-ui/commit/599b029ee718f929cf186ef30e4e5aec6529329b) chore: ncu update & use node 11.2.0 (@evenchange4)
-- [#65](https://github.com/Mediatek-Cloud/mcs-ui/pull/65) fix(deps): update dependency ramda to ^0.26.0 (#65) (@renovate[bot])
-- [#62](https://github.com/Mediatek-Cloud/mcs-ui/pull/62) chore(deps): update storybook monorepo to v4.0.7 (#62) (@renovate[bot])
-- [06cd5fa](https://github.com/Mediatek-Cloud/mcs-ui/commit/06cd5fa78780a94e18211e6e9b8eb6e3f1054b14) docs(CHANGELOG): release 1.0.7 (@evenchange4)
+## <small>1.1.3 (2018-11-30)</small>
 
-### v1.0.7 (2018/11/14 02:17 +00:00)
+- 1.1.3 ([4423962](https://github.com/Mediatek-Cloud/mcs-ui/commit/4423962))
+- feat(FileDropzone): add new FileDropzone component (#84) ([0d98840](https://github.com/Mediatek-Cloud/mcs-ui/commit/0d98840)), closes [#84](https://github.com/Mediatek-Cloud/mcs-ui/issues/84)
+- chore(deps): update dependency babel-plugin-styled-components to v1.9.2 (#82) ([da1e9eb](https://github.com/Mediatek-Cloud/mcs-ui/commit/da1e9eb)), closes [#82](https://github.com/Mediatek-Cloud/mcs-ui/issues/82)
+- chore(deps): update dependency prettier to v1.15.3 (#83) ([160f559](https://github.com/Mediatek-Cloud/mcs-ui/commit/160f559)), closes [#83](https://github.com/Mediatek-Cloud/mcs-ui/issues/83)
+- chore(deps): update node.js to v11.3.0 (#77) ([429428a](https://github.com/Mediatek-Cloud/mcs-ui/commit/429428a)), closes [#77](https://github.com/Mediatek-Cloud/mcs-ui/issues/77)
 
-- [671515b](https://github.com/Mediatek-Cloud/mcs-ui/commit/671515bf68d8eaed7b5b8646d669afd12fd3ef3f) 1.0.7 (@evenchange4)
-- [#61](https://github.com/Mediatek-Cloud/mcs-ui/pull/61) refactor(Overlay): performance tunning & use PureComponet (#61) (@evenchange4)
-- [#60](https://github.com/Mediatek-Cloud/mcs-ui/pull/60) chore(deps): update babel monorepo to v7.1.6 (#60) (@renovate[bot])
-- [#59](https://github.com/Mediatek-Cloud/mcs-ui/pull/59) chore(deps): update storybook monorepo to v4.0.6 (#59) (@renovate[bot])
-- [#58](https://github.com/Mediatek-Cloud/mcs-ui/pull/58) chore(deps): update dependency husky to v1.1.4 (#58) (@renovate[bot])
-- [6abd6fc](https://github.com/Mediatek-Cloud/mcs-ui/commit/6abd6fca990d0a80e3708f480fa7eaa4db89c38a) docs(CHANGELOG): release 1.0.6 (@evenchange4)
+## <small>1.1.2 (2018-11-29)</small>
 
-### v1.0.6 (2018/11/13 08:54 +00:00)
+- 1.1.2 ([345ab8d](https://github.com/Mediatek-Cloud/mcs-ui/commit/345ab8d))
+- chore: ncu update & upgrade sc (#81) ([5793e21](https://github.com/Mediatek-Cloud/mcs-ui/commit/5793e21)), closes [#81](https://github.com/Mediatek-Cloud/mcs-ui/issues/81)
+- docs(CHANGELOG): release 1.1.1 ([7e61b8e](https://github.com/Mediatek-Cloud/mcs-ui/commit/7e61b8e))
 
-- [fad4845](https://github.com/Mediatek-Cloud/mcs-ui/commit/fad484511952269bc7f49f03bd4a37c3621dd2b9) 1.0.6 (@evenchange4)
-- [00f2c83](https://github.com/Mediatek-Cloud/mcs-ui/commit/00f2c83c4f08d28ee61e41b5349b5ee03df8f36a) chore: ncu update (@evenchange4)
-- [1718e65](https://github.com/Mediatek-Cloud/mcs-ui/commit/1718e650e4e7702510eb62fde40f3409b563fe64) docs(CHANGELOG): release 1.0.5 (@evenchange4)
+## <small>1.1.1 (2018-11-28)</small>
 
-### v1.0.5 (2018/11/13 00:57 +00:00)
+- 1.1.1 ([68a71e8](https://github.com/Mediatek-Cloud/mcs-ui/commit/68a71e8))
+- chore: ncu update ([1385efa](https://github.com/Mediatek-Cloud/mcs-ui/commit/1385efa))
+- docs(CHANGELOG): release 1.1.0 ([b4e2248](https://github.com/Mediatek-Cloud/mcs-ui/commit/b4e2248))
 
-- [e55ae4f](https://github.com/Mediatek-Cloud/mcs-ui/commit/e55ae4f8ed6d4b2f14d9cc4b5d590057e6784ed2) 1.0.5 (@evenchange4)
-- [#56](https://github.com/Mediatek-Cloud/mcs-ui/pull/56) chore: ncu update & upgrade sc (#56) (@evenchange4)
-- [9f4bc31](https://github.com/Mediatek-Cloud/mcs-ui/commit/9f4bc31595012b0357586bdbba4c0535c58481e1) docs(CHANGELOG): release 1.0.4 (@evenchange4)
+## 1.1.0 (2018-11-28)
 
-### v1.0.4 (2018/11/12 09:23 +00:00)
+- 1.1.0 ([6e6324c](https://github.com/Mediatek-Cloud/mcs-ui/commit/6e6324c))
+- fix(emptyFunction): update flow type ([38763f6](https://github.com/Mediatek-Cloud/mcs-ui/commit/38763f6))
+- feat: add new CopyButton (#79) ([887e048](https://github.com/Mediatek-Cloud/mcs-ui/commit/887e048)), closes [#79](https://github.com/Mediatek-Cloud/mcs-ui/issues/79)
+- chore: ncu update & flow (#78) ([ee36d8a](https://github.com/Mediatek-Cloud/mcs-ui/commit/ee36d8a)), closes [#78](https://github.com/Mediatek-Cloud/mcs-ui/issues/78)
+- docs(CHANGELOG): release 1.0.9 ([5e337b1](https://github.com/Mediatek-Cloud/mcs-ui/commit/5e337b1))
 
-- [9e38a78](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e38a785f48e0f30476c740a19ec6ea4f9c2aac7) 1.0.4 (@evenchange4)
-- [d2a7353](https://github.com/Mediatek-Cloud/mcs-ui/commit/d2a7353fbd345044d220ced76d450c410d0a5508) fix(SearchInput): update placeholder style (@evenchange4)
-- [05ebd96](https://github.com/Mediatek-Cloud/mcs-ui/commit/05ebd96e5e20a92959f26a08294c4010d9133ff9) docs(CHANGELOG): release 1.0.3 (@evenchange4)
+## <small>1.0.9 (2018-11-27)</small>
 
-### v1.0.3 (2018/11/12 07:59 +00:00)
+- 1.0.9 ([81faa16](https://github.com/Mediatek-Cloud/mcs-ui/commit/81faa16))
+- fix(ImageDropzone): typo: ImageDropZone -> ImageDropzone (#73) ([24dc987](https://github.com/Mediatek-Cloud/mcs-ui/commit/24dc987)), closes [#73](https://github.com/Mediatek-Cloud/mcs-ui/issues/73)
+- chore: ncu update (#69) ([dfd857a](https://github.com/Mediatek-Cloud/mcs-ui/commit/dfd857a)), closes [#69](https://github.com/Mediatek-Cloud/mcs-ui/issues/69)
+- chore(deps): update dependency babel-plugin-styled-components to v1.9.0 (#72) ([64bb61d](https://github.com/Mediatek-Cloud/mcs-ui/commit/64bb61d)), closes [#72](https://github.com/Mediatek-Cloud/mcs-ui/issues/72)
+- chore(deps): update dependency eslint-plugin-jest to v22.0.1 (#71) ([1989615](https://github.com/Mediatek-Cloud/mcs-ui/commit/1989615)), closes [#71](https://github.com/Mediatek-Cloud/mcs-ui/issues/71)
+- chore(deps): update storybook monorepo to v4.0.9 (#70) ([9e1076f](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e1076f)), closes [#70](https://github.com/Mediatek-Cloud/mcs-ui/issues/70)
+- docs(CHANGELOG): release 1.0.8 ([9542762](https://github.com/Mediatek-Cloud/mcs-ui/commit/9542762))
 
-- [cad5a4c](https://github.com/Mediatek-Cloud/mcs-ui/commit/cad5a4c5a7de6312ab0dc865f663969d8fda9c95) 1.0.3 (@evenchange4)
-- [#54](https://github.com/Mediatek-Cloud/mcs-ui/pull/54) feat(InputGroup): add span for display only (#54) (@evenchange4)
-- [#53](https://github.com/Mediatek-Cloud/mcs-ui/pull/53) fix(EChart): fix formatter when no data displayed (#53) (@liuderchi)
+## <small>1.0.8 (2018-11-20)</small>
 
-### v1.0.2 (2018/11/12 01:17 +00:00)
+- 1.0.8 ([5091a57](https://github.com/Mediatek-Cloud/mcs-ui/commit/5091a57))
+- chore: ncu update & use node 11.2.0 ([599b029](https://github.com/Mediatek-Cloud/mcs-ui/commit/599b029))
+- chore(deps): update storybook monorepo to v4.0.7 (#62) ([d3e526e](https://github.com/Mediatek-Cloud/mcs-ui/commit/d3e526e)), closes [#62](https://github.com/Mediatek-Cloud/mcs-ui/issues/62) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- fix(deps): update dependency ramda to ^0.26.0 (#65) ([2d9a1a4](https://github.com/Mediatek-Cloud/mcs-ui/commit/2d9a1a4)), closes [#65](https://github.com/Mediatek-Cloud/mcs-ui/issues/65)
+- docs(CHANGELOG): release 1.0.7 ([06cd5fa](https://github.com/Mediatek-Cloud/mcs-ui/commit/06cd5fa))
 
-- [2a3e8ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/2a3e8ee80bd3de7ea30fb783b679a078b3634600) 1.0.2 (@evenchange4)
-- [#51](https://github.com/Mediatek-Cloud/mcs-ui/pull/51) chore(deps): update dependency prettier to v1.15.2 (#51) (@renovate[bot])
-- [#52](https://github.com/Mediatek-Cloud/mcs-ui/pull/52) chore(deps): update dependency eslint-config-prettier to v3.3.0 (#52) (@renovate[bot])
-- [#50](https://github.com/Mediatek-Cloud/mcs-ui/pull/50) chore(deps): update dependency eslint to v5.9.0 (#50) (@renovate[bot])
-- [#49](https://github.com/Mediatek-Cloud/mcs-ui/pull/49) chore(deps): update dependency flow-bin to v0.86.0 (#49) (@renovate[bot])
-- [#48](https://github.com/Mediatek-Cloud/mcs-ui/pull/48) chore(deps): update dependency enzyme-adapter-react-16 to v1.7.0 (#48) (@renovate[bot])
-- [e274cfd](https://github.com/Mediatek-Cloud/mcs-ui/commit/e274cfda926389c8645dfdf1aa45a37b87d4472e) docs(CHANGELOG): release 1.0.1 (@evenchange4)
+## <small>1.0.7 (2018-11-14)</small>
 
-### v1.0.1 (2018/11/08 02:23 +00:00)
+- 1.0.7 ([671515b](https://github.com/Mediatek-Cloud/mcs-ui/commit/671515b))
+- refactor(Overlay): performance tunning & use PureComponet (#61) ([2636add](https://github.com/Mediatek-Cloud/mcs-ui/commit/2636add)), closes [#61](https://github.com/Mediatek-Cloud/mcs-ui/issues/61)
+- chore(deps): update babel monorepo to v7.1.6 (#60) ([ff7beed](https://github.com/Mediatek-Cloud/mcs-ui/commit/ff7beed)), closes [#60](https://github.com/Mediatek-Cloud/mcs-ui/issues/60)
+- chore(deps): update dependency husky to v1.1.4 (#58) ([a363563](https://github.com/Mediatek-Cloud/mcs-ui/commit/a363563)), closes [#58](https://github.com/Mediatek-Cloud/mcs-ui/issues/58)
+- chore(deps): update storybook monorepo to v4.0.6 (#59) ([48ddc21](https://github.com/Mediatek-Cloud/mcs-ui/commit/48ddc21)), closes [#59](https://github.com/Mediatek-Cloud/mcs-ui/issues/59)
+- docs(CHANGELOG): release 1.0.6 ([6abd6fc](https://github.com/Mediatek-Cloud/mcs-ui/commit/6abd6fc))
 
-- [f571201](https://github.com/Mediatek-Cloud/mcs-ui/commit/f5712015b0cdbb19cd49e129503decb59872a219) 1.0.1 (@evenchange4)
-- [#39](https://github.com/Mediatek-Cloud/mcs-ui/pull/39) chore(deps): update node.js to v11.1.0 (#39) (@renovate[bot])
-- [#45](https://github.com/Mediatek-Cloud/mcs-ui/pull/45) chore(deps): update dependency prettier to v1.15.1 (#45) (@renovate[bot])
-- [#46](https://github.com/Mediatek-Cloud/mcs-ui/pull/46) chore(deps): update react monorepo to v16.6.1 (#46) (@renovate[bot])
-- [#41](https://github.com/Mediatek-Cloud/mcs-ui/pull/41) chore(deps): update storybook monorepo to v4.0.4 (#41) (@renovate[bot])
-- [#47](https://github.com/Mediatek-Cloud/mcs-ui/pull/47) chore(deps): update dependency eslint-plugin-jest to v22 (#47) (@renovate[bot])
-- [#43](https://github.com/Mediatek-Cloud/mcs-ui/pull/43) chore(deps): update babel monorepo to v7.1.5 (#43) (@renovate[bot])
-- [#42](https://github.com/Mediatek-Cloud/mcs-ui/pull/42) chore(deps): update dependency babel-plugin-transform-react-remove-prop-types to v0.4.20 (#42) (@renovate[bot])
-- [#40](https://github.com/Mediatek-Cloud/mcs-ui/pull/40) chore(deps): update dependency eslint-plugin-jest to v21.27.1 (#40) (@renovate[bot])
-- [#38](https://github.com/Mediatek-Cloud/mcs-ui/pull/38) chore(deps): update dependency husky to v1.1.3 (#38) (@renovate[bot])
-- [#37](https://github.com/Mediatek-Cloud/mcs-ui/pull/37) chore(deps): update dependency eslint-plugin-flowtype to v3.2.0 (#37) (@renovate[bot])
-- [96431ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/96431ee210d67455a7e75812ec9de30976baa67c) docs(CHANGELOG): release 1.0.0 (@liuderchi)
+## <small>1.0.6 (2018-11-13)</small>
 
-### v1.0.0 (2018/11/01 07:34 +00:00)
+- 1.0.6 ([fad4845](https://github.com/Mediatek-Cloud/mcs-ui/commit/fad4845))
+- docs(CHANGELOG): release 1.0.5 ([1718e65](https://github.com/Mediatek-Cloud/mcs-ui/commit/1718e65))
+- chore: ncu update ([00f2c83](https://github.com/Mediatek-Cloud/mcs-ui/commit/00f2c83))
 
-- [f13fbe6](https://github.com/Mediatek-Cloud/mcs-ui/commit/f13fbe62994561834e1398aae8848846ee546167) 1.0.0 (@liuderchi)
-- [#36](https://github.com/Mediatek-Cloud/mcs-ui/pull/36) feat: Add LogoMCS, PanelIcon, StatusLight, Switch, ToolTip (#36) (@liuderchi)
+## <small>1.0.5 (2018-11-13)</small>
 
-### v0.1.12 (2018/11/01 07:22 +00:00)
+- 1.0.5 ([e55ae4f](https://github.com/Mediatek-Cloud/mcs-ui/commit/e55ae4f))
+- chore: ncu update & upgrade sc (#56) ([53609ae](https://github.com/Mediatek-Cloud/mcs-ui/commit/53609ae)), closes [#56](https://github.com/Mediatek-Cloud/mcs-ui/issues/56)
+- docs(CHANGELOG): release 1.0.4 ([9f4bc31](https://github.com/Mediatek-Cloud/mcs-ui/commit/9f4bc31))
 
-- [#34](https://github.com/Mediatek-Cloud/mcs-ui/pull/34) chore(npm): add missing sideEffects for webpack & add babel-plugin-transform-react-remove-prop-types to reduce bundle size (#34) (@evenchange4)
-- [e9ab066](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9ab0666c31edf109dbb4b266ece08e3452bb332) 0.1.12 (@evenchange4)
-- [8069532](https://github.com/Mediatek-Cloud/mcs-ui/commit/8069532546ad4cd8c72ac7c21b12aff476dfdc58) docs(CHANGELOG): release 0.1.12 (@evenchange4)
-- [9e09212](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e0921272e8ef83259be4ee0ff4737174eff19de) docs(CHANGELOG): release 0.1.11 (@evenchange4)
-- [#33](https://github.com/Mediatek-Cloud/mcs-ui/pull/33) chore(deps): update storybook monorepo to v4.0.2 (#33) (@renovate[bot])
-- [#35](https://github.com/Mediatek-Cloud/mcs-ui/pull/35) chore(deps): update dependency lint-staged to v8.0.4 (#35) (@renovate[bot])
+## <small>1.0.4 (2018-11-12)</small>
 
-### v0.1.11 (2018/11/01 07:22 +00:00)
+- 1.0.4 ([9e38a78](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e38a78))
+- fix(SearchInput): update placeholder style ([d2a7353](https://github.com/Mediatek-Cloud/mcs-ui/commit/d2a7353))
+- docs(CHANGELOG): release 1.0.3 ([05ebd96](https://github.com/Mediatek-Cloud/mcs-ui/commit/05ebd96))
 
-- [e9c6780](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9c6780da8399210907ee196862c6f102362029f) 0.1.11 (@evenchange4)
-- [e53d05c](https://github.com/Mediatek-Cloud/mcs-ui/commit/e53d05c163dcba5af20d4165bdb8643a4f6f42fd) chore(npm): switch nwb to babel cli (@evenchange4)
-- [#28](https://github.com/Mediatek-Cloud/mcs-ui/pull/28) feat: Add OrderBox, InputOrder, InputMultiSelect (#28) (@liuderchi)
-- [#27](https://github.com/Mediatek-Cloud/mcs-ui/pull/27) chore(deps): update dependency lint-staged to v8 (#27) (@renovate[bot])
-- [#23](https://github.com/Mediatek-Cloud/mcs-ui/pull/23) chore(deps): update dependency eslint-plugin-jest to v21.26.2 (#23) (@renovate[bot])
-- [#26](https://github.com/Mediatek-Cloud/mcs-ui/pull/26) chore(deps): update storybook monorepo to v4.0.0 (#26) (@renovate[bot])
-- [#25](https://github.com/Mediatek-Cloud/mcs-ui/pull/25) feat: add <ImageDropZone>, <IconImage> (#25) (@liuderchi)
-- [#24](https://github.com/Mediatek-Cloud/mcs-ui/pull/24) chore(deps): update dependency eslint to v5.8.0 (#24) (@renovate[bot])
-- [#22](https://github.com/Mediatek-Cloud/mcs-ui/pull/22) chore(deps): update dependency eslint-plugin-flowtype to v3.1.4 (#22) (@renovate[bot])
+## <small>1.0.3 (2018-11-12)</small>
 
-### v0.1.10 (2018/10/26 05:54 +00:00)
+- feat(InputGroup): add span for display only (#54) ([29de368](https://github.com/Mediatek-Cloud/mcs-ui/commit/29de368)), closes [#54](https://github.com/Mediatek-Cloud/mcs-ui/issues/54)
+- 1.0.3 ([cad5a4c](https://github.com/Mediatek-Cloud/mcs-ui/commit/cad5a4c))
+- fix(EChart): fix formatter when no data displayed (#53) ([5e836e6](https://github.com/Mediatek-Cloud/mcs-ui/commit/5e836e6)), closes [#53](https://github.com/Mediatek-Cloud/mcs-ui/issues/53)
 
-- [358edc3](https://github.com/Mediatek-Cloud/mcs-ui/commit/358edc32c9f39e8fd15dcb8cbb8f61408f4566f2) 0.1.10 (@evenchange4)
-- [362b63c](https://github.com/Mediatek-Cloud/mcs-ui/commit/362b63ccf1080ea8e4c289c1edbebf758f2337ec) feat(EChart): add mcs style EChart component & fix ToastContainer test(#21) (@evenchange4)
-- [#20](https://github.com/Mediatek-Cloud/mcs-ui/pull/20) feat: Add <Hr>, utils/emptyFunction.js (#20) (@liuderchi)
-- [#19](https://github.com/Mediatek-Cloud/mcs-ui/pull/19) chore(deps): update dependency flow-bin to v0.84.0 (#19) (@renovate[bot])
-- [#18](https://github.com/Mediatek-Cloud/mcs-ui/pull/18) chore(deps): update storybook monorepo to v4.0.0-rc.6 (#18) (@renovate[bot])
-- [#17](https://github.com/Mediatek-Cloud/mcs-ui/pull/17) fix(deps): update dependency react-spring to v6 (#17) (@renovate[bot])
-- [#16](https://github.com/Mediatek-Cloud/mcs-ui/pull/16) chore(deps): update dependency eslint-plugin-jest to v21.26.1 (#16) (@renovate[bot])
-- [04c7383](https://github.com/Mediatek-Cloud/mcs-ui/commit/04c73839e9af369bab138034ab21840cb026dec8) docs(CHANGELOG): release 0.1.9 (@evenchange4)
+## <small>1.0.2 (2018-11-12)</small>
 
-### v0.1.9 (2018/10/24 08:31 +00:00)
+- 1.0.2 ([2a3e8ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/2a3e8ee))
+- chore(deps): update dependency enzyme-adapter-react-16 to v1.7.0 (#48) ([d91a297](https://github.com/Mediatek-Cloud/mcs-ui/commit/d91a297)), closes [#48](https://github.com/Mediatek-Cloud/mcs-ui/issues/48)
+- chore(deps): update dependency eslint to v5.9.0 (#50) ([79bd980](https://github.com/Mediatek-Cloud/mcs-ui/commit/79bd980)), closes [#50](https://github.com/Mediatek-Cloud/mcs-ui/issues/50)
+- chore(deps): update dependency eslint-config-prettier to v3.3.0 (#52) ([65f1dfc](https://github.com/Mediatek-Cloud/mcs-ui/commit/65f1dfc)), closes [#52](https://github.com/Mediatek-Cloud/mcs-ui/issues/52)
+- chore(deps): update dependency flow-bin to v0.86.0 (#49) ([6d8b31e](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d8b31e)), closes [#49](https://github.com/Mediatek-Cloud/mcs-ui/issues/49)
+- chore(deps): update dependency prettier to v1.15.2 (#51) ([e1ce6c0](https://github.com/Mediatek-Cloud/mcs-ui/commit/e1ce6c0)), closes [#51](https://github.com/Mediatek-Cloud/mcs-ui/issues/51)
+- docs(CHANGELOG): release 1.0.1 ([e274cfd](https://github.com/Mediatek-Cloud/mcs-ui/commit/e274cfd))
 
-- [80d4f78](https://github.com/Mediatek-Cloud/mcs-ui/commit/80d4f782ba6e34a5232e454fdde735b307896f9f) 0.1.9 (@evenchange4)
-- [2fb78d2](https://github.com/Mediatek-Cloud/mcs-ui/commit/2fb78d213eb24ac44ea23a1a5605419d92efa0ae) fix(SortableTh): svg flex-shrink 0 (@evenchange4)
-- [#15](https://github.com/Mediatek-Cloud/mcs-ui/pull/15) refactor(IconCheck): extract IconCheck component (#15) (@evenchange4)
-- [#14](https://github.com/Mediatek-Cloud/mcs-ui/pull/14) feat(Avatar): add IconAvatar, Avatar (#14) (@liuderchi)
+## <small>1.0.1 (2018-11-08)</small>
 
-### v0.1.8 (2018/10/24 03:56 +00:00)
+- 1.0.1 ([f571201](https://github.com/Mediatek-Cloud/mcs-ui/commit/f571201))
+- chore(deps): update babel monorepo to v7.1.5 (#43) ([8591a76](https://github.com/Mediatek-Cloud/mcs-ui/commit/8591a76)), closes [#43](https://github.com/Mediatek-Cloud/mcs-ui/issues/43)
+- chore(deps): update dependency babel-plugin-transform-react-remove-prop-types to v0.4.20 (#42) ([3e53a13](https://github.com/Mediatek-Cloud/mcs-ui/commit/3e53a13)), closes [#42](https://github.com/Mediatek-Cloud/mcs-ui/issues/42)
+- chore(deps): update dependency eslint-plugin-flowtype to v3.2.0 (#37) ([fe780fa](https://github.com/Mediatek-Cloud/mcs-ui/commit/fe780fa)), closes [#37](https://github.com/Mediatek-Cloud/mcs-ui/issues/37)
+- chore(deps): update dependency eslint-plugin-jest to v21.27.1 (#40) ([4dde282](https://github.com/Mediatek-Cloud/mcs-ui/commit/4dde282)), closes [#40](https://github.com/Mediatek-Cloud/mcs-ui/issues/40)
+- chore(deps): update dependency eslint-plugin-jest to v22 (#47) ([9cea0a6](https://github.com/Mediatek-Cloud/mcs-ui/commit/9cea0a6)), closes [#47](https://github.com/Mediatek-Cloud/mcs-ui/issues/47)
+- chore(deps): update dependency husky to v1.1.3 (#38) ([7aa7670](https://github.com/Mediatek-Cloud/mcs-ui/commit/7aa7670)), closes [#38](https://github.com/Mediatek-Cloud/mcs-ui/issues/38)
+- chore(deps): update dependency prettier to v1.15.1 (#45) ([c48b124](https://github.com/Mediatek-Cloud/mcs-ui/commit/c48b124)), closes [#45](https://github.com/Mediatek-Cloud/mcs-ui/issues/45)
+- chore(deps): update node.js to v11.1.0 (#39) ([8eb10ad](https://github.com/Mediatek-Cloud/mcs-ui/commit/8eb10ad)), closes [#39](https://github.com/Mediatek-Cloud/mcs-ui/issues/39)
+- chore(deps): update react monorepo to v16.6.1 (#46) ([c6f90f8](https://github.com/Mediatek-Cloud/mcs-ui/commit/c6f90f8)), closes [#46](https://github.com/Mediatek-Cloud/mcs-ui/issues/46)
+- chore(deps): update storybook monorepo to v4.0.4 (#41) ([040f547](https://github.com/Mediatek-Cloud/mcs-ui/commit/040f547)), closes [#41](https://github.com/Mediatek-Cloud/mcs-ui/issues/41)
+- docs(CHANGELOG): release 1.0.0 ([96431ee](https://github.com/Mediatek-Cloud/mcs-ui/commit/96431ee))
 
-- [3ed955f](https://github.com/Mediatek-Cloud/mcs-ui/commit/3ed955fa8447209372bb2104bd896c820be82f56) 0.1.8 (@evenchange4)
-- [4dc0a20](https://github.com/Mediatek-Cloud/mcs-ui/commit/4dc0a2069d77a94712ef3ba0276d0c32612eec0a) fix(flow): update copy-flow-source script & update some flow type (@evenchange4)
-- [54a7737](https://github.com/Mediatek-Cloud/mcs-ui/commit/54a7737576fd0c398e2ab14bf41f71eede6beb2d) docs(CHANGELOG): release 0.1.7 (@evenchange4)
+## 1.0.0 (2018-11-01)
 
-### v0.1.7 (2018/10/24 02:32 +00:00)
+- 1.0.0 ([f13fbe6](https://github.com/Mediatek-Cloud/mcs-ui/commit/f13fbe6))
+- feat: Add LogoMCS, PanelIcon, StatusLight, Switch, ToolTip (#36) ([b6b91c1](https://github.com/Mediatek-Cloud/mcs-ui/commit/b6b91c1)), closes [#36](https://github.com/Mediatek-Cloud/mcs-ui/issues/36) [#9](https://github.com/Mediatek-Cloud/mcs-ui/issues/9)
+- docs(CHANGELOG): release 0.1.12 ([8069532](https://github.com/Mediatek-Cloud/mcs-ui/commit/8069532))
 
-- [b092620](https://github.com/Mediatek-Cloud/mcs-ui/commit/b0926204e412b5aac92e57a7e874bfb09d3a4aad) 0.1.7 (@evenchange4)
-- [49b356c](https://github.com/Mediatek-Cloud/mcs-ui/commit/49b356ca5dcbd5a6400c061886182ea87fc219cd) chore(flow): introduce flow-copy-source (@evenchange4)
-- [#13](https://github.com/Mediatek-Cloud/mcs-ui/pull/13) chore: use node 11.0.0 (#13) (@evenchange4)
-- [#12](https://github.com/Mediatek-Cloud/mcs-ui/pull/12) fix(InputFancyRange): fix percentage function (#12) (@evenchange4)
-- [#11](https://github.com/Mediatek-Cloud/mcs-ui/pull/11) chore(deps): update react monorepo to v16.6.0 (#11) (@renovate[bot])
-- [#10](https://github.com/Mediatek-Cloud/mcs-ui/pull/10) chore(deps): update storybook monorepo to v4.0.0-rc.3 (#10) (@renovate[bot])
+## <small>0.1.12 (2018-11-01)</small>
 
-### v0.1.6 (2018/10/23 08:17 +00:00)
+- 0.1.12 ([e9ab066](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9ab066))
+- chore(deps): update dependency lint-staged to v8.0.4 (#35) ([558eefe](https://github.com/Mediatek-Cloud/mcs-ui/commit/558eefe)), closes [#35](https://github.com/Mediatek-Cloud/mcs-ui/issues/35)
+- chore(deps): update storybook monorepo to v4.0.2 (#33) ([d2ee046](https://github.com/Mediatek-Cloud/mcs-ui/commit/d2ee046)), closes [#33](https://github.com/Mediatek-Cloud/mcs-ui/issues/33)
+- chore(npm): add missing sideEffects for webpack & add babel-plugin-transform-react-remove-prop-types ([66384a3](https://github.com/Mediatek-Cloud/mcs-ui/commit/66384a3)), closes [#34](https://github.com/Mediatek-Cloud/mcs-ui/issues/34)
+- docs(CHANGELOG): release 0.1.11 ([9e09212](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e09212))
 
-- [d3747bb](https://github.com/Mediatek-Cloud/mcs-ui/commit/d3747bb9e8e80f3e9af051bfefcb2fa215ae0953) 0.1.6 (@evenchange4)
-- [7777e09](https://github.com/Mediatek-Cloud/mcs-ui/commit/7777e09b54349d94f5d1d03e167ae9e1d0595cc1) feat: add new components ButtonText, ConfirmDialog, Gauge, HTML, HoCs, IconSort, InputFancyRange, InputRadioGroup, KeyHandler, Logo, MarkdownTheme, TopBarProgress, SortableTh, SearchInput (@evenchange4)
-- [#6](https://github.com/Mediatek-Cloud/mcs-ui/pull/6) chore(deps): update dependency eslint-plugin-jest to v21.26.0 (#6) (@renovate[bot])
-- [#7](https://github.com/Mediatek-Cloud/mcs-ui/pull/7) chore(deps): update storybook monorepo to v4.0.0-rc.2 (#7) (@renovate[bot])
-- [#5](https://github.com/Mediatek-Cloud/mcs-ui/pull/5) chore(deps): update dependency polished to v2.3.0 (#5) (@renovate[bot])
-- [#4](https://github.com/Mediatek-Cloud/mcs-ui/pull/4) chore(deps): update dependency jest-styled-components to v6.2.2 (#4) (@renovate[bot])
-- [f100618](https://github.com/Mediatek-Cloud/mcs-ui/commit/f1006180df2f2cb7e34869dfbbb954f39c9b6f78) docs(CHANGELOG): release 0.1.5 (@evenchange4)
+## <small>0.1.11 (2018-11-01)</small>
 
-### v0.1.5 (2018/10/19 13:07 +00:00)
+- 0.1.11 ([e9c6780](https://github.com/Mediatek-Cloud/mcs-ui/commit/e9c6780))
+- chore(deps): update dependency eslint to v5.8.0 (#24) ([7609e42](https://github.com/Mediatek-Cloud/mcs-ui/commit/7609e42)), closes [#24](https://github.com/Mediatek-Cloud/mcs-ui/issues/24)
+- chore(deps): update dependency eslint-plugin-flowtype to v3.1.4 (#22) ([546b2a7](https://github.com/Mediatek-Cloud/mcs-ui/commit/546b2a7)), closes [#22](https://github.com/Mediatek-Cloud/mcs-ui/issues/22)
+- chore(deps): update dependency eslint-plugin-jest to v21.26.2 (#23) ([616c22d](https://github.com/Mediatek-Cloud/mcs-ui/commit/616c22d)), closes [#23](https://github.com/Mediatek-Cloud/mcs-ui/issues/23)
+- chore(deps): update dependency lint-staged to v8 (#27) ([636181c](https://github.com/Mediatek-Cloud/mcs-ui/commit/636181c)), closes [#27](https://github.com/Mediatek-Cloud/mcs-ui/issues/27)
+- chore(deps): update storybook monorepo to v4.0.0 (#26) ([9f147b2](https://github.com/Mediatek-Cloud/mcs-ui/commit/9f147b2)), closes [#26](https://github.com/Mediatek-Cloud/mcs-ui/issues/26)
+- chore(npm): switch nwb to babel cli ([e53d05c](https://github.com/Mediatek-Cloud/mcs-ui/commit/e53d05c))
+- feat: add <ImageDropZone>, <IconImage> (#25) ([d3a14fe](https://github.com/Mediatek-Cloud/mcs-ui/commit/d3a14fe)), closes [#25](https://github.com/Mediatek-Cloud/mcs-ui/issues/25) [#9](https://github.com/Mediatek-Cloud/mcs-ui/issues/9)
+- feat: Add OrderBox, InputOrder, InputMultiSelect (#28) ([d31c396](https://github.com/Mediatek-Cloud/mcs-ui/commit/d31c396)), closes [#28](https://github.com/Mediatek-Cloud/mcs-ui/issues/28)
 
-- [d877e68](https://github.com/Mediatek-Cloud/mcs-ui/commit/d877e686e69f73f24a04012a821a6b348cfe4e33) 0.1.5 (@evenchange4)
-- [#3](https://github.com/Mediatek-Cloud/mcs-ui/pull/3) feat(InputSelect): fix menuRef proptypes (#3) (@evenchange4)
-- [#2](https://github.com/Mediatek-Cloud/mcs-ui/pull/2) fix: add coverage flag of jest for codecov (#2) (@evenchange4)
-- [2acc0f4](https://github.com/Mediatek-Cloud/mcs-ui/commit/2acc0f4fff6dbaf857a4b5d403845a71b8cc885b) chore(travis): fix jest coverage (@evenchange4)
-- [#1](https://github.com/Mediatek-Cloud/mcs-ui/pull/1) chore(deps): pin dependencies (#1) (@renovate[bot])
-- [5757eec](https://github.com/Mediatek-Cloud/mcs-ui/commit/5757eec40fa50d841c55e256f185a9b99a1b8892) chore: add README.md & setup travis release (@evenchange4)
-- [81a98c7](https://github.com/Mediatek-Cloud/mcs-ui/commit/81a98c756b43dfda2a143b14efe57751565df7b8) chore(travis): setup changelog & deploy key (@evenchange4)
-- [937c6a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/937c6a846d18011a30262f00c5dee0e5e69f59f1) chore: pre-release (@evenchange4)
+## <small>0.1.10 (2018-10-26)</small>
 
-### v0.1.4 (2018/10/18 14:00 +00:00)
+- 0.1.10 ([358edc3](https://github.com/Mediatek-Cloud/mcs-ui/commit/358edc3))
+- feat: Add <Hr>, utils/emptyFunction.js (#20) ([24de5a3](https://github.com/Mediatek-Cloud/mcs-ui/commit/24de5a3)), closes [#20](https://github.com/Mediatek-Cloud/mcs-ui/issues/20)
+- feat(EChart): add mcs style EChart component & fix ToastContainer test(#21) ([362b63c](https://github.com/Mediatek-Cloud/mcs-ui/commit/362b63c)), closes [#21](https://github.com/Mediatek-Cloud/mcs-ui/issues/21)
+- chore(deps): update dependency eslint-plugin-jest to v21.26.1 (#16) ([4aa1b62](https://github.com/Mediatek-Cloud/mcs-ui/commit/4aa1b62)), closes [#16](https://github.com/Mediatek-Cloud/mcs-ui/issues/16)
+- chore(deps): update dependency flow-bin to v0.84.0 (#19) ([92dbba6](https://github.com/Mediatek-Cloud/mcs-ui/commit/92dbba6)), closes [#19](https://github.com/Mediatek-Cloud/mcs-ui/issues/19)
+- chore(deps): update storybook monorepo to v4.0.0-rc.6 (#18) ([964e2d3](https://github.com/Mediatek-Cloud/mcs-ui/commit/964e2d3)), closes [#18](https://github.com/Mediatek-Cloud/mcs-ui/issues/18)
+- fix(deps): update dependency react-spring to v6 (#17) ([876ee48](https://github.com/Mediatek-Cloud/mcs-ui/commit/876ee48)), closes [#17](https://github.com/Mediatek-Cloud/mcs-ui/issues/17)
+- docs(CHANGELOG): release 0.1.9 ([04c7383](https://github.com/Mediatek-Cloud/mcs-ui/commit/04c7383))
 
-- [adc6d75](https://github.com/Mediatek-Cloud/mcs-ui/commit/adc6d75d5ae94200426ef515c390b9a4c8201186) 0.1.4 (@evenchange4)
+## <small>0.1.9 (2018-10-24)</small>
 
-### v0.1.3 (2018/10/18 13:53 +00:00)
+- 0.1.9 ([80d4f78](https://github.com/Mediatek-Cloud/mcs-ui/commit/80d4f78))
+- fix(SortableTh): svg flex-shrink 0 ([2fb78d2](https://github.com/Mediatek-Cloud/mcs-ui/commit/2fb78d2))
+- refactor(IconCheck): extract IconCheck component (#15) ([fa9c32a](https://github.com/Mediatek-Cloud/mcs-ui/commit/fa9c32a)), closes [#15](https://github.com/Mediatek-Cloud/mcs-ui/issues/15)
+- feat(Avatar): add IconAvatar, Avatar (#14) ([9574b2f](https://github.com/Mediatek-Cloud/mcs-ui/commit/9574b2f)), closes [#14](https://github.com/Mediatek-Cloud/mcs-ui/issues/14) [#9](https://github.com/Mediatek-Cloud/mcs-ui/issues/9)
 
-- [8337e6a](https://github.com/Mediatek-Cloud/mcs-ui/commit/8337e6aa571d86d86e2e53497858657c16a0854b) 0.1.3 (@evenchange4)
-- [b42cf6a](https://github.com/Mediatek-Cloud/mcs-ui/commit/b42cf6a2ff2fd261db04acd8b91f0eb8c04a0967) feat: add Toast and ToastContext (@evenchange4)
+## <small>0.1.8 (2018-10-24)</small>
 
-### v0.1.2 (2018/10/18 12:16 +00:00)
+- 0.1.8 ([3ed955f](https://github.com/Mediatek-Cloud/mcs-ui/commit/3ed955f))
+- fix(flow): update copy-flow-source script & update some flow type ([4dc0a20](https://github.com/Mediatek-Cloud/mcs-ui/commit/4dc0a20))
+- docs(CHANGELOG): release 0.1.7 ([54a7737](https://github.com/Mediatek-Cloud/mcs-ui/commit/54a7737))
 
-- [57b7412](https://github.com/Mediatek-Cloud/mcs-ui/commit/57b741207fcaefea3604ae2ba027a2819d215ca1) 0.1.2 (@evenchange4)
-- [6d200c9](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d200c90f0eba9acff262c946df7181f0a09f4ac) fix: missing proptypes (@evenchange4)
+## <small>0.1.7 (2018-10-24)</small>
 
-### v0.1.1 (2018/10/18 08:37 +00:00)
+- 0.1.7 ([b092620](https://github.com/Mediatek-Cloud/mcs-ui/commit/b092620))
+- chore: use node 11.0.0 (#13) ([84a47b0](https://github.com/Mediatek-Cloud/mcs-ui/commit/84a47b0)), closes [#13](https://github.com/Mediatek-Cloud/mcs-ui/issues/13)
+- chore(deps): update react monorepo to v16.6.0 (#11) ([807dc88](https://github.com/Mediatek-Cloud/mcs-ui/commit/807dc88)), closes [#11](https://github.com/Mediatek-Cloud/mcs-ui/issues/11)
+- chore(deps): update storybook monorepo to v4.0.0-rc.3 (#10) ([31ddf6d](https://github.com/Mediatek-Cloud/mcs-ui/commit/31ddf6d)), closes [#10](https://github.com/Mediatek-Cloud/mcs-ui/issues/10) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- chore(flow): introduce flow-copy-source ([49b356c](https://github.com/Mediatek-Cloud/mcs-ui/commit/49b356c))
+- fix(InputFancyRange): fix percentage function (#12) ([598e929](https://github.com/Mediatek-Cloud/mcs-ui/commit/598e929)), closes [#12](https://github.com/Mediatek-Cloud/mcs-ui/issues/12)
 
-- [52305ba](https://github.com/Mediatek-Cloud/mcs-ui/commit/52305badb0933bc99d4cd19b62e43488557c46fd) 0.1.1 (@evenchange4)
-- [dbabf9a](https://github.com/Mediatek-Cloud/mcs-ui/commit/dbabf9a6781132c07af5492c40bba4ee48d31c61) chore(storybook): add storysource addon & disable soruce of info add (@evenchange4)
-- [4083849](https://github.com/Mediatek-Cloud/mcs-ui/commit/408384924cf79238318721aff466d60564460fb6) feat(Components): add Table, TabItem, Breadcrumb and SpaceTop (@evenchange4)
+## <small>0.1.6 (2018-10-23)</small>
 
-### v0.1.0 (2018/10/18 07:32 +00:00)
+- 0.1.6 ([d3747bb](https://github.com/Mediatek-Cloud/mcs-ui/commit/d3747bb))
+- feat: add new components ButtonText, ConfirmDialog, Gauge, HTML, HoCs, IconSort, InputFancyRange, In ([7777e09](https://github.com/Mediatek-Cloud/mcs-ui/commit/7777e09))
+- chore(deps): update dependency eslint-plugin-jest to v21.26.0 (#6) ([43619c2](https://github.com/Mediatek-Cloud/mcs-ui/commit/43619c2)), closes [#6](https://github.com/Mediatek-Cloud/mcs-ui/issues/6)
+- chore(deps): update dependency jest-styled-components to v6.2.2 (#4) ([1ff8469](https://github.com/Mediatek-Cloud/mcs-ui/commit/1ff8469)), closes [#4](https://github.com/Mediatek-Cloud/mcs-ui/issues/4)
+- chore(deps): update dependency polished to v2.3.0 (#5) ([9268540](https://github.com/Mediatek-Cloud/mcs-ui/commit/9268540)), closes [#5](https://github.com/Mediatek-Cloud/mcs-ui/issues/5)
+- chore(deps): update storybook monorepo to v4.0.0-rc.2 (#7) ([17aedd1](https://github.com/Mediatek-Cloud/mcs-ui/commit/17aedd1)), closes [#7](https://github.com/Mediatek-Cloud/mcs-ui/issues/7) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- docs(CHANGELOG): release 0.1.5 ([f100618](https://github.com/Mediatek-Cloud/mcs-ui/commit/f100618))
 
-- [4bdd949](https://github.com/Mediatek-Cloud/mcs-ui/commit/4bdd949dbb6928d5015cd005787e0156ca3fd4ab) 0.1.0 (@evenchange4)
-- [1ac4e22](https://github.com/Mediatek-Cloud/mcs-ui/commit/1ac4e22dfa3982a30eb362de07bec02b5a588add) feat: add common components (@evenchange4)
-- [be61ef6](https://github.com/Mediatek-Cloud/mcs-ui/commit/be61ef6b0425fbce6812dc3592bac2a038f9c50b) feat(Icons): add icons (@evenchange4)
-- [1024d93](https://github.com/Mediatek-Cloud/mcs-ui/commit/1024d93aa965308a78150c95cf0ef05556c9e062) feat: upgrade storybook & add tests (@evenchange4)
-- [fe622cc](https://github.com/Mediatek-Cloud/mcs-ui/commit/fe622ccad413f4b54c5be075b4244dd7afa0fb97) feat: init (@evenchange4)
-- [a8a0864](https://github.com/Mediatek-Cloud/mcs-ui/commit/a8a0864758d52d038efebc6df5d5a097ebd3d78f) Initial commit from nwb v0.23.0 (@evenchange4)
+## <small>0.1.5 (2018-10-19)</small>
+
+- 0.1.5 ([d877e68](https://github.com/Mediatek-Cloud/mcs-ui/commit/d877e68))
+- feat(InputSelect): fix menuRef proptypes (#3) ([529c9a3](https://github.com/Mediatek-Cloud/mcs-ui/commit/529c9a3)), closes [#3](https://github.com/Mediatek-Cloud/mcs-ui/issues/3)
+- fix: add coverage flag of jest for codecov (#2) ([90114b6](https://github.com/Mediatek-Cloud/mcs-ui/commit/90114b6)), closes [#2](https://github.com/Mediatek-Cloud/mcs-ui/issues/2)
+- chore: add README.md & setup travis release ([5757eec](https://github.com/Mediatek-Cloud/mcs-ui/commit/5757eec))
+- chore: pre-release ([937c6a8](https://github.com/Mediatek-Cloud/mcs-ui/commit/937c6a8))
+- chore(deps): pin dependencies (#1) ([e915717](https://github.com/Mediatek-Cloud/mcs-ui/commit/e915717)), closes [#1](https://github.com/Mediatek-Cloud/mcs-ui/issues/1) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+- chore(travis): fix jest coverage ([2acc0f4](https://github.com/Mediatek-Cloud/mcs-ui/commit/2acc0f4))
+- chore(travis): setup changelog & deploy key ([81a98c7](https://github.com/Mediatek-Cloud/mcs-ui/commit/81a98c7))
+
+## <small>0.1.4 (2018-10-18)</small>
+
+- 0.1.4 ([adc6d75](https://github.com/Mediatek-Cloud/mcs-ui/commit/adc6d75))
+
+## <small>0.1.3 (2018-10-18)</small>
+
+- 0.1.3 ([8337e6a](https://github.com/Mediatek-Cloud/mcs-ui/commit/8337e6a))
+- feat: add Toast and ToastContext ([b42cf6a](https://github.com/Mediatek-Cloud/mcs-ui/commit/b42cf6a))
+
+## <small>0.1.2 (2018-10-18)</small>
+
+- 0.1.2 ([57b7412](https://github.com/Mediatek-Cloud/mcs-ui/commit/57b7412))
+- fix: missing proptypes ([6d200c9](https://github.com/Mediatek-Cloud/mcs-ui/commit/6d200c9))
+
+## <small>0.1.1 (2018-10-18)</small>
+
+- 0.1.1 ([52305ba](https://github.com/Mediatek-Cloud/mcs-ui/commit/52305ba))
+- chore(storybook): add storysource addon & disable soruce of info add ([dbabf9a](https://github.com/Mediatek-Cloud/mcs-ui/commit/dbabf9a))
+- feat(Components): add Table, TabItem, Breadcrumb and SpaceTop ([4083849](https://github.com/Mediatek-Cloud/mcs-ui/commit/4083849))
+
+## 0.1.0 (2018-10-18)
+
+- 0.1.0 ([4bdd949](https://github.com/Mediatek-Cloud/mcs-ui/commit/4bdd949))
+- Initial commit from nwb v0.23.0 ([a8a0864](https://github.com/Mediatek-Cloud/mcs-ui/commit/a8a0864))
+- feat: add common components ([1ac4e22](https://github.com/Mediatek-Cloud/mcs-ui/commit/1ac4e22))
+- feat: init ([fe622cc](https://github.com/Mediatek-Cloud/mcs-ui/commit/fe622cc))
+- feat: upgrade storybook & add tests ([1024d93](https://github.com/Mediatek-Cloud/mcs-ui/commit/1024d93))
+- feat(Icons): add icons ([be61ef6](https://github.com/Mediatek-Cloud/mcs-ui/commit/be61ef6))
