@@ -1,9 +1,8 @@
 // @flow
 import * as React from 'react';
 import { Overlay } from 'react-overlay-pack';
-import Arrow from './Arrow';
 import { RIGHT_CENTER } from './position.config';
-import { StyledCard } from './styled-components';
+import { StyledCard, StyledArrow } from './styled-components';
 
 export type Props = {
   children: React.Node,
@@ -65,7 +64,7 @@ class Popover extends React.PureComponent<Props, State> {
 
             {/* Note: Arrow */}
             <Overlay show={isOpen} resize target={target} {...position.arrow}>
-              <Arrow key="arrow" />
+              <StyledArrow key="arrow" />
             </Overlay>
           </React.Fragment>
         )}

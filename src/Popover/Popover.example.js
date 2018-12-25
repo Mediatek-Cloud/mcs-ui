@@ -2,6 +2,8 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
+import ConfirmDialog from '../ConfirmDialog';
 import Popover from './Popover';
 import {
   RIGHT_CENTER,
@@ -117,6 +119,38 @@ import {
 } from 'mcs-ui/lib/Popover/position.config';
 ~~~
 `,
+        inline: true,
+        source: false,
+      },
+    },
+  )
+  .add(
+    'in dialog',
+    () => (
+      <ConfirmDialog
+        show
+        onHide={e => {
+          action('onHide');
+          console.warn({ target: e.target });
+        }}
+        onSubmit={({ setSubmitting }) => {
+          setSubmitting(true);
+          setTimeout(() => {
+            setSubmitting(false);
+          }, 2000);
+        }}
+        title="Attention!"
+        cancel="Cancel"
+        ok="Ok"
+      >
+        <Popover content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded.">
+          <div>Click me</div>
+        </Popover>
+      </ConfirmDialog>
+    ),
+    {
+      info: {
+        text: 'in dialog',
         inline: true,
         source: false,
       },
