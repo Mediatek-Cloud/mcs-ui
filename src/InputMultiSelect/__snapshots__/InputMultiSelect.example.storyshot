@@ -65,6 +65,10 @@ exports[`Storyshots InputMultiSelect API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c5 svg {
+  pointer-events: none;
+}
+
 .c7 {
   height: 100%;
   width: 100%;
@@ -89,6 +93,10 @@ exports[`Storyshots InputMultiSelect API 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c7 svg {
+  pointer-events: none;
 }
 
 .c1 {
@@ -679,6 +687,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -910,6 +921,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -1141,6 +1155,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -1355,6 +1372,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -1569,6 +1589,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -1783,6 +1806,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -1997,6 +2023,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -2211,6 +2240,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -2425,6 +2457,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -2639,6 +2674,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -2853,6 +2891,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -3067,6 +3108,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -3281,6 +3325,9 @@ exports[`Storyshots InputMultiSelect API 1`] = `
                                                   ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                 ],
                                               },
@@ -3368,6 +3415,10 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c5 svg {
+  pointer-events: none;
 }
 
 .c1 {
@@ -3944,6 +3995,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -4158,6 +4212,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -4372,6 +4429,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -4586,6 +4646,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -4800,6 +4863,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -5014,6 +5080,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -5228,6 +5297,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -5442,6 +5514,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -5656,6 +5731,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -5870,6 +5948,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -6084,6 +6165,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -6298,6 +6382,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -6512,6 +6599,9 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -6600,6 +6690,10 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c5 svg {
+  pointer-events: none;
 }
 
 .c1 {
@@ -7171,6 +7265,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -7385,6 +7482,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -7599,6 +7699,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -7813,6 +7916,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -8027,6 +8133,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -8241,6 +8350,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -8455,6 +8567,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -8669,6 +8784,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -8883,6 +9001,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -9097,6 +9218,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -9311,6 +9435,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -9525,6 +9652,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },
@@ -9739,6 +9869,9 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
                                                     ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                                   ],
                                                 },

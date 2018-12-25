@@ -65,6 +65,10 @@ exports[`Storyshots Checkbox API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  pointer-events: none;
+}
+
 .c3 {
   height: 100%;
   width: 100%;
@@ -89,6 +93,10 @@ exports[`Storyshots Checkbox API 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c3 svg {
+  pointer-events: none;
 }
 
 <div
@@ -204,6 +212,9 @@ exports[`Storyshots Checkbox API 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
@@ -351,6 +362,9 @@ exports[`Storyshots Checkbox API 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
@@ -539,6 +553,10 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  pointer-events: none;
+}
+
 <ThemeProvider
   theme={
     Object {
@@ -701,6 +719,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -853,6 +874,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1005,6 +1029,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1157,6 +1184,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1309,6 +1339,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1461,6 +1494,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1613,6 +1649,9 @@ exports[`Storyshots Checkbox With custom theme color for kind props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -1705,6 +1744,10 @@ exports[`Storyshots Checkbox With disabled props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulCheckbox
@@ -1803,7 +1846,7 @@ exports[`Storyshots Checkbox With disabled props 1`] = `
                   "componentStyle": ComponentStyle {
                     "componentId": "styled-components__Content-sc-1jb6672-1",
                     "isStatic": false,
-                    "lastClassName": "kNHNfk",
+                    "lastClassName": "bQdDbj",
                     "rules": Array [
                       "
   height: 100%;
@@ -1816,6 +1859,9 @@ exports[`Storyshots Checkbox With disabled props 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
@@ -1983,6 +2029,10 @@ exports[`Storyshots Checkbox With kind props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  pointer-events: none;
+}
+
 <div
   style={
     Object {
@@ -2099,6 +2149,9 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2251,6 +2304,9 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2403,6 +2459,9 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2555,6 +2614,9 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2707,6 +2769,9 @@ exports[`Storyshots Checkbox With kind props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2798,6 +2863,10 @@ exports[`Storyshots Checkbox With render props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulCheckbox
@@ -2908,6 +2977,9 @@ exports[`Storyshots Checkbox With render props 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
@@ -2993,6 +3065,10 @@ exports[`Storyshots Checkbox With size props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulCheckbox
@@ -3104,6 +3180,9 @@ exports[`Storyshots Checkbox With size props 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
@@ -3193,6 +3272,10 @@ exports[`Storyshots Checkbox With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulCheckbox>
@@ -3301,6 +3384,9 @@ exports[`Storyshots Checkbox With state 1`] = `
                       ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                     ],
                   },
