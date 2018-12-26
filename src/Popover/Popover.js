@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import { Overlay } from 'react-overlay-pack';
 import Arrow from './Arrow';
 import { RIGHT_CENTER } from './position.config';
 import { StyledCard, StyledOverlay } from './styled-components';
@@ -50,7 +51,7 @@ class Popover extends React.PureComponent<Props, State> {
         {/* Note: Card */}
         {isOpen && (
           <React.Fragment>
-            <StyledOverlay
+            <Overlay
               show={isOpen}
               resize
               target={target}
@@ -60,7 +61,7 @@ class Popover extends React.PureComponent<Props, State> {
               <StyledCard key="card" ref={innerRef}>
                 {content}
               </StyledCard>
-            </StyledOverlay>
+            </Overlay>
 
             {/* Note: Arrow */}
             <StyledOverlay

@@ -142,7 +142,7 @@ import {
     ),
     {
       info: {
-        text: 'clicking in dialog and on popover will not trigger `onHide`',
+        text: 'clicking on popover triangle will not trigger `onHide`',
         inline: true,
         source: false,
       },

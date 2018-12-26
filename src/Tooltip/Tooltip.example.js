@@ -131,7 +131,7 @@ import {
     ),
     {
       info: {
-        text: 'clicking on tooltip will not trigger `onHide`',
+        text: 'clicking on tooltip triangle will not trigger `onHide`',
         inline: true,
         source: false,
       },

@@ -1,6 +1,7 @@
 // @flow
 /* eslint-disable jsx-a11y/mouse-events-have-key-events */
 import * as React from 'react';
+import { Overlay } from 'react-overlay-pack';
 import { StyledCard, StyledOverlay } from './styled-components';
 import Arrow from './Arrow';
 import { TOP_CENTER } from './position.config';
@@ -51,7 +52,7 @@ class Tooltip extends React.PureComponent<
         {/* Note: Card */}
         {isOpen && (
           <React.Fragment>
-            <StyledOverlay
+            <Overlay
               show={isOpen}
               resize
               target={target}
@@ -62,7 +63,7 @@ class Tooltip extends React.PureComponent<
               <StyledCard key="card" ref={innerRef} onMouseOver={onMouseOver}>
                 {content}
               </StyledCard>
-            </StyledOverlay>
+            </Overlay>
 
             {/* Note: Arrow */}
             <StyledOverlay
