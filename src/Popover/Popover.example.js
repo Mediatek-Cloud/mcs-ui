@@ -3,7 +3,6 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
-import ConfirmDialog from '../ConfirmDialog';
 import Popover from './Popover';
 import {
   RIGHT_CENTER,
@@ -15,6 +14,7 @@ import {
   BOTTOM_RIGHT,
   BOTTOM_LEFT,
 } from './position.config';
+import ConfirmDialog from '../ConfirmDialog';
 
 const Wrapper: React.ComponentType<*> = styled.div`
   display: inline-flex;
@@ -129,28 +129,20 @@ import {
     () => (
       <ConfirmDialog
         show
-        onHide={e => {
-          action('onHide');
-          console.warn({ target: e.target });
-        }}
-        onSubmit={({ setSubmitting }) => {
-          setSubmitting(true);
-          setTimeout(() => {
-            setSubmitting(false);
-          }, 2000);
-        }}
-        title="Attention!"
+        onHide={action('onHide')}
+        onSubmit={action('onSubmit')}
+        title="Popover in dialog"
         cancel="Cancel"
         ok="Ok"
       >
         <Popover content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded.">
-          <div>Click me</div>
+          <div style={{ backgroundColor: 'skyblue' }}>Click me</div>
         </Popover>
       </ConfirmDialog>
     ),
     {
       info: {
-        text: 'in dialog',
+        text: 'clicking in dialog and on popover will not trigger `onHide`',
         inline: true,
         source: false,
       },

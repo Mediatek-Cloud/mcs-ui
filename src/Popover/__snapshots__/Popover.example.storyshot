@@ -834,7 +834,7 @@ exports[`Storyshots Popover in dialog 1`] = `
   onHide={[Function]}
   onSubmit={[Function]}
   show={true}
-  title="Attention!"
+  title="Popover in dialog"
 >
   <withState(PureConfirmDialog)
     cancel="Cancel"
@@ -842,7 +842,7 @@ exports[`Storyshots Popover in dialog 1`] = `
     onHide={[Function]}
     onSubmit={[Function]}
     show={true}
-    title="Attention!"
+    title="Popover in dialog"
   >
     <PureConfirmDialog
       cancel="Cancel"
@@ -852,7 +852,7 @@ exports[`Storyshots Popover in dialog 1`] = `
       onSubmit={[Function]}
       setSubmitting={[Function]}
       show={true}
-      title="Attention!"
+      title="Popover in dialog"
     >
       <Dialog
         backdropTransition={
@@ -1054,7 +1054,7 @@ exports[`Storyshots Popover in dialog 1`] = `
                       width="446"
                     >
                       <header>
-                        Attention!
+                        Popover in dialog
                       </header>
                       <main>
                         <div
@@ -1254,7 +1254,7 @@ exports[`Storyshots Popover in dialog 1`] = `
                             />
                           </Esc>
                           <header>
-                            Attention!
+                            Popover in dialog
                           </header>
                           <main>
                             <styled-components__Content>
@@ -1395,7 +1395,13 @@ exports[`Storyshots Popover in dialog 1`] = `
                                         }
                                         tabIndex="0"
                                       >
-                                        <div>
+                                        <div
+                                          style={
+                                            Object {
+                                              "backgroundColor": "skyblue",
+                                            }
+                                          }
+                                        >
                                           Click me
                                         </div>
                                       </div>
