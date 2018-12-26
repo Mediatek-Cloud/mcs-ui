@@ -2,6 +2,7 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { Overlay } from 'react-overlay-pack';
+import { type Props as OverlayProps } from 'react-overlay-pack/lib/Overlay/Overlay';
 import Card, { type Props as CardProps } from '../Card/Card';
 import { type ThemeProps } from '../utils/type.flow';
 
@@ -12,7 +13,7 @@ export const StyledCard: React.ComponentType<CardProps> = styled(Card)`
   border: 1px solid ${({ theme }: ThemeProps) => theme.color.grayBase};
 `;
 
-export const StyledOverlay: React.ComponentType<*> = styled(Overlay)`
+export const StyledOverlay: React.ComponentType<OverlayProps> = styled(Overlay)`
   pointer-events: none;
 `;
 
