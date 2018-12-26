@@ -54,4 +54,7 @@ export const Content: React.ComponentType<{ checked: boolean }> = styled.div`
   transform: scale(${({ checked }: InnerProps) => (checked ? 1 : 0)});
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 `;

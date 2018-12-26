@@ -65,6 +65,10 @@ exports[`Storyshots Orderbox API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c3 svg {
+  pointer-events: none;
+}
+
 .c1 {
   height: 100%;
   width: 100%;
@@ -89,6 +93,10 @@ exports[`Storyshots Orderbox API 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <div
@@ -208,6 +216,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -343,6 +354,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -480,6 +494,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -615,6 +632,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -752,6 +772,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -889,6 +912,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1026,6 +1052,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1163,6 +1192,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1300,6 +1332,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1437,6 +1472,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1574,6 +1612,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1711,6 +1752,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1848,6 +1892,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -1985,6 +2032,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2122,6 +2172,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2259,6 +2312,9 @@ exports[`Storyshots Orderbox API 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -2336,6 +2392,10 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  pointer-events: none;
+}
+
 .c2 {
   height: 100%;
   width: 100%;
@@ -2360,6 +2420,10 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  pointer-events: none;
 }
 
 <div
@@ -2485,6 +2549,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -2630,6 +2697,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -2775,6 +2845,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -2920,6 +2993,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -3065,6 +3141,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -3205,6 +3284,9 @@ exports[`Storyshots Orderbox With disabled props 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -3357,6 +3439,10 @@ exports[`Storyshots Orderbox With kind 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c1 svg {
+  pointer-events: none;
+}
+
 <div
   style={
     Object {
@@ -3478,6 +3564,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -3621,6 +3710,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -3764,6 +3856,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -3907,6 +4002,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -4050,6 +4148,9 @@ exports[`Storyshots Orderbox With kind 1`] = `
                           ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                         ],
                       },
@@ -4127,6 +4228,10 @@ exports[`Storyshots Orderbox With size 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulOrderbox
@@ -4272,6 +4377,9 @@ exports[`Storyshots Orderbox With size 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },
@@ -4347,6 +4455,10 @@ exports[`Storyshots Orderbox With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c1 svg {
+  pointer-events: none;
 }
 
 <StatefulOrderbox>
@@ -4459,6 +4571,9 @@ exports[`Storyshots Orderbox With state 1`] = `
                         ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                       ],
                     },

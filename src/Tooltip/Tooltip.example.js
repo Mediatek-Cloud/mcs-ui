@@ -2,6 +2,8 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
+import * as R from 'ramda';
 import Tooltip from './Tooltip';
 import {
   RIGHT_CENTER,
@@ -13,6 +15,7 @@ import {
   BOTTOM_RIGHT,
   BOTTOM_LEFT,
 } from './position.config';
+import ConfirmDialog from '../ConfirmDialog';
 
 const Wrapper = styled.div`
   display: inline-flex;
@@ -93,6 +96,44 @@ import {
 ~~~
 `,
         inline: true,
+      },
+    },
+  )
+  .add(
+    'in dialog',
+    () => (
+      <ConfirmDialog
+        show
+        onHide={action('onHide')}
+        onSubmit={action('onSubmit')}
+        title="Tooltip in dialog"
+        cancel="Cancel"
+        ok="Ok"
+      >
+        <Tooltip
+          content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded."
+          position={R.pipe(
+            R.assocPath(['card', 'alignConfig', 'offset'], [0, 25]),
+            R.assocPath(['arrow', 'alignConfig', 'offset'], [0, 50]),
+          )(TOP_CENTER)}
+        >
+          <div
+            style={{
+              border: 'skyblue 2px solid',
+              height: '50px',
+              width: '200px',
+            }}
+          >
+            Hover me
+          </div>
+        </Tooltip>
+      </ConfirmDialog>
+    ),
+    {
+      info: {
+        text: 'clicking on tooltip triangle will not trigger `onHide`',
+        inline: true,
+        source: false,
       },
     },
   );

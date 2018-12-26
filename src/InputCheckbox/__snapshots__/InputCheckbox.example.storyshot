@@ -46,6 +46,10 @@ exports[`Storyshots InputCheckbox API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c2 svg {
+  pointer-events: none;
+}
+
 .c0 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -220,6 +224,9 @@ exports[`Storyshots InputCheckbox API 1`] = `
                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                           ],
                         },
@@ -313,6 +320,10 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -493,6 +504,9 @@ exports[`Storyshots InputCheckbox Pass props to Checkbox 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                             ],
                           },
@@ -572,6 +586,10 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -736,7 +754,7 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
                         "componentStyle": ComponentStyle {
                           "componentId": "styled-components__Content-sc-1jb6672-1",
                           "isStatic": false,
-                          "lastClassName": "kNHNfk",
+                          "lastClassName": "bQdDbj",
                           "rules": Array [
                             "
   height: 100%;
@@ -749,6 +767,9 @@ exports[`Storyshots InputCheckbox With disabled props 1`] = `
                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                           ],
                         },
@@ -842,6 +863,10 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -1019,6 +1044,9 @@ exports[`Storyshots InputCheckbox With kind props 1`] = `
                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                           ],
                         },
@@ -1112,6 +1140,10 @@ exports[`Storyshots InputCheckbox With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c2 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -1289,6 +1321,9 @@ exports[`Storyshots InputCheckbox With state 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                             ],
                           },
@@ -1385,6 +1420,10 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c2 svg {
+  pointer-events: none;
+}
+
 .c0 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1560,6 +1599,9 @@ exports[`Storyshots InputCheckbox Without children 1`] = `
                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                             ],
                           },

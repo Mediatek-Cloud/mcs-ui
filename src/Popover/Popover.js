@@ -3,7 +3,7 @@ import * as React from 'react';
 import { Overlay } from 'react-overlay-pack';
 import Arrow from './Arrow';
 import { RIGHT_CENTER } from './position.config';
-import { StyledCard } from './styled-components';
+import { StyledCard, StyledOverlay } from './styled-components';
 
 export type Props = {
   children: React.Node,
@@ -64,9 +64,14 @@ class Popover extends React.PureComponent<Props, State> {
             </Overlay>
 
             {/* Note: Arrow */}
-            <Overlay show={isOpen} resize target={target} {...position.arrow}>
+            <StyledOverlay
+              show={isOpen}
+              resize
+              target={target}
+              {...position.arrow}
+            >
               <Arrow key="arrow" />
-            </Overlay>
+            </StyledOverlay>
           </React.Fragment>
         )}
       </React.Fragment>

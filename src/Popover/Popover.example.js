@@ -2,6 +2,7 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
 import Popover from './Popover';
 import {
   RIGHT_CENTER,
@@ -13,6 +14,7 @@ import {
   BOTTOM_RIGHT,
   BOTTOM_LEFT,
 } from './position.config';
+import ConfirmDialog from '../ConfirmDialog';
 
 const Wrapper: React.ComponentType<*> = styled.div`
   display: inline-flex;
@@ -117,6 +119,30 @@ import {
 } from 'mcs-ui/lib/Popover/position.config';
 ~~~
 `,
+        inline: true,
+        source: false,
+      },
+    },
+  )
+  .add(
+    'in dialog',
+    () => (
+      <ConfirmDialog
+        show
+        onHide={action('onHide')}
+        onSubmit={action('onSubmit')}
+        title="Popover in dialog"
+        cancel="Cancel"
+        ok="Ok"
+      >
+        <Popover content="The editable area of scene is the same as the size of image you upload or your computer screen if there is no image uploaded.">
+          <div style={{ backgroundColor: 'skyblue' }}>Click me</div>
+        </Popover>
+      </ConfirmDialog>
+    ),
+    {
+      info: {
+        text: 'clicking on popover triangle will not trigger `onHide`',
         inline: true,
         source: false,
       },

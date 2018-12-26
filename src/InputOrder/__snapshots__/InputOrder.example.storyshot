@@ -65,6 +65,10 @@ exports[`Storyshots InputOrder API 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c4 svg {
+  pointer-events: none;
+}
+
 .c6 {
   height: 100%;
   width: 100%;
@@ -89,6 +93,10 @@ exports[`Storyshots InputOrder API 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c6 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -451,6 +459,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -672,6 +683,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -893,6 +907,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -1112,6 +1129,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -1331,6 +1351,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -1550,6 +1573,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -1769,6 +1795,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -1988,6 +2017,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -2207,6 +2239,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -2426,6 +2461,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -2645,6 +2683,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -2864,6 +2905,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -3083,6 +3127,9 @@ exports[`Storyshots InputOrder API 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -3189,6 +3236,10 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c4 svg {
+  pointer-events: none;
+}
+
 .c6 {
   height: 100%;
   width: 100%;
@@ -3213,6 +3264,10 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c6 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -3530,6 +3585,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                           ],
                                         },
@@ -3761,6 +3819,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                           ],
                                         },
@@ -3975,6 +4036,9 @@ exports[`Storyshots InputOrder With custom itemRenderer props 1`] = `
                                             ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                           ],
                                         },
@@ -4234,6 +4298,10 @@ exports[`Storyshots InputOrder With kind props 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c4 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -4594,6 +4662,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -4813,6 +4884,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -5032,6 +5106,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -5251,6 +5328,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -5470,6 +5550,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -5689,6 +5772,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -5908,6 +5994,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -6127,6 +6216,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -6346,6 +6438,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -6565,6 +6660,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -6784,6 +6882,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -7003,6 +7104,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -7222,6 +7326,9 @@ exports[`Storyshots InputOrder With kind props 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -7483,6 +7590,10 @@ exports[`Storyshots InputOrder With state 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c4 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -7841,6 +7952,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -8060,6 +8174,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -8279,6 +8396,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -8498,6 +8618,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -8717,6 +8840,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -8936,6 +9062,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -9155,6 +9284,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -9374,6 +9506,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -9593,6 +9728,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -9812,6 +9950,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -10031,6 +10172,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -10250,6 +10394,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -10469,6 +10616,9 @@ exports[`Storyshots InputOrder With state 1`] = `
                                                 ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                               ],
                                             },
@@ -10555,6 +10705,10 @@ exports[`Storyshots InputOrder one item 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c4 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -10868,6 +11022,9 @@ exports[`Storyshots InputOrder one item 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -10976,6 +11133,10 @@ exports[`Storyshots InputOrder three items 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c4 svg {
+  pointer-events: none;
+}
+
 .c6 {
   height: 100%;
   width: 100%;
@@ -11000,6 +11161,10 @@ exports[`Storyshots InputOrder three items 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c6 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -11321,6 +11486,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -11542,6 +11710,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -11761,6 +11932,9 @@ exports[`Storyshots InputOrder three items 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -11867,6 +12041,10 @@ exports[`Storyshots InputOrder two items 1`] = `
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
 }
 
+.c4 svg {
+  pointer-events: none;
+}
+
 .c6 {
   height: 100%;
   width: 100%;
@@ -11891,6 +12069,10 @@ exports[`Storyshots InputOrder two items 1`] = `
   -webkit-transition: -webkit-transform 0.5s cubic-bezier(0.23,1,0.32,1);
   -webkit-transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
   transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);
+}
+
+.c6 svg {
+  pointer-events: none;
 }
 
 .c0 {
@@ -12208,6 +12390,9 @@ exports[`Storyshots InputOrder two items 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
@@ -12429,6 +12614,9 @@ exports[`Storyshots InputOrder two items 1`] = `
                                               ");
   transform-origin: 50% 50%;
   transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  svg {
+    pointer-events: none;
+  }
 ",
                                             ],
                                           },
