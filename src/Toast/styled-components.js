@@ -18,7 +18,7 @@ export const StyledCard: React.ComponentType<CardProps> = styled(Card)`
 export const StyledP: React.ComponentType<PProps & Props> = styled(P)`
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 8px 20px;
   color: ${mapColorByKind};
   background-color: ${({ theme, kind }: ThemeProps & InnerProps) =>
     lighten(theme.color[kind])};
