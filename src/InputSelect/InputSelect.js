@@ -28,7 +28,7 @@ import {
   getMenuItemHeight,
   getMenuHeight,
 } from './utils';
-import { type Kind, type ThemeProps, type ReactRef } from '../utils/type.flow';
+import { type Kind, type Theme, type ReactRef } from '../utils/type.flow';
 
 export type Props = {
   value: any,
@@ -55,7 +55,8 @@ type InnerProps = {
   itemValueMapper: ItemValueMapper,
   // Note: innerRef for the problem of outside click in dialog
   menuRef?: React.ElementRef<any>,
-} & ThemeProps;
+  theme: Theme,
+};
 type State = {
   isOpen: boolean,
   filter: string,
