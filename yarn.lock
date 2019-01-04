@@ -9328,10 +9328,10 @@ react-modal@^3.6.1:
     react-lifecycles-compat "^3.0.0"
     warning "^3.0.0"
 
-react-overlay-pack@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.1.0.tgz#2e19598ba1619c41be7335311bdf4736118617f3"
-  integrity sha512-tR8619c4U/Wc7x/ukZLtvOlMR/3W85sE32/f0DyRlyuxJ1ZailfJlE7A9VlouSWiW/yPntZpMzjms7K1clr6tw==
+react-overlay-pack@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/react-overlay-pack/-/react-overlay-pack-3.1.1.tgz#8316421889af8a0f451b553982d34fbad4e798c1"
+  integrity sha512-kpaPOyiZhjs/hTbgT8GVtTpPEweAYffpN5dD4PGxh9ZSUDY6CLbyHiVvO+N8ilgRIb7n9T2EwMJFdWEUiXtN9w==
   dependencies:
     dom-align "^1.8.0"
     prop-types "^15.6.2"
