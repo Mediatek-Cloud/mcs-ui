@@ -1,5 +1,23 @@
-## Unreleased (2018-12-20)
+## Unreleased (2019-01-04)
 
+## <small>1.1.13 (2019-01-04)</small>
+
+- 1.1.13 ([9f868d9](https://github.com/Mediatek-Cloud/mcs-ui/commit/9f868d9))
+- chore(deps): update dependency hsu-scripts to v1 (#131) ([b2a8e95](https://github.com/Mediatek-Cloud/mcs-ui/commit/b2a8e95)), closes [#131](https://github.com/Mediatek-Cloud/mcs-ui/issues/131)
+
+## <small>1.1.12 (2018-12-27)</small>
+
+- 1.1.12 ([b20c32a](https://github.com/Mediatek-Cloud/mcs-ui/commit/b20c32a))
+- fix(ToastContainer, Toast): adjust CSS to match mockup (#129) ([bd2c9e7](https://github.com/Mediatek-Cloud/mcs-ui/commit/bd2c9e7)), closes [#129](https://github.com/Mediatek-Cloud/mcs-ui/issues/129)
+- chore(deps): update dependency eslint to v5.11.0 (#124) ([98ef064](https://github.com/Mediatek-Cloud/mcs-ui/commit/98ef064)), closes [#124](https://github.com/Mediatek-Cloud/mcs-ui/issues/124)
+- chore(deps): update dependency eslint to v5.11.1 (#128) ([208e684](https://github.com/Mediatek-Cloud/mcs-ui/commit/208e684)), closes [#128](https://github.com/Mediatek-Cloud/mcs-ui/issues/128)
+- chore(deps): update storybook monorepo to v4.1.4 (#126) ([5b83618](https://github.com/Mediatek-Cloud/mcs-ui/commit/5b83618)), closes [#126](https://github.com/Mediatek-Cloud/mcs-ui/issues/126) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203) [#8203](https://github.com/Mediatek-Cloud/mcs-ui/issues/8203)
+
+## <small>1.1.11 (2018-12-26)</small>
+
+- 1.1.11 ([41cd4d1](https://github.com/Mediatek-Cloud/mcs-ui/commit/41cd4d1))
+- fix(Checkbox, InputCheckbox, Popover, Tooltip): disable pointer event on svg (#125) ([f555897](https://github.com/Mediatek-Cloud/mcs-ui/commit/f555897)), closes [#125](https://github.com/Mediatek-Cloud/mcs-ui/issues/125)
+- chore: ncu update & upgrade jest to use babel 7 & use node 11.5.0 & switch changelog tools ([93d9974](https://github.com/Mediatek-Cloud/mcs-ui/commit/93d9974))
 - chore(deps): update storybook monorepo to v4.1.3 (#123) ([af463e3](https://github.com/Mediatek-Cloud/mcs-ui/commit/af463e3)), closes [#123](https://github.com/Mediatek-Cloud/mcs-ui/issues/123)
 
 ## <small>1.1.10 (2018-12-19)</small>
