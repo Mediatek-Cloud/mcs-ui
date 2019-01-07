@@ -3,7 +3,7 @@ export * from './Icons';
 export * from './Form';
 export * from './ToastContext';
 export * from './KeyHandler';
-export * from './HoCs';
+export * from './hooks';
 export * from './Logo';
 export * from './utils';
 

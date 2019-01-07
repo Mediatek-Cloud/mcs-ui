@@ -9,7 +9,7 @@ const IGNORES = [
   'utils',
   '.DS_Store',
   'Icons',
-  'HoCs',
+  'hooks',
   'Logo',
   'svg',
   '__snapshots__',
@@ -51,8 +51,8 @@ it('should export es module of Icons folder', () => {
   });
 });
 
-it('should export es module of HoCs folder', () => {
-  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/HoCs')).map(name =>
+it('should export es module of hooks folder', () => {
+  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/hooks')).map(name =>
     name.replace('.js', ''),
   );
   dirnames.forEach(name => {
