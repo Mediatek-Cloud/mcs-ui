@@ -1,6 +1,6 @@
 // @flow
 import * as React from '../utils/react';
-import { type HOC, type SetSubmitting } from '../utils/type.flow';
+import { type SetSubmitting } from '../utils/type.flow';
 
 /**
  * Why? Make custom field component as same as Formik api.
