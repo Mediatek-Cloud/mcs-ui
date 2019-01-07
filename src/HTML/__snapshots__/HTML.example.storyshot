@@ -4,16 +4,12 @@ exports[`Storyshots HTML API 1`] = `
 <HTML
   html="<p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>"
 >
-  <PureHTML
-    html="<p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>"
-  >
-    <div
-      dangerouslySetInnerHTML={
-        Object {
-          "__html": "<p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>",
-        }
+  <div
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "<p><em>這是斜體文字</em></p> <p><del>這是刪除文字</del></p>",
       }
-    />
-  </PureHTML>
+    }
+  />
 </HTML>
 `;

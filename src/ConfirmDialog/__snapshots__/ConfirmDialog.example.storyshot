@@ -133,58 +133,40 @@ exports[`Storyshots ConfirmDialog API 1`] = `
   show={true}
   title="Attention!"
 >
-  <withState(PureConfirmDialog)
-    cancel="Cancel"
-    ok="Delete"
-    onHide={[Function]}
-    onSubmit={[Function]}
+  <Dialog
+    backdropTransition={
+      Object {
+        "animation": Object {
+          "delay": 0,
+          "duration": 200,
+          "ease": "easeOutCubic",
+          "opacity": 1,
+        },
+        "style": Object {
+          "opacity": 0.3,
+        },
+      }
+    }
+    containerTransition={
+      Object {
+        "animation": Object {
+          "delay": 0,
+          "duration": 200,
+          "ease": "easeOutQuart",
+          "translateY": 0,
+        },
+        "style": Object {
+          "transform": "translateY(-20px)",
+        },
+      }
+    }
+    onOutsideClick={[Function]}
     show={true}
-    title="Attention!"
   >
-    <PureConfirmDialog
-      cancel="Cancel"
-      isSubmitting={false}
-      ok="Delete"
-      onHide={[Function]}
-      onSubmit={[Function]}
-      setSubmitting={[Function]}
-      show={true}
-      title="Attention!"
-    >
-      <Dialog
-        backdropTransition={
-          Object {
-            "animation": Object {
-              "delay": 0,
-              "duration": 200,
-              "ease": "easeOutCubic",
-              "opacity": 1,
-            },
-            "style": Object {
-              "opacity": 0.3,
-            },
-          }
-        }
-        containerTransition={
-          Object {
-            "animation": Object {
-              "delay": 0,
-              "duration": 200,
-              "ease": "easeOutQuart",
-              "translateY": 0,
-            },
-            "style": Object {
-              "transform": "translateY(-20px)",
-            },
-          }
-        }
-        onOutsideClick={[Function]}
-        show={true}
-      >
-        <Portal>
-          <Portal
-            containerInfo={
-              .c0 {
+    <Portal>
+      <Portal
+        containerInfo={
+          .c0 {
   width: 100%;
   border-radius: 3px;
   background-color: #FFFFFF;
@@ -309,97 +291,152 @@ exports[`Storyshots ConfirmDialog API 1`] = `
 }
 
 <div>
-                <mock-tweenone
-                  animation="[object Object]"
-                  component="false"
-                  style="opacity: 0.3;"
-                >
-                  <div
-                    style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; background-color: rgba(0, 0, 0, 0.3); display: flex; align-items: center; flex-direction: column; overflow: auto;"
-                  />
-                </mock-tweenone>
+            <mock-tweenone
+              animation="[object Object]"
+              component="false"
+              style="opacity: 0.3;"
+            >
+              <div
+                style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; background-color: rgba(0, 0, 0, 0.3); display: flex; align-items: center; flex-direction: column; overflow: auto;"
+              />
+            </mock-tweenone>
+            <div
+              style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; display: flex; align-items: center; flex-direction: column; overflow: auto; pointer-events: none;"
+            >
+              <mock-tweenone
+                animation="[object Object]"
+                component="false"
+                style="transform: translateY(-20px);"
+              >
                 <div
-                  style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; display: flex; align-items: center; flex-direction: column; overflow: auto; pointer-events: none;"
+                  class="c0"
+                  style="pointer-events: all;"
+                  width="446"
                 >
-                  <mock-tweenone
-                    animation="[object Object]"
-                    component="false"
-                    style="transform: translateY(-20px);"
-                  >
+                  <header>
+                    Attention!
+                  </header>
+                  <main>
                     <div
-                      class="c0"
-                      style="pointer-events: all;"
-                      width="446"
+                      class="c1"
                     >
-                      <header>
-                        Attention!
-                      </header>
-                      <main>
-                        <div
-                          class="c1"
+                      <svg
+                        height="45"
+                        viewBox="0 0 50 45"
+                        width="50"
+                      >
+                        <g
+                          fill="none"
+                          fill-rule="evenodd"
                         >
-                          <svg
-                            height="45"
-                            viewBox="0 0 50 45"
-                            width="50"
-                          >
-                            <g
-                              fill="none"
-                              fill-rule="evenodd"
-                            >
-                              <path
-                                d="M0-2h50v50H0z"
-                                opacity="0.1"
-                              />
-                              <path
-                                d="M1.576 39.986C.5 41.85 1.192 43.05 3.346 43.05h43.308c2.152 0 2.846-1.2 1.77-3.064L26.768 2.48c-1.077-1.863-2.463-1.864-3.54 0L1.577 39.987zM22.293 1.94c1.495-2.59 3.922-2.583 5.414 0L49.36 39.444c1.496 2.59.277 4.688-2.706 4.688H3.344c-2.988 0-4.197-2.105-2.705-4.688L22.292 1.94z"
-                                fill="#F39A1E"
-                                fill-rule="nonzero"
-                              />
-                              <path
-                                d="M24.232 5.05c.424-.736 1.116-.73 1.536 0L45.82 39.777c.424.735.072 1.33-.77 1.33H4.95c-.848 0-1.188-.602-.768-1.33l20.052-34.73z"
-                                fill="#FDF4E7"
-                                fill-opacity="0.9"
-                              />
-                              <path
-                                d="M20 38.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
-                                fill="#F39A1E"
-                                opacity="0.5"
-                              />
-                              <path
-                                d="M23.084 19.002A.906.906 0 0 1 24.009 18h1.98c.558 0 .972.456.926 1.002l-.832 9.996A1.106 1.106 0 0 1 25 30a1.115 1.115 0 0 1-1.084-1.002l-.832-9.996zM25 34a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
-                                fill="#F39A1E"
-                              />
-                            </g>
-                          </svg>
-                          <div>
-                            <div>
-                              確定要刪嗎？
-                            </div>
-                            <div>
-                              操作不可逆
-                            </div>
-                          </div>
+                          <path
+                            d="M0-2h50v50H0z"
+                            opacity="0.1"
+                          />
+                          <path
+                            d="M1.576 39.986C.5 41.85 1.192 43.05 3.346 43.05h43.308c2.152 0 2.846-1.2 1.77-3.064L26.768 2.48c-1.077-1.863-2.463-1.864-3.54 0L1.577 39.987zM22.293 1.94c1.495-2.59 3.922-2.583 5.414 0L49.36 39.444c1.496 2.59.277 4.688-2.706 4.688H3.344c-2.988 0-4.197-2.105-2.705-4.688L22.292 1.94z"
+                            fill="#F39A1E"
+                            fill-rule="nonzero"
+                          />
+                          <path
+                            d="M24.232 5.05c.424-.736 1.116-.73 1.536 0L45.82 39.777c.424.735.072 1.33-.77 1.33H4.95c-.848 0-1.188-.602-.768-1.33l20.052-34.73z"
+                            fill="#FDF4E7"
+                            fill-opacity="0.9"
+                          />
+                          <path
+                            d="M20 38.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
+                            fill="#F39A1E"
+                            opacity="0.5"
+                          />
+                          <path
+                            d="M23.084 19.002A.906.906 0 0 1 24.009 18h1.98c.558 0 .972.456.926 1.002l-.832 9.996A1.106 1.106 0 0 1 25 30a1.115 1.115 0 0 1-1.084-1.002l-.832-9.996zM25 34a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
+                            fill="#F39A1E"
+                          />
+                        </g>
+                      </svg>
+                      <div>
+                        <div>
+                          確定要刪嗎？
                         </div>
-                      </main>
-                      <footer>
-                        <button
-                          class="c2"
-                          kind="default"
-                        >
-                          Cancel
-                        </button>
-                        <button
-                          class="c3"
-                          kind="primary"
-                        >
-                          Delete
-                        </button>
-                      </footer>
+                        <div>
+                          操作不可逆
+                        </div>
+                      </div>
                     </div>
-                  </mock-tweenone>
+                  </main>
+                  <footer>
+                    <button
+                      class="c2"
+                      kind="default"
+                    >
+                      Cancel
+                    </button>
+                    <button
+                      class="c3"
+                      kind="primary"
+                    >
+                      Delete
+                    </button>
+                  </footer>
                 </div>
-              </div>
+              </mock-tweenone>
+            </div>
+          </div>
+        }
+      >
+        <mock-TweenOne
+          animation={
+            Object {
+              "delay": 0,
+              "duration": 200,
+              "ease": "easeOutCubic",
+              "opacity": 1,
+            }
+          }
+          component={false}
+          style={
+            Object {
+              "opacity": 0.3,
+            }
+          }
+        >
+          <BackdropContainer
+            onClick={[Function]}
+          >
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(0, 0, 0, 0.3)",
+                  "bottom": "0",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "left": "0",
+                  "overflow": "auto",
+                  "position": "fixed",
+                  "right": "0",
+                  "top": "0",
+                }
+              }
+            />
+          </BackdropContainer>
+        </mock-TweenOne>
+        <Container>
+          <div
+            style={
+              Object {
+                "alignItems": "center",
+                "bottom": "0",
+                "display": "flex",
+                "flexDirection": "column",
+                "left": "0",
+                "overflow": "auto",
+                "pointerEvents": "none",
+                "position": "fixed",
+                "right": "0",
+                "top": "0",
+              }
             }
           >
             <mock-TweenOne
@@ -407,101 +444,46 @@ exports[`Storyshots ConfirmDialog API 1`] = `
                 Object {
                   "delay": 0,
                   "duration": 200,
-                  "ease": "easeOutCubic",
-                  "opacity": 1,
+                  "ease": "easeOutQuart",
+                  "translateY": 0,
                 }
               }
               component={false}
               style={
                 Object {
-                  "opacity": 0.3,
+                  "transform": "translateY(-20px)",
                 }
               }
             >
-              <BackdropContainer
-                onClick={[Function]}
-              >
-                <div
-                  onClick={[Function]}
-                  style={
-                    Object {
-                      "alignItems": "center",
-                      "backgroundColor": "rgba(0, 0, 0, 0.3)",
-                      "bottom": "0",
-                      "display": "flex",
-                      "flexDirection": "column",
-                      "left": "0",
-                      "overflow": "auto",
-                      "position": "fixed",
-                      "right": "0",
-                      "top": "0",
-                    }
-                  }
-                />
-              </BackdropContainer>
-            </mock-TweenOne>
-            <Container>
-              <div
+              <ResponsivePanel
                 style={
                   Object {
-                    "alignItems": "center",
-                    "bottom": "0",
-                    "display": "flex",
-                    "flexDirection": "column",
-                    "left": "0",
-                    "overflow": "auto",
-                    "pointerEvents": "none",
-                    "position": "fixed",
-                    "right": "0",
-                    "top": "0",
+                    "pointerEvents": "all",
                   }
                 }
+                width={446}
               >
-                <mock-TweenOne
-                  animation={
+                <StyledComponent
+                  forwardedComponent={
                     Object {
-                      "delay": 0,
-                      "duration": 200,
-                      "ease": "easeOutQuart",
-                      "translateY": 0,
-                    }
-                  }
-                  component={false}
-                  style={
-                    Object {
-                      "transform": "translateY(-20px)",
-                    }
-                  }
-                >
-                  <ResponsivePanel
-                    style={
-                      Object {
-                        "pointerEvents": "all",
-                      }
-                    }
-                    width={446}
-                  >
-                    <StyledComponent
-                      forwardedComponent={
-                        Object {
-                          "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "ResponsivePanel-xz3mbp-0",
-                            "isStatic": false,
-                            "lastClassName": "c0",
-                            "rules": Array [
-                              "
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "ResponsivePanel-xz3mbp-0",
+                        "isStatic": false,
+                        "lastClassName": "c0",
+                        "rules": Array [
+                          "
   width: 100%;
   border-radius: 3px;
   background-color: ",
-                              [Function],
-                              ";
+                          [Function],
+                          ";
 
   > header {
     background-color: ",
-                              [Function],
-                              ";
+                          [Function],
+                          ";
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
     border-radius: 3px;
     height: 50px;
@@ -512,10 +494,10 @@ exports[`Storyshots ConfirmDialog API 1`] = `
     padding: 20px;
   }
 ",
-                              "
+                          "
   max-width: ",
-                              [Function],
-                              "px;
+                          [Function],
+                          "px;
   margin: auto; /* Note: center by default and top for overflow, ref: https://goo.gl/3i1sSD */
 
   > header {
@@ -533,68 +515,68 @@ exports[`Storyshots ConfirmDialog API 1`] = `
     }
   }
 ",
-                            ],
-                          },
-                          "defaultProps": Object {
-                            "width": 618,
-                          },
-                          "displayName": "ResponsivePanel",
-                          "foldedComponentIds": Array [
-                            "Panel-sc-8vfb46-0",
-                          ],
-                          "propTypes": Object {
-                            "width": [Function],
-                          },
-                          "render": [Function],
-                          "styledComponentId": "ResponsivePanel-xz3mbp-0",
-                          "target": "div",
-                          "toString": [Function],
-                          "warnTooManyClasses": [Function],
-                          "withComponent": [Function],
-                        }
+                        ],
+                      },
+                      "defaultProps": Object {
+                        "width": 618,
+                      },
+                      "displayName": "ResponsivePanel",
+                      "foldedComponentIds": Array [
+                        "Panel-sc-8vfb46-0",
+                      ],
+                      "propTypes": Object {
+                        "width": [Function],
+                      },
+                      "render": [Function],
+                      "styledComponentId": "ResponsivePanel-xz3mbp-0",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  style={
+                    Object {
+                      "pointerEvents": "all",
+                    }
+                  }
+                  width={446}
+                >
+                  <div
+                    className="c0"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
                       }
-                      forwardedRef={null}
-                      style={
-                        Object {
-                          "pointerEvents": "all",
-                        }
-                      }
-                      width={446}
+                    }
+                    width={446}
+                  >
+                    <Esc
+                      onClick={[Function]}
                     >
-                      <div
-                        className="c0"
-                        style={
-                          Object {
-                            "pointerEvents": "all",
-                          }
-                        }
-                        width={446}
-                      >
-                        <Esc
-                          onClick={[Function]}
-                        >
-                          <KeyHandler
-                            eventName="keyup"
-                            keyName="Escape"
-                            onClick={[Function]}
-                          />
-                        </Esc>
-                        <header>
-                          Attention!
-                        </header>
-                        <main>
-                          <styled-components__Content>
-                            <StyledComponent
-                              forwardedComponent={
-                                Object {
-                                  "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": Array [],
-                                  "componentStyle": ComponentStyle {
-                                    "componentId": "styled-components__Content-sc-1028n22-0",
-                                    "isStatic": true,
-                                    "lastClassName": "c1",
-                                    "rules": Array [
-                                      "
+                      <KeyHandler
+                        eventName="keyup"
+                        keyName="Escape"
+                        onClick={[Function]}
+                      />
+                    </Esc>
+                    <header>
+                      Attention!
+                    </header>
+                    <main>
+                      <styled-components__Content>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styled-components__Content-sc-1028n22-0",
+                                "isStatic": true,
+                                "lastClassName": "c1",
+                                "rules": Array [
+                                  "
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -606,96 +588,218 @@ exports[`Storyshots ConfirmDialog API 1`] = `
     height: 45px;
   }
 ",
-                                    ],
-                                  },
-                                  "displayName": "styled-components__Content",
-                                  "foldedComponentIds": Array [],
-                                  "render": [Function],
-                                  "styledComponentId": "styled-components__Content-sc-1028n22-0",
-                                  "target": "div",
-                                  "toString": [Function],
-                                  "warnTooManyClasses": [Function],
-                                  "withComponent": [Function],
-                                }
-                              }
-                              forwardedRef={null}
-                            >
-                              <div
-                                className="c1"
+                                ],
+                              },
+                              "displayName": "styled-components__Content",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styled-components__Content-sc-1028n22-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c1"
+                          >
+                            <IconWarning>
+                              <svg
+                                height={45}
+                                viewBox="0 0 50 45"
+                                width={50}
                               >
-                                <IconWarning>
-                                  <svg
-                                    height={45}
-                                    viewBox="0 0 50 45"
-                                    width={50}
-                                  >
-                                    <g
-                                      fill="none"
-                                      fillRule="evenodd"
-                                    >
-                                      <path
-                                        d="M0-2h50v50H0z"
-                                        opacity={0.1}
-                                      />
-                                      <path
-                                        d="M1.576 39.986C.5 41.85 1.192 43.05 3.346 43.05h43.308c2.152 0 2.846-1.2 1.77-3.064L26.768 2.48c-1.077-1.863-2.463-1.864-3.54 0L1.577 39.987zM22.293 1.94c1.495-2.59 3.922-2.583 5.414 0L49.36 39.444c1.496 2.59.277 4.688-2.706 4.688H3.344c-2.988 0-4.197-2.105-2.705-4.688L22.292 1.94z"
-                                        fill="#F39A1E"
-                                        fillRule="nonzero"
-                                      />
-                                      <path
-                                        d="M24.232 5.05c.424-.736 1.116-.73 1.536 0L45.82 39.777c.424.735.072 1.33-.77 1.33H4.95c-.848 0-1.188-.602-.768-1.33l20.052-34.73z"
-                                        fill="#FDF4E7"
-                                        fillOpacity={0.9}
-                                      />
-                                      <path
-                                        d="M20 38.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
-                                        fill="#F39A1E"
-                                        opacity={0.5}
-                                      />
-                                      <path
-                                        d="M23.084 19.002A.906.906 0 0 1 24.009 18h1.98c.558 0 .972.456.926 1.002l-.832 9.996A1.106 1.106 0 0 1 25 30a1.115 1.115 0 0 1-1.084-1.002l-.832-9.996zM25 34a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
-                                        fill="#F39A1E"
-                                      />
-                                    </g>
-                                  </svg>
-                                </IconWarning>
-                                <div>
-                                  <div>
-                                    確定要刪嗎？
-                                  </div>
-                                  <div>
-                                    操作不可逆
-                                  </div>
-                                </div>
+                                <g
+                                  fill="none"
+                                  fillRule="evenodd"
+                                >
+                                  <path
+                                    d="M0-2h50v50H0z"
+                                    opacity={0.1}
+                                  />
+                                  <path
+                                    d="M1.576 39.986C.5 41.85 1.192 43.05 3.346 43.05h43.308c2.152 0 2.846-1.2 1.77-3.064L26.768 2.48c-1.077-1.863-2.463-1.864-3.54 0L1.577 39.987zM22.293 1.94c1.495-2.59 3.922-2.583 5.414 0L49.36 39.444c1.496 2.59.277 4.688-2.706 4.688H3.344c-2.988 0-4.197-2.105-2.705-4.688L22.292 1.94z"
+                                    fill="#F39A1E"
+                                    fillRule="nonzero"
+                                  />
+                                  <path
+                                    d="M24.232 5.05c.424-.736 1.116-.73 1.536 0L45.82 39.777c.424.735.072 1.33-.77 1.33H4.95c-.848 0-1.188-.602-.768-1.33l20.052-34.73z"
+                                    fill="#FDF4E7"
+                                    fillOpacity={0.9}
+                                  />
+                                  <path
+                                    d="M20 38.5c0-.276.228-.5.51-.5h8.98a.51.51 0 0 1 .51.5c0 .276-.228.5-.51.5h-8.98a.51.51 0 0 1-.51-.5z"
+                                    fill="#F39A1E"
+                                    opacity={0.5}
+                                  />
+                                  <path
+                                    d="M23.084 19.002A.906.906 0 0 1 24.009 18h1.98c.558 0 .972.456.926 1.002l-.832 9.996A1.106 1.106 0 0 1 25 30a1.115 1.115 0 0 1-1.084-1.002l-.832-9.996zM25 34a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
+                                    fill="#F39A1E"
+                                  />
+                                </g>
+                              </svg>
+                            </IconWarning>
+                            <div>
+                              <div>
+                                確定要刪嗎？
                               </div>
-                            </StyledComponent>
-                          </styled-components__Content>
-                        </main>
-                        <footer>
-                          <Button
-                            active={false}
-                            block={false}
+                              <div>
+                                操作不可逆
+                              </div>
+                            </div>
+                          </div>
+                        </StyledComponent>
+                      </styled-components__Content>
+                    </main>
+                    <footer>
+                      <Button
+                        active={false}
+                        block={false}
+                        disabled={false}
+                        kind="default"
+                        onClick={[Function]}
+                        round={false}
+                        size="normal"
+                        square={false}
+                      >
+                        <StyledComponent
+                          active={false}
+                          block={false}
+                          disabled={false}
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Button-sc-4bw22c-0",
+                                "isStatic": false,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
+  line-height: 0;
+  cursor: ",
+                                  [Function],
+                                  ";
+
+  &:hover {
+    background-color: ",
+                                  [Function],
+                                  ";
+  }
+
+  &:active {
+    background-color: ",
+                                  [Function],
+                                  ";
+  }
+
+  background-color: ",
+                                  [Function],
+                                  ";
+  color: ",
+                                  [Function],
+                                  ";
+  border-radius: ",
+                                  [Function],
+                                  ";
+  width: ",
+                                  [Function],
+                                  ";
+  min-width: ",
+                                  [Function],
+                                  ";
+  height: ",
+                                  [Function],
+                                  ";
+  padding: ",
+                                  [Function],
+                                  ";
+  font-size: ",
+                                  [Function],
+                                  ";
+  border-color: ",
+                                  [Function],
+                                  ";
+",
+                                ],
+                              },
+                              "defaultProps": Object {
+                                "active": false,
+                                "block": false,
+                                "disabled": false,
+                                "kind": "primary",
+                                "round": false,
+                                "size": "normal",
+                                "square": false,
+                              },
+                              "displayName": "Button",
+                              "foldedComponentIds": Array [],
+                              "propTypes": Object {
+                                "active": [Function],
+                                "block": [Function],
+                                "disabled": [Function],
+                                "kind": [Function],
+                                "round": [Function],
+                                "size": [Function],
+                                "square": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Button-sc-4bw22c-0",
+                              "target": "button",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          kind="default"
+                          onClick={[Function]}
+                          round={false}
+                          size="normal"
+                          square={false}
+                        >
+                          <button
+                            className="c2"
                             disabled={false}
                             kind="default"
                             onClick={[Function]}
-                            round={false}
                             size="normal"
-                            square={false}
                           >
-                            <StyledComponent
-                              active={false}
-                              block={false}
-                              disabled={false}
-                              forwardedComponent={
-                                Object {
-                                  "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": Array [],
-                                  "componentStyle": ComponentStyle {
-                                    "componentId": "Button-sc-4bw22c-0",
-                                    "isStatic": false,
-                                    "lastClassName": "c3",
-                                    "rules": Array [
-                                      "
+                            Cancel
+                          </button>
+                        </StyledComponent>
+                      </Button>
+                      <Button
+                        active={false}
+                        block={false}
+                        disabled={false}
+                        kind="primary"
+                        onClick={[Function]}
+                        round={false}
+                        size="normal"
+                        square={false}
+                      >
+                        <StyledComponent
+                          active={false}
+                          block={false}
+                          disabled={false}
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Button-sc-4bw22c-0",
+                                "isStatic": false,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "
   border-width: 1px;
   border-style: solid;
   outline: none;
@@ -703,230 +807,106 @@ exports[`Storyshots ConfirmDialog API 1`] = `
   transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
   line-height: 0;
   cursor: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
 
   &:hover {
     background-color: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   }
 
   &:active {
     background-color: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   }
 
   background-color: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   color: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   border-radius: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   width: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   min-width: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   height: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   padding: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   font-size: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
   border-color: ",
-                                      [Function],
-                                      ";
+                                  [Function],
+                                  ";
 ",
-                                    ],
-                                  },
-                                  "defaultProps": Object {
-                                    "active": false,
-                                    "block": false,
-                                    "disabled": false,
-                                    "kind": "primary",
-                                    "round": false,
-                                    "size": "normal",
-                                    "square": false,
-                                  },
-                                  "displayName": "Button",
-                                  "foldedComponentIds": Array [],
-                                  "propTypes": Object {
-                                    "active": [Function],
-                                    "block": [Function],
-                                    "disabled": [Function],
-                                    "kind": [Function],
-                                    "round": [Function],
-                                    "size": [Function],
-                                    "square": [Function],
-                                  },
-                                  "render": [Function],
-                                  "styledComponentId": "Button-sc-4bw22c-0",
-                                  "target": "button",
-                                  "toString": [Function],
-                                  "warnTooManyClasses": [Function],
-                                  "withComponent": [Function],
-                                }
-                              }
-                              forwardedRef={null}
-                              kind="default"
-                              onClick={[Function]}
-                              round={false}
-                              size="normal"
-                              square={false}
-                            >
-                              <button
-                                className="c2"
-                                disabled={false}
-                                kind="default"
-                                onClick={[Function]}
-                                size="normal"
-                              >
-                                Cancel
-                              </button>
-                            </StyledComponent>
-                          </Button>
-                          <Button
-                            active={false}
-                            block={false}
+                                ],
+                              },
+                              "defaultProps": Object {
+                                "active": false,
+                                "block": false,
+                                "disabled": false,
+                                "kind": "primary",
+                                "round": false,
+                                "size": "normal",
+                                "square": false,
+                              },
+                              "displayName": "Button",
+                              "foldedComponentIds": Array [],
+                              "propTypes": Object {
+                                "active": [Function],
+                                "block": [Function],
+                                "disabled": [Function],
+                                "kind": [Function],
+                                "round": [Function],
+                                "size": [Function],
+                                "square": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "Button-sc-4bw22c-0",
+                              "target": "button",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          kind="primary"
+                          onClick={[Function]}
+                          round={false}
+                          size="normal"
+                          square={false}
+                        >
+                          <button
+                            className="c3"
                             disabled={false}
                             kind="primary"
                             onClick={[Function]}
-                            round={false}
                             size="normal"
-                            square={false}
                           >
-                            <StyledComponent
-                              active={false}
-                              block={false}
-                              disabled={false}
-                              forwardedComponent={
-                                Object {
-                                  "$$typeof": Symbol(react.forward_ref),
-                                  "attrs": Array [],
-                                  "componentStyle": ComponentStyle {
-                                    "componentId": "Button-sc-4bw22c-0",
-                                    "isStatic": false,
-                                    "lastClassName": "c3",
-                                    "rules": Array [
-                                      "
-  border-width: 1px;
-  border-style: solid;
-  outline: none;
-  box-sizing: border-box;
-  transition: background-color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
-  line-height: 0;
-  cursor: ",
-                                      [Function],
-                                      ";
-
-  &:hover {
-    background-color: ",
-                                      [Function],
-                                      ";
-  }
-
-  &:active {
-    background-color: ",
-                                      [Function],
-                                      ";
-  }
-
-  background-color: ",
-                                      [Function],
-                                      ";
-  color: ",
-                                      [Function],
-                                      ";
-  border-radius: ",
-                                      [Function],
-                                      ";
-  width: ",
-                                      [Function],
-                                      ";
-  min-width: ",
-                                      [Function],
-                                      ";
-  height: ",
-                                      [Function],
-                                      ";
-  padding: ",
-                                      [Function],
-                                      ";
-  font-size: ",
-                                      [Function],
-                                      ";
-  border-color: ",
-                                      [Function],
-                                      ";
-",
-                                    ],
-                                  },
-                                  "defaultProps": Object {
-                                    "active": false,
-                                    "block": false,
-                                    "disabled": false,
-                                    "kind": "primary",
-                                    "round": false,
-                                    "size": "normal",
-                                    "square": false,
-                                  },
-                                  "displayName": "Button",
-                                  "foldedComponentIds": Array [],
-                                  "propTypes": Object {
-                                    "active": [Function],
-                                    "block": [Function],
-                                    "disabled": [Function],
-                                    "kind": [Function],
-                                    "round": [Function],
-                                    "size": [Function],
-                                    "square": [Function],
-                                  },
-                                  "render": [Function],
-                                  "styledComponentId": "Button-sc-4bw22c-0",
-                                  "target": "button",
-                                  "toString": [Function],
-                                  "warnTooManyClasses": [Function],
-                                  "withComponent": [Function],
-                                }
-                              }
-                              forwardedRef={null}
-                              kind="primary"
-                              onClick={[Function]}
-                              round={false}
-                              size="normal"
-                              square={false}
-                            >
-                              <button
-                                className="c3"
-                                disabled={false}
-                                kind="primary"
-                                onClick={[Function]}
-                                size="normal"
-                              >
-                                Delete
-                              </button>
-                            </StyledComponent>
-                          </Button>
-                        </footer>
-                      </div>
-                    </StyledComponent>
-                  </ResponsivePanel>
-                </mock-TweenOne>
-              </div>
-            </Container>
-          </Portal>
-        </Portal>
-      </Dialog>
-    </PureConfirmDialog>
-  </withState(PureConfirmDialog)>
+                            Delete
+                          </button>
+                        </StyledComponent>
+                      </Button>
+                    </footer>
+                  </div>
+                </StyledComponent>
+              </ResponsivePanel>
+            </mock-TweenOne>
+          </div>
+        </Container>
+      </Portal>
+    </Portal>
+  </Dialog>
 </ConfirmDialog>
 `;
