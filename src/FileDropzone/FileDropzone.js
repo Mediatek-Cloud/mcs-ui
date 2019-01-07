@@ -20,21 +20,12 @@ import {
 export type Props = {
   value: ?File,
   onFileChange: (File, setSubmitting: SetSubmitting) => void | Promise<void>,
-  placeholder?: string,
-  browse?: string,
-  dot?: string,
-  accept?: string,
-  height?: number,
+  placeholder: string,
+  browse: string,
+  dot: string,
+  accept: string,
+  height: number,
 };
-// type InnerProps = {
-//   value: ?File,
-//   onFileChange: (File, setSubmitting: SetSubmitting) => void | Promise<void>,
-//   placeholder?: string,
-//   browse?: string,
-//   dot?: string,
-//   accept?: string,
-//   height: number,
-// };
 
 const HEIGHT: number = 120;
 
@@ -117,4 +108,4 @@ FileDropzone.defaultProps = {
   height: HEIGHT,
 };
 
-export default React.memo(FileDropzone);
+export default FileDropzone;

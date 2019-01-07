@@ -1,5 +1,5 @@
-/* eslint react/no-danger: 0 */
 // @flow
+/* eslint react/no-danger: 0 */
 import * as React from 'react';
 import PropTypes from 'prop-types';
 
@@ -16,4 +16,4 @@ HTML.propTypes = {
   html: PropTypes.string,
 };
 
-export default React.memo(HTML);
+export default HTML;

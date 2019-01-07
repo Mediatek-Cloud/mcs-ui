@@ -82,4 +82,4 @@ ConfirmDialog.propTypes = {
   cancel: PropTypes.string.isRequired,
 };
 
-export default React.memo(ConfirmDialog);
+export default ConfirmDialog;
