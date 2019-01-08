@@ -1,4 +1,10 @@
-## Unreleased (2019-01-04)
+## Unreleased (2019-01-08)
+
+## 2.0.0 (2019-01-08)
+
+- 2.0.0 ([04fa6ae](https://github.com/Mediatek-Cloud/mcs-ui/commit/04fa6ae))
+- feat(ncu): upgrade react with hooks feature [BREAKING CHANGES](#134) ([4b3e90a](https://github.com/Mediatek-Cloud/mcs-ui/commit/4b3e90a)), closes [#134](https://github.com/Mediatek-Cloud/mcs-ui/issues/134)
+- docs(CHANGELOG): release 1.1.13 ([f014fbd](https://github.com/Mediatek-Cloud/mcs-ui/commit/f014fbd))
 
 ## <small>1.1.13 (2019-01-04)</small>
 
