@@ -5,7 +5,7 @@ import * as React from 'react';
 /**
  * Type from:
  * https://github.com/facebook/react/blob/master/packages/react/src/ReactHooks.js
- * https://github.com/streamich/react-use/blob/master/src/react.ts
+ * https://github.com/streamich/react-use/commit/cdc5ec596d216eb63e24b500a1d7a86a0823f214
  */
 
 export * from 'react';
