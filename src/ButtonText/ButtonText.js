@@ -1,6 +1,5 @@
 // @flow
 import * as React from 'react';
-import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { type ThemeProps } from '../utils/type.flow';
 
@@ -33,8 +32,5 @@ const ButtonText: React.ComponentType<Props> = styled.div`
   }
 `;
 ButtonText.displayName = 'ButtonText';
-ButtonText.propTypes = {
-  active: PropTypes.bool,
-};
 
 export default ButtonText;

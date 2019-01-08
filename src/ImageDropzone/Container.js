@@ -1,11 +1,10 @@
 // @flow
 import * as React from 'react';
 import styled, { css } from 'styled-components';
-import PropTypes from 'prop-types';
 import P from '../P';
 import { type ThemeProps } from '../utils/type.flow';
 
-type Props = {
+export type Props = {
   src?: string,
   canDrop: boolean,
   height: number,
@@ -45,9 +44,5 @@ const Container: React.ComponentType<Props> = styled.div`
 `;
 
 Container.displayName = 'Container';
-Container.propTypes = {
-  canDrop: PropTypes.bool.isRequired,
-  src: PropTypes.string,
-};
 
 export default Container;

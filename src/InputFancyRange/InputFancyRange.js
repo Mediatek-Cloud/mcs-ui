@@ -1,7 +1,8 @@
 // @flow
 import PropTypes from 'prop-types';
 import * as R from 'ramda';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
+import { type ComponentType } from '../utils/type.flow';
 
 export type Props = {
   value: number,
@@ -14,7 +15,7 @@ const getThumbPercentage = R.memoizeWith(
   ({ value, max, min }) => ((value - min) / (max - min)) * 100,
 );
 
-const InputFancyRange: ReactComponentFunctional<Props> = styled.input`
+const InputFancyRange: ComponentType<Props> = styled.input`
   -webkit-appearance: none;
   -moz-appearance: none;
   width: 100%;

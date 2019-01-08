@@ -1,8 +1,12 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import opacity from '../utils/opacity';
-import { type Kind, type ThemeProps } from '../utils/type.flow';
+import {
+  type Kind,
+  type ThemeProps,
+  type ComponentType,
+} from '../utils/type.flow';
 
 const shadow = opacity(0.5);
 
@@ -15,7 +19,7 @@ type InnerProps = {
   focus: boolean,
 } & ThemeProps;
 
-const Input: ReactComponentFunctional<Props> = styled.input`
+const Input: ComponentType<Props> = styled.input`
   box-sizing: border-box;
   width: 100%;
   border-width: 1px;

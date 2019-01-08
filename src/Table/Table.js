@@ -1,10 +1,11 @@
 // @flow
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import * as React from 'react';
+import styled from 'styled-components';
 import { type ThemeProps } from '../utils/type.flow';
 
 export type Props = {};
 
-const Table: ReactComponentFunctional<Props> = styled.table`
+const Table: React.ComponentType<Props> = styled.table`
   width: 100%;
   border-collapse: collapse;
 

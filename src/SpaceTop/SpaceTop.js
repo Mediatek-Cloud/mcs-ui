@@ -1,10 +1,11 @@
 // @flow
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import PropTypes from 'prop-types';
+import { type ComponentType } from '../utils/type.flow';
 
 type Props = { height: number };
 
-const SpaceTop: ReactComponentFunctional<Props> = styled.div`
+const SpaceTop: ComponentType<Props> = styled.div`
   margin-top: ${({ height }: Props) => height}px;
 `;
 

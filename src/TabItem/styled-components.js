@@ -1,11 +1,12 @@
 // @flow
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import * as React from 'react';
+import styled from 'styled-components';
 import { darken1, darken2 } from '../utils/darken';
 import { mapBorderColorByActive, mapColorByActive } from './propMappers';
 import { type InnerProps } from './TabItem';
 import { type ThemeProps } from '../utils/type.flow';
 
-export const Item: ReactComponentFunctional<InnerProps> = styled.div`
+export const Item: React.ComponentType<InnerProps> = styled.div`
   display: inline-flex;
   align-items: center;
   justify-content: center;

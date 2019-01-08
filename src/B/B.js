@@ -1,9 +1,10 @@
 // @flow
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import * as React from 'react';
+import styled from 'styled-components';
 
-type Props = {};
+export type Props = {};
 
-const B: ReactComponentFunctional<Props> = styled.b`
+const B: React.ComponentType<Props> = styled.b`
   font-weight: bold;
 `;
 

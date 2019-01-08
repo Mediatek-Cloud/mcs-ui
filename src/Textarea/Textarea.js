@@ -1,15 +1,19 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import opacity from '../utils/opacity';
-import { type Kind, type ThemeProps } from '../utils/type.flow';
+import {
+  type Kind,
+  type ThemeProps,
+  type ComponentType,
+} from '../utils/type.flow';
 
 export type Props = { kind?: Kind };
 type InnerProps = { kind: Kind } & ThemeProps;
 
 const shadow = opacity(0.5);
 
-const Textarea: ReactComponentFunctional<Props> = styled.textarea`
+const Textarea: ComponentType<Props> = styled.textarea`
   box-sizing: border-box;
   width: 100%;
   border-width: 1px;

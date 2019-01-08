@@ -1,11 +1,12 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
+import { type ComponentType } from '../utils/type.flow';
 
 export type Props = { active?: boolean };
 type InnerProps = { active: boolean };
 
-const Rotate: ReactComponentFunctional<Props> = styled.div`
+const Rotate: ComponentType<Props> = styled.div`
   line-height: 0;
 
   > * {

@@ -1,6 +1,11 @@
 // @flow
 import * as React from 'react';
 
+export type ComponentType<Props> = React.ComponentType<Props> & {
+  defaultProps: Object,
+  propTypes: Object,
+};
+
 // HOC
 export type HOC<Base, InjectedProps> = (
   Component: React.ComponentType<Base>,
