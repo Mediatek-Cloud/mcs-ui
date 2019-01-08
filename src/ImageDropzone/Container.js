@@ -1,8 +1,8 @@
 // @flow
-import * as React from 'react';
+import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 import P from '../P';
-import { type ThemeProps } from '../utils/type.flow';
+import { type ThemeProps, type ComponentType } from '../utils/type.flow';
 
 export type Props = {
   src?: string,
@@ -10,7 +10,7 @@ export type Props = {
   height: number,
 };
 
-const Container: React.ComponentType<Props> = styled.div`
+const Container: ComponentType<Props> = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
@@ -44,5 +44,9 @@ const Container: React.ComponentType<Props> = styled.div`
 `;
 
 Container.displayName = 'Container';
+Container.propTypes = {
+  canDrop: PropTypes.bool.isRequired,
+  src: PropTypes.string,
+};
 
 export default Container;
