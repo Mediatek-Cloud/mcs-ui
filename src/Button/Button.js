@@ -1,8 +1,13 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import * as propMappers from './propMappers';
-import { type ThemeProps, type Kind, type Size } from '../utils/type.flow';
+import {
+  type ThemeProps,
+  type Kind,
+  type Size,
+  type ComponentType,
+} from '../utils/type.flow';
 
 export type Props = {
   kind?: Kind,
@@ -23,7 +28,7 @@ export type InnerProps = {
   disabled: boolean,
 } & ThemeProps;
 
-const Button: ReactComponentFunctional<Props> = styled.button`
+const Button: ComponentType<Props> = styled.button`
   border-width: 1px;
   border-style: solid;
   outline: none;

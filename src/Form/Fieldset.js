@@ -1,15 +1,15 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import P from '../P';
-import { type ThemeProps } from '../utils/type.flow';
+import { type ThemeProps, type ComponentType } from '../utils/type.flow';
 
 export const INPUT_MIN_WIDTH = 200;
 
 export type Props = { width?: number };
 type InnerProps = { width: number } & ThemeProps;
 
-const Fieldset: ReactComponentFunctional<Props> = styled.div`
+const Fieldset: ComponentType<Props> = styled.div`
   /* Note: there is a problem with native fieldset using with flex. */
   display: flex;
   justify-content: space-between;

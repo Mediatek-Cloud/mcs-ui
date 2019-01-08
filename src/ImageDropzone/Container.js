@@ -1,17 +1,16 @@
 // @flow
-import * as React from 'react';
-import styled, { css } from 'styled-components';
 import PropTypes from 'prop-types';
+import styled, { css } from 'styled-components';
 import P from '../P';
-import { type ThemeProps } from '../utils/type.flow';
+import { type ThemeProps, type ComponentType } from '../utils/type.flow';
 
-type Props = {
+export type Props = {
   src?: string,
   canDrop: boolean,
   height: number,
 };
 
-const Container: React.ComponentType<Props> = styled.div`
+const Container: ComponentType<Props> = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;

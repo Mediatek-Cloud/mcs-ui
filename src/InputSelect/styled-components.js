@@ -1,6 +1,6 @@
 // @flow
 import * as React from 'react';
-import styled, { css, type ReactComponentFunctional } from 'styled-components';
+import styled, { css } from 'styled-components';
 import InputGroup, {
   type Props as InputGroupProps,
 } from '../InputGroup/InputGroup';
@@ -29,7 +29,7 @@ export const StyledMenu: React.ComponentType<
   }
 `;
 
-export const StyledInputGroup: ReactComponentFunctional<
+export const StyledInputGroup: React.ComponentType<
   {
     disableFilter: boolean,
   } & InputGroupProps,

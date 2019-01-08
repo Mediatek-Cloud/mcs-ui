@@ -1,12 +1,12 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import { type ThemeProps } from '../utils/type.flow';
 
 export type Props = { required?: boolean };
 type InnerProps = { required?: boolean } & ThemeProps;
 
-const Label: ReactComponentFunctional<Props> = styled.label`
+const Label: React.ComponentType<Props> = styled.label`
   &::after {
     content: "${({ required }: InnerProps) => (required ? '*' : '')}";
     margin-left: ${({ required }: InnerProps) => (required ? '0.25em' : '0')};

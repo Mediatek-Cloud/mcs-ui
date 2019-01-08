@@ -1,12 +1,16 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
-import { type ThemeProps, type Kind } from '../utils/type.flow';
+import styled from 'styled-components';
+import {
+  type ThemeProps,
+  type Kind,
+  type ComponentType,
+} from '../utils/type.flow';
 
 export type Props = { checked?: boolean, kind?: Kind };
 type InnerProps = { checked?: boolean, kind: Kind } & ThemeProps;
 
-const Switch: ReactComponentFunctional<Props> = styled.div`
+const Switch: ComponentType<Props> = styled.div`
   position: relative;
   height: 50px;
   width: 82px;

@@ -1,8 +1,7 @@
 // @flow
-import * as React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { type ThemeProps } from '../utils/type.flow';
+import { type ThemeProps, type ComponentType } from '../utils/type.flow';
 
 export type Props = {
   active?: boolean,
@@ -11,7 +10,7 @@ type InnerProps = {
   active: boolean,
 } & ThemeProps;
 
-const ButtonText: React.ComponentType<Props> = styled.div`
+const ButtonText: ComponentType<Props> = styled.div`
   display: inline-flex;
   align-items: center;
   padding: 0 5px;

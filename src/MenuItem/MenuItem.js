@@ -1,13 +1,13 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { css, type ReactComponentFunctional } from 'styled-components';
+import styled, { css } from 'styled-components';
 import { darken1 } from '../utils/darken';
-import { type ThemeProps } from '../utils/type.flow';
+import { type ThemeProps, type ComponentType } from '../utils/type.flow';
 
 export type Props = { active?: boolean };
 type InnerProps = { active: boolean } & ThemeProps;
 
-const MenuItem: ReactComponentFunctional<Props> = styled.div`
+const MenuItem: ComponentType<Props> = styled.div`
   display: inline-flex;
   align-items: center;
   padding: 0 15px;

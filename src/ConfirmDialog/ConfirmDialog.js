@@ -1,7 +1,6 @@
 // @flow
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import { pure, compose } from 'recompose';
 import { Dialog } from 'react-overlay-pack';
 import { IconLoading } from '../Icons';
 import IconWarning from '../IconWarning';
@@ -11,9 +10,7 @@ import Spin from '../Spin';
 import { Esc } from '../KeyHandler';
 import { Content } from './styled-components';
 import { type SetSubmitting } from '../utils/type.flow';
-import withSubmittingState, {
-  type InjectedProps as WithSubmittingStateProps,
-} from '../HoCs/withSubmittingState';
+import useSubmittingState from '../hooks/useSubmittingState';
 
 export type Props = {
   children: React.Node,
@@ -24,74 +21,65 @@ export type Props = {
   ok: string,
   cancel: string,
 };
-type InnerProps = WithSubmittingStateProps & Props;
 
-export class PureConfirmDialog extends React.PureComponent<InnerProps> {
-  static propTypes = {
-    children: PropTypes.node.isRequired,
-    show: PropTypes.bool.isRequired,
-    onHide: PropTypes.func.isRequired, // (e: any) => void,
-    onSubmit: PropTypes.func.isRequired, // ({ setSubmitting: SetSubmitting }) => Promise<void> | void
-    title: PropTypes.string.isRequired,
-    ok: PropTypes.string.isRequired,
-    cancel: PropTypes.string.isRequired,
-  };
+const ConfirmDialog = ({
+  onHide,
+  show,
+  children,
+  title,
+  ok,
+  cancel,
+  onSubmit,
+}: Props) => {
+  const { isSubmitting, setSubmitting } = useSubmittingState();
+  const onSubmitMemo = React.useCallback(
+    (e: SyntheticEvent<any>) => {
+      if (e && e.preventDefault) e.preventDefault();
+      if (isSubmitting) return;
+      onSubmit({ setSubmitting });
+    },
+    [isSubmitting, setSubmitting, onSubmit],
+  );
 
-  onSubmit = (e: SyntheticEvent<any>) => {
-    const { onSubmit, isSubmitting, setSubmitting } = this.props;
-    if (e && e.preventDefault) e.preventDefault();
-    if (isSubmitting) return;
-    onSubmit({ setSubmitting });
-  };
+  return (
+    <Dialog show={show} onOutsideClick={onHide}>
+      <ResponsivePanel width={446}>
+        <Esc onClick={onHide} />
+        <header>{title}</header>
+        <main>
+          <Content>
+            <IconWarning />
+            <div>{children}</div>
+          </Content>
+        </main>
+        <footer>
+          <Button kind="default" onClick={onHide}>
+            {cancel}
+          </Button>
+          <Button onClick={onSubmitMemo}>
+            {isSubmitting ? (
+              <Spin>
+                <IconLoading height={14} width={14} />
+              </Spin>
+            ) : (
+              ok
+            )}
+          </Button>
+        </footer>
+      </ResponsivePanel>
+    </Dialog>
+  );
+};
 
-  render() {
-    const { onSubmit } = this;
-    const {
-      onHide,
-      isSubmitting,
-      show,
-      children,
-      title,
-      ok,
-      cancel,
-    } = this.props;
-
-    return (
-      <Dialog show={show} onOutsideClick={onHide}>
-        <ResponsivePanel width={446}>
-          <Esc onClick={onHide} />
-          <header>{title}</header>
-          <main>
-            <Content>
-              <IconWarning />
-              <div>{children}</div>
-            </Content>
-          </main>
-          <footer>
-            <Button kind="default" onClick={onHide}>
-              {cancel}
-            </Button>
-            <Button onClick={onSubmit}>
-              {isSubmitting ? (
-                <Spin>
-                  <IconLoading height={14} width={14} />
-                </Spin>
-              ) : (
-                ok
-              )}
-            </Button>
-          </footer>
-        </ResponsivePanel>
-      </Dialog>
-    );
-  }
-}
-
-const enhance = compose(
-  pure,
-  withSubmittingState,
-);
-const ConfirmDialog: React.ComponentType<Props> = enhance(PureConfirmDialog);
 ConfirmDialog.displayName = 'ConfirmDialog';
+ConfirmDialog.propTypes = {
+  children: PropTypes.node.isRequired,
+  show: PropTypes.bool.isRequired,
+  onHide: PropTypes.func.isRequired, // (e: any) => void,
+  onSubmit: PropTypes.func.isRequired, // ({ setSubmitting: SetSubmitting }) => Promise<void> | void
+  title: PropTypes.string.isRequired,
+  ok: PropTypes.string.isRequired,
+  cancel: PropTypes.string.isRequired,
+};
 
 export default ConfirmDialog;

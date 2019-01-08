@@ -1,13 +1,17 @@
 // @flow
 import PropTypes from 'prop-types';
-import styled, { type ReactComponentFunctional } from 'styled-components';
+import styled from 'styled-components';
 import { darken1, darken2 } from '../utils/darken';
-import { type ThemeProps, type Color } from '../utils/type.flow';
+import {
+  type ThemeProps,
+  type Color,
+  type ComponentType,
+} from '../utils/type.flow';
 
 export type Props = { color?: Color };
 type InnerProps = { color: Color } & ThemeProps;
 
-const A: ReactComponentFunctional<Props> = styled.a`
+const A: ComponentType<Props> = styled.a`
   color: ${({ theme, color }: InnerProps) => theme.color[color]};
   transition: color cubic-bezier(0.47, 0, 0.75, 0.72) 0.3s;
   cursor: pointer;

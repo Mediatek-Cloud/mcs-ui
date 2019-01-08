@@ -1,9 +1,13 @@
 // @flow
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import styled, { css, type ReactComponentFunctional } from 'styled-components';
+import styled, { css } from 'styled-components';
 import BaseComponent from './BaseComponent';
-import { type ThemeProps, type Color } from '../utils/type.flow';
+import {
+  type ThemeProps,
+  type Color,
+  type ComponentType,
+} from '../utils/type.flow';
 
 export type Props = { color?: Color, level?: number, children: React.Node };
 type InnerProps = {
@@ -12,7 +16,7 @@ type InnerProps = {
   children: React.Node,
 } & ThemeProps;
 
-const Heading: ReactComponentFunctional<Props> = styled(BaseComponent)`
+const Heading: ComponentType<Props> = styled(BaseComponent)`
   margin: 0;
   font-weight: normal;
   font-size: ${({ theme, level }: InnerProps) => theme.fontSize[`h${level}`]};

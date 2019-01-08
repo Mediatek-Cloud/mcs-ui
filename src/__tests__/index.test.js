@@ -9,7 +9,7 @@ const IGNORES = [
   'utils',
   '.DS_Store',
   'Icons',
-  'HoCs',
+  'hooks',
   'Logo',
   'svg',
   '__snapshots__',
@@ -51,8 +51,8 @@ it('should export es module of Icons folder', () => {
   });
 });
 
-it('should export es module of HoCs folder', () => {
-  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/HoCs')).map(name =>
+it('should export es module of hooks folder', () => {
+  const dirnames = R.without(IGNORES)(fs.readdirSync('./src/hooks')).map(name =>
     name.replace('.js', ''),
   );
   dirnames.forEach(name => {
@@ -72,9 +72,12 @@ it('should export es module of Logo folder', () => {
 });
 
 it('should export es module of utils folder', () => {
-  const dirnames = R.without([...IGNORES, 'theme.example.js', 'type.flow.js'])(
-    fs.readdirSync('./src/utils'),
-  ).map(name => name.replace('.js', ''));
+  const dirnames = R.without([
+    ...IGNORES,
+    'theme.example.js',
+    'type.flow.js',
+    'react.js',
+  ])(fs.readdirSync('./src/utils')).map(name => name.replace('.js', ''));
   dirnames.forEach(name => {
     expect(Modules).toHaveProperty(name);
   });
