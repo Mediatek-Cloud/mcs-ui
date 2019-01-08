@@ -5,10 +5,10 @@ import { type AddToast } from '../utils/type.flow';
 
 export type Context = { addToast: AddToast };
 
-const log = debug('mcs-ui:ToastsContext');
+const log = debug('mcs-ui:ToastContext');
 
-const ToastsContext = React.createContext<Context>({
+const ToastContext = React.createContext<Context>({
   addToast: ({ kind, children }) => log(JSON.stringify({ kind, children })),
 });
 
-export default ToastsContext;
+export default ToastContext;
