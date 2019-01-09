@@ -1,5 +1,4 @@
 [ignore]
-.*/node_modules/polished/.*
 
 <PROJECT_ROOT>/es/.*
 <PROJECT_ROOT>/lib/.*
