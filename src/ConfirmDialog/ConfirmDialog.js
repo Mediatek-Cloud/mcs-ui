@@ -32,14 +32,11 @@ const ConfirmDialog = ({
   onSubmit,
 }: Props) => {
   const { isSubmitting, setSubmitting } = useSubmittingState();
-  const onSubmitMemo = React.useCallback(
-    (e: SyntheticEvent<any>) => {
-      if (e && e.preventDefault) e.preventDefault();
-      if (isSubmitting) return;
-      onSubmit({ setSubmitting });
-    },
-    [isSubmitting, setSubmitting, onSubmit],
-  );
+  const onSubmitMemo = React.useCallback((e: SyntheticEvent<any>) => {
+    if (e && e.preventDefault) e.preventDefault();
+    if (isSubmitting) return;
+    onSubmit({ setSubmitting });
+  }, [isSubmitting, setSubmitting, onSubmit]);
 
   return (
     <Dialog show={show} onOutsideClick={onHide}>
