@@ -65,7 +65,7 @@
     "jest-styled-components": "7.0.0-2",
     "lint-staged": "8.1.0",
     "polished": "2.3.3",
-    "prettier": "1.16.0",
+    "prettier": "1.16.1",
     "prismjs": "1.15.0",
     "react": "16.8.0-alpha.1",
     "react-dom": "16.8.0-alpha.1",
