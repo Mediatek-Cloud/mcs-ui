@@ -39,9 +39,12 @@ const FileDropzone = ({
   height,
 }: Props) => {
   const { isSubmitting, setSubmitting } = useSubmittingState();
-  const onFileChangeMemo = React.useCallback(([file]: Array<File>) => {
-    onFileChange(file, setSubmitting);
-  }, [onFileChange, setSubmitting]);
+  const onFileChangeMemo = React.useCallback(
+    ([file]: Array<File>) => {
+      onFileChange(file, setSubmitting);
+    },
+    [onFileChange, setSubmitting],
+  );
 
   return (
     <React.Fragment>
