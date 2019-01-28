@@ -63,7 +63,7 @@
     "jest": "24.0.0",
     "jest-specific-snapshot": "1.0.0",
     "jest-styled-components": "7.0.0-2",
-    "lint-staged": "8.1.0",
+    "lint-staged": "8.1.1",
     "polished": "2.3.3",
     "prettier": "1.16.1",
     "prismjs": "1.15.0",
