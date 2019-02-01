@@ -1,24 +1,16 @@
 // @flow
 import * as React from 'react';
-import styled from 'styled-components';
 import D from 'date-fns';
 import DateDisplay from './DateDisplay';
 import {
-  StyledKeyboardArrowLeft,
-  StyledKeyboardArrowRight,
+  CalendarWrapper,
+  HeaderLayout,
+  IconArrowLeftWrapper,
+  IconArrowRightWrapper,
+  WeekdaysWrapper,
 } from './styled-components';
+import { getWeekdays } from './utils';
 import { useCursorDate } from './hooks';
-
-const CalendarWrapper = styled.div`
-  width: 300px;
-  font-family: sans-serif;
-`;
-
-const FlexLayout = styled.div`
-  display: flex;
-  justify-content: space-between;
-  padding: 0 10px;
-`;
 
 const Calendar = ({
   defaultValue = null /*: string | number | Date  */,
@@ -37,14 +29,14 @@ const Calendar = ({
 
   return (
     <CalendarWrapper>
-      <FlexLayout>
+      <HeaderLayout>
         <div
           onClick={onSubCursorDate}
           onKeyPress={onSubCursorDate}
           role="button"
           tabIndex="-1"
         >
-          <StyledKeyboardArrowLeft />
+          <IconArrowLeftWrapper />
         </div>
         <div>{D.format(cursorDate, 'LLL yyyy')}</div>
         <div
@@ -53,9 +45,16 @@ const Calendar = ({
           role="button"
           tabIndex="0"
         >
-          <StyledKeyboardArrowRight />
+          <IconArrowRightWrapper />
         </div>
-      </FlexLayout>
+      </HeaderLayout>
+      <WeekdaysWrapper>
+        {getWeekdays({ format: 'EEE' }).map((weekDay, i) => (
+          <div key={i}>
+            <strong>{weekDay}</strong>
+          </div>
+        ))}
+      </WeekdaysWrapper>
       <DateDisplay
         onSelect={onSelect}
         cursorDate={cursorDate}

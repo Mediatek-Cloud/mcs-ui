@@ -17,3 +17,5 @@ export const useCursorDate = ({ date }) => {
     onAddCursorDate,
   };
 };
+
+export default useCursorDate;
