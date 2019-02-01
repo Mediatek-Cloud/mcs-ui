@@ -2,9 +2,11 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import D from 'date-fns';
-import NextButton from './NextButton';
-import PrevButton from './PrevButton';
 import DateDisplay from './DateDisplay';
+import {
+  StyledKeyboardArrowLeft,
+  StyledKeyboardArrowRight,
+} from './styled-components';
 import { useCursorDate } from './hooks';
 
 const CalendarWrapper = styled.div`
@@ -36,9 +38,23 @@ const Calendar = ({
   return (
     <CalendarWrapper>
       <FlexLayout>
-        <PrevButton onClick={onSubCursorDate} />
+        <div
+          onClick={onSubCursorDate}
+          onKeyPress={onSubCursorDate}
+          role="button"
+          tabIndex="-1"
+        >
+          <StyledKeyboardArrowLeft />
+        </div>
         <div>{D.format(cursorDate, 'LLL yyyy')}</div>
-        <NextButton onClick={onAddCursorDate} />
+        <div
+          onClick={onAddCursorDate}
+          onKeyPress={onAddCursorDate}
+          role="button"
+          tabIndex="0"
+        >
+          <StyledKeyboardArrowRight />
+        </div>
       </FlexLayout>
       <DateDisplay
         onSelect={onSelect}

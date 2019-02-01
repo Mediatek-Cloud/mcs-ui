@@ -2,8 +2,8 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import D from 'date-fns';
-import Weekdays from './Weekdays';
-import { getDaysInMonth } from './utils';
+import { WeekdaysWrapper } from './styled-components';
+import { getWeekdays, getDaysInMonth } from './utils';
 
 const FlexLayout = styled.div`
   display: flex;
@@ -41,7 +41,13 @@ const DateDisplay = ({
 
   return (
     <div>
-      <Weekdays />
+      <WeekdaysWrapper>
+        {getWeekdays({ format: 'EEE' }).map((weekDay, i) => (
+          <div key={i}>
+            <strong>{weekDay}</strong>
+          </div>
+        ))}
+      </WeekdaysWrapper>
       <FlexLayout>
         {getDaysInMonth(cursorDate).map((d, i) => (
           <DateItem
