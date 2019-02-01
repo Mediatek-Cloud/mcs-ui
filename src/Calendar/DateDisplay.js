@@ -15,9 +15,9 @@ const DateDisplay = ({
 
   return (
     <DateLayout>
-      {getDaysInMonth(cursorDate).map((d, i) => (
+      {getDaysInMonth(cursorDate).map(d => (
         <DateItem
-          key={i}
+          key={d.getTime()}
           isSelected={
             D.format(d, 'yyyyMMdd') === D.format(selectedDate, 'yyyyMMdd')
           }

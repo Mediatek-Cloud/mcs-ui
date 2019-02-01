@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import * as R from 'ramda';
 import D from 'date-fns';
 import DateDisplay from './DateDisplay';
 import {
@@ -22,9 +23,9 @@ const Calendar = ({
     setCursorDate,
     onSubCursorDate,
     onAddCursorDate,
-  } = useCursorDate({ date: defaultValue ? defaultValue : today });
+  } = useCursorDate({ date: R.defaultTo(today, defaultValue) });
   const [selectedDate, setSelectedDate] = React.useState(
-    defaultValue ? defaultValue : today,
+    R.defaultTo(today, defaultValue),
   );
 
   return (
@@ -49,8 +50,8 @@ const Calendar = ({
         </div>
       </HeaderLayout>
       <WeekdaysWrapper>
-        {getWeekdays({ format: 'EEE' }).map((weekDay, i) => (
-          <div key={i}>
+        {getWeekdays({ format: 'EEE' }).map(weekDay => (
+          <div key={weekDay}>
             <strong>{weekDay}</strong>
           </div>
         ))}

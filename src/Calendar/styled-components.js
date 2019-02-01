@@ -1,3 +1,4 @@
+/* eslint no-nested-ternary: 0 */
 // @flow
 import * as React from 'react';
 import styled from 'styled-components';
