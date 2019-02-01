@@ -3,11 +3,8 @@
 import * as React from 'react';
 import styled from 'styled-components';
 
-import { IconArrowLeft } from '../Icons';
-
 export const CalendarWrapper = styled.div`
-  width: 300px;
-  font-family: sans-serif;
+  width: 260px;
 `;
 
 export const HeaderLayout: React.ComponentType<{||}> = styled.div`
@@ -16,16 +13,13 @@ export const HeaderLayout: React.ComponentType<{||}> = styled.div`
   padding: 0 10px;
 `;
 
-export const IconArrowLeftWrapper = styled(IconArrowLeft)`
-  width: 20px;
-  transform: scale(1.5);
+export const PaginationButton = styled.div`
+  width: 30px;
   cursor: pointer;
-`;
-
-export const IconArrowRightWrapper = styled(IconArrowLeft)`
-  width: 20px;
-  transform: scaleX(-1) scale(1.5);
-  cursor: pointer;
+  transform: ${({ isReversed }) => (isReversed ? 'scaleX(-1)' : 'none')};
+  & > svg {
+    transform: translateY(2px) scale(1.5);
+  }
 `;
 
 export const WeekdaysWrapper = styled.div`
@@ -33,7 +27,7 @@ export const WeekdaysWrapper = styled.div`
   & > div {
     width: calc(100% / 7);
     text-align: center;
-    margin: 10px 0;
+    margin: 5px 0;
   }
 `;
 
@@ -41,26 +35,40 @@ export const DateLayout = styled.div`
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  & > div {
-    // TODO refactor
-    flex-basis: calc(100% / 7);
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
-    vertical-align: middle;
-  }
+`;
+
+export const DateItemContainer = styled.div`
+  flex-basis: calc(100% / 7);
 `;
 
 export const DateItem = styled.div`
-  // TODO: add hover style
-  background-color: ${({ isSelected, isToday }) =>
-    // TODO add theme
-    isSelected ? '#00A1DE' : isToday ? '#D1D2D3' : 'inherit'};
-  color: ${({ isSelected, isOffRange }) =>
-    isSelected ? '#fff' : isOffRange ? '#eee' : 'inherit'};
-  border-radius: ${({ isSelected, isToday }) =>
-    isSelected || isToday ? '50%' : 'none'};
+  height: ${({ theme }) => theme.height.normal};
+  width: ${({ theme }) => theme.height.normal};
+  line-height: ${({ theme }) => theme.height.normal};
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+
+  background-color: ${({ isSelected, isOffRange, isToday, theme }) =>
+    isOffRange
+      ? 'inherit'
+      : isSelected
+      ? theme.color.primary
+      : isToday
+      ? theme.color.grayBase
+      : 'inherit'};
+  color: ${({ isSelected, isOffRange, theme }) =>
+    isSelected
+      ? theme.color.white
+      : isOffRange
+      ? theme.color.grayBase
+      : 'inherit'};
+  &:hover {
+    background-color: ${({ isOffRange, theme }) =>
+      isOffRange ? 'inherit' : theme.color.primary};
+    color: ${({ isOffRange, theme }) =>
+      isOffRange ? theme.color.grayBase : theme.color.white};
+  }
+  border-radius: 50%;
   cursor: ${({ isOffRange }) => (isOffRange ? 'inherit' : 'pointer')};
-  transform: scale(0.7);
-  font-size: 1.4em;
 `;

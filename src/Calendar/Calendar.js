@@ -6,12 +6,12 @@ import DateDisplay from './DateDisplay';
 import {
   CalendarWrapper,
   HeaderLayout,
-  IconArrowLeftWrapper,
-  IconArrowRightWrapper,
+  PaginationButton,
   WeekdaysWrapper,
 } from './styled-components';
 import { getWeekdays } from './utils';
 import { useCursorDate } from './hooks';
+import { IconArrowLeft } from '../Icons';
 
 const Calendar = ({
   defaultValue = null /*: string | number | Date  */,
@@ -31,23 +31,13 @@ const Calendar = ({
   return (
     <CalendarWrapper>
       <HeaderLayout>
-        <div
-          onClick={onSubCursorDate}
-          onKeyPress={onSubCursorDate}
-          role="button"
-          tabIndex="-1"
-        >
-          <IconArrowLeftWrapper />
-        </div>
+        <PaginationButton onClick={onSubCursorDate}>
+          <IconArrowLeft />
+        </PaginationButton>
         <div>{D.format(cursorDate, 'LLL yyyy')}</div>
-        <div
-          onClick={onAddCursorDate}
-          onKeyPress={onAddCursorDate}
-          role="button"
-          tabIndex="0"
-        >
-          <IconArrowRightWrapper />
-        </div>
+        <PaginationButton isReversed onClick={onAddCursorDate}>
+          <IconArrowLeft />
+        </PaginationButton>
       </HeaderLayout>
       <WeekdaysWrapper>
         {getWeekdays({ format: 'EEE' }).map(weekDay => (
