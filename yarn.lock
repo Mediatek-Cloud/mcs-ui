@@ -9410,10 +9410,10 @@ react-split-pane@^0.1.84:
     react-lifecycles-compat "^3.0.4"
     react-style-proptype "^3.0.0"
 
-react-spring@^7.2.9:
-  version "7.2.9"
-  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-7.2.9.tgz#57b2b01e3bc4a34b48c18b34bca01a87e230b4a7"
-  integrity sha512-DKfhd9vxNUNaAnQJtHCeYwaYCzCuZD/Zd+dj+srMcr3PFwLElw3vUE38tmmV3cNg9zYzbcugjTFOnBZLeANziw==
+react-spring@^8.0.0:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-8.0.1.tgz#9896d6037bc99c24bed0fecf5ac8d0992724b7dd"
+  integrity sha512-IekJasCvYOOHk+YCtIZEqmk5C57YugzA+qWP6mXAZxEWYQ/jt3TzmTPXhtpzjPgbE+RzSVJxGEAFiVptw9vqxQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
 
