@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import PropTypes from 'prop-types';
 import * as R from 'ramda';
 import D from 'date-fns';
 import DateDisplay from './DateDisplay';
@@ -12,11 +13,9 @@ import {
 import { getWeekdays } from './utils';
 import { useCursorDate } from './hooks';
 import { IconArrowLeft } from '../Icons';
+import emptyFunction from '../utils/emptyFunction';
 
-const Calendar = ({
-  defaultValue = null /*: string | number | Date  */,
-  onChange /*: Date => any  */,
-}) => {
+const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
   const today = D.startOfDay(new Date());
   const {
     cursorDate,
@@ -40,7 +39,7 @@ const Calendar = ({
         </PaginationButton>
       </HeaderLayout>
       <WeekdaysWrapper>
-        {getWeekdays({ format: 'EEE' }).map(weekDay => (
+        {getWeekdays({ format: weekdayFormat, weekStartsOn }).map(weekDay => (
           <div key={weekDay}>
             <strong>{weekDay}</strong>
           </div>
@@ -52,9 +51,23 @@ const Calendar = ({
         setCursorDate={setCursorDate}
         selectedDate={selectedDate}
         setSelectedDate={setSelectedDate}
+        weekStartsOn={weekStartsOn}
       />
     </CalendarWrapper>
   );
+};
+
+Calendar.defaultProps = {
+  defaultValue: null,
+  weekStartsOn: 0,
+  weekdayFormat: 'EEE',
+  onChange: emptyFunction,
+};
+Calendar.propTypes = {
+  defaultValue: PropTypes.instanceOf(Date),
+  weekStartsOn: PropTypes.number,
+  weekdayFormat: PropTypes.string,
+  onChange: PropTypes.func,
 };
 
 export default Calendar;

@@ -25,4 +25,31 @@ storiesOf('Calendar', module)
         inline: true,
       },
     },
+  )
+  .add(
+    'With weekday format',
+    () => (
+      <Calendar
+        defaultValue={new Date('2017-06-26')}
+        weekdayFormat="EEEEEE"
+        onChange={action('onChange')}
+      />
+    ),
+    {
+      info: {
+        text:
+          'See https://date-fns.org/v2.0.0-alpha.27/docs/format for format patterns',
+        inline: true,
+      },
+    },
+  )
+  .add(
+    'Starts from Monday',
+    () => <Calendar weekStartsOn={1} onChange={action('onChange')} />,
+    {
+      info: {
+        text: '',
+        inline: true,
+      },
+    },
   );

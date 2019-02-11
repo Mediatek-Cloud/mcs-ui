@@ -12,12 +12,14 @@ export const getWeekdays = ({
   }).map(d => D.format(d, format));
 };
 
-export const getDaysInMonth /* d: Date => [Date] */ = date =>
-  Array(42)
+export const getDaysInMonth /* ({date: Date, weekStartsOn: number}) => [Date] */ = ({
+  date,
+  weekStartsOn = 0,
+}) => {
+  const start = D.startOfWeek(D.startOfMonth(date), { weekStartsOn });
+  return Array(42)
     .fill()
-    .map((_, i) => D.addDays(D.startOfWeek(D.startOfMonth(date)), i));
-// TODO introduce weekStartsOn
-// NOTE: to exclude final week in special case
-// .filter((d, i) => i < 35 || d.startOf('week').month === date.month);
+    .map((_, i) => D.addDays(start, i));
+};
 
 export const roundTen /* number => number */ = x => Math.floor(x / 10) * 10;

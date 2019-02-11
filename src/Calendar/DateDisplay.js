@@ -10,11 +10,12 @@ const DateDisplay = ({
   setCursorDate,
   selectedDate,
   setSelectedDate,
+  weekStartsOn,
 }) => {
   // TODO onClick callback with useCallback
   return (
     <DateLayout>
-      {getDaysInMonth(cursorDate).map(d => (
+      {getDaysInMonth({ date: cursorDate, weekStartsOn }).map(d => (
         <DateItemContainer>
           <DateItem
             key={d.getTime()}
