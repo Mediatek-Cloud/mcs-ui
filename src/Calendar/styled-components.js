@@ -31,17 +31,17 @@ export const WeekdaysWrapper = styled.div`
   }
 `;
 
-export const DateLayout = styled.div`
+export const DaysLayout = styled.div`
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 `;
 
-export const DateItemContainer = styled.div`
+export const DayItemContainer = styled.div`
   flex-basis: calc(100% / 7);
 `;
 
-export const DateItem = styled.div`
+export const DayItem = styled.div`
   height: ${({ theme }) => theme.height.normal};
   width: ${({ theme }) => theme.height.normal};
   line-height: ${({ theme }) => theme.height.normal};

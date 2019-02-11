@@ -1,7 +1,7 @@
 // @flow
 import * as React from 'react';
 import D from 'date-fns';
-import { DateLayout, DateItemContainer, DateItem } from './styled-components';
+import { DaysLayout, DayItemContainer, DayItem } from './styled-components';
 import { getDaysInMonth } from './utils';
 
 const Day = ({ date, onChange, cursorDate, selectedDate, setSelectedDate }) => {
@@ -12,8 +12,8 @@ const Day = ({ date, onChange, cursorDate, selectedDate, setSelectedDate }) => {
   }, [date, cursorDate, setSelectedDate, onChange]);
 
   return (
-    <DateItemContainer>
-      <DateItem
+    <DayItemContainer>
+      <DayItem
         key={date.getTime()}
         isSelected={D.isSameDay(date, selectedDate)}
         isOffRange={!D.isSameMonth(date, cursorDate)}
@@ -21,19 +21,19 @@ const Day = ({ date, onChange, cursorDate, selectedDate, setSelectedDate }) => {
         onClick={onClick}
       >
         {D.format(date, 'd')}
-      </DateItem>
-    </DateItemContainer>
+      </DayItem>
+    </DayItemContainer>
   );
 };
 
-const DateDisplay = ({
+const DaysDisplay = ({
   onChange,
   cursorDate,
   selectedDate,
   setSelectedDate,
   weekStartsOn,
 }) => (
-  <DateLayout>
+  <DaysLayout>
     {getDaysInMonth({ date: cursorDate, weekStartsOn }).map(date => (
       <Day
         date={date}
@@ -43,6 +43,6 @@ const DateDisplay = ({
         setSelectedDate={setSelectedDate}
       />
     ))}
-  </DateLayout>
+  </DaysLayout>
 );
-export default DateDisplay;
+export default DaysDisplay;

@@ -44,7 +44,7 @@ storiesOf('Calendar', module)
     },
   )
   .add(
-    'Starts from Monday',
+    'Starting from Monday',
     () => <Calendar weekStartsOn={1} onChange={action('onChange')} />,
     {
       info: {

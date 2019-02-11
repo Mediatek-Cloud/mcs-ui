@@ -3,7 +3,7 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import * as R from 'ramda';
 import D from 'date-fns';
-import DateDisplay from './DateDisplay';
+import DaysDisplay from './DaysDisplay';
 import {
   CalendarWrapper,
   HeaderLayout,
@@ -45,7 +45,7 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
           </div>
         ))}
       </WeekdaysWrapper>
-      <DateDisplay
+      <DaysDisplay
         onChange={onChange}
         cursorDate={cursorDate}
         setCursorDate={setCursorDate}
