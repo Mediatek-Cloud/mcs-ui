@@ -15,7 +15,7 @@ export const getWeekdays = ({
 export const getDaysInMonth /* d: Date => [Date] */ = date =>
   Array(42)
     .fill()
-    .map((_, i) => D.addDays(D.startOfWeek(D.startOfMonth(date)), i - 1));
+    .map((_, i) => D.addDays(D.startOfWeek(D.startOfMonth(date)), i));
 // TODO introduce weekStartsOn
 // NOTE: to exclude final week in special case
 // .filter((d, i) => i < 35 || d.startOf('week').month === date.month);
