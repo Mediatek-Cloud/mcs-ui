@@ -17,3 +17,8 @@ jest.mock('rc-tween-one', () => 'mock-TweenOne');
 jest.mock('react-topbar-progress-indicator');
 jest.mock('echarts-for-react/lib/core', () => 'mock-ReactEchartsCore');
 jest.mock('echarts');
+
+// Note: react-spring startTime problem
+jest.mock('react-spring', () => ({
+  useTransition: () => [],
+}));
