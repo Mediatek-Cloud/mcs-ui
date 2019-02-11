@@ -5,7 +5,7 @@ import { action } from '@storybook/addon-actions';
 import Calendar from '.';
 
 storiesOf('Calendar', module)
-  .add('API', () => <Calendar onSelect={action('onSelect')} />, {
+  .add('API', () => <Calendar onChange={action('onChange')} />, {
     info: {
       text: '',
       inline: true,
@@ -16,7 +16,7 @@ storiesOf('Calendar', module)
     () => (
       <Calendar
         defaultValue={new Date('2019-02-15')}
-        onSelect={action('onSelect')}
+        onChange={action('onChange')}
       />
     ),
     {

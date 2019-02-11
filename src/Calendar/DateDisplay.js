@@ -5,7 +5,7 @@ import { DateLayout, DateItemContainer, DateItem } from './styled-components';
 import { getDaysInMonth } from './utils';
 
 const DateDisplay = ({
-  onSelect,
+  onChange,
   cursorDate,
   setCursorDate,
   selectedDate,
@@ -18,18 +18,15 @@ const DateDisplay = ({
         <DateItemContainer>
           <DateItem
             key={d.getTime()}
-            isSelected={
-              D.format(d, 'yyyyMMdd') === D.format(selectedDate, 'yyyyMMdd')
-            }
-            isOffRange={D.getMonth(d) !== D.getMonth(cursorDate)}
-            isToday={
-              D.format(d, 'yyyyMMdd') === D.format(new Date(), 'yyyyMMdd')
-            }
+            isSelected={D.isSameDay(d, selectedDate)}
+            isOffRange={!D.isSameMonth(d, cursorDate)}
+            isToday={D.isSameDay(d, new Date())}
             onClick={() => {
-              // off range
-              if (D.getMonth(d) !== D.getMonth(cursorDate)) return;
+              if (!D.isSameMonth(d, cursorDate)) return;
               setSelectedDate(d);
-              if (onSelect) onSelect(d);
+              if (onChange && !D.isSameDay(d, selectedDate)) {
+                onChange(d);
+              }
             }}
           >
             {D.format(d, 'd')}

@@ -15,7 +15,7 @@ import { IconArrowLeft } from '../Icons';
 
 const Calendar = ({
   defaultValue = null /*: string | number | Date  */,
-  onSelect /*: Date => any  */,
+  onChange /*: Date => any  */,
 }) => {
   const today = D.startOfDay(new Date());
   const {
@@ -47,7 +47,7 @@ const Calendar = ({
         ))}
       </WeekdaysWrapper>
       <DateDisplay
-        onSelect={onSelect}
+        onChange={onChange}
         cursorDate={cursorDate}
         setCursorDate={setCursorDate}
         selectedDate={selectedDate}
