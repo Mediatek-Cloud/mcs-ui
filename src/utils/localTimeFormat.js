@@ -1,5 +1,4 @@
 // @flow
-// $FlowFixMe
 import formatter from 'date-fns/format/index';
 
 // Remind: date-fns always return local time

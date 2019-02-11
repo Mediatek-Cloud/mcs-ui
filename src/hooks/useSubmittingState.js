@@ -1,5 +1,5 @@
 // @flow
-import * as React from '../utils/react';
+import * as React from 'react';
 import { type SetSubmitting } from '../utils/type.flow';
 
 /**

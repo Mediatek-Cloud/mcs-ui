@@ -1,7 +1,7 @@
 // @flow
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import { Transition } from 'react-spring';
+import { useTransition, animated } from 'react-spring';
 import MLToast from '../Toast';
 import { Fixed, Container } from './styled-components';
 import { type Toast } from '../utils/type.flow';
@@ -10,26 +10,25 @@ export type Props = {
   toasts: Array<Toast>,
 };
 
-const ToastContainer = ({ toasts }: Props) => (
-  <Fixed>
-    <Container>
-      <Transition
-        items={toasts}
-        keys={({ id }: Toast) => id}
-        from={{ opacity: 0, height: 0 }}
-        enter={{ opacity: 1, height: 'auto' }}
-        leave={{ opacity: 0, height: 0 }}
-      >
-        {({ kind, id, children }: Toast) => (styles: Object) => (
-          <div key={id} style={styles}>
-            <MLToast kind={kind}>{children}</MLToast>
-          </div>
-        )}
-      </Transition>
-    </Container>
-  </Fixed>
-);
+const ToastContainer = ({ toasts }: Props) => {
+  const trans = useTransition(toasts, toast => toast.id, {
+    from: { opacity: 0, transform: 'translate3d(0,40px,0)' },
+    enter: { opacity: 1, transform: 'translate3d(0,0px,0)' },
+    leave: { opacity: 0, transform: 'translate3d(0,40px,0)' },
+  });
 
+  return (
+    <Fixed>
+      <Container>
+        {trans.map(({ item: { kind, children }, key, props }) => (
+          <animated.div key={key} style={props}>
+            <MLToast kind={kind}>{children}</MLToast>
+          </animated.div>
+        ))}
+      </Container>
+    </Fixed>
+  );
+};
 ToastContainer.displayName = 'ToastContainer';
 ToastContainer.propTypes = {
   toasts: PropTypes.arrayOf(

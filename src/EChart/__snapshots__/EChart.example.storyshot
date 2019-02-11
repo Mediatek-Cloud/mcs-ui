@@ -119,7 +119,7 @@ exports[`Storyshots EChart API 1`] = `
         "connect": [Function],
         "dataTool": Object {},
         "dependencies": Object {
-          "zrender": "4.0.5",
+          "zrender": "4.0.6",
         },
         "disConnect": [Function],
         "disconnect": [Function],
@@ -295,13 +295,13 @@ exports[`Storyshots EChart API 1`] = `
           "set": [Function],
           "sub": [Function],
         },
-        "version": "4.2.0",
+        "version": "4.2.1",
         "zrender": Object {
           "dispose": [Function],
           "getInstance": [Function],
           "init": [Function],
           "registerPainter": [Function],
-          "version": "4.0.5",
+          "version": "4.0.6",
         },
       }
     }

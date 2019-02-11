@@ -41,7 +41,6 @@ storiesOf('Icons', module).add(
           return (
             <IconWrapper key={name}>
               <pre>{name}</pre>
-              {/* $FlowFixMe */}
               <Component />
             </IconWrapper>
           );

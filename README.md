@@ -33,9 +33,9 @@ import { theme, Button } from 'mcs-ui';
 
 ## Development
 
-- node 11.7.0
+- node 11.9.0
 - yarn 1.13.0
-- react = 16.8.0-alpha.0
+- react = 16.8.0
 
 ```bash
 $ yarn install --pure-lockfile
