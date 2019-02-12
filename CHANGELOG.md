@@ -1,4 +1,29 @@
-## Unreleased (2019-01-08)
+## Unreleased (2019-02-12)
+
+## <small>2.0.1 (2019-02-12)</small>
+
+- 2.0.1 ([4f9c92a](https://github.com/Mediatek-Cloud/mcs-ui/commit/4f9c92a))
+- chore: use yarn 1.13.0 & react = 16.8.0-alpha.0 (#139) ([9e76a4c](https://github.com/Mediatek-Cloud/mcs-ui/commit/9e76a4c)), closes [#139](https://github.com/Mediatek-Cloud/mcs-ui/issues/139) [#136](https://github.com/Mediatek-Cloud/mcs-ui/issues/136)
+- chore(deps): update dependency enzyme-adapter-react-16 to v1.8.0 (#151) ([ec38d5b](https://github.com/Mediatek-Cloud/mcs-ui/commit/ec38d5b)), closes [#151](https://github.com/Mediatek-Cloud/mcs-ui/issues/151)
+- chore(deps): update dependency eslint to v5.12.1 (#146) ([6a77ec8](https://github.com/Mediatek-Cloud/mcs-ui/commit/6a77ec8)), closes [#146](https://github.com/Mediatek-Cloud/mcs-ui/issues/146)
+- chore(deps): update dependency flow-bin to v0.90.0 (#141) ([ac30adf](https://github.com/Mediatek-Cloud/mcs-ui/commit/ac30adf)), closes [#141](https://github.com/Mediatek-Cloud/mcs-ui/issues/141)
+- chore(deps): update dependency flow-bin to v0.91.0 (#144) ([245cce8](https://github.com/Mediatek-Cloud/mcs-ui/commit/245cce8)), closes [#144](https://github.com/Mediatek-Cloud/mcs-ui/issues/144)
+- chore(deps): update dependency jest to v24.0.0 (#153) ([cb65e59](https://github.com/Mediatek-Cloud/mcs-ui/commit/cb65e59)), closes [#153](https://github.com/Mediatek-Cloud/mcs-ui/issues/153)
+- chore(deps): update dependency jest to v24.0.0-alpha.10 (#138) ([80fe991](https://github.com/Mediatek-Cloud/mcs-ui/commit/80fe991)), closes [#138](https://github.com/Mediatek-Cloud/mcs-ui/issues/138)
+- chore(deps): update dependency jest to v24.0.0-alpha.11 (#140) ([104ae1a](https://github.com/Mediatek-Cloud/mcs-ui/commit/104ae1a)), closes [#140](https://github.com/Mediatek-Cloud/mcs-ui/issues/140)
+- chore(deps): update dependency jest to v24.0.0-alpha.12 (#142) ([c2a13df](https://github.com/Mediatek-Cloud/mcs-ui/commit/c2a13df)), closes [#142](https://github.com/Mediatek-Cloud/mcs-ui/issues/142)
+- chore(deps): update dependency jest to v24.0.0-alpha.13 (#149) ([a309749](https://github.com/Mediatek-Cloud/mcs-ui/commit/a309749)), closes [#149](https://github.com/Mediatek-Cloud/mcs-ui/issues/149)
+- chore(deps): update dependency jest to v24.0.0-alpha.15 (#150) ([15b6faf](https://github.com/Mediatek-Cloud/mcs-ui/commit/15b6faf)), closes [#150](https://github.com/Mediatek-Cloud/mcs-ui/issues/150)
+- chore(deps): update dependency lint-staged to v8.1.1 (#154) ([bc83176](https://github.com/Mediatek-Cloud/mcs-ui/commit/bc83176)), closes [#154](https://github.com/Mediatek-Cloud/mcs-ui/issues/154)
+- chore(deps): update dependency polished to v2.3.3 (#137) ([d5c1fbc](https://github.com/Mediatek-Cloud/mcs-ui/commit/d5c1fbc)), closes [#137](https://github.com/Mediatek-Cloud/mcs-ui/issues/137)
+- chore(deps): update dependency prettier to v1.16.0 (#147) ([15b49c6](https://github.com/Mediatek-Cloud/mcs-ui/commit/15b49c6)), closes [#147](https://github.com/Mediatek-Cloud/mcs-ui/issues/147)
+- chore(deps): update dependency prettier to v1.16.1 (#148) ([85e8934](https://github.com/Mediatek-Cloud/mcs-ui/commit/85e8934)), closes [#148](https://github.com/Mediatek-Cloud/mcs-ui/issues/148)
+- chore(deps): update dependency prettier to v1.16.2 (#155) ([fef6ae5](https://github.com/Mediatek-Cloud/mcs-ui/commit/fef6ae5)), closes [#155](https://github.com/Mediatek-Cloud/mcs-ui/issues/155)
+- chore(deps): update dependency react to v16.8.1 (#163) ([6ccfd51](https://github.com/Mediatek-Cloud/mcs-ui/commit/6ccfd51)), closes [#163](https://github.com/Mediatek-Cloud/mcs-ui/issues/163)
+- chore(deps): update react monorepo to v16.8.0-alpha.1 (#143) ([d627a7d](https://github.com/Mediatek-Cloud/mcs-ui/commit/d627a7d)), closes [#143](https://github.com/Mediatek-Cloud/mcs-ui/issues/143)
+- feat(react): upgrade react with hooks (#166) ([133858d](https://github.com/Mediatek-Cloud/mcs-ui/commit/133858d)), closes [#166](https://github.com/Mediatek-Cloud/mcs-ui/issues/166)
+- fox(ToastContext): typo ToastsContext => ToastContext ([0538f0c](https://github.com/Mediatek-Cloud/mcs-ui/commit/0538f0c))
+- docs(CHANGELOG): release 2.0.0 ([3336481](https://github.com/Mediatek-Cloud/mcs-ui/commit/3336481))
 
 ## 2.0.0 (2019-01-08)
 
