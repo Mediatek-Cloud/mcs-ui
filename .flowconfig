@@ -3,9 +3,6 @@
 <PROJECT_ROOT>/es/.*
 <PROJECT_ROOT>/lib/.*
 
-; TODO: remove it
-<PROJECT_ROOT>/node_modules/polished/.*
-
 [include]
 
 [libs]
