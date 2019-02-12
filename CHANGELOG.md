@@ -1,5 +1,13 @@
 ## Unreleased (2019-02-12)
 
+## <small>2.0.2 (2019-02-12)</small>
+
+- 2.0.2 ([13ee75d](https://github.com/Mediatek-Cloud/mcs-ui/commit/13ee75d))
+- fix(flow): flowtype error in storybook page ([91b0e92](https://github.com/Mediatek-Cloud/mcs-ui/commit/91b0e92))
+- fix(flow): remove createRef type workaround ([56f0390](https://github.com/Mediatek-Cloud/mcs-ui/commit/56f0390))
+- fix(flow): upgrade polished v3 ([a72db3a](https://github.com/Mediatek-Cloud/mcs-ui/commit/a72db3a))
+- docs(CHANGELOG): release 2.0.1 ([76eff4b](https://github.com/Mediatek-Cloud/mcs-ui/commit/76eff4b))
+
 ## <small>2.0.1 (2019-02-12)</small>
 
 - 2.0.1 ([4f9c92a](https://github.com/Mediatek-Cloud/mcs-ui/commit/4f9c92a))
