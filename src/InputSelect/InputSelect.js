@@ -27,7 +27,7 @@ import {
   getMenuItemHeight,
   getMenuHeight,
 } from './utils';
-import { type Kind, type Theme, type ReactRef } from '../utils/type.flow';
+import { type Kind, type Theme } from '../utils/type.flow';
 
 export type Props = {
   value: any,
@@ -94,22 +94,21 @@ class PureInputSelect extends React.PureComponent<InnerProps, State> {
     itemValueMapper: defaultItemValueMapper,
   };
 
-  constructor(props) {
-    super(props);
+  state = { isOpen: false, filter: '', menuWidth: 0 };
 
-    this.state = { isOpen: false, filter: '', menuWidth: 0 };
-    this.input = React.createRef();
-    this.inputGroup = React.createRef();
-    this.resize = rafThrottle(() => {
-      const inputGroup = this.inputGroup.current;
-      const menuWidth =
-        inputGroup &&
-        inputGroup.getBoundingClientRect &&
-        inputGroup.getBoundingClientRect().width;
+  input = React.createRef();
 
-      this.setState(() => ({ menuWidth: parseInt(menuWidth, 10) }));
-    });
-  }
+  inputGroup = React.createRef();
+
+  resize = rafThrottle(() => {
+    const inputGroup = this.inputGroup.current;
+    const menuWidth =
+      inputGroup &&
+      inputGroup.getBoundingClientRect &&
+      inputGroup.getBoundingClientRect().width;
+
+    this.setState(() => ({ menuWidth: parseInt(menuWidth, 10) }));
+  });
 
   componentDidMount() {
     this.resize();
@@ -173,12 +172,6 @@ class PureInputSelect extends React.PureComponent<InnerProps, State> {
       </MenuItem>
     );
   };
-
-  input: ReactRef<React.ElementRef<typeof Input>>;
-
-  inputGroup: ReactRef<React.ElementRef<typeof StyledInputGroup>>;
-
-  resize: () => void;
 
   render() {
     const {

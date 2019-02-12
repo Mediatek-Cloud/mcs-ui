@@ -14,9 +14,6 @@ export type HOC<Base, InjectedProps> = (
 // Formik api
 export type SetSubmitting = (isSubmitting: boolean) => void;
 
-// ReactRef
-export type ReactRef<T> = { current: null | T };
-
 // Toast
 export type ToastKind = 'error' | 'success';
 export type Toast = {

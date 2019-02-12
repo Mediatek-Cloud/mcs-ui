@@ -6,21 +6,16 @@ import { action } from '@storybook/addon-actions';
 import InputSelect from '.';
 import Button from '../Button';
 import { StyledMenu } from './styled-components';
-import { type ReactRef } from '../utils/type.flow';
 
 class StatefulInputSelect extends React.PureComponent<{}, { value: string }> {
-  constructor(props) {
-    super(props);
-    this.state = { value: '' };
-    this.menu = React.createRef();
-  }
+  state = { value: '' };
+
+  menu = React.createRef<typeof StyledMenu>();
 
   onChange = (value: string) => {
     this.setState(() => ({ value }));
     action('WithRef')(this.menu);
   };
-
-  menu: ReactRef<React.ElementRef<typeof StyledMenu>>;
 
   render() {
     const { value } = this.state;
