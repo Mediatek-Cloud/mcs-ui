@@ -4,7 +4,6 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import * as R from 'ramda';
 import { withTheme } from 'styled-components';
-// $FlowFixMe
 import { List, AutoSizer } from 'react-virtualized';
 import { ClickOutside, Transition } from 'react-overlay-pack';
 import rafThrottle from 'raf-throttle';
@@ -283,7 +282,6 @@ class PureInputSelect extends React.PureComponent<InnerProps, State> {
   }
 }
 
-// $FlowFixMe
 const InputSelect: React.ComponentType<Props> = withTheme(PureInputSelect);
 InputSelect.displayName = 'InputSelect';
 

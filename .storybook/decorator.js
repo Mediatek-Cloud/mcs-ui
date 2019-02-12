@@ -1,6 +1,7 @@
 // @flow
 import * as React from 'react';
 import { ThemeProvider, createGlobalStyle } from 'styled-components';
+// $FlowFixMe
 import { normalize } from 'polished';
 import { theme as defaultTheme } from '../src/index';
 import { type ThemeProps } from '../src/utils/type.flow';
