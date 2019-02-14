@@ -8756,10 +8756,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-polished@3.0.0-beta.3:
-  version "3.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/polished/-/polished-3.0.0-beta.3.tgz#da346207ff23a4d31a1ee42f53f672565ca1c2b5"
-  integrity sha512-jOyeC/NwfZ/2LRdqt5Fy+RV6JZO3qmbTjsSsLMdzi2tMOOsR+22W0ZO+eLc1qOUO+4E3nalOLFMTSSmToOzHUQ==
+polished@3.0.0-beta.4:
+  version "3.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/polished/-/polished-3.0.0-beta.4.tgz#79fa2a0de7121465c6ee65b39111216e5cfda46c"
+  integrity sha512-9+q1nzZR/v4RpY+LAA6BEIMKORx6xAc6swMwcZeCGxck431V7MVWlUUWFtoCTrzMkbaIexcyRxLoTfqpXk9zKA==
   dependencies:
     "@babel/runtime" "^7.3.1"
     babel-plugin-preval "3.0.1"
