@@ -11,18 +11,28 @@ import {
   WeekdaysWrapper,
 } from './styled-components';
 import { getWeekdays } from './utils';
-import { useCursorDate } from './hooks';
+import { useFocusDate } from './hooks';
 import { IconArrowLeft } from '../Icons';
 import emptyFunction from '../utils/emptyFunction';
+import { type WeekStartsOn } from '../utils/type.flow';
 
-const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
+export type Props = {
+  defaultValue?: Date,
+  weekStartsOn?: WeekStartsOn,
+  weekdayFormat?: string,
+  onChange?: Date => any,
+};
+
+const Calendar = ({
+  defaultValue,
+  weekStartsOn,
+  weekdayFormat,
+  onChange,
+}: Props) => {
   const today = D.startOfDay(new Date());
-  const {
-    cursorDate,
-    setCursorDate,
-    onSubMonthCursorDate,
-    onAddMonthCursorDate,
-  } = useCursorDate({ date: R.defaultTo(today, defaultValue) });
+  const { focusDate, onSubMonthFocusDate, onAddMonthFocusDate } = useFocusDate(
+    R.defaultTo(today, defaultValue),
+  );
   const [selectedDate, setSelectedDate] = React.useState(
     R.defaultTo(today, defaultValue),
   );
@@ -30,11 +40,11 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
   return (
     <CalendarWrapper>
       <HeaderLayout>
-        <PaginationButton onClick={onSubMonthCursorDate}>
+        <PaginationButton onClick={onSubMonthFocusDate}>
           <IconArrowLeft />
         </PaginationButton>
-        <div>{D.format(cursorDate, 'LLL yyyy')}</div>
-        <PaginationButton isReversed onClick={onAddMonthCursorDate}>
+        <div>{D.format(focusDate, 'LLL yyyy')}</div>
+        <PaginationButton isReversed onClick={onAddMonthFocusDate}>
           <IconArrowLeft />
         </PaginationButton>
       </HeaderLayout>
@@ -47,8 +57,7 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
       </WeekdaysWrapper>
       <DaysDisplay
         onChange={onChange}
-        cursorDate={cursorDate}
-        setCursorDate={setCursorDate}
+        focusDate={focusDate}
         selectedDate={selectedDate}
         setSelectedDate={setSelectedDate}
         weekStartsOn={weekStartsOn}
@@ -57,8 +66,8 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
   );
 };
 
+Calendar.displayName = 'Calendar';
 Calendar.defaultProps = {
-  defaultValue: null,
   weekStartsOn: 0,
   weekdayFormat: 'EEE',
   onChange: emptyFunction,

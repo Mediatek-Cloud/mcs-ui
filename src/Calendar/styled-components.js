@@ -7,7 +7,7 @@ export const CalendarWrapper = styled.div`
   width: 260px;
 `;
 
-export const HeaderLayout: React.ComponentType<{||}> = styled.div`
+export const HeaderLayout: React.ComponentType<{}> = styled.div`
   display: flex;
   justify-content: space-between;
   padding: 0 10px;
