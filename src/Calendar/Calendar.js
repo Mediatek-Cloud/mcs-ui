@@ -20,8 +20,8 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
   const {
     cursorDate,
     setCursorDate,
-    onSubCursorDate,
-    onAddCursorDate,
+    onSubMonthCursorDate,
+    onAddMonthCursorDate,
   } = useCursorDate({ date: R.defaultTo(today, defaultValue) });
   const [selectedDate, setSelectedDate] = React.useState(
     R.defaultTo(today, defaultValue),
@@ -30,11 +30,11 @@ const Calendar = ({ defaultValue, weekStartsOn, weekdayFormat, onChange }) => {
   return (
     <CalendarWrapper>
       <HeaderLayout>
-        <PaginationButton onClick={onSubCursorDate}>
+        <PaginationButton onClick={onSubMonthCursorDate}>
           <IconArrowLeft />
         </PaginationButton>
         <div>{D.format(cursorDate, 'LLL yyyy')}</div>
-        <PaginationButton isReversed onClick={onAddCursorDate}>
+        <PaginationButton isReversed onClick={onAddMonthCursorDate}>
           <IconArrowLeft />
         </PaginationButton>
       </HeaderLayout>
