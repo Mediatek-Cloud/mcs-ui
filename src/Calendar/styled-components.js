@@ -2,8 +2,17 @@
 // @flow
 import * as React from 'react';
 import styled from 'styled-components';
+import { type ThemeProps } from '../utils/type.flow';
 
-export const CalendarWrapper = styled.div`
+type DayItemProps = {
+  isSelected: boolean,
+  isOffRange: boolean,
+  isToday: boolean,
+};
+
+type DayItemInnerProps = DayItemProps & ThemeProps;
+
+export const CalendarWrapper: React.ComponentType<{}> = styled.div`
   width: 260px;
 `;
 
@@ -13,7 +22,7 @@ export const HeaderLayout: React.ComponentType<{}> = styled.div`
   padding: 0 10px;
 `;
 
-export const PaginationButton = styled.div`
+export const PaginationButton: React.ComponentType<{}> = styled.div`
   width: 30px;
   cursor: pointer;
   transform: ${({ isReversed }) => (isReversed ? 'scaleX(-1)' : 'none')};
@@ -22,7 +31,7 @@ export const PaginationButton = styled.div`
   }
 `;
 
-export const WeekdaysWrapper = styled.div`
+export const WeekdaysWrapper: React.ComponentType<{}> = styled.div`
   display: flex;
   & > div {
     width: calc(100% / 7);
@@ -31,25 +40,30 @@ export const WeekdaysWrapper = styled.div`
   }
 `;
 
-export const DaysLayout = styled.div`
+export const DaysLayout: React.ComponentType<{}> = styled.div`
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 `;
 
-export const DayItemContainer = styled.div`
+export const DayItemContainer: React.ComponentType<{}> = styled.div`
   flex-basis: calc(100% / 7);
 `;
 
-export const DayItem = styled.div`
-  height: ${({ theme }) => theme.height.normal};
-  width: ${({ theme }) => theme.height.normal};
-  line-height: ${({ theme }) => theme.height.normal};
+export const DayItem: React.ComponentType<DayItemProps> = styled.div`
+  height: ${({ theme }: DayItemInnerProps) => theme.height.normal};
+  width: ${({ theme }: DayItemInnerProps) => theme.height.normal};
+  line-height: ${({ theme }: DayItemInnerProps) => theme.height.normal};
   text-align: center;
   vertical-align: middle;
   margin: auto;
 
-  background-color: ${({ isSelected, isOffRange, isToday, theme }) =>
+  background-color: ${({
+    isSelected,
+    isOffRange,
+    isToday,
+    theme,
+  }: DayItemInnerProps) =>
     isOffRange
       ? 'inherit'
       : isSelected
@@ -57,18 +71,19 @@ export const DayItem = styled.div`
       : isToday
       ? theme.color.grayBase
       : 'inherit'};
-  color: ${({ isSelected, isOffRange, theme }) =>
+  color: ${({ isSelected, isOffRange, theme }: DayItemInnerProps) =>
     isSelected
       ? theme.color.white
       : isOffRange
       ? theme.color.grayBase
       : 'inherit'};
   &:hover {
-    background-color: ${({ isOffRange, theme }) =>
+    background-color: ${({ isOffRange, theme }: DayItemInnerProps) =>
       isOffRange ? 'inherit' : theme.color.primary};
-    color: ${({ isOffRange, theme }) =>
+    color: ${({ isOffRange, theme }: DayItemInnerProps) =>
       isOffRange ? theme.color.grayBase : theme.color.white};
   }
   border-radius: 50%;
-  cursor: ${({ isOffRange }) => (isOffRange ? 'inherit' : 'pointer')};
+  cursor: ${({ isOffRange }: DayItemInnerProps) =>
+    isOffRange ? 'inherit' : 'pointer'};
 `;

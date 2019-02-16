@@ -33,7 +33,7 @@ const Calendar = ({
   const { focusDate, onSubMonthFocusDate, onAddMonthFocusDate } = useFocusDate(
     R.defaultTo(today, defaultValue),
   );
-  const [selectedDate, setSelectedDate] = React.useState(
+  const [selectedDate, setSelectedDate] = React.useState<Date>(
     R.defaultTo(today, defaultValue),
   );
 
