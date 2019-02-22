@@ -1,4 +1,23 @@
-## Unreleased (2019-02-12)
+## Unreleased (2019-02-22)
+
+## <small>2.0.3 (2019-02-22)</small>
+
+- 2.0.3 ([539695e](https://github.com/Mediatek-Cloud/mcs-ui/commit/539695e))
+- fix(MarkdownTheme): remove border of table ([c30ee26](https://github.com/Mediatek-Cloud/mcs-ui/commit/c30ee26))
+- chore(deps): update dependency codecov to v3.2.0 (#167) ([d2270c4](https://github.com/Mediatek-Cloud/mcs-ui/commit/d2270c4)), closes [#167](https://github.com/Mediatek-Cloud/mcs-ui/issues/167)
+- chore(deps): update dependency conventional-changelog-cli to v2.0.12 (#172) ([b543144](https://github.com/Mediatek-Cloud/mcs-ui/commit/b543144)), closes [#172](https://github.com/Mediatek-Cloud/mcs-ui/issues/172)
+- chore(deps): update dependency enzyme to v3.9.0 (#177) ([1474f2a](https://github.com/Mediatek-Cloud/mcs-ui/commit/1474f2a)), closes [#177](https://github.com/Mediatek-Cloud/mcs-ui/issues/177)
+- chore(deps): update dependency eslint to v5.14.0 (#174) ([2139af4](https://github.com/Mediatek-Cloud/mcs-ui/commit/2139af4)), closes [#174](https://github.com/Mediatek-Cloud/mcs-ui/issues/174)
+- chore(deps): update dependency eslint to v5.14.1 (#178) ([2f9a129](https://github.com/Mediatek-Cloud/mcs-ui/commit/2f9a129)), closes [#178](https://github.com/Mediatek-Cloud/mcs-ui/issues/178)
+- chore(deps): update dependency flow-bin to v0.93.0 (#168) ([2199ba9](https://github.com/Mediatek-Cloud/mcs-ui/commit/2199ba9)), closes [#168](https://github.com/Mediatek-Cloud/mcs-ui/issues/168)
+- chore(deps): update dependency hsu-scripts to v1.0.6 (#180) ([45a71ca](https://github.com/Mediatek-Cloud/mcs-ui/commit/45a71ca)), closes [#180](https://github.com/Mediatek-Cloud/mcs-ui/issues/180)
+- chore(deps): update dependency hsu-scripts to v1.0.7 (#181) ([08e2628](https://github.com/Mediatek-Cloud/mcs-ui/commit/08e2628)), closes [#181](https://github.com/Mediatek-Cloud/mcs-ui/issues/181)
+- chore(deps): update dependency lint-staged to v8.1.4 (#170) ([cb5fb58](https://github.com/Mediatek-Cloud/mcs-ui/commit/cb5fb58)), closes [#170](https://github.com/Mediatek-Cloud/mcs-ui/issues/170)
+- chore(deps): update dependency polished to v3.0.0 (#176) ([12ba9ac](https://github.com/Mediatek-Cloud/mcs-ui/commit/12ba9ac)), closes [#176](https://github.com/Mediatek-Cloud/mcs-ui/issues/176)
+- chore(deps): update dependency polished to v3.0.0-beta.4 (#169) ([d831037](https://github.com/Mediatek-Cloud/mcs-ui/commit/d831037)), closes [#169](https://github.com/Mediatek-Cloud/mcs-ui/issues/169)
+- chore(deps): update react monorepo to v16.8.2 (#171) ([3f6b18d](https://github.com/Mediatek-Cloud/mcs-ui/commit/3f6b18d)), closes [#171](https://github.com/Mediatek-Cloud/mcs-ui/issues/171)
+- chore(deps): update react monorepo to v16.8.3 (#179) ([2daca37](https://github.com/Mediatek-Cloud/mcs-ui/commit/2daca37)), closes [#179](https://github.com/Mediatek-Cloud/mcs-ui/issues/179)
+- docs(CHANGELOG): release 2.0.2 ([9bbab33](https://github.com/Mediatek-Cloud/mcs-ui/commit/9bbab33))
 
 ## <small>2.0.2 (2019-02-12)</small>
 
