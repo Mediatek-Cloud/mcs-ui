@@ -245,7 +245,12 @@ exports[`Storyshots MarkdownTheme API 1`] = `
 .c0 table thead,
 .c0 table tbody th,
 .c0 table tbody td {
-  border: 1px solid #abcbdd;
+  border-left: 1px solid #abcbdd;
+  border-right: 1px solid #abcbdd;
+}
+
+.c0 table tbody tr:last-child {
+  border-bottom: 1px solid #abcbdd;
 }
 
 .c0 table tr:nth-child(odd) {
@@ -638,7 +643,11 @@ exports[`Storyshots MarkdownTheme API 1`] = `
     thead,
     tbody th,
     tbody td {
-      border: 1px solid #abcbdd;
+      border-left: 1px solid #abcbdd;
+      border-right: 1px solid #abcbdd;
+    }
+    tbody tr:last-child {
+      border-bottom: 1px solid #abcbdd;
     }
 
     tr:nth-child(odd) {

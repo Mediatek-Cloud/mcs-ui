@@ -212,7 +212,11 @@ const MarkdownTheme = styled.div`
     thead,
     tbody th,
     tbody td {
-      border: 1px solid #abcbdd;
+      border-left: 1px solid #abcbdd;
+      border-right: 1px solid #abcbdd;
+    }
+    tbody tr:last-child {
+      border-bottom: 1px solid #abcbdd;
     }
 
     tr:nth-child(odd) {
