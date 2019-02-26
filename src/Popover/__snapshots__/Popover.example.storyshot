@@ -1063,7 +1063,9 @@ exports[`Storyshots Popover in dialog 1`] = `
                           style="display: inline-block;"
                           tabindex="0"
                         >
-                          <div>
+                          <div
+                            style="background-color: skyblue;"
+                          >
                             Click me
                           </div>
                         </div>

@@ -47,7 +47,6 @@ exports[`Storyshots Heading API 1`] = `
         "toString": [Function],
         "warnTooManyClasses": [Function],
         "withComponent": [Function],
-        Symbol(Symbol.hasInstance): [Function],
       }
     }
     forwardedRef={null}
@@ -175,7 +174,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -239,7 +237,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -303,7 +300,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -367,7 +363,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -431,7 +426,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -495,7 +489,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -559,7 +552,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -623,7 +615,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -687,7 +678,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -751,7 +741,6 @@ exports[`Storyshots Heading With color props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -848,7 +837,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -916,7 +904,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -984,7 +971,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -1052,7 +1038,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -1120,7 +1105,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -1188,7 +1172,6 @@ exports[`Storyshots Heading With level props 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}

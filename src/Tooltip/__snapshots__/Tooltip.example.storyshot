@@ -1065,7 +1065,7 @@ exports[`Storyshots Tooltip in dialog 1`] = `
                           tabindex="0"
                         >
                           <div
-                            style="height: 50px; width: 200px;"
+                            style="border: 2px solid skyblue; height: 50px; width: 200px;"
                           >
                             Hover me
                           </div>

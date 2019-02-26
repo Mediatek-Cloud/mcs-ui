@@ -310,7 +310,6 @@ exports[`Storyshots InputMultiSelect API 1`] = `
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -3627,7 +3626,6 @@ exports[`Storyshots InputMultiSelect With kind props 1`] = `
             "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
-            Symbol(Symbol.hasInstance): [Function],
           }
         }
         forwardedRef={null}
@@ -6898,7 +6896,6 @@ exports[`Storyshots InputMultiSelect With state 1`] = `
             "toString": [Function],
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
-            Symbol(Symbol.hasInstance): [Function],
           }
         }
         forwardedRef={null}
