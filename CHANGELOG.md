@@ -1,4 +1,12 @@
-## Unreleased (2019-02-22)
+## Unreleased (2019-03-20)
+
+## 2.1.0 (2019-03-20)
+
+- 2.1.0 ([2815b91](https://github.com/Mediatek-Cloud/mcs-ui/commit/2815b91))
+- feat(Icons): add 4 new icon (IconChevronFirst, IconChevronLast, IconChevronLeft, IconMoreHoriz) ([c67c2ff](https://github.com/Mediatek-Cloud/mcs-ui/commit/c67c2ff))
+- chore(deps): update dependency enzyme-adapter-react-16 to v1.10.0 (#183) ([006f97d](https://github.com/Mediatek-Cloud/mcs-ui/commit/006f97d)), closes [#183](https://github.com/Mediatek-Cloud/mcs-ui/issues/183)
+- chore(deps): update dependency jest-specific-snapshot to v2 (#182) ([f21d1eb](https://github.com/Mediatek-Cloud/mcs-ui/commit/f21d1eb)), closes [#182](https://github.com/Mediatek-Cloud/mcs-ui/issues/182)
+- docs(CHANGELOG): release 2.0.3 ([20e6116](https://github.com/Mediatek-Cloud/mcs-ui/commit/20e6116))
 
 ## <small>2.0.3 (2019-02-22)</small>
 
