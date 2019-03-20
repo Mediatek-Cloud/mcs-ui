@@ -6,6 +6,9 @@ export { default as IconArrowLeft } from './svgr/IconArrowLeft';
 export { default as IconArrowNarrow } from './svgr/IconArrowNarrow';
 export { default as IconAvatar } from './svgr/IconAvatar';
 export { default as IconCalendar } from './svgr/IconCalendar';
+export { default as IconChevronFirst } from './svgr/IconChevronFirst';
+export { default as IconChevronLast } from './svgr/IconChevronLast';
+export { default as IconChevronLeft } from './svgr/IconChevronLeft';
 export { default as IconChevronRight } from './svgr/IconChevronRight';
 export { default as IconClose } from './svgr/IconClose';
 export {
@@ -33,6 +36,7 @@ export { default as IconLoading } from './svgr/IconLoading';
 export { default as IconLogout } from './svgr/IconLogout';
 export { default as IconMenu } from './svgr/IconMenu';
 export { default as IconMoreVert } from './svgr/IconMoreVert';
+export { default as IconMoreHoriz } from './svgr/IconMoreHoriz';
 export { default as IconNotification } from './svgr/IconNotification';
 export { default as IconOnPremise } from './svgr/IconOnPremise';
 export { default as IconOverview } from './svgr/IconOverview';
