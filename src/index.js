@@ -13,6 +13,7 @@ export { default as B } from './B';
 export { default as Breadcrumb } from './Breadcrumb';
 export { default as Button } from './Button';
 export { default as ButtonText } from './ButtonText';
+export { default as Calendar } from './Calendar';
 export { default as Card } from './Card';
 export { default as Checkbox } from './Checkbox';
 export { default as ConfirmDialog } from './ConfirmDialog';
