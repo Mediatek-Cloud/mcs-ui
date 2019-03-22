@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import * as R from 'ramda';
 import {
   IconChevronLeft,
   IconChevronRight,
@@ -24,6 +25,11 @@ const Pagination = ({ pages, value, onChange, ...otherProps }: Props) => {
   ]);
   const isFirstPage = React.useMemo(() => value === 1, [value]);
   const isLastPage = React.useMemo(() => value === pages, [pages, value]);
+  const isFirstPageIncluded = React.useMemo(() => R.head(range) === 1, [range]);
+  const isLastPageIncluded = React.useMemo(() => R.last(range) === pages, [
+    range,
+    pages,
+  ]);
 
   return (
     <Container {...otherProps}>
@@ -34,7 +40,7 @@ const Pagination = ({ pages, value, onChange, ...otherProps }: Props) => {
         <IconChevronLeft height={24} width={24} />
       </PageLink>
 
-      {!isFirstPage && (
+      {!isFirstPageIncluded && (
         <PageLink to={0} disabled onClick={onChange}>
           <IconMoreHoriz height={24} width={24} />
         </PageLink>
@@ -44,7 +50,7 @@ const Pagination = ({ pages, value, onChange, ...otherProps }: Props) => {
           {n}
         </PageLink>
       ))}
-      {!isLastPage && (
+      {!isLastPageIncluded && (
         <PageLink to={0} disabled onClick={onChange}>
           <IconMoreHoriz height={24} width={24} />
         </PageLink>
