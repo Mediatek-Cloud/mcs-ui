@@ -1,4 +1,10 @@
-## Unreleased (2019-03-20)
+## Unreleased (2019-03-22)
+
+## 2.2.0 (2019-03-22)
+
+- 2.2.0 ([ddd47e8](https://github.com/Mediatek-Cloud/mcs-ui/commit/ddd47e8))
+- feat(Pagination): add new Pagination component (#193) ([3170b17](https://github.com/Mediatek-Cloud/mcs-ui/commit/3170b17)), closes [#193](https://github.com/Mediatek-Cloud/mcs-ui/issues/193)
+- docs(CHANGELOG): release 2.1.0 ([b4e1f85](https://github.com/Mediatek-Cloud/mcs-ui/commit/b4e1f85))
 
 ## 2.1.0 (2019-03-20)
 
