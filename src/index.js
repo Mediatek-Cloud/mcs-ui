@@ -44,6 +44,7 @@ export { default as Menu } from './Menu';
 export { default as MenuItem } from './MenuItem';
 export { default as Orderbox } from './Orderbox';
 export { default as P } from './P';
+export { default as Pagination } from './Pagination';
 export { default as Panel } from './Panel';
 export { default as PanelIcon } from './PanelIcon';
 export { default as Popover } from './Popover';
