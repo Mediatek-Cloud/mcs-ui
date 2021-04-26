@@ -66,7 +66,7 @@
     "lint-staged": "8.1.4",
     "polished": "3.0.0",
     "prettier": "1.16.4",
-    "prismjs": "1.15.0",
+    "prismjs": "1.23.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "styled-components": "4.1.3"
